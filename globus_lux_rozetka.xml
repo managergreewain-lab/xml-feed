@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-07-09 09:46">
+<yml_catalog date="2026-07-09 11:46">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -2392,14 +2392,14 @@
       <param name="Вага брутто (кг.)">0.100000</param>
       <param name="Об&apos;єм (м³)">0.000158</param>
     </offer>
-    <offer id="10059" available="false">
+    <offer id="10059" available="true">
       <vendorCode>000010059</vendorCode>
       <categoryId>11</categoryId>
       <price>1820</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux QUEENSLAND GLQU-0107</name>
-      <stock_quantity>0</stock_quantity>
+      <stock_quantity>10</stock_quantity>
       <description><![CDATA[Змішувач QUEENSLAND GLQU-0107 Globus Lux для кухні з витяжним носом<br><br>Переваги змішувачів Globus Lux:<br>1 Довговічність і безвідмовність в експлуатації<br>2 Елегантність форм, міцність і надійність<br>3 Висока функціональність<br>4 Використання якісних екологічно чистих матеріалів<br>5 Інноваційні технології виробництва<br>6 Корпус виготовлений з латуні з вмістом міді не менше 70%<br>7. Картридж «Sedal»<br><br>Комплектація:<br>Змішувач латунний<br>Лійка<br>витяжний  шланг<br>Шланг М10 * 1 / 2″-2шт<br>Кріплення для змішувача ″шпильки″]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/10059/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/10059/2.jpeg</picture>
@@ -7897,14 +7897,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.005000</param>
     </offer>
-    <offer id="17530" available="false">
+    <offer id="17530" available="true">
       <vendorCode>000017530</vendorCode>
       <categoryId>11</categoryId>
       <price>1340</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux ALPEN SBT1-104</name>
-      <stock_quantity>0</stock_quantity>
+      <stock_quantity>8</stock_quantity>
       <description><![CDATA[Змішувач для кухні Globus Lux SBT1-104, SUS304, зі стіни<br><br>Переваги моделей змішувачів Globus Lux з нержавійки:<br>1. Корпус моделей виготовлений з харчової нержавіючої сталі SUS304<br>2. Довговічність і безвідмовність в експлуатації<br>3. Елегантність форм, міцність і надійність<br>4. Висока функціональність<br>5. Використання якісних екологічно чистих матеріалів<br>6. Інноваційні технології виробництва<br><br>Комплектація:<br>Змішувач з нержавійки<br>Ексцентрики<br>Декоративні чаші<br>Монтаж зі стіни]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/17530/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/17530/2.jpeg</picture>
@@ -17029,7 +17029,7 @@
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Тримач туалетного паперу TOPAZ TКВ 9926</name>
-      <stock_quantity>5</stock_quantity>
+      <stock_quantity>4</stock_quantity>
       <description><![CDATA[Тримач туалетного паперу TOPAZ TКВ 9926<br>Місткість тримача (рулон) - 1 шт<br>Кріплення - Шурупи<br>Тип установки - Настінний (підвісний)<br>Матеріал виробу - Латунь<br>Колір виробу - Хром<br>Комплектація:<br>- Закритий держатель<br>- Монтажні елементи<br>Габарити упаковки ВхГхШ: 17.5 х13 х 8.5 см<br>Вага нетто: 400г<br>Вага брутто: 470г<br>Габарити (ШхВхГ): 142 х 140 х 61 мм<br>Гарантія - 12 місяців офіційної гарантії від виробника]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/21233/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/21233/2.jpeg</picture>
