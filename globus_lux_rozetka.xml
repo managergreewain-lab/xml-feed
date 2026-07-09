@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-07-09 06:46">
+<yml_catalog date="2026-07-09 09:46">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -2392,14 +2392,14 @@
       <param name="Вага брутто (кг.)">0.100000</param>
       <param name="Об&apos;єм (м³)">0.000158</param>
     </offer>
-    <offer id="10059" available="true">
+    <offer id="10059" available="false">
       <vendorCode>000010059</vendorCode>
       <categoryId>11</categoryId>
       <price>1820</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux QUEENSLAND GLQU-0107</name>
-      <stock_quantity>50</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Змішувач QUEENSLAND GLQU-0107 Globus Lux для кухні з витяжним носом<br><br>Переваги змішувачів Globus Lux:<br>1 Довговічність і безвідмовність в експлуатації<br>2 Елегантність форм, міцність і надійність<br>3 Висока функціональність<br>4 Використання якісних екологічно чистих матеріалів<br>5 Інноваційні технології виробництва<br>6 Корпус виготовлений з латуні з вмістом міді не менше 70%<br>7. Картридж «Sedal»<br><br>Комплектація:<br>Змішувач латунний<br>Лійка<br>витяжний  шланг<br>Шланг М10 * 1 / 2″-2шт<br>Кріплення для змішувача ″шпильки″]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/10059/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/10059/2.jpeg</picture>
@@ -4476,7 +4476,7 @@
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Змішувач для умивальника TOPAZ SARDINIA TS 08221-H20</name>
-      <stock_quantity>5</stock_quantity>
+      <stock_quantity>4</stock_quantity>
       <description><![CDATA[Змішувач для умивальника TOPAZ SARDINIA-TS 08221-H20<br><br>Серія змішувачів TOPAZ дивує своєю вишуканістю форм, надійністю в експлуатації, витонченим дизайном.<br>У комплектацію входить:<br>Змішувач з латуні<br>Шланги для підключення води - 2 шт.-(TuCai) TAQ-M1055 M10×1-F1/2-55CM<br>Картридж TC-35-Картридж керамічний короткий D35-TOPAZ<br>Колір:хром<br>Кріплення для змішувача - гайка<br><br>Якісна продукція TOPAZ прослужить Вам довгі роки]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/14744/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/14744/2.jpeg</picture>
@@ -5821,14 +5821,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.009000</param>
     </offer>
-    <offer id="14985" available="true">
+    <offer id="14985" available="false">
       <vendorCode>000014985</vendorCode>
       <categoryId>44</categoryId>
       <price>4100</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Душова колона Globus Lux MILANO GL-BAR-0707</name>
-      <stock_quantity>50</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Душова колона GL-BAR-0707 GLOBUS LUX<br>Переваги душових систем Globus Lux:<br>латунний кульовий перемикач<br>наявність верхнього душа короткого типу,<br>ефект водоспаду<br>телескопічна душова штанга (регульована по висоті)<br>всі душі оснащені системою проти вапняних відкладень,<br>душовий шланг з посиленою обмоткою<br>Комплектація душової системи:<br>верхній душ,<br>тримач для душа,<br>душова штанга,<br>кронштейн,<br>перемикаючий вентиль,<br>ручна лійка<br>шланг душовий - 2 шт<br><br><br>Вага брутто: 4,08 кг<br>Вага нетто: 2,88 кг<br>Розмір упаковки ВхШхГ: 13х79х40 см]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/14985/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/14985/2.jpeg</picture>
@@ -5967,14 +5967,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.005000</param>
     </offer>
-    <offer id="15045" available="true">
+    <offer id="15045" available="false">
       <vendorCode>000015045</vendorCode>
       <categoryId>11</categoryId>
       <price>663</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для умивальника Globus Lux ALPEN SBT1-101</name>
-      <stock_quantity>10</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Змішувач для раковини Globus Lux SBT1-101 ALPEN SUS304<br><br>Переваги моделей змішувачів Globus Lux з нержавійки:<br>1. Корпус моделей виготовлений з якісної нержавіючої сталі<br>2. Довговічність і безвідмовність в експлуатації<br>3. Елегантність форм, міцність і надійність<br>4. Висока функціональність<br>5. Використання якісних екологічно чистих матеріалів<br>6. Інноваційні технології виробництва<br>Комплектація:<br>Змішувач з нержавійки<br>Шланги для змішувача Globus Lux  М10х1/2″ 0,5м. АНТИКОРОЗІЯ (  ПАРА)<br>Кріплення для змішувача - гайка з нержавійки]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/15045/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/15045/2.jpeg</picture>
@@ -7897,14 +7897,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.005000</param>
     </offer>
-    <offer id="17530" available="true">
+    <offer id="17530" available="false">
       <vendorCode>000017530</vendorCode>
       <categoryId>11</categoryId>
       <price>1340</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux ALPEN SBT1-104</name>
-      <stock_quantity>7</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Змішувач для кухні Globus Lux SBT1-104, SUS304, зі стіни<br><br>Переваги моделей змішувачів Globus Lux з нержавійки:<br>1. Корпус моделей виготовлений з харчової нержавіючої сталі SUS304<br>2. Довговічність і безвідмовність в експлуатації<br>3. Елегантність форм, міцність і надійність<br>4. Висока функціональність<br>5. Використання якісних екологічно чистих матеріалів<br>6. Інноваційні технології виробництва<br><br>Комплектація:<br>Змішувач з нержавійки<br>Ексцентрики<br>Декоративні чаші<br>Монтаж зі стіни]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/17530/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/17530/2.jpeg</picture>
@@ -8116,7 +8116,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для ванни Globus Lux WIEN SBT2-102N</name>
-      <stock_quantity>4</stock_quantity>
+      <stock_quantity>3</stock_quantity>
       <description><![CDATA[Змішувач для ванни Globus Lux WIEN SBT2-102N SUS304<br>Вид монтажу: настінний<br>Вид змішувача: Одноважільний<br>Габарити (ВхГ): 13 х 18 см<br>Тип виливу: поворотний<br>Довжина виливу: 17.5 см<br>Матеріал: Нержавіюча сталь<br>Колір виробу: Нержавіюча сталь<br>Комплектація:<br>- тримач для душа,<br>- кругла ручна лійка ø10 см,<br>- шланг душовий<br>- ексцентрики для змішувачів настінного монтажу<br>- декоративні чаші<br>Вага: 1.9 кг<br>Країна-виробник товару: Китай<br>Гарантія: 12 місяців офіційної гарантії від виробника.]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/17539/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/17539/2.jpeg</picture>
@@ -8328,14 +8328,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.047000</param>
     </offer>
-    <offer id="17549" available="true">
+    <offer id="17549" available="false">
       <vendorCode>000017549</vendorCode>
       <categoryId>44</categoryId>
       <price>3585</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Душова система Globus Lux WIEN SBT2-SH-02</name>
-      <stock_quantity>7</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Душова система WIEN SBT2-SH-02 GLOBUS LUX SUS304 з гусаком<br>Переваги душових систем Globus Lux:<br>Матеріал: харчова нержавіюча сталь SUS 304<br>наявність верхнього душа короткого типу,<br>«Ефект водоспаду»,<br>телескопічна душова штанга (регульована по висоті)<br>всі душі оснащені системою проти вапняних відкладень,<br>душовий шланг з посиленою обмоткою<br>Комплектація душової системи:<br>змішувач з нержавіючої сталі,<br>верхній душ<br>тримач для душа,<br>душова штанга,<br>кронштейн,<br>перемикаючий вентиль,<br>ручна лійка,<br>шланг душовий]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/17549/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/17549/2.jpeg</picture>
@@ -10334,14 +10334,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.003000</param>
     </offer>
-    <offer id="18564" available="true">
+    <offer id="18564" available="false">
       <vendorCode>000018564</vendorCode>
       <categoryId>59</categoryId>
       <price>755</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Душова лійка Globus Lux ST-0250-R</name>
-      <stock_quantity>100</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Душова лійка Globus Lux ST-0250-R SUS304<br>Верхня лійка ″тропік″ призначена для душових систем.<br>Діаметр: 250 мм<br>Колір: нержавіюча сталь<br>Матеріал: Харчова сталь SUS304.]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/18564/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/18564/2.jpeg</picture>
@@ -11480,14 +11480,14 @@
       <param name="Вага брутто (кг.)">1.938000</param>
       <param name="Об&apos;єм (м³)">0.008700</param>
     </offer>
-    <offer id="19230" available="true">
+    <offer id="19230" available="false">
       <vendorCode>000019230</vendorCode>
       <categoryId>11</categoryId>
       <price>1875</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні під осмос Globus Lux LAZER GLLR-0333-2-ARENA</name>
-      <stock_quantity>7</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Змішувач GLLR-0333-2-ARENA Globus Lux комбінований під ОСМОС на гайці, світло-сірий<br><br>Переваги комбінованих під систему зворотного осмосу моделей змішувачів Globus Lux:<br>1 Довговічність і безвідмовність в експлуатації<br>2. Вилив обертається на 360 градусів і зручний для кухонних мийок з декількома чашами<br>3. Елегантність форм, міцність і надійність<br>4. Висока функціональність<br>5. Використання якісних екологічно чистих матеріалів<br>6. Інноваційні технології виробництва<br>7. Корпус виготовлений з латуні з вмістом міді не менше 70%<br><br>Комплектація:<br>-Змішувач латунний<br>-Шланг М10 * 1 / 2″-3шт<br>-Quick fitting 1/4 ″-1/2″ (зовнішня різьба)<br>-Кріплення для змішувача - гайка<br><br>Змішувач має 3 контури для підключення води:<br>- 1 і 2 використовується для підключення холодної та гарячої води. Змішування води відбувається за допомогою стандартного картриджа з маленькою рукояткой;<br>- 3 контур використовується для підключення очищеної води. Відкриття чистої води здійснюється за допомогою іншого картриджа з великою рукояткой.]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/19230/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/19230/2.jpeg</picture>
@@ -11692,14 +11692,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.009000</param>
     </offer>
-    <offer id="19243" available="true">
+    <offer id="19243" available="false">
       <vendorCode>000019243</vendorCode>
       <categoryId>11</categoryId>
       <price>2000</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні під осмос Globus Lux LAZER GLLR-0777-3-TITANIUM</name>
-      <stock_quantity>7</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Змішувач Globus Lux LAZER GLLR-0777-3-TITANIUM комбінований під ОСМОС на гайці, темно-сірий<br><br>Переваги комбінованих під систему зворотного осмосу моделей змішувачів Globus Lux:<br>1. Довговічність і безвідмовність в експлуатації<br>2. Вилив обертається на 360 градусів і зручний для кухонних мийок з декількома чашами<br>3. Елегантність форм, міцність і надійність<br>4. Висока функціональність<br>5. Використання якісних екологічно чистих матеріалів<br>6. Інноваційні технології виробництва<br>7. Корпус виготовлений з латуні з вмістом міді не менше 70%<br><br>Комплектація:<br>-змішувач латуний<br>-Шланги М10 * 1/2″-3шт<br>-Quick fitting 1/4 ″-1/2″ (зовнішня різьба)<br>-Кріплення для змішувача - гайка<br><br>Змішувач має 3 контури для підключення води:<br>- 1 і 2 використовується для підключення холодної та гарячої води. Змішування води відбувається за допомогою стандартного картриджа з маленькою рукояткою<br>- 3 контур використовується для підключення очищеної води. Відкриття чистої води здійснюється за допомогою іншого картриджа з великою рукояткою]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/19243/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/19243/2.jpeg</picture>
@@ -11932,14 +11932,14 @@
       <param name="Вага брутто (кг.)">2.280000</param>
       <param name="Об&apos;єм (м³)">0.008710</param>
     </offer>
-    <offer id="19258" available="true">
+    <offer id="19258" available="false">
       <vendorCode>000019258</vendorCode>
       <categoryId>11</categoryId>
       <price>1635</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні під осмос Globus Lux LAZER GLLR-0222</name>
-      <stock_quantity>6</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Кухонний змішувач Globus Lux LAZER GLLR-0222 CHROM комбінований під ОСМОС на гайці<br><br>Переваги комбінованих під систему зворотного осмосу моделей змішувачів Globus Lux:<br>1. Довговічність і безвідмовність в експлуатації<br>2. Вилив обертається на 360 градусів і зручний для кухонних мийок з декількома чашами<br>3. Елегантність форм, міцність і надійність<br>4. Висока функціональність<br>5. Використання якісних екологічно чистих матеріалів<br>6. Інноваційні технології виробництва<br>7. Корпус виготовлений з латуні з вмістом міді не менше 70%<br><br>Комплектація:<br>-змішувач латуний<br>-Шланги М10 * 1 / 2″-3шт<br>-Quick fitting 1/4 ″-1/2″ (зовнішня різьба)<br>-Кріплення для змішувача - гайка<br><br>Змішувач має 3 контури для підключення води:<br>- 1 і 2 використовується для підключення холодної та гарячої води. Змішування води відбувається за допомогою стандартного картриджа з маленьким руків&apos;ям;<br>- 3 контур використовується для підключення очищеної води. Відкриття чистої води здійснюється за допомогою іншого картриджа з великим руків&apos;ям.]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/19258/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/19258/2.jpeg</picture>
@@ -12996,7 +12996,7 @@
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Змішувач для ванни TOPAZ LEXI TL21208-H57-0</name>
-      <stock_quantity>4</stock_quantity>
+      <stock_quantity>5</stock_quantity>
       <description><![CDATA[Змішувач для ванни TOPAZ LEXI TL21208-H57-0<br>Комплектація:<br>Змішувач латунний<br>Вилив 350мм<br>Лійка для душу<br>Шланг для душа<br>Кріплення для лійки<br>Ексцентрики<br>Декоративні чашки<br>TC-35-Картридж керамічний короткий D35-TOPAZ<br>-Картридж перемикач-FX-18(MD)<br>Колір: хром<br>EURO перемикач<br><br>Для виготовлення продукції ТМ TOPAZ використовуються матеріали відповідні суворим міжнародним гігієнічним стандартам та екологічним нормам.<br>Всі етапи створення продукції ретельно контролюються, що дозволяє компанії гарантувати бездоганну якість кожного виробу, яку оцінили тисячі споживачів в світі в цілому, і в Україні зокрема.<br><br>Також ТМ TOPAZ схвалена вітчизняними професіоналами.<br><br>З кожним роком компанія удосконалює свої технології, розробляючи все нові моделі, виходячи на новий рівень якості виробництва.<br>Доступні ціни ТМ TOPAZ дозволяють придбати зручну, красиву і якісну продукцію.<br><br>Гарантія на всі змішувачі марки TOPAZ становить 5 років<br><br>Виробництво сертифіковане по системі якості ISO 9001: 2000<br><br>Габарити упаковки ВхГхШ: 41 х 21 х 11 см<br>Вага нетто: 1870г<br>Вага брутто: 2140г]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/19550/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/19550/2.jpeg</picture>
@@ -14402,7 +14402,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Шланг душовий Globus Lux NH-039-150 Double-Lock</name>
-      <stock_quantity>10</stock_quantity>
+      <stock_quantity>1</stock_quantity>
       <description><![CDATA[Шланг душовою Globus Lux NH-039--150 Double-Lock<br>Довжина - 150 см<br>Підключення - 1/2 ″x 1/2″<br>Матеріал - Метал / EPDM<br>Колір - хром<br>Виробник - Китай]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/20404/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/20404/2.jpeg</picture>
@@ -14948,14 +14948,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.008000</param>
     </offer>
-    <offer id="20804" available="true">
+    <offer id="20804" available="false">
       <vendorCode>000020804</vendorCode>
       <categoryId>11</categoryId>
       <price>1685</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Змішувач для кухні TOPAZ BARTS TB 07403-H36-W</name>
-      <stock_quantity>10</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Змішувач для кухні TOPAZ BARTS TB 07403-H36-W, білий<br><br>Серія змішувачів TOPAZ дивує своєю вишуканістю форм, надійністю в експлуатації, витонченим дизайном.<br>У комплектацію входить:<br>Змішувач з латуні<br>Шланги для підключення води<br>Високий поворотний гусак<br>Картридж-TC-35-Картридж керамічний короткий D35-TOPAZ<br>Якісна продукція TOPAZ прослужить Вам довгі роки<br><br>Габарити упаковки ВхГхШ: 45 х 25 х 6 см<br>Вага нетто: 1185 г<br>Вага брутто: 1355 г<br>Габарити (ШхВхГ): 50 х 340 х 240 мм]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/20804/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/20804/2.jpeg</picture>
@@ -17537,14 +17537,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.018000</param>
     </offer>
-    <offer id="21279" available="true">
+    <offer id="21279" available="false">
       <vendorCode>000021279</vendorCode>
       <categoryId>44</categoryId>
       <price>2435</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Душова система Globus Lux ALPEN SUS-SH-05</name>
-      <stock_quantity>4</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Душова система GLOBUS LUX ALPEN SUS-SH-05<br><br>Переваги:<br>- харчова нержавіюча сталь SUS 304<br>- наявність верхнього душа короткого типу «ефект водоспаду»,<br>- телескопічна душова штанга (регульована по висоті)<br>- все душі оснащені системою проти вапняних відкладень,<br>- душовою шланг з посиленою обмоткою<br><br>Комплектація душової системи:<br>- змішувач з нержавіючої сталі,<br>- верхній душ<br>- тримач для душа,<br>- душова штанга,<br>- кронштейн,<br>- перемикаючий вентиль,<br>- ручна лійка,<br>- шланг душовий<br><br>Габарити упаковки ВхГхШ: 83 х 40 х 13 см<br>Вага нетто: 2960 г<br>Вага брутто: 3720 г<br>Габарити (ШхВхГ): 210 х 1227 х 477 мм<br>Гарантія - 12 місяців офіційної гарантії від виробника]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/21279/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/21279/2.jpeg</picture>
@@ -18044,14 +18044,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.007000</param>
     </offer>
-    <offer id="21393" available="true">
+    <offer id="21393" available="false">
       <vendorCode>000021393</vendorCode>
       <categoryId>30</categoryId>
       <price>1575</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Полка подвійна кутова Globus Lux BQ9422</name>
-      <stock_quantity>10</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Поличка подвійна кутова Globus Lux BQ9422<br>Країна виробник товару - Китай<br>Тип товару - Аксесуари для ванної кімнати<br>Комплектація:<br>- Монтажні елементи<br>- Полиця<br>Тип установки - Настінний (підвісний)<br>Кріплення - Шурупи<br>Матеріал виробу - нержавіюча сталь (SUS 304)<br>Колір виробу - чорний<br>Габарити упаковки (ВхШхГ): 36 х 23 х 7.5 см<br>Габарити (ШхВ): 26.5 х 42.5 см<br>Вага в упаковці - 1.235 кг<br>Вага - 1.1 кг<br>Гарантія - 12 місяців офіційної гарантії від виробника]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/21393/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/21393/2.jpeg</picture>
@@ -19397,14 +19397,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.002000</param>
     </offer>
-    <offer id="21979" available="true">
+    <offer id="21979" available="false">
       <vendorCode>000021979</vendorCode>
       <categoryId>62</categoryId>
       <price>242</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Шланг душовий Globus Lux FH-803-BB-175</name>
-      <stock_quantity>10</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Шланг душовий GLOBUS Lux FH803-BB-175<br>Довжина - 175 см<br>Підключення - 1/2 ″x 1/2″<br>Витримує 50кг навантаження<br>Матеріал - Метал / EPDM<br>Колір чорний<br>Вага - 0.40 кг<br>Виробник - Китай]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/21979/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/21979/2.jpeg</picture>
@@ -20351,14 +20351,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.002000</param>
     </offer>
-    <offer id="22208" available="true">
+    <offer id="22208" available="false">
       <vendorCode>000022208</vendorCode>
       <categoryId>30</categoryId>
       <price>608</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Дозатор рідкого мила Globus Lux BQ9433 чорний матовий SUS304</name>
-      <stock_quantity>2</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Дозатор рідкого мила Globus Lux BQ9433 чорний матовий<br>Країна виробник товару – Китай.<br>Тип товару - Аксесуари для ванної кімнати<br>Кріплення - Шурупи<br>Тип установки - Настінний (підвісний)<br>Матеріал виробу:<br>- Місткість для мила: матове скло<br>- Фурнітура: нержавіюча сталь (SUS 304)<br>Колір виробу - Матове скло/чорний матовий<br><br>Габарити упаковки (ВхШхГ): 20 х 15 х 8.5 см<br>Габарити (ШхВ): 22 х 9.5 см<br>Вага в упаковці - 0.59 кг<br>Вага – 0.51 кг<br>Гарантія – 12 місяців офіційної гарантії від виробника.]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/22208/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/22208/2.jpeg</picture>
@@ -21622,14 +21622,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.001000</param>
     </offer>
-    <offer id="22605" available="true">
+    <offer id="22605" available="false">
       <vendorCode>000022605</vendorCode>
       <categoryId>11</categoryId>
       <price>2045</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні під осмос Globus Lux ALPEN SUS-0888-BB</name>
-      <stock_quantity>7</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Кухонний змішувач Globus Lux SUS-0888-BB SUS304 комбінований під ОСМОС<br>Вид монтажу: Врізний<br>Вид змішувача: Одноважільний<br>Габарити (ВхГ): 35.5 х 28.5 см<br>Тип виливу: Поворотний<br>Висота виливу: 32 см<br>Довжина виливу: 24.5 см<br>Підключення до фільтру і водопроводу<br>Матеріал: Нержавіюча сталь<br>Колір виробу: Чорний<br>Додаткові характеристики:<br>- Монтаж на один отвір<br>- Система швидкого монтажу<br>- Гнучка проводка<br>Вага в упаковці: 2.4 кг<br>Вага: 2.175 кг<br>Країна-виробник товару: Китай<br>Гарантія: 12 місяців офіційної гарантії від виробника.<br><br>Комплектація:<br>Змішувач з нержавійки<br>Шланг М10 * 1 / 2″-3шт<br>Quick fitting 1/4 ″-1/2″ (зовнішня різьба)<br>Кріплення для змішувача - гайка з нержавійки<br><br>Змішувач має 3 контури для підключення води:<br>- 1 і 2 використовується для підключення холодної та гарячої води. Змішування води відбувається за допомогою стандартного картриджа з маленьким ричагом;<br>- 3 контур використовується для підключення очищеної води. Відкриття чистої води здійснюється за допомогою іншого картриджа з великим ричагом .<br>Водопровідна та фільтрована вода мають окремі канали (трубка в трубці) і вихідні отвори в лійці змішувача, що повністю виключає можливість змішування очищеної та брудної води.]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/22605/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/22605/2.jpeg</picture>
@@ -22324,14 +22324,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.003000</param>
     </offer>
-    <offer id="22970" available="true">
+    <offer id="22970" available="false">
       <vendorCode>000022970</vendorCode>
       <categoryId>44</categoryId>
       <price>2440</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Душова система Globus Lux DUKAT SD4-SH-05</name>
-      <stock_quantity>10</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Душова система Globus Lux DUKAT SD4-SH-05 SUS304<br>Призначення: Душова система<br>Вид монтажу змішувача: Настінний, на 2 виходи<br>Вид змішувача: Одноважільний<br>Матеріал: харчова нержавіюча сталь SUS 304<br>Колір виробу: нержавіюча сталь<br>Комплектація:<br>- змішувач<br>- верхній душ - кругла лійка ø20 см, стійка (80-110 см)<br>Вага в упаковці: 2.9 кг<br>Вага: 1.75 кг<br>Країна-виробник товару: Китай<br>Гарантія: 12 місяців офіційної гарантії від виробника.<br><br>Переваги моделей змішувачів Globus Lux з нержавющей стали:<br>1. Корпуси моделей виготовлені з якісної нержавіючої сталі<br>2. Довговічність і безвідмовність в експлуатації<br>3. Елегантність форм, міцність і надійність<br>4. Висока функціональність<br>5. Використання якісних екологічно чистих матеріалів]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/22970/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/22970/2.jpeg</picture>
@@ -23220,14 +23220,14 @@
       <param name="Вага брутто (кг.)">1.292000</param>
       <param name="Об&apos;єм (м³)">0.003900</param>
     </offer>
-    <offer id="23325" available="true">
+    <offer id="23325" available="false">
       <vendorCode>000023325</vendorCode>
       <categoryId>44</categoryId>
       <price>6275</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Душова система Globus Lux SMART GLM-305L</name>
-      <stock_quantity>10</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Душова система Globus Lux GLM-305L SMART box КУБ вбудована, хром<br>Призначення: Душова система<br>Вид монтажу змішувача: вбудований, 3 виходи води<br>Матеріал: латунь<br>Колір виробу: хром<br>Комплектація:<br>- змішувач вбудований<br>- верхній душ - квадратна лійка 25 см<br>- ручна лійка, тримач для душа, шланг душовий<br>-излив<br>Габарити упаковки (ВхШхГ): 37х50х15 см<br>Вага в упаковці: 3,91 кг<br>Вага: 3,11 кг<br>Країна-виробник товару: Китай<br>Гарантія: 12 місяців офіційної гарантії від виробника.]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/23325/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/23325/10.jpeg</picture>
@@ -24410,14 +24410,14 @@
       <param name="Вага брутто (кг.)">1.050000</param>
       <param name="Об&apos;єм (м³)">0.005450</param>
     </offer>
-    <offer id="24974" available="true">
+    <offer id="24974" available="false">
       <vendorCode>000024974</vendorCode>
       <categoryId>11</categoryId>
       <price>950</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для умивальника Globus Lux DUKAT-8 SD8-101S</name>
-      <stock_quantity>10</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Змішувач для умивальника Globus Lux DUKAT SD8-101S SUS304 (ялинка)<br>Характеристики:<br>Призначення - Для умивальника<br>Вид монтажу - Врізний<br>Вид змішувача - Одноважільний<br>Тип виливу - Стаціонарний<br>Комплектація:<br>- змішувач з харчової нержавіючої сталі<br>- шланги М10 * 1/2 ″- 2шт<br>- кріплення для змішувача - гайка з нержавійки<br>Додаткові характеристики:<br>- Керамічний картридж<br>- Металевий важіль<br>- Швидкий монтаж<br>Спосіб монтажу - на 1 отвір<br>Матеріал - нержавіюча сталь<br>Колір - Нержавіюча сталь<br>Діаметр підключення шлангів 1/2 ″<br>Країна виробник товару - Китай<br>Гарантія - 12 місяців офіційної гарантії від виробника.<br><br>Розмір упаковки ШхГхВ:32х19х6 см<br>Вага нетто: 0,85 кг<br>Вага брутто: 1,205 кг]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/24974/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/24974/2.jpeg</picture>
@@ -24457,14 +24457,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.001000</param>
     </offer>
-    <offer id="25133" available="true">
+    <offer id="25133" available="false">
       <vendorCode>000025133</vendorCode>
       <categoryId>30</categoryId>
       <price>219</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Дозатор рідкого мила SS8445</name>
-      <stock_quantity>100</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Дозатор рідкого мила SS8444<br>Країна виробник товару - Китай<br>Кріплення - Різьба<br>Тип установки - врізний<br>Матеріал виробу:<br>нержавіюча сталь (SUS 304)<br>Колір виробу: нержавіюча сталь]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/25133/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/25133/2.jpeg</picture>
@@ -26142,14 +26142,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.012000</param>
     </offer>
-    <offer id="27411" available="true">
+    <offer id="27411" available="false">
       <vendorCode>000027411</vendorCode>
       <categoryId>11</categoryId>
       <price>1605</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Змішувач для умивальника TOPAZ CAPRI TCA-15207-H44-BL картридж D25, H=140, шланги 45см</name>
-      <stock_quantity>9</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Змішувач для умивальника TOPAZ CAPRI TCA-15207-H44-BL картридж D25,  шланги 45см<br><br>Серія змішувачів TOPAZ дивує своєю вишуканістю форм, надійністю в експлуатації, витонченим дизайном.<br>У комплектацію входить:<br>Змішувач з латуні<br>Шланги для підключення води 45 см<br>Картридж M FX-25A(WH)-Картридж керамічний для змішувача ум-к  короткий D25-TOPAZ<br><br>Колір: чорний<br>Висота - 140 мм<br><br>Якісна продукція TOPAZ прослужить Вам довгі роки]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/27411/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/27411/2.jpeg</picture>
@@ -27535,7 +27535,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для умивальника Globus Lux BONN GLB-0203MQ</name>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>2</stock_quantity>
       <description><![CDATA[Змішувач для умивальника Globus Lux BONN GLB-0203MQ<br><br>Переваги змішувачів Globus Lux:<br>1 Довговічність і безвідмовність в експлуатації<br>2 Елегантність форм, міцність і надійність<br>3 Висока функціональність<br>4 Використання якісних екологічно чистих матеріалів<br>5 Інноваційні технології виробництва<br>6 Корпус виготовлений з латуні з вмістом міді не менше 70%<br><br>Комплектація:<br>Змішувач латунний<br>Шланг М10 * 1 / 2″-2шт<br>Кріплення для змішувача - гайка]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/28494/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/28494/2.jpeg</picture>
@@ -27991,7 +27991,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач гігієнічний Globus Lux Milano GLM-0-106MIX-CR</name>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>2</stock_quantity>
       <description><![CDATA[Змішувач гігієнічний Globus Lux Milano GLM-0-106MIX-CR- вбудований Моноблок ,Хром<br>Країна-виробник товару: Китай<br>Вид монтажу: Настінний<br>Вид змішувача: Одноважільний<br>Тип виливу: без виливу<br>Довжина шлангу: 100 см<br>Кількість типів виливу: 1<br>Матеріал: Латунь<br>Колір виробу:  хром.<br><br>Гарантія: 24 місяці офіційної гарантії від виробника.]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/28561/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/28561/2.jpeg</picture>
@@ -28112,7 +28112,7 @@
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Душова система TOPAZ ODISS TO 18202-H66</name>
-      <stock_quantity>4</stock_quantity>
+      <stock_quantity>3</stock_quantity>
       <description><![CDATA[Душова система TOPAZ ODISS TO 18202-H66 з виливом, комплект Н-155см, Хром<br>Серія душових систем TOPAZ дивує своєю вишуканістю форм, надійністю в експлуатації, витонченим дизайном.<br>Призначення: Душова система<br>Вид монтажу душової системи: Настінний, на 2 виходу води<br>Вид змішувача: Одноважільний<br>Тип виливу: є<br>Матеріал: латунь<br>Колір виробу: хром<br>Комплектація:<br>душова штанга 155 см<br>Верхня лійка<br>Ручна лійка<br>Шланг для ручної лійки<br>Змішувач латунний<br>Кріплення до стіни<br>ексцентрики<br>декоративні чаші<br>Картридж-TC-35-Картридж керамічний короткий D35-TOPAZ<br>Картридж перемикач-FX-22(MD)D<br><br>Гарантія: 12 місяців офіційної гарантії від виробника.<br><br>Габарити упаковки ВхГхШ: 105 х 47 х 12 см<br>Вага нетто: 5420г<br>Вага брутто: 5910г]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/28609/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/28609/2.jpeg</picture>
@@ -28538,7 +28538,7 @@
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Змішувач для умивальника TOPAZ LOFT TLF 32235-H39-C</name>
-      <stock_quantity>9</stock_quantity>
+      <stock_quantity>6</stock_quantity>
       <description><![CDATA[Змішувач для умивальника TOPAZ LOFT TLF 32235-H39-C  вбудований у стіну, Хром <br>TC-35-Картридж керамічний короткий D35-TOPAZ<br><br>Серія змішувачів TOPAZ дивує своєю вишуканістю форм, надійністю в експлуатації, витонченим дизайном.<br>У комплектацію входить:<br>Змішувач з латуні<br><br>Якісна продукція TOPAZ прослужить Вам довгі роки]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/28881/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/28881/2.jpeg</picture>
@@ -28697,14 +28697,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.022000</param>
     </offer>
-    <offer id="28886" available="true">
+    <offer id="28886" available="false">
       <vendorCode>000028886</vendorCode>
       <categoryId>11</categoryId>
       <price>10915</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Змішувач для ванни TOPAZ LOFT TLF 32113-H39-C</name>
-      <stock_quantity>1</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Змішувач для ванни TOPAZ LOFT TLF 32113-H39-C підлоговий монтаж, cartridge D35 ХРОМ<br>Змішувач для ванни на ніжках відрізняється функціональністю, комфортом і красиво виглядає.<br>Підлоговий змішувач для ванни відмінно підходить для стилю ретро або хай-тек. Він прекрасно доповнить ванну. <br>Також подібні змішувачі відмінно виглядають, якщо ванна оформляється в англійському стилі. <br>Найкраще, якщо колір елементів деталей на  ванні буде збігатися з кольором, який має змішувач для ванни на ніжках.<br><br>TC-35-Картридж керамічний короткий D35-TOPAZ<br>-Картридж перемикач-XF-22(CX)<br>Вага нетто: 5,8 кг<br>Вага брутто: 7,5 кг<br>Розмір упаковки ВхШхГ: 37х94х19 см]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/28886/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/28886/2.jpeg</picture>
@@ -32064,14 +32064,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.000000</param>
     </offer>
-    <offer id="31851" available="true">
+    <offer id="31851" available="false">
       <vendorCode>000031851</vendorCode>
       <categoryId>11</categoryId>
       <price>1605</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Змішувач для умивальника  TOPAZ CAPRI TCA-15201-H43</name>
-      <stock_quantity>10</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Змішувач для умивальника TOPAZ CAPRI TCA-15201-H43 cartridge D35, шланги TAQ-M1055<br><br>Серія змішувачів TOPAZ дивує своєю вишуканістю форм, надійністю в експлуатації, витонченим дизайном.<br>У комплектацію входить:<br>Змішувач з латуні<br>Шланги для підключення води - 2 шт.-(TuCai) TAQ-M1055 M10×1-F1/2-55CM<br>Креплення- гайка<br>Картридж M FX-35SA(MD) -Картридж керамічний для змішувача Odiss короткий D35-TOPAZ<br>Колір: хром<br><br>Якісна продукція TOPAZ прослужить Вам довгі роки]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/31851/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/31851/2.jpeg</picture>
