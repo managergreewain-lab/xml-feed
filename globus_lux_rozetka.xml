@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-07-13 08:46">
+<yml_catalog date="2026-07-13 09:46">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -74,7 +74,7 @@
     <offer id="1140" available="true">
       <vendorCode>000001140</vendorCode>
       <categoryId>30</categoryId>
-      <price>244</price>
+      <price>266</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>RM 1601 Тримач туалетного паперу, металевий  (Globus Lux)</name>
@@ -98,7 +98,7 @@
     <offer id="1141" available="true">
       <vendorCode>000001141</vendorCode>
       <categoryId>30</categoryId>
-      <price>219</price>
+      <price>239</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Стакан одинарний Globus Lux RM 1101</name>
@@ -122,7 +122,7 @@
     <offer id="1142" available="true">
       <vendorCode>000001142</vendorCode>
       <categoryId>30</categoryId>
-      <price>397</price>
+      <price>444</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Йоржик настінний Globus Lux RM1901</name>
@@ -144,11 +144,11 @@
     <offer id="1143" available="true">
       <vendorCode>000001143</vendorCode>
       <categoryId>30</categoryId>
-      <price>160</price>
+      <price>175</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Гачок подвійний Globus Lux RM 1501</name>
-      <stock_quantity>10</stock_quantity>
+      <stock_quantity>9</stock_quantity>
       <description><![CDATA[RM 1501 Гачок подвійний Globus Lux<br>Застосування - Для рушників<br>Кріплення - Шурупи<br>Тип установки - Настінний (підвісний)<br>Матеріал вироби - Латунь<br>Колір вироби - Хром<br>Комплектація:<br>- Подвійний гачок<br>- Монтажні елементи<br>Габарити (ШхВ): 9 х 4.5 см<br>Вага - 0.25 кг<br>Гарантія - 12 місяців офіційної гарантії від виробника]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/1143/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/1143/2.jpeg</picture>
@@ -165,7 +165,7 @@
     <offer id="1144" available="true">
       <vendorCode>000001144</vendorCode>
       <categoryId>30</categoryId>
-      <price>219</price>
+      <price>239</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Мильниця Globus Lux RM 1201</name>
@@ -437,7 +437,7 @@
     <offer id="1955" available="false">
       <vendorCode>000001955</vendorCode>
       <categoryId>30</categoryId>
-      <price>495</price>
+      <price>542</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Планка з гачками Globus Lux RM 1503</name>
@@ -457,7 +457,7 @@
     <offer id="1963" available="true">
       <vendorCode>000001963</vendorCode>
       <categoryId>30</categoryId>
-      <price>236</price>
+      <price>258</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Мильниця Globus Lux RM1301</name>
@@ -649,7 +649,7 @@
     <offer id="5203" available="false">
       <vendorCode>000005203</vendorCode>
       <categoryId>30</categoryId>
-      <price>385</price>
+      <price>432</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Стакан подвійний Globus Lux RM 1801</name>
@@ -671,7 +671,7 @@
     <offer id="5227" available="true">
       <vendorCode>000005227</vendorCode>
       <categoryId>30</categoryId>
-      <price>2025</price>
+      <price>2135</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Поличка подвійна кутова TOPAZ 4124</name>
@@ -692,7 +692,7 @@
     <offer id="5231" available="false">
       <vendorCode>000005231</vendorCode>
       <categoryId>30</categoryId>
-      <price>1215</price>
+      <price>1330</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Поличка пряма TOPAZ 4101</name>
@@ -2392,14 +2392,14 @@
       <param name="Вага брутто (кг.)">0.100000</param>
       <param name="Об&apos;єм (м³)">0.000158</param>
     </offer>
-    <offer id="10059" available="true">
+    <offer id="10059" available="false">
       <vendorCode>000010059</vendorCode>
       <categoryId>11</categoryId>
       <price>1820</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux QUEENSLAND GLQU-0107</name>
-      <stock_quantity>10</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Змішувач QUEENSLAND GLQU-0107 Globus Lux для кухні з витяжним носом<br><br>Переваги змішувачів Globus Lux:<br>1 Довговічність і безвідмовність в експлуатації<br>2 Елегантність форм, міцність і надійність<br>3 Висока функціональність<br>4 Використання якісних екологічно чистих матеріалів<br>5 Інноваційні технології виробництва<br>6 Корпус виготовлений з латуні з вмістом міді не менше 70%<br>7. Картридж «Sedal»<br><br>Комплектація:<br>Змішувач латунний<br>Лійка<br>витяжний  шланг<br>Шланг М10 * 1 / 2″-2шт<br>Кріплення для змішувача ″шпильки″]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/10059/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/10059/2.jpeg</picture>
@@ -3126,7 +3126,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Душова лійка Globus Lux STS-0250 ТРОПИК St/ STEEL Polish</name>
-      <stock_quantity>5</stock_quantity>
+      <stock_quantity>4</stock_quantity>
       <description><![CDATA[Лійка душова ТРОПИК Globus Lux STS-0250<br>Форма - Кругла ø 25 см<br>Верхній душ з кульовим шарніром, кут повороту ± 20 °<br>Матеріал - нержавіюча сталь SUS304 Полірована<br>Колір - Нержавіюча сталь полірована<br>Вага - 0.725 кг<br>Країна виробник - Китай<br>Гарантія виробника - 12 місяців]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/11821/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/11821/2.jpeg</picture>
@@ -3390,7 +3390,7 @@
     <offer id="12272" available="true">
       <vendorCode>000012272</vendorCode>
       <categoryId>30</categoryId>
-      <price>850</price>
+      <price>930</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Поличка кутова TOPAZ 4114</name>
@@ -3412,7 +3412,7 @@
     <offer id="12273" available="true">
       <vendorCode>000012273</vendorCode>
       <categoryId>30</categoryId>
-      <price>1035</price>
+      <price>1135</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Поличка кутова TOPAZ 4115-1</name>
@@ -7294,7 +7294,7 @@
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Змішувач для кухні TOPAZ CORSICA TC 8809-H48</name>
-      <stock_quantity>4</stock_quantity>
+      <stock_quantity>3</stock_quantity>
       <description><![CDATA[Змішувач для кухні TOPAZ CORSICA-TC 8809-H48<br><br>Серія змішувачів TOPAZ дивує своєю вишуканістю форм, надійністю в експлуатації, витонченим дизайном.<br>У комплектацію входить:<br>Змішувач з латуні<br>Шланги для підключення води - 2 шт.-(TuCai) TAQ-M1055 M10×1-F1/2-55CM<br>Високий поворотний гусак<br>TC-35-Картридж керамічний короткий D35-TOPAZ<br><br>Якісна продукція TOPAZ прослужить Вам довгі роки<br><br>Габарити упаковки ВхГхШ: 45 х 24.5 х 6 см<br>Вага нетто: 1160 г<br>Вага брутто: 1360 г<br>Габарити (ШхВхГ): 50 х 340 х 240 мм]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/16707/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/16707/2.jpeg</picture>
@@ -7716,7 +7716,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні під осмос Globus Lux ALPEN SUS-0333-BB</name>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>2</stock_quantity>
       <description><![CDATA[Кухонний змішувач Globus Lux SUS-0333-BB SUS304 комбінований під ОСМОС<br>Вид монтажу: Врізний<br>Вид змішувача: Одноважільний<br>Габарити (ВхГ): 35.5 х 28.5 см<br>Тип виливу: Поворотний<br>Висота виливу: 32 см<br>Довжина виливу: 24.5 см<br>Підключення до фільтру і водопроводу<br>Матеріал: Нержавіюча сталь<br>Колір виробу: чорний<br>Додаткові характеристики:<br>- Монтаж на один отвір<br>- Система швидкого монтажу<br>- Гнучка проводка<br>Вага в упаковці: 2.4 кг<br>Вага: 2.175 кг<br>Країна-виробник товару: Китай<br>Гарантія: 12 місяців офіційної гарантії від виробника.<br><br>Комплектація:<br>Змішувач з нержавійки<br>Шланг М10 * 1 / 2″-3шт<br>Quick fitting 1/4 ″-1/2″ (зовнішня різьба)<br>Кріплення для змішувача - гайка з нержавійки<br><br>Змішувач має 3 контури для підключення води:<br>- 1 і 2 використовується для підключення холодної та гарячої води. Змішування води відбувається за допомогою стандартного картриджа з маленьким ричагом;<br>- 3 контур використовується для підключення очищеної води. Відкриття чистої води здійснюється за допомогою іншого картриджа з великим ричагом .<br>Водопровідна та фільтрована вода мають окремі канали (трубка в трубці) і вихідні отвори в лійці змішувача, що повністю виключає можливість змішування очищеної та брудної води.]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/17523/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/17523/2.jpeg</picture>
@@ -9078,7 +9078,7 @@
     <offer id="18153" available="true">
       <vendorCode>000018153</vendorCode>
       <categoryId>30</categoryId>
-      <price>378</price>
+      <price>415</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Тримач рушників Globus Lux SS 8402-60  SUS304</name>
@@ -9098,7 +9098,7 @@
     <offer id="18154" available="true">
       <vendorCode>000018154</vendorCode>
       <categoryId>30</categoryId>
-      <price>263</price>
+      <price>288</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Тримач рушників Globus Lux SS 8407  SUS304</name>
@@ -9118,7 +9118,7 @@
     <offer id="18155" available="true">
       <vendorCode>000018155</vendorCode>
       <categoryId>30</categoryId>
-      <price>311</price>
+      <price>341</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Стакан одинарний Globus Lux SS 8409  SUS304</name>
@@ -9138,7 +9138,7 @@
     <offer id="18156" available="true">
       <vendorCode>000018156</vendorCode>
       <categoryId>30</categoryId>
-      <price>311</price>
+      <price>341</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Мильниця Globus Lux SS 8408  SUS304</name>
@@ -9159,7 +9159,7 @@
     <offer id="18157" available="true">
       <vendorCode>000018157</vendorCode>
       <categoryId>30</categoryId>
-      <price>322</price>
+      <price>353</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Тримач туалетного паперу Globus Lux SS 8410  SUS304</name>
@@ -9179,7 +9179,7 @@
     <offer id="18158" available="true">
       <vendorCode>000018158</vendorCode>
       <categoryId>30</categoryId>
-      <price>201</price>
+      <price>220</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Гачок одинарний Globus Lux SS 8411  SUS304</name>
@@ -9199,7 +9199,7 @@
     <offer id="18159" available="true">
       <vendorCode>000018159</vendorCode>
       <categoryId>30</categoryId>
-      <price>270</price>
+      <price>295</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Гачок подвійний Globus Lux SS 8415  SUS304</name>
@@ -9219,7 +9219,7 @@
     <offer id="18160" available="false">
       <vendorCode>000018160</vendorCode>
       <categoryId>30</categoryId>
-      <price>400</price>
+      <price>447</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Мильниця Globus Lux SS 8424  SUS304</name>
@@ -9239,7 +9239,7 @@
     <offer id="18161" available="true">
       <vendorCode>000018161</vendorCode>
       <categoryId>30</categoryId>
-      <price>505</price>
+      <price>553</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Йоржик настінний без кришки Globus Lux SS8429A  SUS304</name>
@@ -9259,7 +9259,7 @@
     <offer id="18162" available="true">
       <vendorCode>000018162</vendorCode>
       <categoryId>30</categoryId>
-      <price>765</price>
+      <price>840</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Йоржик підлоговий Globus Lux SS 8429B  SUS304</name>
@@ -9279,7 +9279,7 @@
     <offer id="18163" available="false">
       <vendorCode>000018163</vendorCode>
       <categoryId>30</categoryId>
-      <price>380</price>
+      <price>416</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Стакан подвійний Globus Lux SS 8428  SUS304</name>
@@ -9299,7 +9299,7 @@
     <offer id="18164" available="true">
       <vendorCode>000018164</vendorCode>
       <categoryId>30</categoryId>
-      <price>1410</price>
+      <price>1545</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Поличка в душову SS8488-кутова Подвійна НЕРЖ-SUS304-(200*200*425мм)-(Globus Lux)</name>
@@ -9319,7 +9319,7 @@
     <offer id="18165" available="true">
       <vendorCode>000018165</vendorCode>
       <categoryId>30</categoryId>
-      <price>572</price>
+      <price>627</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Поличка кутова Globus Lux SS 8499</name>
@@ -9339,7 +9339,7 @@
     <offer id="18166" available="true">
       <vendorCode>000018166</vendorCode>
       <categoryId>30</categoryId>
-      <price>2090</price>
+      <price>2295</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Поличка в душову SS8477-кутова Потрійна НЕРЖ-SUS304-(200*200*600мм)-(Globus Lux)</name>
@@ -11858,7 +11858,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні під осмос Globus Lux LAZER GLLR-0999-1-ONIX</name>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>2</stock_quantity>
       <description><![CDATA[Змішувач Globus Lux LAZER GLLR-0999-1-ONIX комбінований під ОСМОС на гайці, колір матовий чорний<br>Ідеально підходить до гранітної мийці, функціональні комбінованого змішувача вражає своєю продуманістю до використання і монтажу. <br>Вишуканий матовий чорний колір задовольнить найвибагливіших покупців.<br><br>Переваги комбінованих під систему зворотного осмосу моделей змішувачів Globus Lux:<br>1. Довговічність і безвідмовність в експлуатації<br>2. Вилив обертається на 360 градусів і зручний для кухонних мийок з декількома чашами<br>3. Елегантність форм, міцність і надійність<br>4. Висока функціональність<br>5. Використання якісних екологічно чистих матеріалів<br>6. Інноваційні технології виробництва<br>7. Корпус виготовлений з латуні з вмістом міді не менше 70%<br><br>Комплектація:<br>- Змішувач латуний<br>- Шланги М10 * 1/2″-3шт<br>- Quick fitting 1/4 ″-1/2″ (зовнішня різьба)<br>- Кріплення для змішувача - гайка<br><br>Змішувач має 3 контури для підключення води:<br>- 1 і 2 використовується для підключення холодної та гарячої води. Змішування води відбувається за допомогою стандартного картриджа з маленькою рукояткою;<br>- 3 контур використовується для підключення очищеної води. Відкриття чистої води здійснюється за допомогою іншого картриджа з великою рукояткою.]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/19255/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/19255/2.jpeg</picture>
@@ -12277,7 +12277,7 @@
     <offer id="19457" available="true">
       <vendorCode>000019457</vendorCode>
       <categoryId>30</categoryId>
-      <price>378</price>
+      <price>415</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Дозатор рідкого мила Globus Lux SS8433  SUS304</name>
@@ -12298,7 +12298,7 @@
     <offer id="19458" available="true">
       <vendorCode>000019458</vendorCode>
       <categoryId>30</categoryId>
-      <price>673</price>
+      <price>755</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Дозатор рідкого мила Globus Lux SS 8432  SUS304</name>
@@ -12319,7 +12319,7 @@
     <offer id="19459" available="true">
       <vendorCode>000019459</vendorCode>
       <categoryId>30</categoryId>
-      <price>454</price>
+      <price>497</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Планка з гачками Globus Lux SS8435-3  -SUS304</name>
@@ -12340,7 +12340,7 @@
     <offer id="19460" available="true">
       <vendorCode>000019460</vendorCode>
       <categoryId>30</categoryId>
-      <price>560</price>
+      <price>614</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Планка з  гачками Globus Lux SS8435-4  SUS304</name>
@@ -12361,7 +12361,7 @@
     <offer id="19461" available="false">
       <vendorCode>000019461</vendorCode>
       <categoryId>30</categoryId>
-      <price>845</price>
+      <price>925</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Тримач рушників Globus Lux SS 8431-3  SUS304</name>
@@ -12382,7 +12382,7 @@
     <offer id="19463" available="true">
       <vendorCode>000019463</vendorCode>
       <categoryId>30</categoryId>
-      <price>830</price>
+      <price>910</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Полиця Globus Lux SS 8427 скло SUS304</name>
@@ -12403,7 +12403,7 @@
     <offer id="19464" available="true">
       <vendorCode>000019464</vendorCode>
       <categoryId>30</categoryId>
-      <price>404</price>
+      <price>452</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Тримач рушників Globus Lux SQ 9402-60 SUS304</name>
@@ -12423,7 +12423,7 @@
     <offer id="19465" available="true">
       <vendorCode>000019465</vendorCode>
       <categoryId>30</categoryId>
-      <price>339</price>
+      <price>370</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Тримач рушників Globus Lux SQ 9407 SUS304</name>
@@ -12444,7 +12444,7 @@
     <offer id="19466" available="true">
       <vendorCode>000019466</vendorCode>
       <categoryId>30</categoryId>
-      <price>426</price>
+      <price>467</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Мильниця одинарна Globus Lux SQ 9408</name>
@@ -12466,7 +12466,7 @@
     <offer id="19467" available="true">
       <vendorCode>000019467</vendorCode>
       <categoryId>30</categoryId>
-      <price>426</price>
+      <price>467</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Стакан одинарний Globus Lux SQ 9409 SUS304</name>
@@ -12487,7 +12487,7 @@
     <offer id="19468" available="true">
       <vendorCode>000019468</vendorCode>
       <categoryId>30</categoryId>
-      <price>426</price>
+      <price>467</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Тримач туалетного паперу Globus Lux SQ 9410 SUS304</name>
@@ -12508,7 +12508,7 @@
     <offer id="19469" available="true">
       <vendorCode>000019469</vendorCode>
       <categoryId>30</categoryId>
-      <price>239</price>
+      <price>262</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Гачок одинарний Globus Lux SQ9411</name>
@@ -12529,7 +12529,7 @@
     <offer id="19470" available="true">
       <vendorCode>000019470</vendorCode>
       <categoryId>30</categoryId>
-      <price>253</price>
+      <price>277</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Гачок подвійний Globus Lux SQ 9412</name>
@@ -12550,7 +12550,7 @@
     <offer id="19471" available="true">
       <vendorCode>000019471</vendorCode>
       <categoryId>30</categoryId>
-      <price>551</price>
+      <price>604</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Мильниця Globus Lux SQ 9424 SUS304</name>
@@ -12571,7 +12571,7 @@
     <offer id="19472" available="true">
       <vendorCode>000019472</vendorCode>
       <categoryId>30</categoryId>
-      <price>679</price>
+      <price>760</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Йоржик настінний Globus Lux SQ 9429A SUS304</name>
@@ -12592,7 +12592,7 @@
     <offer id="19473" available="true">
       <vendorCode>000019473</vendorCode>
       <categoryId>30</categoryId>
-      <price>673</price>
+      <price>755</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Стакан подвійний Globus Lux SQ 9428 SUS304</name>
@@ -12613,7 +12613,7 @@
     <offer id="19474" available="true">
       <vendorCode>000019474</vendorCode>
       <categoryId>30</categoryId>
-      <price>570</price>
+      <price>625</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Дозатор рідкого мила Globus Lux SQ 9433</name>
@@ -12634,7 +12634,7 @@
     <offer id="19475" available="true">
       <vendorCode>000019475</vendorCode>
       <categoryId>30</categoryId>
-      <price>638</price>
+      <price>700</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Дозатор рідкого мила Globus Lux SQ 9432 SUS304</name>
@@ -12654,7 +12654,7 @@
     <offer id="19476" available="true">
       <vendorCode>000019476</vendorCode>
       <categoryId>30</categoryId>
-      <price>356</price>
+      <price>390</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Планка з гачками Globus Lux SQ 9435-3 SUS304</name>
@@ -12676,7 +12676,7 @@
     <offer id="19477" available="true">
       <vendorCode>000019477</vendorCode>
       <categoryId>30</categoryId>
-      <price>481</price>
+      <price>527</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Планка з гачками Globus Lux SQ 9435-4 SUS304</name>
@@ -12696,7 +12696,7 @@
     <offer id="19478" available="true">
       <vendorCode>000019478</vendorCode>
       <categoryId>30</categoryId>
-      <price>601</price>
+      <price>659</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Тримач рушників Globus Lux SQ 9431-2  SUS304</name>
@@ -12716,7 +12716,7 @@
     <offer id="19479" available="false">
       <vendorCode>000019479</vendorCode>
       <categoryId>30</categoryId>
-      <price>775</price>
+      <price>850</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Тримач рушників Globus Lux SQ 9431-3  SUS304</name>
@@ -12737,11 +12737,11 @@
     <offer id="19480" available="true">
       <vendorCode>000019480</vendorCode>
       <categoryId>30</categoryId>
-      <price>376</price>
+      <price>412</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Тримач туалетного паперу Globus Lux SQ 9416  SUS304</name>
-      <stock_quantity>6</stock_quantity>
+      <stock_quantity>4</stock_quantity>
       <description><![CDATA[Тримач для туалетного паперу Globus Lux SQ9416<br>Країна виробник товару - Китай<br>Тип товару - Аксесуари для ванної кімнати<br>Місткість тримача (рулон / листи) - 1 шт<br>Кріплення - Шурупи<br>Тип установки - Настінний (підвісний)<br>Матеріал виробу - Нержавіюча сталь (SUS 304)<br>Колір виробу - Нержавіюча сталь<br>Комплектація:<br>- Монтажні елементи<br>- Закритий тримач<br>Габарити упаковки (ВхШхГ): 15.5 х 13.5 х 7.5 см<br>Габарити (ШхВ): 12 х 11 см<br>Вага в упаковці - 0.315 кг<br>Вага - 0.265 кг<br>Гарантія - 12 місяців офіційної гарантії від виробника]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/19480/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/19480/2.jpeg</picture>
@@ -12758,7 +12758,7 @@
     <offer id="19481" available="false">
       <vendorCode>000019481</vendorCode>
       <categoryId>30</categoryId>
-      <price>965</price>
+      <price>1060</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Поличка Globus Lux SQ 9427 скло, SUS304</name>
@@ -12777,7 +12777,7 @@
     <offer id="19540" available="true">
       <vendorCode>000019540</vendorCode>
       <categoryId>30</categoryId>
-      <price>885</price>
+      <price>970</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Йоржик Підлоговий Globus Lux SQ 9429B SUS304</name>
@@ -14519,14 +14519,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.001000</param>
     </offer>
-    <offer id="20411" available="true">
+    <offer id="20411" available="false">
       <vendorCode>000020411</vendorCode>
       <categoryId>59</categoryId>
       <price>95</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Душова лійка Globus Lux NS-2014-P , 3-позиційна , в упаковці</name>
-      <stock_quantity>2</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Душова лійка Globus Lux NS-2014-P<br>Матеріал - Пластик<br>Колір -хром/блакитний (світло-зелена гума)<br>Кількість типів струї - 3<br>Діаметр ручної лійки - 7.5<br>Вага - 0.11 кг<br>Країна виробник - Китай]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/20411/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/20411/2.jpeg</picture>
@@ -16333,11 +16333,11 @@
     <offer id="21193" available="true">
       <vendorCode>000021193</vendorCode>
       <categoryId>30</categoryId>
-      <price>245</price>
+      <price>267</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Гачок подвійний Globus Lux BS8415 чорний матовий SUS304</name>
-      <stock_quantity>7</stock_quantity>
+      <stock_quantity>5</stock_quantity>
       <description><![CDATA[Гачок подвійний Globus Lux BS8415<br>Країна виробник товару - Китай<br>Тип товару - Аксесуари для ванної кімнати<br>Кріплення - Шурупи<br>Тип установки - Настінний (підвісний)<br>Матеріал виробу - нержавіюча сталь (SUS 304)<br>Колір виробу - чорний матовий <br>Комплектація:<br>- Монтажні елементи<br>- Гачок<br>Габарити упаковки (ВхШхГ): 10 х 7.5 х 7 см<br>Габарити (ШхВ): 7.1 х 6 см<br>Вага в упаковці - 0.17 кг<br>Вага - 0.14 кг<br>Гарантія - 12 місяців офіційної гарантії від виробника]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/21193/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/21193/2.jpeg</picture>
@@ -16356,7 +16356,7 @@
     <offer id="21194" available="false">
       <vendorCode>000021194</vendorCode>
       <categoryId>30</categoryId>
-      <price>905</price>
+      <price>990</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Полиця Globus Lux BS8427 чорна матова, матове скло SUS304</name>
@@ -16377,7 +16377,7 @@
     <offer id="21195" available="true">
       <vendorCode>000021195</vendorCode>
       <categoryId>30</categoryId>
-      <price>584</price>
+      <price>640</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Йоржик настінний Globus Lux BS8429A чорний матовий SUS304</name>
@@ -16400,11 +16400,11 @@
     <offer id="21196" available="true">
       <vendorCode>000021196</vendorCode>
       <categoryId>30</categoryId>
-      <price>356</price>
+      <price>390</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Тримач для туалетного паперу Globus Lux BS8410 чорний матовий SUS304</name>
-      <stock_quantity>6</stock_quantity>
+      <stock_quantity>4</stock_quantity>
       <description><![CDATA[Тримач для туалетного паперу Globus Lux BS8410<br>Країна виробник товару - Китай<br>Тип товару - Аксесуари для ванної кімнати<br>Місткість власника (рулон / листи) - 1 шт<br>Кріплення - Шурупи<br>Тип установки - Настінний (підвісний)<br>Матеріал виробу - Нержавіюча сталь (SUS 304)<br>Колір виробу - чорний матовий<br>Комплектація:<br>- Монтажні елементи<br>- Закритий держатель<br>Габарити упаковки (ВхШхГ): 15.5 х 13.5 х 7.5 см<br>Габарити (ШхВ): 12 х 15 см<br>Вага в упаковці - 0.315 кг<br>Вага - 0.265 кг<br>Гарантія - 12 місяців офіційної гарантії від виробника]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/21196/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/21196/2.jpeg</picture>
@@ -16422,7 +16422,7 @@
     <offer id="21197" available="false">
       <vendorCode>000021197</vendorCode>
       <categoryId>30</categoryId>
-      <price>469</price>
+      <price>514</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Планка з гачками Globus Lux BS8435-3 чорна матова SUS304</name>
@@ -16443,7 +16443,7 @@
     <offer id="21198" available="true">
       <vendorCode>000021198</vendorCode>
       <categoryId>30</categoryId>
-      <price>474</price>
+      <price>519</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Планка з  гачками Globus Lux BQ9435-4 чорна матова SUS304</name>
@@ -16466,7 +16466,7 @@
     <offer id="21199" available="true">
       <vendorCode>000021199</vendorCode>
       <categoryId>30</categoryId>
-      <price>505</price>
+      <price>553</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Тримач для туалетного паперу Globus Lux BQ9410 чорний матовий SUS304</name>
@@ -16488,7 +16488,7 @@
     <offer id="21200" available="true">
       <vendorCode>000021200</vendorCode>
       <categoryId>30</categoryId>
-      <price>679</price>
+      <price>760</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Йоржик настінний Globus Lux BQ9429A без кришки чорний матовий SUS304</name>
@@ -16510,7 +16510,7 @@
     <offer id="21201" available="true">
       <vendorCode>000021201</vendorCode>
       <categoryId>30</categoryId>
-      <price>331</price>
+      <price>363</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Стакан одинарний Globus Lux BS8409 чорний матовий SUS304</name>
@@ -16532,7 +16532,7 @@
     <offer id="21202" available="true">
       <vendorCode>000021202</vendorCode>
       <categoryId>30</categoryId>
-      <price>707</price>
+      <price>795</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Поличка кутова Globus Lux BS 8499</name>
@@ -16807,7 +16807,7 @@
     <offer id="21223" available="false">
       <vendorCode>000021223</vendorCode>
       <categoryId>30</categoryId>
-      <price>1410</price>
+      <price>1545</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Тримач рушників TOPAZ TKB 9911/60</name>
@@ -16829,7 +16829,7 @@
     <offer id="21224" available="true">
       <vendorCode>000021224</vendorCode>
       <categoryId>30</categoryId>
-      <price>1340</price>
+      <price>1470</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Тримач рушників TOPAZ TKB 9911/45</name>
@@ -16852,7 +16852,7 @@
     <offer id="21225" available="false">
       <vendorCode>000021225</vendorCode>
       <categoryId>30</categoryId>
-      <price>880</price>
+      <price>960</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Тримач рушників TOPAZ TKB 9912/45</name>
@@ -16873,7 +16873,7 @@
     <offer id="21226" available="true">
       <vendorCode>000021226</vendorCode>
       <categoryId>30</categoryId>
-      <price>945</price>
+      <price>1035</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Тримач рушників TOPAZ TKB 9912/60</name>
@@ -16894,7 +16894,7 @@
     <offer id="21227" available="true">
       <vendorCode>000021227</vendorCode>
       <categoryId>30</categoryId>
-      <price>745</price>
+      <price>815</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Тримач рушників TOPAZ TKB 9913</name>
@@ -16916,7 +16916,7 @@
     <offer id="21228" available="true">
       <vendorCode>000021228</vendorCode>
       <categoryId>30</categoryId>
-      <price>473</price>
+      <price>518</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Гачок TOPAZ TKB 9915</name>
@@ -16938,7 +16938,7 @@
     <offer id="21229" available="false">
       <vendorCode>000021229</vendorCode>
       <categoryId>30</categoryId>
-      <price>860</price>
+      <price>945</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Тримач туалетного паперу TOPAZ TКВ 9916</name>
@@ -16960,7 +16960,7 @@
     <offer id="21230" available="true">
       <vendorCode>000021230</vendorCode>
       <categoryId>30</categoryId>
-      <price>709</price>
+      <price>795</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Стакан одинарний TOPAZ TКВ 9921A</name>
@@ -16982,7 +16982,7 @@
     <offer id="21231" available="true">
       <vendorCode>000021231</vendorCode>
       <categoryId>30</categoryId>
-      <price>709</price>
+      <price>795</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Мильниця TOPAZ TKB 9922A</name>
@@ -17004,7 +17004,7 @@
     <offer id="21232" available="true">
       <vendorCode>000021232</vendorCode>
       <categoryId>30</categoryId>
-      <price>608</price>
+      <price>666</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Гачок подвійний TOPAZ TКВ 9925</name>
@@ -17025,7 +17025,7 @@
     <offer id="21233" available="true">
       <vendorCode>000021233</vendorCode>
       <categoryId>30</categoryId>
-      <price>1080</price>
+      <price>1185</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Тримач туалетного паперу TOPAZ TКВ 9926</name>
@@ -17047,7 +17047,7 @@
     <offer id="21234" available="false">
       <vendorCode>000021234</vendorCode>
       <categoryId>30</categoryId>
-      <price>1330</price>
+      <price>1460</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Полиця TOPAZ TKB 9927 скло с бортиком</name>
@@ -17069,7 +17069,7 @@
     <offer id="21236" available="true">
       <vendorCode>000021236</vendorCode>
       <categoryId>30</categoryId>
-      <price>1110</price>
+      <price>1215</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Стакан подвійний TOPAZ TКВ 9928A</name>
@@ -17092,7 +17092,7 @@
     <offer id="21239" available="true">
       <vendorCode>000021239</vendorCode>
       <categoryId>30</categoryId>
-      <price>1045</price>
+      <price>1140</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Йоржик настінний TOPAZ TКВ 9929A</name>
@@ -17114,7 +17114,7 @@
     <offer id="21240" available="true">
       <vendorCode>000021240</vendorCode>
       <categoryId>30</categoryId>
-      <price>1050</price>
+      <price>1150</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Дозатор рідкого мила TOPAZ TКВ 9933A</name>
@@ -17136,7 +17136,7 @@
     <offer id="21241" available="false">
       <vendorCode>000021241</vendorCode>
       <categoryId>30</categoryId>
-      <price>1030</price>
+      <price>1125</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Йоржик підлоговий TOPAZ TKB 8329</name>
@@ -17158,7 +17158,7 @@
     <offer id="21243" available="false">
       <vendorCode>000021243</vendorCode>
       <categoryId>30</categoryId>
-      <price>560</price>
+      <price>613</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Планка з гачками TOPAZ TKB 9385-3</name>
@@ -17180,7 +17180,7 @@
     <offer id="21244" available="true">
       <vendorCode>000021244</vendorCode>
       <categoryId>30</categoryId>
-      <price>780</price>
+      <price>855</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Планка з гачками TOPAZ TKB 9385-4</name>
@@ -17202,7 +17202,7 @@
     <offer id="21245" available="true">
       <vendorCode>000021245</vendorCode>
       <categoryId>30</categoryId>
-      <price>628</price>
+      <price>689</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Тримач рушників TOPAZ TKB 9913-BL чорний</name>
@@ -17223,7 +17223,7 @@
     <offer id="21246" available="true">
       <vendorCode>000021246</vendorCode>
       <categoryId>30</categoryId>
-      <price>454</price>
+      <price>497</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Гачок TOPAZ TKB 9915-BL чорний</name>
@@ -17245,7 +17245,7 @@
     <offer id="21247" available="true">
       <vendorCode>000021247</vendorCode>
       <categoryId>30</categoryId>
-      <price>815</price>
+      <price>890</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Тримач туалетного паперу TOPAZ TКВ 9916-BL чорний</name>
@@ -17265,7 +17265,7 @@
     <offer id="21248" available="true">
       <vendorCode>000021248</vendorCode>
       <categoryId>30</categoryId>
-      <price>669</price>
+      <price>750</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Стакан одинарний TOPAZ  TКВ 9921A-BL чорний</name>
@@ -17287,7 +17287,7 @@
     <offer id="21249" available="true">
       <vendorCode>000021249</vendorCode>
       <categoryId>30</categoryId>
-      <price>669</price>
+      <price>750</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Мильниця TOPAZ TKB 9922A-BL чорна</name>
@@ -17308,7 +17308,7 @@
     <offer id="21250" available="true">
       <vendorCode>000021250</vendorCode>
       <categoryId>30</categoryId>
-      <price>560</price>
+      <price>613</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Гачок подвійний TOPAZ TКВ 9925-BL чорний</name>
@@ -17329,7 +17329,7 @@
     <offer id="21251" available="true">
       <vendorCode>000021251</vendorCode>
       <categoryId>30</categoryId>
-      <price>900</price>
+      <price>985</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Тримач туалетного паперу TOPAZ TКВ 9926-BL чорний</name>
@@ -17350,7 +17350,7 @@
     <offer id="21252" available="false">
       <vendorCode>000021252</vendorCode>
       <categoryId>30</categoryId>
-      <price>1105</price>
+      <price>1210</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Стакан подвійний TOPAZ TКВ 9928A-BL чорний</name>
@@ -17371,7 +17371,7 @@
     <offer id="21253" available="true">
       <vendorCode>000021253</vendorCode>
       <categoryId>30</categoryId>
-      <price>1010</price>
+      <price>1105</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Йоржик настінний TOPAZ TКВ 9929A-BL чорний</name>
@@ -17392,7 +17392,7 @@
     <offer id="21254" available="false">
       <vendorCode>000021254</vendorCode>
       <categoryId>30</categoryId>
-      <price>900</price>
+      <price>985</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Йоржик підлоговий TOPAZ TKB 8329-BL чорний</name>
@@ -17413,7 +17413,7 @@
     <offer id="21255" available="true">
       <vendorCode>000021255</vendorCode>
       <categoryId>30</categoryId>
-      <price>607</price>
+      <price>665</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Планка з гачками TOPAZ TKB 9385-3-BL чорна</name>
@@ -17436,7 +17436,7 @@
     <offer id="21259" available="true">
       <vendorCode>000021259</vendorCode>
       <categoryId>30</categoryId>
-      <price>2380</price>
+      <price>2615</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Поличка кутова TOPAZ 4115-2</name>
@@ -17457,7 +17457,7 @@
     <offer id="21260" available="true">
       <vendorCode>000021260</vendorCode>
       <categoryId>30</categoryId>
-      <price>3780</price>
+      <price>4155</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Поличка кутова TOPAZ 4115-3</name>
@@ -17478,7 +17478,7 @@
     <offer id="21263" available="true">
       <vendorCode>000021263</vendorCode>
       <categoryId>30</categoryId>
-      <price>3390</price>
+      <price>3725</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Поличка потрійна кутова TOPAZ 4134</name>
@@ -17498,7 +17498,7 @@
     <offer id="21264" available="true">
       <vendorCode>000021264</vendorCode>
       <categoryId>30</categoryId>
-      <price>2885</price>
+      <price>3165</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Поличка пряма подвійна TOPAZ 4102</name>
@@ -17519,7 +17519,7 @@
     <offer id="21265" available="true">
       <vendorCode>000021265</vendorCode>
       <categoryId>30</categoryId>
-      <price>3780</price>
+      <price>4155</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Поличка пряма потрійна TOPAZ 4103</name>
@@ -17566,7 +17566,7 @@
     <offer id="21297" available="true">
       <vendorCode>000021297</vendorCode>
       <categoryId>30</categoryId>
-      <price>1010</price>
+      <price>1105</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Дозатор рідкого мила TOPAZ TKB 9933A-BL чорний</name>
@@ -17588,7 +17588,7 @@
     <offer id="21344" available="false">
       <vendorCode>000021344</vendorCode>
       <categoryId>30</categoryId>
-      <price>3405</price>
+      <price>3740</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Полиця TOPAZ TKB 9981</name>
@@ -17612,7 +17612,7 @@
     <offer id="21345" available="true">
       <vendorCode>000021345</vendorCode>
       <categoryId>30</categoryId>
-      <price>1030</price>
+      <price>1125</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Мильниця TOPAZ TKB 9924</name>
@@ -17635,7 +17635,7 @@
     <offer id="21346" available="true">
       <vendorCode>000021346</vendorCode>
       <categoryId>30</categoryId>
-      <price>1340</price>
+      <price>1470</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Дозатор рідкого мила TOPAZ TКВ 9932</name>
@@ -17657,7 +17657,7 @@
     <offer id="21347" available="true">
       <vendorCode>000021347</vendorCode>
       <categoryId>30</categoryId>
-      <price>965</price>
+      <price>1060</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Тримач для рушників TOPAZ TКВ 9931</name>
@@ -17680,7 +17680,7 @@
     <offer id="21348" available="true">
       <vendorCode>000021348</vendorCode>
       <categoryId>30</categoryId>
-      <price>910</price>
+      <price>995</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Тримач для рушників TOPAZ TКВ 8331</name>
@@ -17701,7 +17701,7 @@
     <offer id="21349" available="true">
       <vendorCode>000021349</vendorCode>
       <categoryId>30</categoryId>
-      <price>2515</price>
+      <price>2760</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Полка подвійна кутова TOPAZ TKB-4115-2-BL</name>
@@ -17722,7 +17722,7 @@
     <offer id="21350" available="false">
       <vendorCode>000021350</vendorCode>
       <categoryId>30</categoryId>
-      <price>2030</price>
+      <price>2135</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Полка подвійна кутова TOPAZ TKB-9902-BL</name>
@@ -17896,7 +17896,7 @@
     <offer id="21386" available="false">
       <vendorCode>000021386</vendorCode>
       <categoryId>30</categoryId>
-      <price>539</price>
+      <price>590</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Полиця скляна Globus Lux RM 1702</name>
@@ -17918,11 +17918,11 @@
     <offer id="21387" available="true">
       <vendorCode>000021387</vendorCode>
       <categoryId>30</categoryId>
-      <price>246</price>
+      <price>269</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Планка з гачками Globus Lux RM 1502-3</name>
-      <stock_quantity>7</stock_quantity>
+      <stock_quantity>5</stock_quantity>
       <description><![CDATA[RM 1502-3 Планка з гачками подвійними 3х2  (Globus Lux)<br>Застосування - Для рушників, для одягу<br>Кріплення - Шурупи<br>Тип установки - Настінний (підвісний)<br>Матеріал вироби - Латунь<br>Колір вироби - Хром<br>Комплектація:<br>- Монтажні елементи<br>- Планка з трьома подвійними гачками<br>Габарити (ШхВ): 33 х 2.5 см<br>Вага - 0.345 кг<br>Гарантія - 12 місяців офіційної гарантії від виробника]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/21387/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/21387/2.jpeg</picture>
@@ -17939,7 +17939,7 @@
     <offer id="21388" available="true">
       <vendorCode>000021388</vendorCode>
       <categoryId>30</categoryId>
-      <price>331</price>
+      <price>363</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Мильниця Globus Lux BS8408 чорна матова SUS304</name>
@@ -17961,7 +17961,7 @@
     <offer id="21389" available="true">
       <vendorCode>000021389</vendorCode>
       <categoryId>30</categoryId>
-      <price>407</price>
+      <price>455</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Дозатор рідкого мила Globus Lux BS8433 чорний матовий SUS304</name>
@@ -17983,7 +17983,7 @@
     <offer id="21390" available="true">
       <vendorCode>000021390</vendorCode>
       <categoryId>30</categoryId>
-      <price>1235</price>
+      <price>1355</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Полка подвійна кутова Globus Lux SQ9422</name>
@@ -18004,7 +18004,7 @@
     <offer id="21391" available="true">
       <vendorCode>000021391</vendorCode>
       <categoryId>30</categoryId>
-      <price>1235</price>
+      <price>1355</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Полка подвійна кутова Globus Lux SS8422</name>
@@ -18025,7 +18025,7 @@
     <offer id="21392" available="true">
       <vendorCode>000021392</vendorCode>
       <categoryId>30</categoryId>
-      <price>1540</price>
+      <price>1695</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Полка подвійна кутова Globus Lux BS8422</name>
@@ -18047,7 +18047,7 @@
     <offer id="21393" available="false">
       <vendorCode>000021393</vendorCode>
       <categoryId>30</categoryId>
-      <price>1575</price>
+      <price>1730</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Полка подвійна кутова Globus Lux BQ9422</name>
@@ -18764,7 +18764,7 @@
     <offer id="21896" available="false">
       <vendorCode>000021896</vendorCode>
       <categoryId>30</categoryId>
-      <price>374</price>
+      <price>410</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Тримач рушників Globus Lux SS 8402-45 SUS304</name>
@@ -20263,7 +20263,7 @@
     <offer id="22204" available="true">
       <vendorCode>000022204</vendorCode>
       <categoryId>30</categoryId>
-      <price>543</price>
+      <price>595</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Полиця одинарна Globus Lux SQ9499</name>
@@ -20286,7 +20286,7 @@
     <offer id="22205" available="true">
       <vendorCode>000022205</vendorCode>
       <categoryId>30</categoryId>
-      <price>1410</price>
+      <price>1545</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Поличка подвійна Globus Lux SQ9488</name>
@@ -20309,7 +20309,7 @@
     <offer id="22206" available="true">
       <vendorCode>000022206</vendorCode>
       <categoryId>30</categoryId>
-      <price>2090</price>
+      <price>2295</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Полиця потрійна Globus Lux SQ9477</name>
@@ -20332,11 +20332,11 @@
     <offer id="22207" available="true">
       <vendorCode>000022207</vendorCode>
       <categoryId>30</categoryId>
-      <price>339</price>
+      <price>370</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Планка з гачками Globus Lux BQ9435-3 чорна матова SUS304</name>
-      <stock_quantity>7</stock_quantity>
+      <stock_quantity>6</stock_quantity>
       <description><![CDATA[Планка для рушників з трьома гачками Globus Lux BQ9435-3<br>Країна виробник товару - Китай<br>Тип товару - Аксесуари для ванної кімнати<br>Комплектація:<br>- Монтажні елементи<br>- Планка<br>Тип установки - Настінний (підвісний)<br>Вид - Рушникотримач<br>Кріплення - Шурупи<br>Матеріал виробу - нержавіюча сталь (SUS 304)<br>Колір виробу - Чорний матовий<br><br>Гарантія - 12 місяців офіційної гарантії від виробника]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/22207/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/22207/2.jpeg</picture>
@@ -20354,7 +20354,7 @@
     <offer id="22208" available="false">
       <vendorCode>000022208</vendorCode>
       <categoryId>30</categoryId>
-      <price>608</price>
+      <price>666</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Дозатор рідкого мила Globus Lux BQ9433 чорний матовий SUS304</name>
@@ -20377,11 +20377,11 @@
     <offer id="22209" available="true">
       <vendorCode>000022209</vendorCode>
       <categoryId>30</categoryId>
-      <price>274</price>
+      <price>300</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Гачок подвійний Globus Lux BQ9412 чорний матовий SUS304</name>
-      <stock_quantity>8</stock_quantity>
+      <stock_quantity>6</stock_quantity>
       <description><![CDATA[Гачок подвійний Globus Lux BQ9412 чорний матовий SUS304<br>Країна виробник товару- Китай<br>Тип товару - Аксесуари для ванної кімнати<br>Кріплення - Шурупи<br>Тип установки - Настінний (підвісний)<br>Матеріал виробу - нержавіюча сталь (SUS 304)<br>Колір виробу - чорний матовий<br>Комплектація:<br>- Монтажні елементи<br>- Гачок<br>Габарити упаковки (ВхШхГ): 10 х 7.5 х 7 см<br>Габарити (ШхВ): 8 х 4.8 см<br>Вага в упаковці - 0.17 кг<br>Вага – 0.14 кг<br>Гарантія – 12 місяців офіційної гарантії від виробника.]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/22209/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/22209/2.jpeg</picture>
@@ -20400,7 +20400,7 @@
     <offer id="22210" available="true">
       <vendorCode>000022210</vendorCode>
       <categoryId>30</categoryId>
-      <price>426</price>
+      <price>467</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Мильниця одинарна Globus Lux BQ9408 чорна матова SUS304</name>
@@ -20423,7 +20423,7 @@
     <offer id="22211" available="false">
       <vendorCode>000022211</vendorCode>
       <categoryId>30</categoryId>
-      <price>700</price>
+      <price>785</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Стакан подвійний Globus Lux BQ9428 чорний матовий SUS304</name>
@@ -20446,7 +20446,7 @@
     <offer id="22212" available="false">
       <vendorCode>000022212</vendorCode>
       <categoryId>30</categoryId>
-      <price>299</price>
+      <price>327</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Тримач рушників Globus Lux BS8407 чорний матовий SUS304</name>
@@ -20467,7 +20467,7 @@
     <offer id="22213" available="true">
       <vendorCode>000022213</vendorCode>
       <categoryId>30</categoryId>
-      <price>445</price>
+      <price>486</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Стакан подвійний Globus Lux BS8428 чорний матовий SUS304</name>
@@ -20490,7 +20490,7 @@
     <offer id="22214" available="true">
       <vendorCode>000022214</vendorCode>
       <categoryId>30</categoryId>
-      <price>543</price>
+      <price>595</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Планка з гачками Globus Lux BS8435-4 чорна матова SUS304</name>
@@ -21586,7 +21586,7 @@
     <offer id="22598" available="true">
       <vendorCode>000022598</vendorCode>
       <categoryId>30</categoryId>
-      <price>167</price>
+      <price>182</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Йоржик Globus Lux Brush 0019SS  SUS304</name>
@@ -21606,7 +21606,7 @@
     <offer id="22599" available="true">
       <vendorCode>000022599</vendorCode>
       <categoryId>30</categoryId>
-      <price>175</price>
+      <price>190</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>BRUSH-0019RM-Йоржик с трубкою латунною-(Globus Lux) в пакеті</name>
@@ -21998,7 +21998,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач гігієнічний Globus Lux  Niagara GLN-5-106MIX-SS</name>
-      <stock_quantity>2</stock_quantity>
+      <stock_quantity>1</stock_quantity>
       <description><![CDATA[Змішувач для біде Globus Lux GLN-5-106MIX-SS Cold/Hot зі стіни<br>Країна-виробник товару: Китай<br>Вид монтажу: Настінний<br>Вид змішувача: Одноважільний<br>Тип виливу: без виливу<br>Довжина шланга: 120 см<br>Кількість типів струї: 1<br>Матеріал: Латунь<br>Колір виробу: Сталевий<br>Габарити упаковки (ВхШхГ): 14,5х20,5х23,5 см<br>Вага в упаковці: 2,05 кг<br>Вага: 1,75  кг<br>Гарантія: 24 місяці офіційної гарантії від виробника.<br><br>Переваги змішувачів Globus Lux:<br>1. Довговічність і безвідмовність в експлуатації<br>2. Елегантність форм, міцність і надійність<br>3. Висока функціональність<br>4. Використання якісних екологічно чистих матеріалів<br>5. Інноваційні технології виробництва<br>6. Корпуси виготовлені з латуні з вмістом міді не менше 70%]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/22949/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/22949/2.jpeg</picture>
@@ -23908,7 +23908,7 @@
     <offer id="24825" available="true">
       <vendorCode>000024825</vendorCode>
       <categoryId>30</categoryId>
-      <price>184</price>
+      <price>201</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Йоржик Globus Lux Brush 0019SQ</name>
@@ -24594,7 +24594,7 @@
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Душова лійка Topaz NF-2205-00-GRAY</name>
-      <stock_quantity>100</stock_quantity>
+      <stock_quantity>50</stock_quantity>
       <description><![CDATA[Душова лійка Topaz NF-2205-00-GRAY<br>Матеріал - Пластик<br>Колір - Хром / Сірий<br>Кількість типів струї - 3<br>Діаметр ручної лійки - 12 см<br>Вага - 0.25 кг<br>Країна виробник - Китай<br><br>Душові лійки ТМ Topaz   — це довговічність, відома  якість, новітні технології та можливість створити зручну ванну кімнату.  Вони дозволять легко оновити вашу ванну кімнату і насолоджуватися душовими процедурами в новій якості.<br>Душові лійки ТМ Topaz відрізняються функціональністю та простотою застосування.  Матеріали, які використовуються для виробництва душових лійок мають  високу якість, що гарантуює надійну роботу протягом багатьох років.]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/25159/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/25159/2.jpeg</picture>
@@ -25732,7 +25732,7 @@
     <offer id="27019" available="true">
       <vendorCode>000027019</vendorCode>
       <categoryId>30</categoryId>
-      <price>319</price>
+      <price>350</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Планка з гачками подвійними 3х2 Globus Lux RM 1503-3</name>
@@ -25755,7 +25755,7 @@
     <offer id="27020" available="true">
       <vendorCode>000027020</vendorCode>
       <categoryId>30</categoryId>
-      <price>404</price>
+      <price>452</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Планка з гачками подвійними 4х2 Globus Lux RM 1503-4</name>
@@ -27079,7 +27079,7 @@
     <offer id="28392" available="false">
       <vendorCode>000028392</vendorCode>
       <categoryId>30</categoryId>
-      <price>160</price>
+      <price>175</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Йоржик Globus Lux Brush 0181SA</name>
@@ -28978,7 +28978,7 @@
     <offer id="28929" available="true">
       <vendorCode>000028929</vendorCode>
       <categoryId>30</categoryId>
-      <price>339</price>
+      <price>370</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Поличка в душову Globus Lux SQ1199</name>
@@ -28999,7 +28999,7 @@
     <offer id="28930" available="true">
       <vendorCode>000028930</vendorCode>
       <categoryId>30</categoryId>
-      <price>339</price>
+      <price>370</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Поличка в душову Globus Lux SS1199</name>
@@ -29020,7 +29020,7 @@
     <offer id="29217" available="true">
       <vendorCode>000029217</vendorCode>
       <categoryId>30</categoryId>
-      <price>426</price>
+      <price>467</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Стакан одинарний Globus Lux BQ9409 чорний матовий SUS304</name>
