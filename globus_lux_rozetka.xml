@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-07-15 19:46">
+<yml_catalog date="2026-07-15 20:45">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -15,6 +15,7 @@
     <category id="61" parentId="1">Душові стійки</category>
     <category id="62" parentId="1">Душові шланги</category>
     <category id="95" parentId="1">Дозатори</category>
+    <category id="96" parentId="1">Комплектуючі для душу</category>
   </categories>
   <offers>
     <offer id="659" available="false">
