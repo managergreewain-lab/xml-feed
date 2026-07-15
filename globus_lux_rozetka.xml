@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-07-15 06:46">
+<yml_catalog date="2026-07-15 08:46">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -4417,7 +4417,7 @@
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Шланг для душу TOPAZ TSH-6004-120 хром 120см посилений рухома гайка, Blister</name>
-      <stock_quantity>100</stock_quantity>
+      <stock_quantity>50</stock_quantity>
       <description><![CDATA[Шланг душовий Topaz TSH-6004-120 см<br>Довжина - 120 см<br>Підключення - 1/2″ x 1/2″<br>Особливості:<br>- Тиск 0,7Mpa<br>- Обертання  360 °<br>- Нержавіюча сталь<br>- Антибактеріальне покриття<br>Матеріал - нержавіюча сталь / EPDM<br>Колір - Хром<br>Вага - 0.31 кг<br>Виробник - Польща]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/14260/1.jpeg</picture>
       <param name="Країна походження"></param>
