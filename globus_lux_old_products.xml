@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-07-16 11:57">
+<yml_catalog date="2026-07-16 13:56">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -163,7 +163,7 @@
       <categoryId>3181332</categoryId>
       <price>2985</price>
       <currencyId>UAH</currencyId>
-      <stock_quantity>8</stock_quantity>
+      <stock_quantity>7</stock_quantity>
     </offer>
     <offer id="57572065" available="false">
       <vendorCode>000017549</vendorCode>
@@ -1619,7 +1619,7 @@
       <categoryId>3181332</categoryId>
       <price>990</price>
       <currencyId>UAH</currencyId>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>2</stock_quantity>
     </offer>
     <offer id="55482553" available="false">
       <vendorCode>000008762</vendorCode>
@@ -1948,7 +1948,7 @@
       <categoryId>3181332</categoryId>
       <price>2010</price>
       <currencyId>UAH</currencyId>
-      <stock_quantity>8</stock_quantity>
+      <stock_quantity>6</stock_quantity>
     </offer>
     <offer id="56074425" available="true">
       <vendorCode>000019192</vendorCode>
