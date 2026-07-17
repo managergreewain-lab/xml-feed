@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-07-17 00:46">
+<yml_catalog date="2026-07-17 04:46">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -123,7 +123,7 @@
     <offer id="1142" available="true">
       <vendorCode>000001142</vendorCode>
       <categoryId>30</categoryId>
-      <price>444</price>
+      <price>434</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Йоржик настінний Globus Lux RM1901</name>
@@ -1055,7 +1055,7 @@
     <offer id="8491" available="true">
       <vendorCode>000008491</vendorCode>
       <categoryId>62</categoryId>
-      <price>236</price>
+      <price>233</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Шланг душовий Globus Lux FH-803-150</name>
@@ -1072,7 +1072,7 @@
     <offer id="8492" available="true">
       <vendorCode>000008492</vendorCode>
       <categoryId>62</categoryId>
-      <price>259</price>
+      <price>256</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Шланг душовий Globus Lux FH-803-175</name>
@@ -1089,7 +1089,7 @@
     <offer id="8493" available="true">
       <vendorCode>000008493</vendorCode>
       <categoryId>62</categoryId>
-      <price>285</price>
+      <price>282</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Шланг душовий Globus Lux FH-803-200</name>
@@ -1155,7 +1155,7 @@
     <offer id="8610" available="true">
       <vendorCode>000008610</vendorCode>
       <categoryId>62</categoryId>
-      <price>222</price>
+      <price>215</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Шланг душовий Globus Lux NH-02D-150</name>
@@ -8703,7 +8703,7 @@
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Душова лійка TOPAZ SARDINIA TP-240</name>
-      <stock_quantity>1</stock_quantity>
+      <stock_quantity>2</stock_quantity>
       <description><![CDATA[TP-240 Душова лійка Тропік SARDINIA<br>Колір: хром/білий<br>Розмір: 240*190мм<br>TOPAZ<br><br>Душові лійки ТМ Topaz   — це довговічність, відома  якість, новітні технології та можливість створити зручну ванну кімнату.  Вони дозволять легко оновити вашу ванну кімнату і насолоджуватися душовими процедурами в новій якості.<br>Душові лійки ТМ Topaz відрізняються функціональністю та простотою застосування.  Матеріали, які використовуються для виробництва душових лійок мають  високу якість, що гарантуює надійну роботу протягом багатьох років.]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/18025/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/18025/2.jpeg</picture>
@@ -19100,7 +19100,7 @@
     <offer id="21934" available="true">
       <vendorCode>000021934</vendorCode>
       <categoryId>62</categoryId>
-      <price>192</price>
+      <price>184</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Шланг душовий Globus Lux NH-04D-150-200</name>
@@ -19116,7 +19116,7 @@
     <offer id="21935" available="true">
       <vendorCode>000021935</vendorCode>
       <categoryId>62</categoryId>
-      <price>149</price>
+      <price>145</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Шланг душовий Globus Lux NH-01D-100-130</name>
@@ -28539,7 +28539,7 @@
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Змішувач для умивальника TOPAZ LOFT TLF 32235-H39-C</name>
-      <stock_quantity>6</stock_quantity>
+      <stock_quantity>7</stock_quantity>
       <description><![CDATA[Змішувач для умивальника TOPAZ LOFT TLF 32235-H39-C  вбудований у стіну, Хром <br>TC-35-Картридж керамічний короткий D35-TOPAZ<br><br>Серія змішувачів TOPAZ дивує своєю вишуканістю форм, надійністю в експлуатації, витонченим дизайном.<br>У комплектацію входить:<br>Змішувач з латуні<br><br>Якісна продукція TOPAZ прослужить Вам довгі роки]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/28881/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/28881/2.jpeg</picture>
