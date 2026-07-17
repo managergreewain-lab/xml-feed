@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-07-17 11:46">
+<yml_catalog date="2026-07-17 12:46">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -19061,7 +19061,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для умивальника Globus Lux Milano GLM-201-BB</name>
-      <stock_quantity>9</stock_quantity>
+      <stock_quantity>7</stock_quantity>
       <description><![CDATA[Змішувач для раковини Globus Lux MILANO GLM-201-BB високий, чорний матовий, на гайці<br><br>Переваги змішувачів Globus Lux:<br>1. Довговічність і безвідмовність в експлуатації<br>2. Елегантність форм, міцність і надійність<br>3. Висока функціональність<br>4. Використання якісних екологічно чистих матеріалів<br>5. Інноваційні технології виробництва<br>6. Корпус виготовлений з латуні з вмістом міді не менше 70%<br><br>Комплектація:<br>-змішувач латунний<br>-Шланги М10*1/2″-2шт<br>-Кріплення для змішувача - гайка<br><br>Розмір упаковки ВхШхГ: 8х24х37 см<br>Вага нетто: 1,56 кг<br>Вага брутто: 1,86 кг]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/21923/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/21923/2.jpeg</picture>
