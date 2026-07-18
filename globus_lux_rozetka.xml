@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-07-18 00:46">
+<yml_catalog date="2026-07-18 03:46">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -41,8 +41,8 @@
       <param name="Колір">Хром</param>
       <param name="Тип виливу">Поворотний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">1.000000</param>
-      <param name="Об&apos;єм (м³)">0.003760</param>
+      <param name="Вага брутто (кг.)">15.000000</param>
+      <param name="Об&apos;єм (м³)">0.004000</param>
     </offer>
     <offer id="988" available="false">
       <vendorCode>000000988</vendorCode>
@@ -209,8 +209,8 @@
       <param name="Колір">Хром</param>
       <param name="Тип виливу">Стаціонарний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">1.200000</param>
-      <param name="Об&apos;єм (м³)">0.004300</param>
+      <param name="Вага брутто (кг.)">15.000000</param>
+      <param name="Об&apos;єм (м³)">0.004000</param>
     </offer>
     <offer id="1253" available="false">
       <vendorCode>000001253</vendorCode>
@@ -432,8 +432,8 @@
       <picture>https://b2b-sklad.com/storage/img/products/1755/3.jpeg</picture>
       <param name="Країна походження">Китай</param>
       <param name="Країна реєстрації бренду">Україна</param>
-      <param name="Вага брутто (кг.)">0.900000</param>
-      <param name="Об&apos;єм (м³)">0.003195</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.003000</param>
     </offer>
     <offer id="1955" available="false">
       <vendorCode>000001955</vendorCode>
@@ -526,8 +526,8 @@
       <param name="Країна реєстрації бренду">Україна</param>
       <param name="Тип">Ручна лійка</param>
       <param name="Матеріал">ABS пластик</param>
-      <param name="Вага брутто (кг.)">0.140000</param>
-      <param name="Об&apos;єм (м³)">0.001130</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.001000</param>
     </offer>
     <offer id="4174" available="false">
       <vendorCode>000004174</vendorCode>
@@ -616,8 +616,8 @@
       <param name="Країна реєстрації бренду">Україна</param>
       <param name="Тип">Ручна лійка</param>
       <param name="Матеріал">ABS пластик</param>
-      <param name="Вага брутто (кг.)">0.110000</param>
-      <param name="Об&apos;єм (м³)">0.000868</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.001000</param>
     </offer>
     <offer id="5182" available="false">
       <vendorCode>000005182</vendorCode>
@@ -666,8 +666,8 @@
       <param name="Тип">Стакан</param>
       <param name="Матеріал">Латунь</param>
       <param name="Колір">Хром</param>
-      <param name="Вага брутто (кг.)">0.610000</param>
-      <param name="Об&apos;єм (м³)">0.002848</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.003000</param>
     </offer>
     <offer id="5227" available="true">
       <vendorCode>000005227</vendorCode>
@@ -744,8 +744,8 @@
       <param name="Країна реєстрації бренду">Україна</param>
       <param name="Тип">Тропічний душ</param>
       <param name="Матеріал">ABS пластик</param>
-      <param name="Вага брутто (кг.)">0.100000</param>
-      <param name="Об&apos;єм (м³)">0.000158</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.000000</param>
     </offer>
     <offer id="5997" available="true">
       <vendorCode>000005997</vendorCode>
@@ -945,8 +945,8 @@
       <param name="Країна реєстрації бренду">Україна</param>
       <param name="Тип">Тропічний душ</param>
       <param name="Матеріал">ABS пластик</param>
-      <param name="Вага брутто (кг.)">0.100000</param>
-      <param name="Об&apos;єм (м³)">0.000158</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.000000</param>
     </offer>
     <offer id="6250" available="false">
       <vendorCode>000006250</vendorCode>
@@ -971,8 +971,8 @@
       <param name="Матеріал">Латунь</param>
       <param name="Колір">Хром</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">4.167000</param>
-      <param name="Об&apos;єм (м³)">0.044598</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.045000</param>
     </offer>
     <offer id="7022" available="true">
       <vendorCode>000007022</vendorCode>
@@ -1221,8 +1221,8 @@
       <param name="Колір">Хром</param>
       <param name="Тип виливу">Поворотний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">1.813000</param>
-      <param name="Об&apos;єм (м³)">0.008713</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.009000</param>
     </offer>
     <offer id="8756" available="true">
       <vendorCode>000008756</vendorCode>
@@ -1464,7 +1464,7 @@
       <param name="Вид монтажу">Настінний</param>
       <param name="Колір">Хром</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">2.000000</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.006000</param>
     </offer>
     <offer id="8770" available="false">
@@ -1513,8 +1513,8 @@
       <param name="Вид монтажу">Настінний</param>
       <param name="Колір">Хром</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">1.550000</param>
-      <param name="Об&apos;єм (м³)">0.004980</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.005000</param>
     </offer>
     <offer id="9104" available="true">
       <vendorCode>000009104</vendorCode>
@@ -1626,8 +1626,8 @@
       <param name="Колір">Хром</param>
       <param name="Тип виливу">Гнучкий</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">1.000000</param>
-      <param name="Об&apos;єм (м³)">0.004954</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.005000</param>
     </offer>
     <offer id="9248" available="false">
       <vendorCode>000009248</vendorCode>
@@ -1653,8 +1653,8 @@
       <param name="Колір">Хром</param>
       <param name="Тип виливу">Стаціонарний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">1.000000</param>
-      <param name="Об&apos;єм (м³)">0.002957</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.003000</param>
     </offer>
     <offer id="9249" available="false">
       <vendorCode>000009249</vendorCode>
@@ -1791,7 +1791,7 @@
       <param name="Колір">Хром</param>
       <param name="Тип виливу">Стаціонарний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">2.000000</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.006000</param>
     </offer>
     <offer id="9287" available="true">
@@ -2096,7 +2096,7 @@
       <param name="Вид монтажу">Настінний</param>
       <param name="Колір">Хром</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">2.000000</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.006000</param>
     </offer>
     <offer id="9301" available="false">
@@ -2123,8 +2123,8 @@
       <param name="Колір">Хром</param>
       <param name="Тип виливу">Поворотний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">1.000000</param>
-      <param name="Об&apos;єм (м³)">0.003175</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.003000</param>
     </offer>
     <offer id="9353" available="true">
       <vendorCode>000009353</vendorCode>
@@ -2176,8 +2176,8 @@
       <param name="Колір">Хром</param>
       <param name="Тип виливу">Стаціонарний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">1.200000</param>
-      <param name="Об&apos;єм (м³)">0.004350</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.004000</param>
     </offer>
     <offer id="9365" available="false">
       <vendorCode>000009365</vendorCode>
@@ -2203,8 +2203,8 @@
       <param name="Колір">Хром</param>
       <param name="Тип виливу">Стаціонарний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">1.875000</param>
-      <param name="Об&apos;єм (м³)">0.007313</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.007000</param>
     </offer>
     <offer id="9422" available="false">
       <vendorCode>000009422</vendorCode>
@@ -2284,8 +2284,8 @@
       <param name="Колір">Хром</param>
       <param name="Тип виливу">Гнучкий</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">1.200000</param>
-      <param name="Об&apos;єм (м³)">0.004347</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.004000</param>
     </offer>
     <offer id="9831" available="true">
       <vendorCode>000009831</vendorCode>
@@ -2390,8 +2390,8 @@
       <param name="Країна реєстрації бренду">Україна</param>
       <param name="Тип">Стоп лійка</param>
       <param name="Матеріал">ABS пластик</param>
-      <param name="Вага брутто (кг.)">0.100000</param>
-      <param name="Об&apos;єм (м³)">0.000158</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.000000</param>
     </offer>
     <offer id="10059" available="false">
       <vendorCode>000010059</vendorCode>
@@ -2499,7 +2499,7 @@
       <param name="Колір">Хром</param>
       <param name="Тип виливу">Стаціонарний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">2.000000</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.006000</param>
     </offer>
     <offer id="10116" available="false">
@@ -2630,8 +2630,8 @@
       <param name="Колір">Хром</param>
       <param name="Тип виливу">Поворотний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">2.230000</param>
-      <param name="Об&apos;єм (м³)">0.008711</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.009000</param>
     </offer>
     <offer id="10138" available="false">
       <vendorCode>000010138</vendorCode>
@@ -2658,8 +2658,8 @@
       <param name="Колір">Нержавіюча сталь</param>
       <param name="Тип виливу">Поворотний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">2.230000</param>
-      <param name="Об&apos;єм (м³)">0.008711</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.009000</param>
     </offer>
     <offer id="10139" available="false">
       <vendorCode>000010139</vendorCode>
@@ -2680,8 +2680,8 @@
       <param name="Колір">Хром</param>
       <param name="Тип виливу">Поворотний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">2.230000</param>
-      <param name="Об&apos;єм (м³)">0.008710</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.009000</param>
     </offer>
     <offer id="10148" available="true">
       <vendorCode>000010148</vendorCode>
@@ -2786,8 +2786,8 @@
       <param name="Колір">Хром</param>
       <param name="Тип виливу">Поворотний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">1.200000</param>
-      <param name="Об&apos;єм (м³)">0.005195</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.005000</param>
     </offer>
     <offer id="10907" available="true">
       <vendorCode>000010907</vendorCode>
@@ -2834,8 +2834,8 @@
       <param name="Колір">Бронза</param>
       <param name="Тип виливу">Поворотний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">2.230000</param>
-      <param name="Об&apos;єм (м³)">0.008710</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.009000</param>
     </offer>
     <offer id="11154" available="false">
       <vendorCode>000011154</vendorCode>
@@ -2887,8 +2887,8 @@
       <param name="Матеріал">Латунь</param>
       <param name="Колір">Хром</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">4.167000</param>
-      <param name="Об&apos;єм (м³)">0.044598</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.045000</param>
     </offer>
     <offer id="11304" available="false">
       <vendorCode>000011304</vendorCode>
@@ -2937,8 +2937,8 @@
       <param name="Колір">Хром</param>
       <param name="Тип виливу">Поворотний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">2.850000</param>
-      <param name="Об&apos;єм (м³)">0.008710</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.009000</param>
     </offer>
     <offer id="11309" available="false">
       <vendorCode>000011309</vendorCode>
@@ -2964,8 +2964,8 @@
       <param name="Колір">Нержавіюча сталь</param>
       <param name="Тип виливу">Поворотний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">2.850000</param>
-      <param name="Об&apos;єм (м³)">0.008710</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.009000</param>
     </offer>
     <offer id="11310" available="false">
       <vendorCode>000011310</vendorCode>
@@ -3046,8 +3046,8 @@
       <param name="Колір">Хром</param>
       <param name="Тип виливу">Поворотний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">2.530000</param>
-      <param name="Об&apos;єм (м³)">0.008710</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.009000</param>
     </offer>
     <offer id="11606" available="false">
       <vendorCode>000011606</vendorCode>
@@ -3073,8 +3073,8 @@
       <param name="Колір">Хром</param>
       <param name="Тип виливу">Поворотний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">2.300000</param>
-      <param name="Об&apos;єм (м³)">0.009800</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.010000</param>
     </offer>
     <offer id="11819" available="true">
       <vendorCode>000011819</vendorCode>
@@ -3234,8 +3234,8 @@
       <param name="Колір">Хром</param>
       <param name="Тип виливу">Стаціонарний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">1.042000</param>
-      <param name="Об&apos;єм (м³)">0.002420</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.002000</param>
     </offer>
     <offer id="12219" available="false">
       <vendorCode>000012219</vendorCode>
@@ -3259,8 +3259,8 @@
       <param name="Колір">Хром</param>
       <param name="Тип виливу">Стаціонарний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">2.000000</param>
-      <param name="Об&apos;єм (м³)">0.008250</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.008000</param>
     </offer>
     <offer id="12230" available="true">
       <vendorCode>000012230</vendorCode>
@@ -3447,8 +3447,8 @@
       <picture>https://b2b-sklad.com/storage/img/products/12282/5.jpeg</picture>
       <param name="Країна походження">Китай</param>
       <param name="Країна реєстрації бренду">Україна</param>
-      <param name="Вага брутто (кг.)">4.167000</param>
-      <param name="Об&apos;єм (м³)">0.044598</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.045000</param>
     </offer>
     <offer id="12296" available="false">
       <vendorCode>000012296</vendorCode>
@@ -3473,8 +3473,8 @@
       <param name="Колір">Хром</param>
       <param name="Тип виливу">Поворотний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">1.200000</param>
-      <param name="Об&apos;єм (м³)">0.005195</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.005000</param>
     </offer>
     <offer id="12440" available="true">
       <vendorCode>000012440</vendorCode>
@@ -3554,8 +3554,8 @@
       <param name="Матеріал">Латунь</param>
       <param name="Колір">Хром</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">2.500000</param>
-      <param name="Об&apos;єм (м³)">0.004300</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.004000</param>
     </offer>
     <offer id="13072" available="false">
       <vendorCode>000013072</vendorCode>
@@ -3581,8 +3581,8 @@
       <param name="Колір">Білий</param>
       <param name="Тип виливу">Поворотний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">1.200000</param>
-      <param name="Об&apos;єм (м³)">0.005195</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.005000</param>
     </offer>
     <offer id="13279" available="true">
       <vendorCode>000013279</vendorCode>
@@ -3652,8 +3652,8 @@
       <param name="Вид монтажу">Врізний</param>
       <param name="Колір">Хром</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">3.000000</param>
-      <param name="Об&apos;єм (м³)">0.016400</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.016000</param>
     </offer>
     <offer id="13299" available="true">
       <vendorCode>000013299</vendorCode>
@@ -3686,8 +3686,8 @@
       <param name="Країна походження">Китай</param>
       <param name="Країна реєстрації бренду">Україна</param>
       <param name="Довжина (см.)">150</param>
-      <param name="Вага брутто (кг.)">0.400000</param>
-      <param name="Об&apos;єм (м³)">0.001506</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.002000</param>
     </offer>
     <offer id="13403" available="true">
       <vendorCode>000013403</vendorCode>
@@ -3800,8 +3800,8 @@
       <param name="Країна реєстрації бренду">Україна</param>
       <param name="Тип">Ручна лійка</param>
       <param name="Матеріал">ABS пластик</param>
-      <param name="Вага брутто (кг.)">0.185000</param>
-      <param name="Об&apos;єм (м³)">0.001940</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.002000</param>
     </offer>
     <offer id="13412" available="true">
       <vendorCode>000013412</vendorCode>
@@ -4075,8 +4075,8 @@
       <param name="Колір">Хром</param>
       <param name="Тип виливу">Стаціонарний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">1.500000</param>
-      <param name="Об&apos;єм (м³)">0.002420</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.002000</param>
     </offer>
     <offer id="13604" available="true">
       <vendorCode>000013604</vendorCode>
@@ -4208,8 +4208,8 @@
       <param name="Колір">Бронза</param>
       <param name="Тип виливу">Поворотний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">2.300000</param>
-      <param name="Об&apos;єм (м³)">0.009798</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.010000</param>
     </offer>
     <offer id="14080" available="false">
       <vendorCode>000014080</vendorCode>
@@ -4236,8 +4236,8 @@
       <param name="Колір">Хром</param>
       <param name="Тип виливу">Стаціонарний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">1.875000</param>
-      <param name="Об&apos;єм (м³)">0.007308</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.007000</param>
     </offer>
     <offer id="14159" available="true">
       <vendorCode>000014159</vendorCode>
@@ -4913,8 +4913,8 @@
       <param name="Колір">Хром</param>
       <param name="Тип виливу">Гнучкий</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">1.500000</param>
-      <param name="Об&apos;єм (м³)">0.008250</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.008000</param>
     </offer>
     <offer id="14769" available="true">
       <vendorCode>000014769</vendorCode>
@@ -5024,8 +5024,8 @@
       <param name="Колір">Хром</param>
       <param name="Тип виливу">Стаціонарний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">2.000000</param>
-      <param name="Об&apos;єм (м³)">0.004800</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.005000</param>
     </offer>
     <offer id="14774" available="false">
       <vendorCode>000014774</vendorCode>
@@ -5055,8 +5055,8 @@
       <param name="Колір">Хром</param>
       <param name="Тип виливу">Стаціонарний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">1.167000</param>
-      <param name="Об&apos;єм (м³)">0.003670</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.004000</param>
     </offer>
     <offer id="14775" available="true">
       <vendorCode>000014775</vendorCode>
@@ -5081,8 +5081,8 @@
       <param name="Колір">Хром</param>
       <param name="Тип виливу">Гнучкий</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">2.000000</param>
-      <param name="Об&apos;єм (м³)">0.007630</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.008000</param>
     </offer>
     <offer id="14918" available="false">
       <vendorCode>000014918</vendorCode>
@@ -5107,8 +5107,8 @@
       <param name="Колір">Хром</param>
       <param name="Тип виливу">Гнучкий</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">2.250000</param>
-      <param name="Об&apos;єм (м³)">0.003200</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.003000</param>
     </offer>
     <offer id="14936" available="true">
       <vendorCode>000014936</vendorCode>
@@ -5306,8 +5306,8 @@
       <param name="Колір">Бежевий</param>
       <param name="Тип виливу">Поворотний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">1.200000</param>
-      <param name="Об&apos;єм (м³)">0.008064</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.008000</param>
     </offer>
     <offer id="14944" available="true">
       <vendorCode>000014944</vendorCode>
@@ -5335,8 +5335,8 @@
       <param name="Колір">Сірий</param>
       <param name="Тип виливу">Поворотний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">1.200000</param>
-      <param name="Об&apos;єм (м³)">0.008064</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.008000</param>
     </offer>
     <offer id="14945" available="false">
       <vendorCode>000014945</vendorCode>
@@ -5362,8 +5362,8 @@
       <param name="Колір">Хром</param>
       <param name="Тип виливу">Поворотний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">1.200000</param>
-      <param name="Об&apos;єм (м³)">0.008064</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.008000</param>
     </offer>
     <offer id="14951" available="true">
       <vendorCode>000014951</vendorCode>
@@ -5635,8 +5635,8 @@
       <param name="Колір">Бежевий</param>
       <param name="Тип виливу">Поворотний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">2.300000</param>
-      <param name="Об&apos;єм (м³)">0.009798</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.010000</param>
     </offer>
     <offer id="14961" available="false">
       <vendorCode>000014961</vendorCode>
@@ -5659,8 +5659,8 @@
       <param name="Колір">Бежевий</param>
       <param name="Тип виливу">Поворотний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">2.850000</param>
-      <param name="Об&apos;єм (м³)">0.008710</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.009000</param>
     </offer>
     <offer id="14962" available="false">
       <vendorCode>000014962</vendorCode>
@@ -5739,8 +5739,8 @@
       <param name="Колір">Хром</param>
       <param name="Тип виливу">Поворотний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">2.600000</param>
-      <param name="Об&apos;єм (м³)">0.009798</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.010000</param>
     </offer>
     <offer id="14965" available="true">
       <vendorCode>000014965</vendorCode>
@@ -5871,8 +5871,8 @@
       <param name="Матеріал">Латунь</param>
       <param name="Колір">Хром</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">4.167000</param>
-      <param name="Об&apos;єм (м³)">0.044598</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.045000</param>
     </offer>
     <offer id="14990" available="false">
       <vendorCode>000014990</vendorCode>
@@ -5897,8 +5897,8 @@
       <param name="Матеріал">Латунь</param>
       <param name="Колір">Хром</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">4.167000</param>
-      <param name="Об&apos;єм (м³)">0.044598</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.045000</param>
     </offer>
     <offer id="14995" available="true">
       <vendorCode>000014995</vendorCode>
@@ -6045,8 +6045,8 @@
       <param name="Колір">Нержавіюча сталь</param>
       <param name="Тип виливу">Поворотний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">2.300000</param>
-      <param name="Об&apos;єм (м³)">0.009030</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.009000</param>
     </offer>
     <offer id="15049" available="true">
       <vendorCode>000015049</vendorCode>
@@ -6246,8 +6246,8 @@
       <picture>https://b2b-sklad.com/storage/img/products/15058/3.jpeg</picture>
       <param name="Країна походження">Китай</param>
       <param name="Країна реєстрації бренду">Україна</param>
-      <param name="Вага брутто (кг.)">0.900000</param>
-      <param name="Об&apos;єм (м³)">0.006399</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.006000</param>
     </offer>
     <offer id="15060" available="true">
       <vendorCode>000015060</vendorCode>
@@ -6287,8 +6287,8 @@
       <param name="Країна реєстрації бренду">Україна</param>
       <param name="Тип">Тропічний душ</param>
       <param name="Матеріал">Нержавіюча сталь</param>
-      <param name="Вага брутто (кг.)">2.960000</param>
-      <param name="Об&apos;єм (м³)">0.015510</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.016000</param>
     </offer>
     <offer id="15066" available="true">
       <vendorCode>000015066</vendorCode>
@@ -6640,8 +6640,8 @@
       <param name="Колір">Хром</param>
       <param name="Тип виливу">Стаціонарний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">2.125000</param>
-      <param name="Об&apos;єм (м³)">0.005500</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.006000</param>
     </offer>
     <offer id="15839" available="true">
       <vendorCode>000015839</vendorCode>
@@ -6870,8 +6870,8 @@
       <param name="Матеріал">Нержавіюча сталь</param>
       <param name="Колір">Нержавіюча сталь</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">5.400000</param>
-      <param name="Об&apos;єм (м³)">0.047020</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.047000</param>
     </offer>
     <offer id="16100" available="true">
       <vendorCode>000016100</vendorCode>
@@ -6977,8 +6977,8 @@
       <param name="Колір">Хром</param>
       <param name="Тип виливу">Гнучкий</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">2.200000</param>
-      <param name="Об&apos;єм (м³)">0.009300</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.009000</param>
     </offer>
     <offer id="16124" available="true">
       <vendorCode>000016124</vendorCode>
@@ -7498,8 +7498,8 @@
       <param name="Країна реєстрації бренду">Україна</param>
       <param name="Тип">Стоп лійка</param>
       <param name="Матеріал">ABS пластик</param>
-      <param name="Вага брутто (кг.)">0.120000</param>
-      <param name="Об&apos;єм (м³)">0.000534</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.001000</param>
     </offer>
     <offer id="17066" available="true">
       <vendorCode>000017066</vendorCode>
@@ -7707,8 +7707,8 @@
       <param name="Колір">Нержавіюча сталь</param>
       <param name="Тип виливу">Поворотний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">2.600000</param>
-      <param name="Об&apos;єм (м³)">0.008480</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.008000</param>
     </offer>
     <offer id="17523" available="true">
       <vendorCode>000017523</vendorCode>
@@ -8274,8 +8274,8 @@
       <param name="Колір">Нержавіюча сталь</param>
       <param name="Тип виливу">Гнучкий</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">1.400000</param>
-      <param name="Об&apos;єм (м³)">0.005580</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.006000</param>
     </offer>
     <offer id="17547" available="true">
       <vendorCode>000017547</vendorCode>
@@ -8558,8 +8558,8 @@
       <param name="Вид монтажу">Врізний</param>
       <param name="Колір">Хром</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">1.813000</param>
-      <param name="Об&apos;єм (м³)">0.008713</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.009000</param>
     </offer>
     <offer id="17647" available="true">
       <vendorCode>000017647</vendorCode>
@@ -8653,8 +8653,8 @@
       <param name="Країна реєстрації бренду">Україна</param>
       <param name="Тип">Стоп лійка</param>
       <param name="Матеріал">ABS пластик</param>
-      <param name="Вага брутто (кг.)">0.120000</param>
-      <param name="Об&apos;єм (м³)">0.000534</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.001000</param>
     </offer>
     <offer id="17954" available="true">
       <vendorCode>000017954</vendorCode>
@@ -8801,8 +8801,8 @@
       <param name="Колір">Хром</param>
       <param name="Тип виливу">Поворотний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">1.400000</param>
-      <param name="Об&apos;єм (м³)">0.007500</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.008000</param>
     </offer>
     <offer id="18061" available="false">
       <vendorCode>000018061</vendorCode>
@@ -8858,8 +8858,8 @@
       <param name="Колір">Чорний</param>
       <param name="Тип виливу">Поворотний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">1.400000</param>
-      <param name="Об&apos;єм (м³)">0.007500</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.008000</param>
     </offer>
     <offer id="18084" available="true">
       <vendorCode>000018084</vendorCode>
@@ -9234,8 +9234,8 @@
       <param name="Тип">Мильниця</param>
       <param name="Матеріал">Нержавіюча сталь</param>
       <param name="Колір">Нержавіюча сталь</param>
-      <param name="Вага брутто (кг.)">0.360000</param>
-      <param name="Об&apos;єм (м³)">0.001935</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.002000</param>
     </offer>
     <offer id="18161" available="true">
       <vendorCode>000018161</vendorCode>
@@ -9294,8 +9294,8 @@
       <param name="Тип">Стакан</param>
       <param name="Матеріал">Нержавіюча сталь</param>
       <param name="Колір">Нержавіюча сталь</param>
-      <param name="Вага брутто (кг.)">0.650000</param>
-      <param name="Об&apos;єм (м³)">0.002850</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.003000</param>
     </offer>
     <offer id="18164" available="true">
       <vendorCode>000018164</vendorCode>
@@ -9407,8 +9407,8 @@
       <param name="Колір">Хром</param>
       <param name="Тип виливу">Гнучкий</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">1.200000</param>
-      <param name="Об&apos;єм (м³)">0.004347</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.004000</param>
     </offer>
     <offer id="18438" available="false">
       <vendorCode>000018438</vendorCode>
@@ -9465,8 +9465,8 @@
       <param name="Колір">Хром</param>
       <param name="Тип виливу">Стаціонарний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">1.750000</param>
-      <param name="Об&apos;єм (м³)">0.006675</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.007000</param>
     </offer>
     <offer id="18440" available="false">
       <vendorCode>000018440</vendorCode>
@@ -9552,8 +9552,8 @@
       <param name="Колір">Хром</param>
       <param name="Тип виливу">Поворотний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">1.900000</param>
-      <param name="Об&apos;єм (м³)">0.007030</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.007000</param>
     </offer>
     <offer id="18444" available="true">
       <vendorCode>000018444</vendorCode>
@@ -9663,8 +9663,8 @@
       <param name="Колір">Хром</param>
       <param name="Тип виливу">Поворотний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">1.813000</param>
-      <param name="Об&apos;єм (м³)">0.007588</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.008000</param>
     </offer>
     <offer id="18450" available="true">
       <vendorCode>000018450</vendorCode>
@@ -9838,8 +9838,8 @@
       <param name="Колір">Хром</param>
       <param name="Тип виливу">Гнучкий</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">1.584000</param>
-      <param name="Об&apos;єм (м³)">0.002960</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.003000</param>
     </offer>
     <offer id="18457" available="false">
       <vendorCode>000018457</vendorCode>
@@ -9920,8 +9920,8 @@
       <param name="Колір">Чорний</param>
       <param name="Тип виливу">Гнучкий</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">1.560000</param>
-      <param name="Об&apos;єм (м³)">0.008230</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.008000</param>
     </offer>
     <offer id="18461" available="true">
       <vendorCode>000018461</vendorCode>
@@ -10113,8 +10113,8 @@
       <param name="Матеріал">Латунь</param>
       <param name="Колір">Хром</param>
       <param name="Термостат">Є</param>
-      <param name="Вага брутто (кг.)">3.667000</param>
-      <param name="Об&apos;єм (м³)">0.004480</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.004000</param>
     </offer>
     <offer id="18474" available="true">
       <vendorCode>000018474</vendorCode>
@@ -10191,8 +10191,8 @@
       <param name="Матеріал">Латунь</param>
       <param name="Колір">Хром</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">1.412000</param>
-      <param name="Об&apos;єм (м³)">0.015740</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.016000</param>
     </offer>
     <offer id="18556" available="true">
       <vendorCode>000018556</vendorCode>
@@ -10537,8 +10537,8 @@
       <param name="Колір">Нержавіюча сталь</param>
       <param name="Тип виливу">Поворотний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">2.400000</param>
-      <param name="Об&apos;єм (м³)">0.007250</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.007000</param>
     </offer>
     <offer id="19186" available="true">
       <vendorCode>000019186</vendorCode>
@@ -10949,8 +10949,8 @@
       <param name="Колір">Чорний</param>
       <param name="Тип виливу">Поворотний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">1.200000</param>
-      <param name="Об&apos;єм (м³)">0.005190</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.005000</param>
     </offer>
     <offer id="19203" available="true">
       <vendorCode>000019203</vendorCode>
@@ -11001,8 +11001,8 @@
       <param name="Колір">Темно-сірий</param>
       <param name="Тип виливу">Поворотний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">1.200000</param>
-      <param name="Об&apos;єм (м³)">0.005190</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.005000</param>
     </offer>
     <offer id="19207" available="true">
       <vendorCode>000019207</vendorCode>
@@ -11029,8 +11029,8 @@
       <param name="Колір">Бежевий</param>
       <param name="Тип виливу">Поворотний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">1.200000</param>
-      <param name="Об&apos;єм (м³)">0.005190</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.005000</param>
     </offer>
     <offer id="19208" available="false">
       <vendorCode>000019208</vendorCode>
@@ -11134,8 +11134,8 @@
       <param name="Колір">Нержавіюча сталь</param>
       <param name="Тип виливу">Поворотний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">1.200000</param>
-      <param name="Об&apos;єм (м³)">0.005190</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.005000</param>
     </offer>
     <offer id="19212" available="false">
       <vendorCode>000019212</vendorCode>
@@ -11160,8 +11160,8 @@
       <param name="Колір">Бронза</param>
       <param name="Тип виливу">Поворотний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">1.200000</param>
-      <param name="Об&apos;єм (м³)">0.005190</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.005000</param>
     </offer>
     <offer id="19213" available="false">
       <vendorCode>000019213</vendorCode>
@@ -11318,8 +11318,8 @@
       <param name="Колір">Чорний</param>
       <param name="Тип виливу">Поворотний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">1.938000</param>
-      <param name="Об&apos;єм (м³)">0.008700</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.009000</param>
     </offer>
     <offer id="19222" available="true">
       <vendorCode>000019222</vendorCode>
@@ -11371,8 +11371,8 @@
       <param name="Колір">Темно-сірий</param>
       <param name="Тип виливу">Поворотний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">1.938000</param>
-      <param name="Об&apos;єм (м³)">0.008700</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.009000</param>
     </offer>
     <offer id="19224" available="false">
       <vendorCode>000019224</vendorCode>
@@ -11452,8 +11452,8 @@
       <param name="Колір">Коричневий</param>
       <param name="Тип виливу">Поворотний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">1.938000</param>
-      <param name="Об&apos;єм (м³)">0.008700</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.009000</param>
     </offer>
     <offer id="19227" available="false">
       <vendorCode>000019227</vendorCode>
@@ -11478,8 +11478,8 @@
       <param name="Колір">Білий</param>
       <param name="Тип виливу">Поворотний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">1.938000</param>
-      <param name="Об&apos;єм (м³)">0.008700</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.009000</param>
     </offer>
     <offer id="19230" available="false">
       <vendorCode>000019230</vendorCode>
@@ -11531,8 +11531,8 @@
       <param name="Колір">Темно-сірий</param>
       <param name="Тип виливу">Поворотний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">2.300000</param>
-      <param name="Об&apos;єм (м³)">0.009798</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.010000</param>
     </offer>
     <offer id="19234" available="false">
       <vendorCode>000019234</vendorCode>
@@ -11637,8 +11637,8 @@
       <param name="Колір">Пісочний</param>
       <param name="Тип виливу">Поворотний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">2.530000</param>
-      <param name="Об&apos;єм (м³)">0.008710</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.009000</param>
     </offer>
     <offer id="19238" available="false">
       <vendorCode>000019238</vendorCode>
@@ -11663,8 +11663,8 @@
       <param name="Колір">Бежевий</param>
       <param name="Тип виливу">Поворотний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">2.530000</param>
-      <param name="Об&apos;єм (м³)">0.008710</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.009000</param>
     </offer>
     <offer id="19239" available="false">
       <vendorCode>000019239</vendorCode>
@@ -11849,8 +11849,8 @@
       <param name="Колір">Пісочний</param>
       <param name="Тип виливу">Поворотний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">2.530000</param>
-      <param name="Об&apos;єм (м³)">0.008710</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.009000</param>
     </offer>
     <offer id="19255" available="true">
       <vendorCode>000019255</vendorCode>
@@ -11903,8 +11903,8 @@
       <param name="Колір">Темно-сірий</param>
       <param name="Тип виливу">Поворотний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">2.280000</param>
-      <param name="Об&apos;єм (м³)">0.008710</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.009000</param>
     </offer>
     <offer id="19257" available="false">
       <vendorCode>000019257</vendorCode>
@@ -11930,8 +11930,8 @@
       <param name="Колір">Нержавіюча сталь</param>
       <param name="Тип виливу">Поворотний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">2.280000</param>
-      <param name="Об&apos;єм (м³)">0.008710</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.009000</param>
     </offer>
     <offer id="19258" available="false">
       <vendorCode>000019258</vendorCode>
@@ -11956,8 +11956,8 @@
       <param name="Колір">Хром</param>
       <param name="Тип виливу">Поворотний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">2.350000</param>
-      <param name="Об&apos;єм (м³)">0.008710</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.009000</param>
     </offer>
     <offer id="19259" available="true">
       <vendorCode>000019259</vendorCode>
@@ -12174,8 +12174,8 @@
       <param name="Колір">Бронза</param>
       <param name="Тип виливу">Поворотний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">2.600000</param>
-      <param name="Об&apos;єм (м³)">0.009798</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.010000</param>
     </offer>
     <offer id="19294" available="true">
       <vendorCode>000019294</vendorCode>
@@ -12225,7 +12225,7 @@
       <param name="Країна реєстрації бренду">Україна</param>
       <param name="Тип">Тропічний душ</param>
       <param name="Матеріал">ABS пластик</param>
-      <param name="Вага брутто (кг.)">0.300000</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.004000</param>
     </offer>
     <offer id="19326" available="true">
@@ -12377,8 +12377,8 @@
       <param name="Тип">Тримач рушників</param>
       <param name="Матеріал">Нержавіюча сталь</param>
       <param name="Колір">Нержавіюча сталь</param>
-      <param name="Вага брутто (кг.)">0.540000</param>
-      <param name="Об&apos;єм (м³)">0.007232</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.007000</param>
     </offer>
     <offer id="19463" available="true">
       <vendorCode>000019463</vendorCode>
@@ -12608,8 +12608,8 @@
       <param name="Тип">Стакан</param>
       <param name="Матеріал">Нержавіюча сталь</param>
       <param name="Колір">Нержавіюча сталь</param>
-      <param name="Вага брутто (кг.)">0.940000</param>
-      <param name="Об&apos;єм (м³)">0.002501</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.003000</param>
     </offer>
     <offer id="19474" available="false">
       <vendorCode>000019474</vendorCode>
@@ -12732,8 +12732,8 @@
       <param name="Тип">Тримач рушників</param>
       <param name="Матеріал">Нержавіюча сталь</param>
       <param name="Колір">Нержавіюча сталь</param>
-      <param name="Вага брутто (кг.)">0.550000</param>
-      <param name="Об&apos;єм (м³)">0.007232</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.007000</param>
     </offer>
     <offer id="19480" available="true">
       <vendorCode>000019480</vendorCode>
@@ -12772,8 +12772,8 @@
       <param name="Тип">Полиця</param>
       <param name="Матеріал">Нержавіюча сталь</param>
       <param name="Колір">Нержавіюча сталь</param>
-      <param name="Вага брутто (кг.)">1.720000</param>
-      <param name="Об&apos;єм (м³)">0.010124</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.010000</param>
     </offer>
     <offer id="19540" available="true">
       <vendorCode>000019540</vendorCode>
@@ -13720,8 +13720,8 @@
       <param name="Колір">Сірий</param>
       <param name="Тип виливу">Гнучкий</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">1.200000</param>
-      <param name="Об&apos;єм (м³)">0.008060</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.008000</param>
     </offer>
     <offer id="20073" available="true">
       <vendorCode>000020073</vendorCode>
@@ -14141,8 +14141,8 @@
       <param name="Матеріал">Латунь</param>
       <param name="Колір">Хром</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">6.250000</param>
-      <param name="Об&apos;єм (м³)">0.041500</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.042000</param>
     </offer>
     <offer id="20239" available="true">
       <vendorCode>000020239</vendorCode>
@@ -14193,8 +14193,8 @@
       <param name="Матеріал">Латунь</param>
       <param name="Колір">Хром</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">6.000000</param>
-      <param name="Об&apos;єм (м³)">0.062300</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.062000</param>
     </offer>
     <offer id="20241" available="true">
       <vendorCode>000020241</vendorCode>
@@ -14704,8 +14704,8 @@
       <param name="Країна реєстрації бренду">Україна</param>
       <param name="Тип">Ручна лійка</param>
       <param name="Матеріал">ABS пластик</param>
-      <param name="Вага брутто (кг.)">0.130000</param>
-      <param name="Об&apos;єм (м³)">0.000900</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.001000</param>
     </offer>
     <offer id="20781" available="true">
       <vendorCode>000020781</vendorCode>
@@ -14762,8 +14762,8 @@
       <param name="Країна реєстрації бренду">Україна</param>
       <param name="Тип">Ручна лійка</param>
       <param name="Матеріал">ABS пластик</param>
-      <param name="Вага брутто (кг.)">0.140000</param>
-      <param name="Об&apos;єм (м³)">0.000920</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.001000</param>
     </offer>
     <offer id="20784" available="true">
       <vendorCode>000020784</vendorCode>
@@ -15480,8 +15480,8 @@
       <param name="Колір">Нержавіюча сталь</param>
       <param name="Тип виливу">Поворотний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">2.048000</param>
-      <param name="Об&apos;єм (м³)">0.009700</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.010000</param>
     </offer>
     <offer id="20985" available="true">
       <vendorCode>000020985</vendorCode>
@@ -15534,8 +15534,8 @@
       <param name="Колір">Золотий</param>
       <param name="Тип виливу">Поворотний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">1.400000</param>
-      <param name="Об&apos;єм (м³)">0.007500</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.008000</param>
     </offer>
     <offer id="20987" available="true">
       <vendorCode>000020987</vendorCode>
@@ -16200,8 +16200,8 @@
       <param name="Колір">Чорний</param>
       <param name="Тип виливу">Поворотний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">2.770000</param>
-      <param name="Об&apos;єм (м³)">0.010088</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.010000</param>
     </offer>
     <offer id="21174" available="true">
       <vendorCode>000021174</vendorCode>
@@ -16372,8 +16372,8 @@
       <param name="Тип">Полиця</param>
       <param name="Матеріал">Нержавіюча сталь</param>
       <param name="Колір">Чорний</param>
-      <param name="Вага брутто (кг.)">1.700000</param>
-      <param name="Об&apos;єм (м³)">0.010124</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.010000</param>
     </offer>
     <offer id="21195" available="true">
       <vendorCode>000021195</vendorCode>
@@ -16527,8 +16527,8 @@
       <param name="Тип">Стакан</param>
       <param name="Матеріал">Нержавіюча сталь</param>
       <param name="Колір">Чорний</param>
-      <param name="Вага брутто (кг.)">0.390000</param>
-      <param name="Об&apos;єм (м³)">0.001929</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.002000</param>
     </offer>
     <offer id="21202" available="false">
       <vendorCode>000021202</vendorCode>
@@ -16593,8 +16593,8 @@
       <param name="Країна реєстрації бренду">Україна</param>
       <param name="Тип">Тропічний душ</param>
       <param name="Матеріал">Нержавіюча сталь</param>
-      <param name="Вага брутто (кг.)">0.800000</param>
-      <param name="Об&apos;єм (м³)">0.004494</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.004000</param>
     </offer>
     <offer id="21205" available="true">
       <vendorCode>000021205</vendorCode>
@@ -16659,8 +16659,8 @@
       <param name="Країна реєстрації бренду">Україна</param>
       <param name="Тип">Ручна лійка</param>
       <param name="Матеріал">ABS пластик</param>
-      <param name="Вага брутто (кг.)">0.220000</param>
-      <param name="Об&apos;єм (м³)">0.001525</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.002000</param>
     </offer>
     <offer id="21210" available="true">
       <vendorCode>000021210</vendorCode>
@@ -16824,8 +16824,8 @@
       <param name="Тип">Тримач рушників</param>
       <param name="Матеріал">Латунь</param>
       <param name="Колір">Хром</param>
-      <param name="Вага брутто (кг.)">1.000000</param>
-      <param name="Об&apos;єм (м³)">0.006384</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.006000</param>
     </offer>
     <offer id="21224" available="true">
       <vendorCode>000021224</vendorCode>
@@ -16868,8 +16868,8 @@
       <param name="Тип">Тримач рушників</param>
       <param name="Матеріал">Латунь</param>
       <param name="Колір">Хром</param>
-      <param name="Вага брутто (кг.)">0.600000</param>
-      <param name="Об&apos;єм (м³)">0.003341</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.003000</param>
     </offer>
     <offer id="21226" available="true">
       <vendorCode>000021226</vendorCode>
@@ -16889,8 +16889,8 @@
       <param name="Тип">Тримач рушників</param>
       <param name="Матеріал">Латунь</param>
       <param name="Колір">Хром</param>
-      <param name="Вага брутто (кг.)">0.660000</param>
-      <param name="Об&apos;єм (м³)">0.004179</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.004000</param>
     </offer>
     <offer id="21227" available="true">
       <vendorCode>000021227</vendorCode>
@@ -17366,8 +17366,8 @@
       <param name="Тип">Стакан</param>
       <param name="Матеріал">Латунь</param>
       <param name="Колір">Чорний</param>
-      <param name="Вага брутто (кг.)">1.050000</param>
-      <param name="Об&apos;єм (м³)">0.004764</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.005000</param>
     </offer>
     <offer id="21253" available="true">
       <vendorCode>000021253</vendorCode>
@@ -17607,8 +17607,8 @@
       <param name="Тип">Полиця</param>
       <param name="Матеріал">Латунь</param>
       <param name="Колір">Хром</param>
-      <param name="Вага брутто (кг.)">2.667000</param>
-      <param name="Об&apos;єм (м³)">0.033377</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.033000</param>
     </offer>
     <offer id="21345" available="true">
       <vendorCode>000021345</vendorCode>
@@ -17792,8 +17792,8 @@
       <param name="Колір">Хром</param>
       <param name="Тип виливу">Стаціонарний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">1.100000</param>
-      <param name="Об&apos;єм (м³)">0.004800</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.005000</param>
     </offer>
     <offer id="21361" available="true">
       <vendorCode>000021361</vendorCode>
@@ -18651,8 +18651,8 @@
       <param name="Колір">Чорний</param>
       <param name="Тип виливу">Поворотний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">3.150000</param>
-      <param name="Об&apos;єм (м³)">0.007007</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.007000</param>
     </offer>
     <offer id="21858" available="true">
       <vendorCode>000021858</vendorCode>
@@ -18780,8 +18780,8 @@
       <param name="Тип">Тримач рушників</param>
       <param name="Матеріал">Нержавіюча сталь</param>
       <param name="Колір">Нержавіюча сталь</param>
-      <param name="Вага брутто (кг.)">0.400000</param>
-      <param name="Об&apos;єм (м³)">0.004012</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.004000</param>
     </offer>
     <offer id="21906" available="true">
       <vendorCode>000021906</vendorCode>
@@ -19025,8 +19025,8 @@
       <param name="Матеріал">Латунь</param>
       <param name="Колір">Чорний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">4.500000</param>
-      <param name="Об&apos;єм (м³)">0.031250</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.031000</param>
     </offer>
     <offer id="21922" available="false">
       <vendorCode>000021922</vendorCode>
@@ -19186,8 +19186,8 @@
       <param name="Матеріал">Латунь</param>
       <param name="Колір">Чорний</param>
       <param name="Термостат">Є</param>
-      <param name="Вага брутто (кг.)">3.167000</param>
-      <param name="Об&apos;єм (м³)">0.021400</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.021000</param>
     </offer>
     <offer id="21954" available="false">
       <vendorCode>000021954</vendorCode>
@@ -19238,8 +19238,8 @@
       <param name="Матеріал">Латунь</param>
       <param name="Колір">Чорний</param>
       <param name="Термостат">Є</param>
-      <param name="Вага брутто (кг.)">5.083000</param>
-      <param name="Об&apos;єм (м³)">0.022100</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.022000</param>
     </offer>
     <offer id="21956" available="false">
       <vendorCode>000021956</vendorCode>
@@ -19484,8 +19484,8 @@
       <param name="Колір">Чорний</param>
       <param name="Тип виливу">Стаціонарний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">1.900000</param>
-      <param name="Об&apos;єм (м³)">0.006980</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.007000</param>
     </offer>
     <offer id="21993" available="true">
       <vendorCode>000021993</vendorCode>
@@ -19591,8 +19591,8 @@
       <param name="Колір">Хром</param>
       <param name="Тип виливу">Гнучкий</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">2.938000</param>
-      <param name="Об&apos;єм (м³)">0.012213</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.012000</param>
     </offer>
     <offer id="21999" available="true">
       <vendorCode>000021999</vendorCode>
@@ -19753,8 +19753,8 @@
       <param name="Колір">Нержавіюча сталь</param>
       <param name="Тип виливу">Поворотний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">1.150000</param>
-      <param name="Об&apos;єм (м³)">0.004570</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.005000</param>
     </offer>
     <offer id="22008" available="false">
       <vendorCode>000022008</vendorCode>
@@ -19782,8 +19782,8 @@
       <param name="Колір">Нержавіюча сталь</param>
       <param name="Тип виливу">Стаціонарний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">1.400000</param>
-      <param name="Об&apos;єм (м³)">0.002850</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.003000</param>
     </offer>
     <offer id="22009" available="false">
       <vendorCode>000022009</vendorCode>
@@ -19808,8 +19808,8 @@
       <param name="Колір">Нержавіюча сталь</param>
       <param name="Тип виливу">Стаціонарний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">1.100000</param>
-      <param name="Об&apos;єм (м³)">0.003660</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.004000</param>
     </offer>
     <offer id="22010" available="false">
       <vendorCode>000022010</vendorCode>
@@ -19834,8 +19834,8 @@
       <param name="Колір">Нержавіюча сталь</param>
       <param name="Тип виливу">Поворотний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">1.000000</param>
-      <param name="Об&apos;єм (м³)">0.004430</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.004000</param>
     </offer>
     <offer id="22011" available="true">
       <vendorCode>000022011</vendorCode>
@@ -20021,8 +20021,8 @@
       <param name="Колір">Нержавіюча сталь</param>
       <param name="Тип виливу">Гнучкий</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">1.500000</param>
-      <param name="Об&apos;єм (м³)">0.007910</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.008000</param>
     </offer>
     <offer id="22019" available="true">
       <vendorCode>000022019</vendorCode>
@@ -20441,8 +20441,8 @@
       <param name="Тип">Стакан</param>
       <param name="Матеріал">Нержавіюча сталь</param>
       <param name="Колір">Чорний</param>
-      <param name="Вага брутто (кг.)">0.940000</param>
-      <param name="Об&apos;єм (м³)">0.002500</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.003000</param>
     </offer>
     <offer id="22212" available="false">
       <vendorCode>000022212</vendorCode>
@@ -20462,8 +20462,8 @@
       <param name="Призначення">Для ванни</param>
       <param name="Матеріал">Нержавіюча сталь</param>
       <param name="Колір">Чорний</param>
-      <param name="Вага брутто (кг.)">0.345000</param>
-      <param name="Об&apos;єм (м³)">0.002140</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.002000</param>
     </offer>
     <offer id="22213" available="true">
       <vendorCode>000022213</vendorCode>
@@ -20555,8 +20555,8 @@
       <param name="Колір">Сірий</param>
       <param name="Тип виливу">Поворотний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">2.000000</param>
-      <param name="Об&apos;єм (м³)">0.006540</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.007000</param>
     </offer>
     <offer id="22218" available="false">
       <vendorCode>000022218</vendorCode>
@@ -20582,8 +20582,8 @@
       <param name="Колір">Сірий</param>
       <param name="Тип виливу">Поворотний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">0.625000</param>
-      <param name="Об&apos;єм (м³)">0.003850</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.004000</param>
     </offer>
     <offer id="22219" available="false">
       <vendorCode>000022219</vendorCode>
@@ -20609,8 +20609,8 @@
       <param name="Колір">Чорний</param>
       <param name="Тип виливу">Поворотний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">0.625000</param>
-      <param name="Об&apos;єм (м³)">0.003850</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.004000</param>
     </offer>
     <offer id="22220" available="false">
       <vendorCode>000022220</vendorCode>
@@ -20635,8 +20635,8 @@
       <param name="Колір">Чорний</param>
       <param name="Тип виливу">Поворотний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">0.650000</param>
-      <param name="Об&apos;єм (м³)">0.003850</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.004000</param>
     </offer>
     <offer id="22254" available="true">
       <vendorCode>000022254</vendorCode>
@@ -21226,8 +21226,8 @@
       <param name="Колір">Чорний</param>
       <param name="Тип виливу">Поворотний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">1.200000</param>
-      <param name="Об&apos;єм (м³)">0.004400</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.004000</param>
     </offer>
     <offer id="22557" available="false">
       <vendorCode>000022557</vendorCode>
@@ -21255,8 +21255,8 @@
       <param name="Колір">Чорний</param>
       <param name="Тип виливу">Гнучкий</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">1.250000</param>
-      <param name="Об&apos;єм (м³)">0.005700</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.006000</param>
     </offer>
     <offer id="22558" available="false">
       <vendorCode>000022558</vendorCode>
@@ -21281,8 +21281,8 @@
       <param name="Матеріал">Латунь</param>
       <param name="Колір">Чорний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">1.059000</param>
-      <param name="Об&apos;єм (м³)">0.007784</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.008000</param>
     </offer>
     <offer id="22561" available="false">
       <vendorCode>000022561</vendorCode>
@@ -21339,7 +21339,7 @@
       <param name="Колір">Білий</param>
       <param name="Тип виливу">Стаціонарний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">1.500000</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.007000</param>
     </offer>
     <offer id="22563" available="true">
@@ -21733,8 +21733,8 @@
       <param name="Колір">Нержавіюча сталь</param>
       <param name="Тип виливу">Поворотний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">1.300000</param>
-      <param name="Об&apos;єм (м³)">0.006100</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.006000</param>
     </offer>
     <offer id="22613" available="true">
       <vendorCode>000022613</vendorCode>
@@ -22068,8 +22068,8 @@
       <param name="Колір">Графіт</param>
       <param name="Тип виливу">Гнучкий</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">1.500000</param>
-      <param name="Об&apos;єм (м³)">0.007913</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.008000</param>
     </offer>
     <offer id="22952" available="true">
       <vendorCode>000022952</vendorCode>
@@ -22180,8 +22180,8 @@
       <param name="Колір">Нержавіюча сталь</param>
       <param name="Тип виливу">Поворотний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">1.000000</param>
-      <param name="Об&apos;єм (м³)">0.003600</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.004000</param>
     </offer>
     <offer id="22962" available="false">
       <vendorCode>000022962</vendorCode>
@@ -22348,8 +22348,8 @@
       <param name="Матеріал">Нержавіюча сталь</param>
       <param name="Колір">Нержавіюча сталь</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">3.833000</param>
-      <param name="Об&apos;єм (м³)">0.047021</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.047000</param>
     </offer>
     <offer id="22971" available="false">
       <vendorCode>000022971</vendorCode>
@@ -22713,8 +22713,8 @@
       <param name="Колір">Темно-сірий</param>
       <param name="Тип виливу">Поворотний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">1.813000</param>
-      <param name="Об&apos;єм (м³)">0.008713</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.009000</param>
     </offer>
     <offer id="23156" available="false">
       <vendorCode>000023156</vendorCode>
@@ -23136,8 +23136,8 @@
       <param name="Колір">Графіт</param>
       <param name="Тип виливу">Гнучкий</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">1.000000</param>
-      <param name="Об&apos;єм (м³)">0.004950</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.005000</param>
     </offer>
     <offer id="23322" available="true">
       <vendorCode>000023322</vendorCode>
@@ -23191,8 +23191,8 @@
       <param name="Колір">Хром</param>
       <param name="Тип виливу">Поворотний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">1.875000</param>
-      <param name="Об&apos;єм (м³)">0.008280</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.008000</param>
     </offer>
     <offer id="23324" available="false">
       <vendorCode>000023324</vendorCode>
@@ -23218,8 +23218,8 @@
       <param name="Колір">Графіт</param>
       <param name="Тип виливу">Гнучкий</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">1.292000</param>
-      <param name="Об&apos;єм (м³)">0.003900</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.004000</param>
     </offer>
     <offer id="23325" available="true">
       <vendorCode>000023325</vendorCode>
@@ -23316,8 +23316,8 @@
       <param name="Матеріал">Латунь</param>
       <param name="Колір">Чорний</param>
       <param name="Термостат">Є</param>
-      <param name="Вага брутто (кг.)">6.400000</param>
-      <param name="Об&apos;єм (м³)">0.029600</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.030000</param>
     </offer>
     <offer id="23328" available="true">
       <vendorCode>000023328</vendorCode>
@@ -23340,8 +23340,8 @@
       <param name="Матеріал">Латунь</param>
       <param name="Колір">Хром</param>
       <param name="Термостат">Є</param>
-      <param name="Вага брутто (кг.)">6.400000</param>
-      <param name="Об&apos;єм (м³)">0.029600</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.030000</param>
     </offer>
     <offer id="23330" available="true">
       <vendorCode>000023330</vendorCode>
@@ -23366,8 +23366,8 @@
       <param name="Матеріал">Латунь</param>
       <param name="Колір">Чорний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">6.600000</param>
-      <param name="Об&apos;єм (м³)">0.094210</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.094000</param>
     </offer>
     <offer id="23331" available="false">
       <vendorCode>000023331</vendorCode>
@@ -23873,8 +23873,8 @@
       <param name="Колір">Чорний</param>
       <param name="Тип виливу">Гнучкий</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">3.313000</param>
-      <param name="Об&apos;єм (м³)">0.012212</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.012000</param>
     </offer>
     <offer id="24676" available="true">
       <vendorCode>000024676</vendorCode>
@@ -24183,8 +24183,8 @@
       <param name="Колір">Нержавіюча сталь</param>
       <param name="Тип виливу">Поворотний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">1.390000</param>
-      <param name="Об&apos;єм (м³)">0.003970</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.004000</param>
     </offer>
     <offer id="24963" available="true">
       <vendorCode>000024963</vendorCode>
@@ -24241,8 +24241,8 @@
       <param name="Колір">Нержавіюча сталь</param>
       <param name="Тип виливу">Поворотний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">1.460000</param>
-      <param name="Об&apos;єм (м³)">0.003970</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.004000</param>
     </offer>
     <offer id="24966" available="false">
       <vendorCode>000024966</vendorCode>
@@ -24268,8 +24268,8 @@
       <param name="Колір">Нержавіюча сталь</param>
       <param name="Тип виливу">Поворотний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">1.350000</param>
-      <param name="Об&apos;єм (м³)">0.003970</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.004000</param>
     </offer>
     <offer id="24968" available="false">
       <vendorCode>000024968</vendorCode>
@@ -24294,8 +24294,8 @@
       <param name="Колір">Нержавіюча сталь</param>
       <param name="Тип виливу">Поворотний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">1.360000</param>
-      <param name="Об&apos;єм (м³)">0.003970</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.004000</param>
     </offer>
     <offer id="24969" available="true">
       <vendorCode>000024969</vendorCode>
@@ -24324,8 +24324,8 @@
       <param name="Колір">Нержавіюча сталь</param>
       <param name="Тип виливу">Поворотний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">1.520000</param>
-      <param name="Об&apos;єм (м³)">0.003970</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.004000</param>
     </offer>
     <offer id="24970" available="true">
       <vendorCode>000024970</vendorCode>
@@ -24352,8 +24352,8 @@
       <param name="Колір">Нержавіюча сталь</param>
       <param name="Тип виливу">Стаціонарний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">0.950000</param>
-      <param name="Об&apos;єм (м³)">0.004570</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.005000</param>
     </offer>
     <offer id="24971" available="false">
       <vendorCode>000024971</vendorCode>
@@ -24379,8 +24379,8 @@
       <param name="Колір">Нержавіюча сталь</param>
       <param name="Тип виливу">Поворотний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">1.108000</param>
-      <param name="Об&apos;єм (м³)">0.004570</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.005000</param>
     </offer>
     <offer id="24973" available="false">
       <vendorCode>000024973</vendorCode>
@@ -24408,8 +24408,8 @@
       <param name="Колір">Нержавіюча сталь</param>
       <param name="Тип виливу">Поворотний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">1.050000</param>
-      <param name="Об&apos;єм (м³)">0.005450</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.005000</param>
     </offer>
     <offer id="24974" available="false">
       <vendorCode>000024974</vendorCode>
@@ -24437,8 +24437,8 @@
       <param name="Колір">Нержавіюча сталь</param>
       <param name="Тип виливу">Поворотний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">1.030000</param>
-      <param name="Об&apos;єм (м³)">0.005450</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.005000</param>
     </offer>
     <offer id="24998" available="true">
       <vendorCode>000024998</vendorCode>
@@ -24498,8 +24498,8 @@
       <param name="Країна реєстрації бренду">Україна</param>
       <param name="Тип">Ручна лійка</param>
       <param name="Матеріал">ABS пластик</param>
-      <param name="Вага брутто (кг.)">0.150000</param>
-      <param name="Об&apos;єм (м³)">0.001075</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.001000</param>
     </offer>
     <offer id="25155" available="false">
       <vendorCode>000025155</vendorCode>
@@ -24724,9 +24724,9 @@
       <price>225</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
-      <name>Шланг душовий Globus Lux NH-10-BB-160 PVS-Pipes</name>
+      <name>Шланг душовий Globus Lux NH-10-BB-160 PVC-Pipes</name>
       <stock_quantity>6</stock_quantity>
-      <description><![CDATA[ланг душовий Globus Lux NH-10-BB-160 PVS-Pipes <br>Довжина - 160 см<br>Підключення - 1/2″ x 1/2″<br>Особливості:<br>- Антибактеріальне покриття<br>- З&apos;єднання Double LOck<br>- серцевина латунь<br>Матеріал - силікон<br>Колір - чорний<br>Вага - 0.335 кг<br>Виробник - Китай]]></description>
+      <description><![CDATA[ланг душовий Globus Lux NH-10-BB-160 PVC-Pipes <br>Довжина - 160 см<br>Підключення - 1/2″ x 1/2″<br>Особливості:<br>- Антибактеріальне покриття<br>- З&apos;єднання Double LOck<br>- серцевина латунь<br>Матеріал - силікон<br>Колір - чорний<br>Вага - 0.335 кг<br>Виробник - Китай]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/25177/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/25177/2.jpeg</picture>
       <param name="Країна походження">Китай</param>
@@ -26684,8 +26684,8 @@
       <picture>https://b2b-sklad.com/storage/img/products/27589/5.jpeg</picture>
       <param name="Країна походження">Китай</param>
       <param name="Країна реєстрації бренду">Україна</param>
-      <param name="Вага брутто (кг.)">0.700000</param>
-      <param name="Об&apos;єм (м³)">0.005850</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.006000</param>
     </offer>
     <offer id="27590" available="false">
       <vendorCode>000027590</vendorCode>
@@ -26704,8 +26704,8 @@
       <picture>https://b2b-sklad.com/storage/img/products/27590/6.jpeg</picture>
       <param name="Країна походження">Китай</param>
       <param name="Країна реєстрації бренду">Україна</param>
-      <param name="Вага брутто (кг.)">0.700000</param>
-      <param name="Об&apos;єм (м³)">0.005850</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.006000</param>
     </offer>
     <offer id="27591" available="true">
       <vendorCode>000027591</vendorCode>
@@ -27018,8 +27018,8 @@
       <param name="Матеріал">Латунь</param>
       <param name="Колір">Хром</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">5.000000</param>
-      <param name="Об&apos;єм (м³)">0.063300</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.063000</param>
     </offer>
     <offer id="28360" available="false">
       <vendorCode>000028360</vendorCode>
@@ -27047,7 +27047,7 @@
       <param name="Матеріал">Латунь</param>
       <param name="Колір">Хром</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">5.000000</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.063000</param>
     </offer>
     <offer id="28361" available="false">
@@ -27074,8 +27074,8 @@
       <param name="Колір">Хром</param>
       <param name="Тип виливу">Стаціонарний</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">1.167000</param>
-      <param name="Об&apos;єм (м³)">0.003670</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.004000</param>
     </offer>
     <offer id="28392" available="false">
       <vendorCode>000028392</vendorCode>
@@ -27181,8 +27181,8 @@
       <param name="Колір">Сірий</param>
       <param name="Тип виливу">Гнучкий</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">1.200000</param>
-      <param name="Об&apos;єм (м³)">0.008064</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.008000</param>
     </offer>
     <offer id="28459" available="true">
       <vendorCode>000028459</vendorCode>
@@ -27439,8 +27439,8 @@
       <param name="Країна походження">Китай</param>
       <param name="Країна реєстрації бренду">Україна</param>
       <param name="Довжина (см.)">150</param>
-      <param name="Вага брутто (кг.)">0.190000</param>
-      <param name="Об&apos;єм (м³)">0.000635</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.001000</param>
     </offer>
     <offer id="28486" available="true">
       <vendorCode>000028486</vendorCode>
@@ -27875,8 +27875,8 @@
       <param name="Колір">Чорний</param>
       <param name="Тип виливу">Гнучкий</param>
       <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">1.300000</param>
-      <param name="Об&apos;єм (м³)">0.004644</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.005000</param>
     </offer>
     <offer id="28522" available="true">
       <vendorCode>000028522</vendorCode>
