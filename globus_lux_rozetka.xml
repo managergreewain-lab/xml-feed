@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-07-20 13:46">
+<yml_catalog date="2026-07-20 14:46">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -8110,14 +8110,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.004000</param>
     </offer>
-    <offer id="17539" available="true">
+    <offer id="17539" available="false">
       <vendorCode>000017539</vendorCode>
       <categoryId>11</categoryId>
       <price>2000</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для ванни Globus Lux WIEN SBT2-102N</name>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Змішувач для ванни Globus Lux WIEN SBT2-102N SUS304<br>Вид монтажу: настінний<br>Вид змішувача: Одноважільний<br>Габарити (ВхГ): 13 х 18 см<br>Тип виливу: поворотний<br>Довжина виливу: 17.5 см<br>Матеріал: Нержавіюча сталь<br>Колір виробу: Нержавіюча сталь<br>Комплектація:<br>- тримач для душа,<br>- кругла ручна лійка ø10 см,<br>- шланг душовий<br>- ексцентрики для змішувачів настінного монтажу<br>- декоративні чаші<br>Вага: 1.9 кг<br>Країна-виробник товару: Китай<br>Гарантія: 12 місяців офіційної гарантії від виробника.]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/17539/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/17539/2.jpeg</picture>
@@ -14455,7 +14455,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Душова лійка Globus Lux NS-1082-P</name>
-      <stock_quantity>10</stock_quantity>
+      <stock_quantity>4</stock_quantity>
       <description><![CDATA[Душова лійка Globus Lux NS-1082-LUX-P<br>Матеріал - Пластик<br>Колір - Біло-сірий<br>Кількість типів струї - 1<br>Діаметр ручної лійки - 7.5<br>Вага - 0.11 кг<br>Країна виробник - Китай]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/20407/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/20407/2.jpeg</picture>
@@ -23458,7 +23458,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Кран для зворотнього осмосу Globus Lux ALPEN SBT1-55M-00 моно SUS304. Нержавійка з Quick Fitting</name>
-      <stock_quantity>2</stock_quantity>
+      <stock_quantity>1</stock_quantity>
       <description><![CDATA[Кран зворотного осмосу Globus Lux ALPEN SBT1-55M SUS304<br>Вид монтажу: Врізний<br>Вид змішувача: Одноважільний<br>Тип виливу: Поворотний<br>Підключення до осмосу<br>Матеріал: Нержавіюча сталь<br>Колір виробу: Нержавіюча сталь<br>Додаткові характеристики:<br>- Монтаж на один отвір<br>- Металевий, бічний важіль<br>- Система швидкого монтажу<br>Комплектація:<br>- Змішувач<br>- Кріплення для змішувача - гайка з пластика<br>- Квик-фітінг<br>Країна-виробник товару: Китай<br><br>Картридж SC-0055MB-  для монокрана,55M , 76A, латунь<br>Гарантія: 12 місяців офіційної гарантії від виробника.<br>Габарити упаковки:<br>ВхШхГ: 5х35х19см<br>Вага брутто: 0,59 кг<br>Вага нетто: 0,45 кг]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/24468/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/24468/2.jpeg</picture>
@@ -24551,7 +24551,7 @@
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Душова лійка Topaz NF-2203-00</name>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>2</stock_quantity>
       <description><![CDATA[Душова лійка Topaz NF-2203-00<br>Матеріал - Пластик<br>Колір - Хром <br>Кількість типів струї - 3<br>Вага - 0.25 кг<br>Країна виробник - Китай<br><br>Душові лійки ТМ Topaz   — це довговічність, відома  якість, новітні технології та можливість створити зручну ванну кімнату.  Вони дозволять легко оновити вашу ванну кімнату і насолоджуватися душовими процедурами в новій якості.<br>Душові лійки ТМ Topaz відрізняються функціональністю та простотою застосування.  Матеріали, які використовуються для виробництва душових лійок мають  високу якість, що гарантуює надійну роботу протягом багатьох років.]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/25157/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/25157/2.jpeg</picture>
@@ -29132,7 +29132,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Кран для зворотнього осмосу Globus Lux Lazer GLLR-55M-GP</name>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>2</stock_quantity>
       <description><![CDATA[Кран для зворотнього осмосу Globus Lux Lazer GLLR-55M-GP<br>Вид монтажу: Врізний<br>Вид змішувача: Одноважільний<br>Тип виливу: Поворотний<br>Підключення до осмосу<br>Матеріал: латунь<br>Колір виробу: Графіт<br>Додаткові характеристики:<br>- Монтаж на один отвір<br>- Металевий, бічний важіль<br>- Система швидкого монтажу<br>Комплектація:<br>- Змішувач<br>- Кріплення для змішувача - гайка метал<br>- Квик-фітінг<br>Країна-виробник товару: Китай]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/29243/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/29243/2.jpeg</picture>
@@ -29574,7 +29574,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Кран для зворотнього осмосу Globus Lux Lazer GLLR-55M-BB</name>
-      <stock_quantity>10</stock_quantity>
+      <stock_quantity>9</stock_quantity>
       <description><![CDATA[Кран для зворотнього осмосу Globus Lux Lazer GLLR-55M-BB<br>Вид монтажу: Врізний<br>Вид змішувача: Одноважільний<br>Тип виливу: Поворотний<br>Підключення до осмосу<br>Матеріал: латунь<br>Колір виробу: чорний матовий<br>Додаткові характеристики:<br>- Монтаж на один отвір<br>- Металевий, бічний важіль<br>- Система швидкого монтажу<br>Комплектація:<br>- Змішувач<br>- Кріплення для змішувача - гайка метал<br>- Квик-фітінг<br>Країна-виробник товару: Китай]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/29886/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/29886/2.jpeg</picture>
