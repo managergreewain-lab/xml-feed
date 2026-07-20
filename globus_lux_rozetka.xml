@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-07-20 07:46">
+<yml_catalog date="2026-07-20 08:46">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -28217,7 +28217,7 @@
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Душова система вбудована TOPAZ ODISS TO-18205-H66-WW</name>
-      <stock_quantity>1</stock_quantity>
+      <stock_quantity>2</stock_quantity>
       <description><![CDATA[Душова система вбудована TOPAZ ODISS TO-18205-H66-WW, вбудований, душовий комплект, білий матовий<br><br>Серія змішувачів TOPAZ дивує своєю вишуканістю форм, надійністю в експлуатації, витонченим дизайном.<br>У комплектацію входить:<br>Змішувач з латуні вбудований<br>Душова штанга для верхньої лійки, монтаж зі стіни<br>Душова лійка верхня<br>Душова лійка ручна<br>Кріплення для ручної лійки з виходом під шланг<br>Шланг для душової лійки<br>Картридж-TC-35-Картридж керамічний короткий D35-TOPAZ<br><br>Якісна продукція TOPAZ прослужить Вам довгі роки<br><br>Габарити упаковки ВхГхШ: 46 х 30 х 9 см<br>Вага нетто: 3630г<br>Вага брутто: 3960г]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/28671/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/28671/2.jpeg</picture>
@@ -28278,7 +28278,7 @@
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Змішувач гігієнічний TOPAZ  ODISS TO 18604-H62-WW</name>
-      <stock_quantity>1</stock_quantity>
+      <stock_quantity>2</stock_quantity>
       <description><![CDATA[Змішувач гігієнічний TOPAZ ODISS TO 18604-H62-WW, моноблок, вбудований<br>Серія змішувачів TOPAZ дивує своєю вишуканістю форм, надійністю в експлуатації, витонченим дизайном.<br>Колір: Білий матовий<br>У комплектацію входить:<br>Змішувач з латуні з кріпленням для лійки<br>Душовий шланг<br>Стоп-лійка<br>Картридж-TC-25-Картридж керамічний короткий D25-TOPAZ<br>Якісна продукція TOPAZ прослужить Вам довгі роки]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/28673/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/28673/2.jpeg</picture>
@@ -28299,14 +28299,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.004000</param>
     </offer>
-    <offer id="28674" available="false">
+    <offer id="28674" available="true">
       <vendorCode>000028674</vendorCode>
       <categoryId>11</categoryId>
       <price>3890</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Змішувач для умивальника TOPAZ ODISS TO 18235-H66-WW</name>
-      <stock_quantity>0</stock_quantity>
+      <stock_quantity>1</stock_quantity>
       <description><![CDATA[Змішувач для умивальника TOPAZ ODISS TO 18235-H66-WW, монтаж в стіну<br><br>Серія змішувачів TOPAZ дивує своєю вишуканістю форм, надійністю в експлуатації, витонченим дизайном.<br>У комплектацію входить:<br>Змішувач з латуні<br>Колір: білий матовий<br>Картридж-TC-35-Картридж керамічний короткий D35-TOPAZ<br><br>Якісна продукція TOPAZ прослужить Вам довгі роки]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/28674/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/28674/2.jpeg</picture>
