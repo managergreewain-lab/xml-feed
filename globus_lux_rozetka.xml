@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-07-20 14:46">
+<yml_catalog date="2026-07-20 16:46">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -9317,14 +9317,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.008000</param>
     </offer>
-    <offer id="18165" available="true">
+    <offer id="18165" available="false">
       <vendorCode>000018165</vendorCode>
       <categoryId>30</categoryId>
       <price>627</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Поличка кутова Globus Lux SS 8499</name>
-      <stock_quantity>2</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Полиця одинарна кутова Globus Lux SS8499<br>Країна виробник товару - Китай<br>Тип товару - Аксесуари для ванної кімнати<br>Кріплення - Шурупи<br>Тип установки - Настінний (підвісний)<br>Матеріал виробу - нержавіюча сталь (SUS 304)<br>Колір виробу - нержавіюча сталь<br>Комплектація:<br>- Монтажні елементи<br>- Полиця<br>Габарити упаковки (ВхШхГ): 21 х 21 х 7 см<br>Габарити (ШхВ): 26.1 х 6 см<br>Вага в упаковці - 0.46 кг<br>Вага - 0.385 кг<br>Гарантія - 12 місяців офіційної гарантії від виробника]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/18165/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/18165/2.jpeg</picture>
@@ -16471,7 +16471,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Тримач для туалетного паперу Globus Lux BQ9410 чорний матовий SUS304</name>
-      <stock_quantity>7</stock_quantity>
+      <stock_quantity>5</stock_quantity>
       <description><![CDATA[Тримач для туалетного паперу Globus Lux BQ8410<br>Країна виробник товару - Китай<br>Тип товару - Аксесуари для ванної кімнати<br>Місткість тримача (рулон / листи) - 1 шт<br>Кріплення - Шурупи<br>Тип установки - Настінний (підвісний)<br>Матеріал виробу - Нержавіюча сталь (SUS 304)<br>Колір виробу - Черний матовий<br>Комплектація:<br>- Монтажні елементи<br>- Закритий тримач<br>Габарити упаковки (ВхШхГ): 15.5 х 13.5 х 7.5 см<br>Габарити (ШхВ): 12 х 15 см<br>Вага в упаковці - 0.315 кг<br>Вага - 0.265 кг<br>Гарантія - 12 місяців офіційної гарантії від виробника]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/21199/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/21199/2.jpeg</picture>
@@ -16493,7 +16493,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Йоржик настінний Globus Lux BQ9429A без кришки чорний матовий SUS304</name>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>1</stock_quantity>
       <description><![CDATA[Йорж настінний без кришки Globus Lux BQ8429A<br>Країна виробник товару - Китай<br>Тип товару - Аксесуари для ванної кімнати<br>Кріплення - Шурупи<br>Тип установки - Настінний (підвісний)<br>Матеріал виробу:<br>- Стакан: матове скло<br>- Фурнітура: нержавіюча сталь (SUS 304)<br>Колір виробу - Матове скло / чорний матовий<br>Комплектація:<br>- Монтажні елементи<br>- Склянка<br>Габарити упаковки (ВхШхГ): 42 х 12 х 12 см<br>Габарити (ШхВ): 14.5 х 36.5 см<br>Вага в упаковці - 0.685 кг<br>Вага - 0.575 кг<br>Гарантія - 12 місяців офіційної гарантії від виробника]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/21200/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/21200/2.jpeg</picture>
@@ -23589,7 +23589,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux ALPEN SBT1-203S-BEIGE</name>
-      <stock_quantity>4</stock_quantity>
+      <stock_quantity>3</stock_quantity>
       <description><![CDATA[Змішувач для кухні Globus Lux ALPEN SBT1-203S-BEIGE бічний бежевий гофровилив, Нержавіюча сталь, на гайці<br><br>Переваги моделей змішувачів Globus Lux з нержавіючої сталі:<br>1. Корпус моделей виготовлений із харчової нержавіючої сталі SUS304<br>2. Довговічність та безвідмовність в експлуатації<br>3. Елегантність форм, міцність та надійність<br>4. Висока функціональність<br>5. Використання якісних екологічно чистих матеріалів<br>6. Інноваційні технології виробництва<br><br>Комплектація:<br>Змішувач з нержавіючої сталі<br>Шланги для змішувача Globus Lux  М10х1/2″ 0,5м. АНТИКОРОЗІЯ (  ПАРА)<br>Кріплення для змішувача - гайка з нержавіючої сталі]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/24612/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/24612/2.jpeg</picture>
