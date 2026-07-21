@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-07-21 08:46">
+<yml_catalog date="2026-07-21 09:46">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -7635,7 +7635,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Монокран Globus Lux ALPEN SUS-004SN</name>
-      <stock_quantity>8</stock_quantity>
+      <stock_quantity>7</stock_quantity>
       <description><![CDATA[Монокран Globus Lux SUS-004SN SUS304 чорний гофрогусак<br>Вид монтажу: врізний<br>Вид змішувача: Одноважільний<br>Габарити (ВхГ): 32 х 23.5 см<br>Тип виливу: поворотний, гнучкий гофровилив<br>Довжина виливу: 20 см<br>Висота виливу: 13.8 см<br>Матеріал: Нержавіюча сталь<br>Колір виробу: Нержавіюча сталь, чорний гофрогусак<br>Вага в упаковці: 0.96 кг<br>Вага: 0.78 кг<br>Країна-виробник товару: Китай<br>Гарантія: 12 місяців офіційної гарантії від виробника.]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/17520/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/17520/2.jpeg</picture>
@@ -17685,7 +17685,7 @@
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Тримач для рушників TOPAZ TКВ 8331</name>
-      <stock_quantity>5</stock_quantity>
+      <stock_quantity>4</stock_quantity>
       <description><![CDATA[Тримач для рушників TOPAZ TКВ 8331<br>Кріплення - Шурупи<br>Тип установки - Настінний (підвісний)<br>Матеріал виробу - Латунь<br>Колір виробу - Хром<br>Комплектація:<br>- Подвійний, поворотний рушникотримач<br>- Монтажні елементи<br>Габарити (ШхВ): 42 х 4.5 см<br>Вага - 0.36 кг<br>Гарантія - 12 місяців офіційної гарантії від виробника]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/21348/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/21348/2.jpeg</picture>
