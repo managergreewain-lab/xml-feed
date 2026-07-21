@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-07-21 07:46">
+<yml_catalog date="2026-07-21 08:46">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -5948,7 +5948,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для душу Globus Lux ALPEN SBT1-105</name>
-      <stock_quantity>4</stock_quantity>
+      <stock_quantity>3</stock_quantity>
       <description><![CDATA[Змішувач для ванни Globus Lux ALPEN SBT1-105, SUS304<br><br>Переваги моделей змішувачів Globus Lux з нержавійки:<br>1. Корпус моделей виготовлений з харчової нержавіючої сталі SUS304<br>2. Довговічність і безвідмовність в експлуатації<br>3. Елегантність форм, міцність і надійність<br>4. Висока функціональність<br>5. Використання якісних екологічно чистих матеріалів<br>6. Інноваційні технології виробництва<br><br>Комплектація:<br>Змішувач з нержавійки<br>Шланг для душа<br>Лійка для душу<br>Кріплення для душової лійки<br>ексцентрики<br>декоративні чаші]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/15044/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/15044/2.jpeg</picture>
@@ -6256,7 +6256,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Душова гігієнічна стоп-лійка Globus Lux S-377</name>
-      <stock_quantity>6</stock_quantity>
+      <stock_quantity>5</stock_quantity>
       <description><![CDATA[Гігієнічна Стоп-Лійка Globus Lux S 377 НЕРЖАВІЙКА<br>Матеріал - нержавіюча сталь<br>Колір - Нержавіюча сталь<br>Країна виробник - Китай<br>Вага - 0.155 кг]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/15060/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/15060/2.jpeg</picture>
@@ -8110,14 +8110,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.004000</param>
     </offer>
-    <offer id="17539" available="false">
+    <offer id="17539" available="true">
       <vendorCode>000017539</vendorCode>
       <categoryId>11</categoryId>
       <price>2000</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для ванни Globus Lux WIEN SBT2-102N</name>
-      <stock_quantity>0</stock_quantity>
+      <stock_quantity>1</stock_quantity>
       <description><![CDATA[Змішувач для ванни Globus Lux WIEN SBT2-102N SUS304<br>Вид монтажу: настінний<br>Вид змішувача: Одноважільний<br>Габарити (ВхГ): 13 х 18 см<br>Тип виливу: поворотний<br>Довжина виливу: 17.5 см<br>Матеріал: Нержавіюча сталь<br>Колір виробу: Нержавіюча сталь<br>Комплектація:<br>- тримач для душа,<br>- кругла ручна лійка ø10 см,<br>- шланг душовий<br>- ексцентрики для змішувачів настінного монтажу<br>- декоративні чаші<br>Вага: 1.9 кг<br>Країна-виробник товару: Китай<br>Гарантія: 12 місяців офіційної гарантії від виробника.]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/17539/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/17539/2.jpeg</picture>
@@ -12464,14 +12464,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.002000</param>
     </offer>
-    <offer id="19467" available="true">
+    <offer id="19467" available="false">
       <vendorCode>000019467</vendorCode>
       <categoryId>30</categoryId>
       <price>467</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Стакан одинарний Globus Lux SQ 9409 SUS304</name>
-      <stock_quantity>1</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Стакан одинарний Globus Lux SQ9409<br>Країна виробник товару - Китай<br>Тип товару - Аксесуари для ванної кімнати<br>Кріплення - Шурупи<br>Тип установки - Настінний (підвісний)<br>Матеріал виробу:<br>- Стакан: скло<br>- Фурнітура: нержавіюча сталь (SUS 304)<br>Колір виробу- Матове скло / нержавіюча сталь<br>Комплектація:<br>- Монтажні елементи<br>- Склянка<br>Габарити упаковки (ВхШхГ): 11 х 13.5 х 10.5см<br>Габарити (ШхВ): 11 х 11.4 см<br>Вага в упаковці - 0.36 кг<br>Вага - 0.305 кг<br>Гарантія - 12 місяців офіційної гарантії від виробника]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/19467/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/19467/2.jpeg</picture>
@@ -12492,7 +12492,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Тримач туалетного паперу Globus Lux SQ 9410 SUS304</name>
-      <stock_quantity>8</stock_quantity>
+      <stock_quantity>7</stock_quantity>
       <description><![CDATA[Тримач для туалетного паперу Globus Lux SQ9410<br>Країна виробник товару - Китай<br>Тип товару - Аксесуари для ванної кімнати<br>Місткість тримача (рулон / листи) - 1 шт<br>Кріплення - Шурупи<br>Тип установки - Настінний (підвісний)<br>Матеріал виробу - Нержавіюча сталь (SUS 304)<br>Колір виробу - Нержавіюча сталь<br>Комплектація:<br>- Монтажні елементи<br>- Закритий тримач<br>Габарити упаковки (ВхШхГ): 15.5 х 13.5 х 7.5 см<br>Габарити (ШхВ): 14 х 14 см<br>Вага в упаковці - 0.315 кг<br>Вага - 0.265 кг<br>Гарантія - 12 місяців офіційної гарантії від виробника]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/19468/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/19468/2.jpeg</picture>
@@ -12513,7 +12513,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Гачок одинарний Globus Lux SQ9411</name>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>2</stock_quantity>
       <description><![CDATA[Гачок одинарний Globus Lux SQ9411<br>Країна виробник товару - Китай<br>Тип товару - Аксесуари для ванної кімнати<br>Кріплення - Шурупи<br>Тип установки - Настінний (підвісний)<br>Матеріал виробу - нержавіюча сталь (SUS 304)<br>Колір виробу - нержавіюча сталь<br>Комплектація:<br>- Монтажні елементи<br>- Гачок<br>Габарити упаковки (ВхШхГ): 10 х 7.5 х 7 см<br>Габарити (ШхВ): 4.8 х 5 см<br>Вага в упаковці - 0.165 кг<br>Вага - 0.135 кг<br>Гарантія - 12 місяців офіційної гарантії від виробника]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/19469/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/19469/2.jpeg</picture>
@@ -12534,7 +12534,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Гачок подвійний Globus Lux SQ 9412</name>
-      <stock_quantity>6</stock_quantity>
+      <stock_quantity>5</stock_quantity>
       <description><![CDATA[Гачок подвійний Globus Lux SQ9412<br>Країна виробник товару - Китай<br>Тип товару - Аксесуари для ванної кімнати<br>Кріплення - Шурупи<br>Тип установки - Настінний (підвісний)<br>Матеріал виробу - нержавіюча сталь (SUS 304)<br>Колір виробу - нержавіюча сталь<br>Комплектація:<br>- Монтажні елементи<br>- Гачок<br>Габарити упаковки (ВхШхГ): 10 х 7.5 х 7 см<br>Габарити (ШхВ): 8 х 4.8 см<br>Вага в упаковці - 0.17 кг<br>Вага - 0.14 кг<br>Гарантія - 12 місяців офіційної гарантії від виробника]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/19470/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/19470/2.jpeg</picture>
@@ -12555,7 +12555,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Мильниця Globus Lux SQ 9424 SUS304</name>
-      <stock_quantity>6</stock_quantity>
+      <stock_quantity>5</stock_quantity>
       <description><![CDATA[Мильниця металева Globus Lux SQ9424<br>Країна виробник товару - Китай<br>Тип товару - Аксесуари для ванної кімнати<br>Кріплення - Шурупи<br>Тип установки - Настінний (підвісний)<br>Матеріал виробу - нержавіюча сталь (SUS 304)<br>Колір виробу - нержавіюча сталь<br>Комплектація:<br>- Монтажні елементи<br>- Мильниця<br>Габарити упаковки (ВхШхГ): 13.5 х 7.5 х 15.5 см<br>Габарити (ШхВ): 13 х 5.3 см<br>Вага в упаковці - 0.335 кг<br>Вага - 0.28 кг<br>Гарантія - 12 місяців офіційної гарантії від виробника<br><br>Сантехніка ТМ «Globus Lux» - це німецька якість перевірена роками і завжди великий вибір продукції.<br>Компанія займається виробництвом: якісних змішувачів, душових систем і шлангів для душа а також різноманітних товарів для кухні і ванної кімнати. Сучасне високоточне обладнання, ретельний контроль якості, використання європейських комплектуючих, якісних матеріалів (латунь, нержавіюча сталь SUS 304) а також помірна ціна - все це разом дозволило компанії завоювати собі одне з провідних місць на світовому ринку.]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/19471/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/19471/2.jpeg</picture>
@@ -12735,14 +12735,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.007000</param>
     </offer>
-    <offer id="19480" available="true">
+    <offer id="19480" available="false">
       <vendorCode>000019480</vendorCode>
       <categoryId>30</categoryId>
       <price>412</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Тримач туалетного паперу Globus Lux SQ 9416  SUS304</name>
-      <stock_quantity>2</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Тримач для туалетного паперу Globus Lux SQ9416<br>Країна виробник товару - Китай<br>Тип товару - Аксесуари для ванної кімнати<br>Місткість тримача (рулон / листи) - 1 шт<br>Кріплення - Шурупи<br>Тип установки - Настінний (підвісний)<br>Матеріал виробу - Нержавіюча сталь (SUS 304)<br>Колір виробу - Нержавіюча сталь<br>Комплектація:<br>- Монтажні елементи<br>- Закритий тримач<br>Габарити упаковки (ВхШхГ): 15.5 х 13.5 х 7.5 см<br>Габарити (ШхВ): 12 х 11 см<br>Вага в упаковці - 0.315 кг<br>Вага - 0.265 кг<br>Гарантія - 12 місяців офіційної гарантії від виробника]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/19480/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/19480/2.jpeg</picture>
@@ -13498,7 +13498,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux ALPEN SUS-203SBR</name>
-      <stock_quantity>7</stock_quantity>
+      <stock_quantity>6</stock_quantity>
       <description><![CDATA[Змішувач для кухні Globus Lux ALPEN SUS-203SBR  SUS304 коричневий гофрогусак<br><br>Переваги моделей змішувачів Globus Lux з нержавійки:<br>1. Корпус моделей виготовлений з харчової нержавіючої сталі SUS304<br>2. Довговічність і безвідмовність в експлуатації<br>3. Елегантність форм, міцність і надійність<br>4. Висока функціональність<br>5. Використання якісних екологічно чистих матеріалів<br>6. Інноваційні технології виробництва<br><br>Комплектація:<br>Змішувач з нержавійки<br>Шланги для змішувача Globus Lux  М10х1/2″ 0,5м. АНТИКОРОЗІЯ (  ПАРА)<br>Кріплення для змішувача - гайка з нержавійки]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/20056/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/20056/2.jpeg</picture>
@@ -16405,7 +16405,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Тримач для туалетного паперу Globus Lux BS8410 чорний матовий SUS304</name>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>2</stock_quantity>
       <description><![CDATA[Тримач для туалетного паперу Globus Lux BS8410<br>Країна виробник товару - Китай<br>Тип товару - Аксесуари для ванної кімнати<br>Місткість власника (рулон / листи) - 1 шт<br>Кріплення - Шурупи<br>Тип установки - Настінний (підвісний)<br>Матеріал виробу - Нержавіюча сталь (SUS 304)<br>Колір виробу - чорний матовий<br>Комплектація:<br>- Монтажні елементи<br>- Закритий держатель<br>Габарити упаковки (ВхШхГ): 15.5 х 13.5 х 7.5 см<br>Габарити (ШхВ): 12 х 15 см<br>Вага в упаковці - 0.315 кг<br>Вага - 0.265 кг<br>Гарантія - 12 місяців офіційної гарантії від виробника]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/21196/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/21196/2.jpeg</picture>
@@ -19088,7 +19088,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Шланг душовий Globus Lux NH-05N-150-200</name>
-      <stock_quantity>10</stock_quantity>
+      <stock_quantity>9</stock_quantity>
       <description><![CDATA[Шланг душовий Globus Lux NH-05N-150-200<br>Довжина - 150-200 см<br>Підключення - 1/2″ x 1/2″<br>особливості:<br>- серцевина латунь<br>- Розтяжний<br>- Нержавіюча сталь<br>- З&apos;єднання Double Lоck<br>Матеріал - Метал / EPDM<br>Колір - Хром<br>Вага - 0.26 кг<br>Виробник - Китай]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/21932/1.jpeg</picture>
       <param name="Країна походження">Китай</param>
@@ -24988,7 +24988,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux ALPEN SUS-203S-BG15</name>
-      <stock_quantity>10</stock_quantity>
+      <stock_quantity>9</stock_quantity>
       <description><![CDATA[Змішувач для кухні Globus Lux ALPEN SUS-203S-BG15 SUS304 бежевый гофрогусак<br><br>Переваги моделей змішувачів Globus Lux з нержавійки:<br>1. Корпус моделей виготовлений з харчової нержавіючої сталі SUS304<br>2. Довговічність і безвідмовність в експлуатації<br>3. Елегантність форм, міцність і надійність<br>4. Висока функціональність<br>5. Використання якісних екологічно чистих матеріалів<br>6. Інноваційні технології виробництва<br><br>Комплектація:<br>Змішувач з нержавійки<br>Шланги для змішувача Globus Lux  М10х1/2″ 0,5м. АНТИКОРОЗІЯ (  ПАРА)<br>Кріплення для змішувача - гайка з нержавійки]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/25314/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/25314/2.jpeg</picture>
@@ -25142,7 +25142,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux ALPEN SBT1-G203S</name>
-      <stock_quantity>10</stock_quantity>
+      <stock_quantity>9</stock_quantity>
       <description><![CDATA[Змішувач для кухні Globus Lux ALPEN SBT1-G203S, SUS304  металевий гофрогусак<br><br>Переваги моделей змішувачів Globus Lux з нержавійки:<br>1. Корпус моделей виготовлений з харчової нержавіючої сталі SUS304<br>2. Довговічність і безвідмовність в експлуатації<br>3. Елегантність форм, міцність і надійність<br>4. Висока функціональність<br>5. Використання якісних екологічно чистих матеріалів<br>6. Інноваційні технології виробництва<br>7,Вилив легко згинається в потрібному напрямку,Силіконова оболонка виливу стійка до високої та низької температури, не втрачає своєї пластичності при всіх режимах користування змішувачем.<br>8, легко можна регулювати висоту водяного струменя.<br>9, дворежимний аератор<br><br>Комплектація:<br>Змішувач з нержавійки<br>Шланги для змішувача Globus Lux  М10х1/2″ 0,5м. АНТИКОРОЗІЯ (  ПАРА)<br>Кріплення для змішувача - гайка з нержавійки]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/25744/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/25744/2.jpeg</picture>
