@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-07-21 06:57">
+<yml_catalog date="2026-07-21 07:58">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -583,14 +583,14 @@
       <categoryId>3181332</categoryId>
       <price>467</price>
       <currencyId>UAH</currencyId>
-      <stock_quantity>8</stock_quantity>
+      <stock_quantity>7</stock_quantity>
     </offer>
     <offer id="60300536" available="true">
       <vendorCode>000021196</vendorCode>
       <categoryId>3181332</categoryId>
       <price>390</price>
       <currencyId>UAH</currencyId>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>2</stock_quantity>
     </offer>
     <offer id="60300737" available="true">
       <vendorCode>000018157</vendorCode>
@@ -599,12 +599,12 @@
       <currencyId>UAH</currencyId>
       <stock_quantity>10</stock_quantity>
     </offer>
-    <offer id="60300756" available="true">
+    <offer id="60300756" available="false">
       <vendorCode>000019480</vendorCode>
       <categoryId>3181332</categoryId>
       <price>412</price>
       <currencyId>UAH</currencyId>
-      <stock_quantity>2</stock_quantity>
+      <stock_quantity>0</stock_quantity>
     </offer>
     <offer id="52050540" available="true">
       <vendorCode>000017526</vendorCode>
@@ -772,7 +772,7 @@
       <categoryId>3181332</categoryId>
       <price>1030</price>
       <currencyId>UAH</currencyId>
-      <stock_quantity>7</stock_quantity>
+      <stock_quantity>6</stock_quantity>
     </offer>
     <offer id="52102900" available="true">
       <vendorCode>000017533</vendorCode>
@@ -1038,7 +1038,7 @@
       <categoryId>3181332</categoryId>
       <price>1030</price>
       <currencyId>UAH</currencyId>
-      <stock_quantity>10</stock_quantity>
+      <stock_quantity>9</stock_quantity>
     </offer>
     <offer id="64174104" available="true">
       <vendorCode>000024612</vendorCode>
@@ -1360,7 +1360,7 @@
       <categoryId>3181332</categoryId>
       <price>604</price>
       <currencyId>UAH</currencyId>
-      <stock_quantity>6</stock_quantity>
+      <stock_quantity>5</stock_quantity>
     </offer>
     <offer id="60298157" available="true">
       <vendorCode>000022210</vendorCode>
@@ -1411,12 +1411,12 @@
       <currencyId>UAH</currencyId>
       <stock_quantity>0</stock_quantity>
     </offer>
-    <offer id="60299306" available="true">
+    <offer id="60299306" available="false">
       <vendorCode>000019467</vendorCode>
       <categoryId>3181332</categoryId>
       <price>467</price>
       <currencyId>UAH</currencyId>
-      <stock_quantity>1</stock_quantity>
+      <stock_quantity>0</stock_quantity>
     </offer>
     <offer id="60300601" available="true">
       <vendorCode>000022213</vendorCode>
@@ -1584,14 +1584,14 @@
       <categoryId>3181332</categoryId>
       <price>277</price>
       <currencyId>UAH</currencyId>
-      <stock_quantity>6</stock_quantity>
+      <stock_quantity>5</stock_quantity>
     </offer>
     <offer id="60307050" available="true">
       <vendorCode>000019469</vendorCode>
       <categoryId>3181332</categoryId>
       <price>262</price>
       <currencyId>UAH</currencyId>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>2</stock_quantity>
     </offer>
     <offer id="60308993" available="true">
       <vendorCode>000018158</vendorCode>
@@ -2020,12 +2020,12 @@
       <currencyId>UAH</currencyId>
       <stock_quantity>1</stock_quantity>
     </offer>
-    <offer id="56271326" available="false">
+    <offer id="56271326" available="true">
       <vendorCode>000017539</vendorCode>
       <categoryId>3181332</categoryId>
       <price>2000</price>
       <currencyId>UAH</currencyId>
-      <stock_quantity>0</stock_quantity>
+      <stock_quantity>1</stock_quantity>
     </offer>
     <offer id="57127029" available="true">
       <vendorCode>000013602</vendorCode>
@@ -2172,7 +2172,7 @@
       <categoryId>3181332</categoryId>
       <price>1305</price>
       <currencyId>UAH</currencyId>
-      <stock_quantity>4</stock_quantity>
+      <stock_quantity>3</stock_quantity>
     </offer>
     <offer id="57745146" available="true">
       <vendorCode>000014941</vendorCode>
