@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-07-20 21:46">
+<yml_catalog date="2026-07-21 05:46">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -13022,7 +13022,7 @@
     <offer id="19551" available="true">
       <vendorCode>000019551</vendorCode>
       <categoryId>11</categoryId>
-      <price>3145</price>
+      <price>2400</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Змішувач для ванни TOPAZ LEXI TL 21101-H57-BL</name>
@@ -15540,7 +15540,7 @@
     <offer id="20987" available="true">
       <vendorCode>000020987</vendorCode>
       <categoryId>11</categoryId>
-      <price>1685</price>
+      <price>1275</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Змішувач для кухні TOPAZ BARTS TB 07403-H36-BL</name>
@@ -18260,7 +18260,7 @@
     <offer id="21538" available="true">
       <vendorCode>000021538</vendorCode>
       <categoryId>11</categoryId>
-      <price>3320</price>
+      <price>2400</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Змішувач для душа TOPAZ SARDINIA TS 08718-H19-BB</name>
@@ -18629,7 +18629,7 @@
     <offer id="21857" available="true">
       <vendorCode>000021857</vendorCode>
       <categoryId>11</categoryId>
-      <price>2000</price>
+      <price>1345</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для ванни Globus Lux Laguna GLA-0208-10-BB</name>
@@ -18657,7 +18657,7 @@
     <offer id="21858" available="true">
       <vendorCode>000021858</vendorCode>
       <categoryId>11</categoryId>
-      <price>1105</price>
+      <price>930</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux Laguna GLA-0203Q-10-BB</name>
@@ -18684,7 +18684,7 @@
     <offer id="21859" available="true">
       <vendorCode>000021859</vendorCode>
       <categoryId>11</categoryId>
-      <price>1270</price>
+      <price>930</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux Laguna GLA-0203SL-10-BB</name>
@@ -18711,7 +18711,7 @@
     <offer id="21860" available="true">
       <vendorCode>000021860</vendorCode>
       <categoryId>11</categoryId>
-      <price>1105</price>
+      <price>930</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для умивальника Globus Lux Laguna GLA-0203MQ-10-BB</name>
@@ -18738,7 +18738,7 @@
     <offer id="21861" available="true">
       <vendorCode>000021861</vendorCode>
       <categoryId>11</categoryId>
-      <price>1465</price>
+      <price>1330</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для умивальника Globus Lux Laguna GLA-0401-10-BB</name>
@@ -21175,7 +21175,7 @@
     <offer id="22555" available="true">
       <vendorCode>000022555</vendorCode>
       <categoryId>11</categoryId>
-      <price>2000</price>
+      <price>1275</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для ванної Globus Lux Laguna GLA-0102NE-10-BB</name>
@@ -21457,7 +21457,7 @@
     <offer id="22567" available="true">
       <vendorCode>000022567</vendorCode>
       <categoryId>11</categoryId>
-      <price>1270</price>
+      <price>930</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux Laguna GLA-0203SL-7-WHITE</name>
