@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-07-23 13:46">
+<yml_catalog date="2026-07-23 15:46">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -6562,14 +6562,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.006000</param>
     </offer>
-    <offer id="15836" available="true">
+    <offer id="15836" available="false">
       <vendorCode>000015836</vendorCode>
       <categoryId>11</categoryId>
       <price>5385</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Змішувач для ванни TOPAZ BARTS TB 07111-H36</name>
-      <stock_quantity>1</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Змішувач для ванни TOPAZ BARTS-TB 07111-H36  вбудований<br><br>Серія змішувачів TOPAZ дивує своєю вишуканістю форм, надійністю в експлуатації, витонченим дизайном.<br>У комплектацію входить:<br>Змішувач з латуні<br>Вилив з перемикачем<br>Душова лійка<br>Душовий шланг<br>Декоративні розетки<br>Картридж-TC-35-Картридж керамічний короткий D35-TOPAZ<br><br>Якісна продукція TOPAZ прослужить Вам довгі роки<br><br>Габарити упаковки ВхГхШ: 41 х 29 х 9,5 см<br>Вага нетто: 2830г<br>Вага брутто: 3100г]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/15836/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/15836/2.jpeg</picture>
@@ -25737,7 +25737,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Планка з гачками подвійними 3х2 Globus Lux RM 1503-3</name>
-      <stock_quantity>1</stock_quantity>
+      <stock_quantity>2</stock_quantity>
       <description><![CDATA[RM 1503-3 Планка з гачками подвійними 3х2  (Globus Lux)<br>Застосування - Для рушників, для одягу<br>Кріплення - Шурупи<br>Тип установки - Настінний (підвісний)<br>Матеріал вироби - Латунь<br>Колір вироби - Хром<br>Комплектація:<br>- Монтажні елементи<br>- Планка з трьома подвійними гачками<br>Габарити (ШхВ): 33 х 2.5 см<br>Вага - 0.345 кг<br>Гарантія - 12 місяців офіційної гарантії від виробника]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/27019/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/27019/2.jpeg</picture>
@@ -25753,14 +25753,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.001000</param>
     </offer>
-    <offer id="27020" available="false">
+    <offer id="27020" available="true">
       <vendorCode>000027020</vendorCode>
       <categoryId>30</categoryId>
       <price>452</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Планка з гачками подвійними 4х2 Globus Lux RM 1503-4</name>
-      <stock_quantity>0</stock_quantity>
+      <stock_quantity>5</stock_quantity>
       <description><![CDATA[RM 1503-4 Планка з гачками подвійними 4х2  (Globus Lux)<br>Застосування - Для рушників, для одягу<br>Кріплення - Шурупи<br>Тип установки - Настінний (підвісний)<br>Матеріал вироби - Латунь<br>Колір вироби - Хром<br>Комплектація:<br>- Монтажні елементи<br>- Планка з трьома подвійними гачками<br><br>Гарантія - 12 місяців офіційної гарантії від виробника]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/27020/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/27020/2.jpeg</picture>
