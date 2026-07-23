@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-07-23 11:56">
+<yml_catalog date="2026-07-23 12:57">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -800,7 +800,7 @@
       <categoryId>3181332</categoryId>
       <price>1595</price>
       <currencyId>UAH</currencyId>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>2</stock_quantity>
     </offer>
     <offer id="52145743" available="true">
       <vendorCode>000013604</vendorCode>
