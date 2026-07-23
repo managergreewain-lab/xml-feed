@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-07-23 08:46">
+<yml_catalog date="2026-07-23 10:46">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -337,14 +337,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.001000</param>
     </offer>
-    <offer id="1682" available="true">
+    <offer id="1682" available="false">
       <vendorCode>000001682</vendorCode>
       <categoryId>11</categoryId>
       <price>1160</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для умивальника Globus Lux CLINIC GLCA-1011</name>
-      <stock_quantity>2</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Змішувач для умивальника GCA-1011-CLINIC ліктьовий<br>Призначений для використання в медичних установах<br><br>Переваги змішувачів Globus Lux:<br>1. Довговічність і безвідмовність в експлуатації<br>2. Елегантність форм, міцність і надійність<br>3 Висока функціональність<br>4 .Використання якісних екологічно чистих матеріалів<br>5 .Інноваційні технології виробництва<br>6. Корпус виготовлений з латуні з вмістом міді не менше 70%<br><br>Комплектація:<br>Змішувач латунний<br>Шланг М10х1/2″ - 2 шт<br>Кріплення для змішувача ″шпильки″<br><br>Розмір упаковки ВхШхГ:8х13х25<br>Вага нетто: 0,86 кг<br>Вага брутто: 1,03 кг]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/1682/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/1682/2.jpeg</picture>
@@ -6944,7 +6944,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Шланг душовий Globus Lux SUS-002S-150- в упаковці NH</name>
-      <stock_quantity>8</stock_quantity>
+      <stock_quantity>7</stock_quantity>
       <description><![CDATA[Шланг душовий Globus Lux SUS-002S-150<br>Довжина - 150 см<br>Підключення - 1/2″ x 1/2″<br>Витримує 50кг навантаження<br>Матеріал - Метал / EPDM<br>Колір - хром<br>Вага - 0.32 кг<br>Виробник - Китай]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/16103/1.jpeg</picture>
       <param name="Країна походження">Китай</param>
@@ -8407,7 +8407,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Душова лійка Globus Lux SUS-001PH</name>
-      <stock_quantity>7</stock_quantity>
+      <stock_quantity>6</stock_quantity>
       <description><![CDATA[Душова лійка Globus Lux SUS-001PH<br>Матеріал: пластик<br>Колір: нержавіюча сталь/білий]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/17557/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/17557/2.jpeg</picture>
@@ -13524,7 +13524,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux WIEN SUS2-203SB</name>
-      <stock_quantity>6</stock_quantity>
+      <stock_quantity>5</stock_quantity>
       <description><![CDATA[Змішувач для кухні Globus Lux WIEN SUS2-203SB, SUS304 чорний гофрогусак<br><br>Переваги моделей змішувачів Globus Lux з нержавійки:<br>1. Корпус моделей виготовлений з харчової нержавіючої сталі SUS304<br>2. Довговічність і безвідмовність в експлуатації<br>3. Елегантність форм, міцність і надійність<br>4. Висока функціональність<br>5. Використання якісних екологічно чистих матеріалів<br>6. Інноваційні технології виробництва<br><br>Комплектація:<br>Змішувач з нержавійки<br>Шланги для змішувача Globus Lux  М10х1/2″ 0,5м. АНТИКОРОЗІЯ (  ПАРА)<br>Кріплення для змішувача - гайка з нержавійки<br><br><br>Розмір упаковки ВхШхГ:5,5х23,5х43 см<br>Вага нетто: 1,55 кг<br>Вага брутто: 1,80 кг]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/20057/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/20057/2.jpeg</picture>
@@ -17306,14 +17306,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.002000</param>
     </offer>
-    <offer id="21250" available="true">
+    <offer id="21250" available="false">
       <vendorCode>000021250</vendorCode>
       <categoryId>30</categoryId>
       <price>613</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Гачок подвійний TOPAZ TКВ 9925-BL чорний</name>
-      <stock_quantity>2</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Гачок подвійний TOPAZ TКВ 9925-BL<br>Застосування - Для рушників<br>Кріплення - Шурупи<br>Тип установки - Настінний (підвісний)<br>Матеріал виробу - Латунь<br>Колір виробу - Чорний<br>Комплектація:<br>- Подвійний гачок<br>- Монтажні елементи<br>Габарити упаковки ВхГхШ: 9.5 х 6 х 7 см<br>Вага нетто: 230 г<br>Вага брутто: 260 г<br>Габарити (ШхВхГ): 94 х 47 х 61 мм<br>Гарантія - 12 місяців офіційної гарантії від виробника]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/21250/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/21250/2.jpeg</picture>
@@ -25782,7 +25782,7 @@
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Душова лійка Topaz NF-2209-00</name>
-      <stock_quantity>6</stock_quantity>
+      <stock_quantity>5</stock_quantity>
       <description><![CDATA[Душова лійка Topaz NF-2209-00-WHITE Хром Пласт. 3-позиційна 120*241мм<br>Матеріал - Пластик<br>Колір - Хром<br>Кількість типів струї - 3<br>Діаметр ручної лійки - 12 см<br>Вага - 0.25 кг<br>Країна виробник - Китай<br><br>Душові лійки ТМ Topaz   — це довговічність, відома  якість, новітні технології та можливість створити зручну ванну кімнату.  Вони дозволять легко оновити вашу ванну кімнату і насолоджуватися душовими процедурами в новій якості.<br>Душові лійки ТМ Topaz відрізняються функціональністю та простотою застосування.  Матеріали, які використовуються для виробництва душових лійок мають  високу якість, що гарантуює надійну роботу протягом багатьох років.]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/27024/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/27024/2.jpeg</picture>
