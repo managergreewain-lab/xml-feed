@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-07-24 14:46">
+<yml_catalog date="2026-07-24 16:46">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -4477,7 +4477,7 @@
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Змішувач для умивальника TOPAZ SARDINIA TS 08221-H20</name>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>5</stock_quantity>
       <description><![CDATA[Змішувач для умивальника TOPAZ SARDINIA-TS 08221-H20<br><br>Серія змішувачів TOPAZ дивує своєю вишуканістю форм, надійністю в експлуатації, витонченим дизайном.<br>У комплектацію входить:<br>Змішувач з латуні<br>Шланги для підключення води - 2 шт.-(TuCai) TAQ-M1055 M10×1-F1/2-55CM<br>Картридж TC-35-Картридж керамічний короткий D35-TOPAZ<br>Колір:хром<br>Кріплення для змішувача - гайка<br><br>Якісна продукція TOPAZ прослужить Вам довгі роки]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/14744/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/14744/2.jpeg</picture>
