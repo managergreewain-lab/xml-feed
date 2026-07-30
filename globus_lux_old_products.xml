@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-07-30 16:37">
+<yml_catalog date="2026-07-30 16:54">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -8,7 +8,29 @@
   </currencies>
   <categories>
     <category id="3181332">Geyser</category>
+    <category id="3182927" parentId="3181332">Вішаки у ванну кімнату</category>
+    <category id="3183459" parentId="3181332">Гачки для ванної кімнати</category>
+    <category id="3181689" parentId="3181332">Дозатори для мила</category>
+    <category id="3183519" parentId="3181332">Душові гарнітури</category>
+    <category id="7192314" parentId="3181332">Душові лійки</category>
+    <category id="7192312" parentId="3181332">Душові системи</category>
+    <category id="7192315" parentId="3181332">Душові стійки</category>
+    <category id="7192316" parentId="3181332">Душові шланги</category>
+    <category id="3181692" parentId="3181332">Йоржики та стійки</category>
+    <category id="7214773" parentId="3181332">Комплектуючі та запчастини для фільтрів води</category>
+    <category id="3183390" parentId="3181332">Мильниці</category>
+    <category id="7214776" parentId="3181332">Монокран</category>
     <category id="3376953" parentId="3181332">Набори змішувачів</category>
+    <category id="3181398" parentId="3181332">Полиці у ванну</category>
+    <category id="3182932" parentId="3181332">Стакани для ванної кімнати</category>
+    <category id="3181691" parentId="3181332">Тримачі рушників</category>
+    <category id="3183391" parentId="3181332">Тримачі туалетного паперу</category>
+    <category id="2718126" parentId="3181332">Душові гарнітури (44)</category>
+    <category id="2902452" parentId="3181332">Змішувачі для біде</category>
+    <category id="2726373" parentId="3181332">Змішувачі для ванни (44)</category>
+    <category id="3018199" parentId="3181332">Змішувачі для душу</category>
+    <category id="2712456" parentId="3181332">Змішувачі для кухні (44)</category>
+    <category id="2712469" parentId="3181332">Змішувачі для раковини (44)</category>
   </categories>
   <offers>
     <offer id="52145671" available="true">
