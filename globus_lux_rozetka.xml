@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-07-30 14:46">
+<yml_catalog date="2026-07-30 20:46">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -17002,14 +17002,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.000000</param>
     </offer>
-    <offer id="21232" available="false">
+    <offer id="21232" available="true">
       <vendorCode>000021232</vendorCode>
       <categoryId>30</categoryId>
       <price>670</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Гачок подвійний TOPAZ TКВ 9925</name>
-      <stock_quantity>0</stock_quantity>
+      <stock_quantity>1</stock_quantity>
       <description><![CDATA[Гачок подвійний TOPAZ TКВ 9925<br>Застосування - Для рушників<br>Кріплення - Шурупи<br>Тип установки - Настінний (підвісний)<br>Матеріал виробу - Латунь<br>Колір виробу - Хром<br>Комплектація:<br>- Подвійний гачок<br>- Монтажні елементи<br>Габарити упаковки ВхГхШ: 9.5 х 6 х 7 см<br>Вага нетто: 230 г<br>Вага брутто: 260 г<br>Габарити (ШхВхГ): 94 х 47 х 61 мм<br>Гарантія - 12 місяців офіційної гарантії від виробника]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/21232/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/21232/2.jpeg</picture>
