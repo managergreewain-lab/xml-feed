@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-07-30 16:56">
+<yml_catalog date="2026-07-30 16:59">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -1526,56 +1526,56 @@
     </offer>
     <offer id="60297134" available="true">
       <vendorCode>000022214</vendorCode>
-      <categoryId>3181332</categoryId>
+      <categoryId>3182927</categoryId>
       <price>599</price>
       <currencyId>UAH</currencyId>
       <stock_quantity>5</stock_quantity>
     </offer>
     <offer id="60297850" available="false">
       <vendorCode>000019460</vendorCode>
-      <categoryId>3181332</categoryId>
+      <categoryId>3182927</categoryId>
       <price>618</price>
       <currencyId>UAH</currencyId>
       <stock_quantity>0</stock_quantity>
     </offer>
     <offer id="60298093" available="false">
       <vendorCode>000021197</vendorCode>
-      <categoryId>3181332</categoryId>
+      <categoryId>3182927</categoryId>
       <price>517</price>
       <currencyId>UAH</currencyId>
       <stock_quantity>0</stock_quantity>
     </offer>
     <offer id="60298107" available="true">
       <vendorCode>000019477</vendorCode>
-      <categoryId>3181332</categoryId>
+      <categoryId>3182927</categoryId>
       <price>531</price>
       <currencyId>UAH</currencyId>
       <stock_quantity>10</stock_quantity>
     </offer>
     <offer id="60298313" available="true">
       <vendorCode>000021198</vendorCode>
-      <categoryId>3181332</categoryId>
+      <categoryId>3182927</categoryId>
       <price>523</price>
       <currencyId>UAH</currencyId>
       <stock_quantity>2</stock_quantity>
     </offer>
     <offer id="60299330" available="true">
       <vendorCode>000019459</vendorCode>
-      <categoryId>3181332</categoryId>
+      <categoryId>3182927</categoryId>
       <price>500</price>
       <currencyId>UAH</currencyId>
       <stock_quantity>10</stock_quantity>
     </offer>
     <offer id="60305670" available="true">
       <vendorCode>000019476</vendorCode>
-      <categoryId>3181332</categoryId>
+      <categoryId>3182927</categoryId>
       <price>393</price>
       <currencyId>UAH</currencyId>
       <stock_quantity>10</stock_quantity>
     </offer>
     <offer id="60305764" available="true">
       <vendorCode>000022207</vendorCode>
-      <categoryId>3181332</categoryId>
+      <categoryId>3182927</categoryId>
       <price>373</price>
       <currencyId>UAH</currencyId>
       <stock_quantity>6</stock_quantity>
