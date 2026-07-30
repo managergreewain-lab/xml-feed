@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-07-30 02:46">
+<yml_catalog date="2026-07-30 05:46">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -18484,7 +18484,7 @@
     <offer id="21852" available="true">
       <vendorCode>000021852</vendorCode>
       <categoryId>11</categoryId>
-      <price>1875</price>
+      <price>1830</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux Milano GLM-203LR-10-BB</name>
@@ -22747,7 +22747,7 @@
     <offer id="23157" available="true">
       <vendorCode>000023157</vendorCode>
       <categoryId>11</categoryId>
-      <price>1760</price>
+      <price>1740</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для ванної Globus Lux Koln GLK-0108</name>
@@ -31205,36 +31205,6 @@
       <param name="Термостат">Немає</param>
       <param name="Вага брутто (кг.)">2.100000</param>
       <param name="Об&apos;єм (м³)">0.012080</param>
-    </offer>
-    <offer id="31574" available="true">
-      <vendorCode>000031574</vendorCode>
-      <categoryId>11</categoryId>
-      <price>1525</price>
-      <currencyId>UAH</currencyId>
-      <vendor>Globus Lux</vendor>
-      <name>Змішувач для кухні EcoMIX Stella STL-2031-GP</name>
-      <stock_quantity>7</stock_quantity>
-      <description><![CDATA[Змішувач для кухні EcoMIX Stella STL-2031-GP витяжний з лійкою-душ нержавійка на гайці Графіт<br><br>Переваги моделей змішувачів  з нержавійки:<br>1. Корпус моделей виготовлений з харчової нержавіючої сталі SUS<br>2. Довговічність і безвідмовність в експлуатації<br>3. Елегантність форм, міцність і надійність<br>4. Висока функціональність<br>5. Використання якісних екологічно чистих матеріалів<br>6. Інноваційні технології виробництва<br><br>Комплектація:<br>Змішувач з нержавійки<br>витяжний шланг<br>Лійка витяжна<br>Шланги для змішувача Globus Lux  М10х1/2″ 0,5м. АНТИКОРОЗІЯ (  ПАРА)<br>Кріплення для змішувача - гайка<br>Габарити упаковки (ВхШхГ): 6 х 63 х 26 см<br>Вага нетто: 1930 гр<br>Вага брутто: 1 685 гр]]></description>
-      <picture>https://b2b-sklad.com/storage/img/products/31574/1.jpeg</picture>
-      <picture>https://b2b-sklad.com/storage/img/products/31574/2.jpeg</picture>
-      <picture>https://b2b-sklad.com/storage/img/products/31574/3.jpeg</picture>
-      <picture>https://b2b-sklad.com/storage/img/products/31574/4.jpeg</picture>
-      <picture>https://b2b-sklad.com/storage/img/products/31574/5.jpeg</picture>
-      <picture>https://b2b-sklad.com/storage/img/products/31574/6.jpeg</picture>
-      <picture>https://b2b-sklad.com/storage/img/products/31574/7.jpeg</picture>
-      <picture>https://b2b-sklad.com/storage/img/products/31574/8.jpeg</picture>
-      <param name="Країна походження">Китай</param>
-      <param name="Країна реєстрації бренду">Україна</param>
-      <param name="Серія">STELLA</param>
-      <param name="Призначення">Змішувачі для кухні</param>
-      <param name="Вид монтажу">Врізний</param>
-      <param name="Керування">Одноважільний</param>
-      <param name="Матеріал">Нержавіюча сталь</param>
-      <param name="Колір">Нержавіюча сталь</param>
-      <param name="Тип виливу">Висувний</param>
-      <param name="Термостат">Немає</param>
-      <param name="Вага брутто (кг.)">1.950000</param>
-      <param name="Об&apos;єм (м³)">0.011920</param>
     </offer>
     <offer id="31611" available="false">
       <vendorCode>000031611</vendorCode>
