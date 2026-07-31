@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-07-31 06:46">
+<yml_catalog date="2026-07-31 08:46">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -9317,14 +9317,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.008000</param>
     </offer>
-    <offer id="18165" available="true">
+    <offer id="18165" available="false">
       <vendorCode>000018165</vendorCode>
       <categoryId>30</categoryId>
       <price>631</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Поличка кутова Globus Lux SS 8499</name>
-      <stock_quantity>6</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Полиця одинарна кутова Globus Lux SS8499<br>Країна виробник товару - Китай<br>Тип товару - Аксесуари для ванної кімнати<br>Кріплення - Шурупи<br>Тип установки - Настінний (підвісний)<br>Матеріал виробу - нержавіюча сталь (SUS 304)<br>Колір виробу - нержавіюча сталь<br>Комплектація:<br>- Монтажні елементи<br>- Полиця<br>Габарити упаковки (ВхШхГ): 21 х 21 х 7 см<br>Габарити (ШхВ): 26.1 х 6 см<br>Вага в упаковці - 0.46 кг<br>Вага - 0.385 кг<br>Гарантія - 12 місяців офіційної гарантії від виробника]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/18165/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/18165/2.jpeg</picture>
@@ -15066,7 +15066,7 @@
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Душова гігієнічна стоп-лійка TOPAZ SH77-BL</name>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>2</stock_quantity>
       <description><![CDATA[Гігієнічна Стоп-Лійка TOPAZ SH77-BL<br>Матеріал - Лутунь<br>Колір чорний<br>Габарити упаковки ВхГхШ: 13 х 6.5 х 3 см<br>Вага нетто: 195 г<br>Вага брутто: 220 г]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/20809/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/20809/2.jpeg</picture>
@@ -16238,7 +16238,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Душова стійка Globus Lux SUS-1108-BB</name>
-      <stock_quantity>2</stock_quantity>
+      <stock_quantity>1</stock_quantity>
       <description><![CDATA[Душова стійка Globus Lux SUS-1108-BB<br>Бренд: Globus Lux<br>Модель: SUS-1108-BB<br>Призначення: для ванни, душової<br>Вид монтажу: Настінний<br>Комплектація: Душова стійка / Кріплення<br>Колір: чорний<br>Матеріал: нержавіюча сталь<br>Вага: 1 кг<br>Висота: 65 см<br>Країна виробник: Китай]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/21176/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/21176/2.jpeg</picture>
@@ -16603,7 +16603,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Душова лійка Globus Lux ST-0250-Q-BB</name>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>2</stock_quantity>
       <description><![CDATA[Душова лійка Globus Lux ST-0250-Q-BB<br>Верхня лійка ″тропік″ призначена для душових систем.<br>Розмір: 250*250 мм<br>Колір: чорний<br>Матеріал: Харчова сталь SUS304.]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/21205/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/21205/2.jpeg</picture>
@@ -16625,7 +16625,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Душова лійка Globus Lux ST-0300-Q-BB</name>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>2</stock_quantity>
       <description><![CDATA[Душова лійка Globus Lux ST-0300-Q-BB<br>Верхня лійка ″тропік″ призначена для душових систем.<br>Розмір: 300*300 мм<br>Колір: чорний<br>Матеріал: Харчова сталь SUS304.]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/21206/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/21206/2.jpeg</picture>
