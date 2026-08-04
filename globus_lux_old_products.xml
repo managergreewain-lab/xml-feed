@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-04 11:34">
+<yml_catalog date="2026-08-04 12:37">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -682,7 +682,7 @@
       <price>470</price>
       <currencyId>UAH</currencyId>
       <name>Тримач туалетного паперу Globus Lux SQ 9410 SUS304</name>
-      <stock_quantity>7</stock_quantity>
+      <stock_quantity>6</stock_quantity>
     </offer>
     <offer id="60300536" available="true">
       <vendorCode>000021196</vendorCode>
@@ -874,7 +874,7 @@
       <price>1040</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні Globus Lux WIEN SUS2-203SG</name>
-      <stock_quantity>6</stock_quantity>
+      <stock_quantity>5</stock_quantity>
     </offer>
     <offer id="52102778" available="true">
       <vendorCode>000017525</vendorCode>
@@ -906,7 +906,7 @@
       <price>865</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні Globus Lux WIEN SUS2-203SN</name>
-      <stock_quantity>7</stock_quantity>
+      <stock_quantity>6</stock_quantity>
     </offer>
     <offer id="52102905" available="false">
       <vendorCode>000019180</vendorCode>
@@ -1178,7 +1178,7 @@
       <price>1895</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні Globus Lux LAZER GLLR-0203SG</name>
-      <stock_quantity>2</stock_quantity>
+      <stock_quantity>1</stock_quantity>
     </offer>
     <offer id="59515263" available="true">
       <vendorCode>000017534</vendorCode>
@@ -1468,13 +1468,13 @@
       <name>Поличка в душову SS8488-кутова Подвійна НЕРЖ-SUS304-(200*200*425мм)-(Globus Lux)</name>
       <stock_quantity>10</stock_quantity>
     </offer>
-    <offer id="60294086" available="true">
+    <offer id="60294086" available="false">
       <vendorCode>000021392</vendorCode>
       <categoryId>3181398</categoryId>
       <price>1705</price>
       <currencyId>UAH</currencyId>
       <name>Полка подвійна кутова Globus Lux BS8422</name>
-      <stock_quantity>1</stock_quantity>
+      <stock_quantity>0</stock_quantity>
     </offer>
     <offer id="60294669" available="true">
       <vendorCode>000021390</vendorCode>
@@ -1690,7 +1690,7 @@
       <price>663</price>
       <currencyId>UAH</currencyId>
       <name>Тримач рушників Globus Lux SQ 9431-2  SUS304</name>
-      <stock_quantity>5</stock_quantity>
+      <stock_quantity>3</stock_quantity>
     </offer>
     <offer id="60298195" available="true">
       <vendorCode>000019464</vendorCode>
@@ -1850,7 +1850,7 @@
       <price>1370</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для біде Globus Lux Milano GLM-0106</name>
-      <stock_quantity>8</stock_quantity>
+      <stock_quantity>7</stock_quantity>
     </offer>
     <offer id="55473224" available="false">
       <vendorCode>000023318</vendorCode>
