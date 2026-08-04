@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-04 01:46">
+<yml_catalog date="2026-08-04 03:46">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -25623,6 +25623,7 @@
       <picture>https://b2b-sklad.com/storage/img/products/26998/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/26998/10.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/26998/11.jpeg</picture>
+      <picture>https://b2b-sklad.com/storage/img/products/26998/12.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/26998/2.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/26998/3.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/26998/4.jpeg</picture>
@@ -25656,6 +25657,7 @@
       <picture>https://b2b-sklad.com/storage/img/products/26999/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/26999/10.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/26999/11.jpeg</picture>
+      <picture>https://b2b-sklad.com/storage/img/products/26999/12.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/26999/2.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/26999/3.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/26999/4.jpeg</picture>
@@ -25690,6 +25692,7 @@
       <picture>https://b2b-sklad.com/storage/img/products/27000/10.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/27000/11.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/27000/12.jpeg</picture>
+      <picture>https://b2b-sklad.com/storage/img/products/27000/13.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/27000/2.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/27000/3.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/27000/4.jpeg</picture>
