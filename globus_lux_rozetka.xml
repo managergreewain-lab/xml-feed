@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-04 03:46">
+<yml_catalog date="2026-08-04 04:46">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -21347,7 +21347,7 @@
     <offer id="22563" available="true">
       <vendorCode>000022563</vendorCode>
       <categoryId>11</categoryId>
-      <price>1585</price>
+      <price>1285</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні зі стіни Globus Lux Laguna GLA-0104-7-WHITE</name>
@@ -21375,7 +21375,7 @@
     <offer id="22564" available="true">
       <vendorCode>000022564</vendorCode>
       <categoryId>11</categoryId>
-      <price>1350</price>
+      <price>1285</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для душу Globus Lux Laguna GLA-0105-7-WHITE</name>
@@ -21488,7 +21488,7 @@
     <offer id="22568" available="true">
       <vendorCode>000022568</vendorCode>
       <categoryId>11</categoryId>
-      <price>2215</price>
+      <price>2005</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для ванної Globus Lux Laguna GLA-0208-7-WHITE EURO</name>
