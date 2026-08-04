@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-04 08:35">
+<yml_catalog date="2026-08-04 09:34">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -1538,7 +1538,7 @@
       <price>426</price>
       <currencyId>UAH</currencyId>
       <name>Дозатор рідкого мила Globus Lux SS8433  SUS304</name>
-      <stock_quantity>4</stock_quantity>
+      <stock_quantity>3</stock_quantity>
     </offer>
     <offer id="60300727" available="true">
       <vendorCode>000021389</vendorCode>
