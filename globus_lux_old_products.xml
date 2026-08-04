@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-04 09:34">
+<yml_catalog date="2026-08-04 10:33">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -1514,7 +1514,7 @@
       <price>1365</price>
       <currencyId>UAH</currencyId>
       <name>Полка подвійна кутова Globus Lux SS8422</name>
-      <stock_quantity>2</stock_quantity>
+      <stock_quantity>7</stock_quantity>
     </offer>
     <offer id="60294814" available="false">
       <vendorCode>000019474</vendorCode>
@@ -1954,7 +1954,7 @@
       <price>1775</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для ванни Globus Lux WIEN SBT2-102NE</name>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>2</stock_quantity>
     </offer>
     <offer id="52225681" available="false">
       <vendorCode>000021172</vendorCode>
@@ -2242,7 +2242,7 @@
       <price>2020</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для ванни Globus Lux MAIN SM-102N</name>
-      <stock_quantity>5</stock_quantity>
+      <stock_quantity>3</stock_quantity>
     </offer>
     <offer id="56074425" available="false">
       <vendorCode>000019192</vendorCode>
@@ -2266,7 +2266,7 @@
       <price>2420</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для ванни Globus Lux SICILIA SBQ-102N</name>
-      <stock_quantity>2</stock_quantity>
+      <stock_quantity>1</stock_quantity>
     </offer>
     <offer id="56270773" available="true">
       <vendorCode>000017543</vendorCode>
@@ -2316,13 +2316,13 @@
       <name>Змішувач для ванни Globus Lux Solly GLSO-0102N</name>
       <stock_quantity>0</stock_quantity>
     </offer>
-    <offer id="56271303" available="true">
+    <offer id="56271303" available="false">
       <vendorCode>000022611</vendorCode>
       <categoryId>2726373</categoryId>
       <price>2455</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для ванни Globus Lux Sorento SQ-102NHR</name>
-      <stock_quantity>1</stock_quantity>
+      <stock_quantity>0</stock_quantity>
     </offer>
     <offer id="56271326" available="false">
       <vendorCode>000017539</vendorCode>
@@ -2530,7 +2530,7 @@
       <price>825</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для умивальника Globus Lux ALPEN SUS-101S</name>
-      <stock_quantity>2</stock_quantity>
+      <stock_quantity>1</stock_quantity>
     </offer>
     <offer id="52688814" available="false">
       <vendorCode>000009422</vendorCode>
@@ -2658,7 +2658,7 @@
       <price>702</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для умивальника Globus Lux ALPEN SBT1-101S</name>
-      <stock_quantity>10</stock_quantity>
+      <stock_quantity>9</stock_quantity>
     </offer>
     <offer id="64318957" available="true">
       <vendorCode>000017547+000016087</vendorCode>
