@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-05 08:33">
+<yml_catalog date="2026-08-05 09:34">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -602,7 +602,7 @@
       <price>5975</price>
       <currencyId>UAH</currencyId>
       <name>Душова система Globus Lux GLM-205-SMART</name>
-      <stock_quantity>4</stock_quantity>
+      <stock_quantity>3</stock_quantity>
     </offer>
     <offer id="79025255" available="true">
       <vendorCode>000022019</vendorCode>
@@ -868,13 +868,13 @@
       <name>Змішувач для кухні Globus Lux ALPEN SUS-G203S</name>
       <stock_quantity>10</stock_quantity>
     </offer>
-    <offer id="52102587" available="true">
+    <offer id="52102587" available="false">
       <vendorCode>000017535</vendorCode>
       <categoryId>2712456</categoryId>
       <price>1040</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні Globus Lux WIEN SUS2-203SG</name>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>0</stock_quantity>
     </offer>
     <offer id="52102778" available="true">
       <vendorCode>000017525</vendorCode>
@@ -1444,13 +1444,13 @@
       <name>Полка подвійна кутова Globus Lux BQ9422</name>
       <stock_quantity>0</stock_quantity>
     </offer>
-    <offer id="60293378" available="false">
+    <offer id="60293378" available="true">
       <vendorCode>000022205</vendorCode>
       <categoryId>3181398</categoryId>
       <price>1555</price>
       <currencyId>UAH</currencyId>
       <name>Поличка подвійна Globus Lux SQ9488</name>
-      <stock_quantity>0</stock_quantity>
+      <stock_quantity>3</stock_quantity>
     </offer>
     <offer id="60294039" available="false">
       <vendorCode>000021234</vendorCode>
@@ -2210,7 +2210,7 @@
       <price>1600</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для ванни Globus Lux ALPEN SUS-208</name>
-      <stock_quantity>8</stock_quantity>
+      <stock_quantity>10</stock_quantity>
     </offer>
     <offer id="56063131" available="true">
       <vendorCode>000022967</vendorCode>
@@ -2604,13 +2604,13 @@
       <name>Змішувач для умивальника TOPAZ LEXI TL 21235-H57A-BL</name>
       <stock_quantity>3</stock_quantity>
     </offer>
-    <offer id="52810366" available="false">
+    <offer id="52810366" available="true">
       <vendorCode>000014766</vendorCode>
       <categoryId>2712469</categoryId>
       <price>1415</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач-дозатор для умивальника TOPAZ TP-0302</name>
-      <stock_quantity>0</stock_quantity>
+      <stock_quantity>6</stock_quantity>
     </offer>
     <offer id="59426493" available="true">
       <vendorCode>000015051</vendorCode>
