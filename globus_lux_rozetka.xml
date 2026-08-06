@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-06 07:46">
+<yml_catalog date="2026-08-06 09:46">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -4004,7 +4004,7 @@
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Змішувач для кухні TOPAZ BARTS TB 07423-H36, Шланги TAQ-M1055</name>
-      <stock_quantity>9</stock_quantity>
+      <stock_quantity>8</stock_quantity>
       <description><![CDATA[Змішувач для кухні TOPAZ BARTS-TB 07423-H36<br><br>Серія змішувачів TOPAZ дивує своєю вишуканістю форм, надійністю в експлуатації, витонченим дизайном.<br>У комплектацію входить:<br>Змішувач з латуні<br>Шланги для підключення води - 2 шт.-(TuCai) TAQ-M1055 M10×1-F1/2-55CM<br>Високий поворотний гусак<br>Картридж-TC-35-Картридж керамічний короткий D35-TOPAZ<br>Якісна продукція TOPAZ прослужить Вам довгі роки]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/13600/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/13600/2.jpeg</picture>
@@ -9237,14 +9237,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.002000</param>
     </offer>
-    <offer id="18161" available="true">
+    <offer id="18161" available="false">
       <vendorCode>000018161</vendorCode>
       <categoryId>30</categoryId>
       <price>554</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Йоржик настінний без кришки Globus Lux SS8429A  SUS304</name>
-      <stock_quantity>4</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Йорж настінний без кришки Globus Lux SS8429A<br>Країна виробник товару - Китай<br>Тип товару - Аксесуари для ванної кімнати<br>Кріплення - Шурупи<br>Тип установки - Настінний (підвісний)<br>Матеріал виробу:<br>- Стакан: скло<br>- Фурнітура: нержавіюча сталь (SUS 304)<br>Колір виробу - Матове скло / нержавіюча сталь<br>Комплектація:<br>- Монтажні елементи<br>- Склянка<br>Габарити упаковки (ВхШхГ): 42 х 12 х 12 см<br>Габарити (ШхВ): 14.5 х 36.5 см<br>Вага в упаковці - 0.685 кг<br>Вага - 0.575 кг<br>Гарантія - 12 місяців офіційної гарантії від виробника]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/18161/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/18161/2.jpeg</picture>
@@ -23826,7 +23826,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні під осмос Globus Lux GLLR-0800-08-02 гофрований  на гайці латунь,Сталь-Сірий</name>
-      <stock_quantity>6</stock_quantity>
+      <stock_quantity>5</stock_quantity>
       <description><![CDATA[Кухонний змішувач Globus Lux LAZER GLLR-0800-08-02, комбінований під ОСМОС, сірий гофрогусак,  колір корпусу- нержавіюча сталь<br>Комбінований змішувач вражає своєю продуманістю до використання і монтажу. Класичний колір покриття-хром.<br>Переваги комбінованих під систему зворотного осмосу моделей змішувачів Globus Lux:<br>Вид монтажу: Врізний<br>Вид змішувача: Одноважільний з перемиканням під осмос<br>Тип виливу: Поворотний<br>Підключення до фільтру і водопроводу- шланг + Quick fitting<br>Діаметр підключення шлангів 1/2 ″<br>Кріплення - гайка<br><br><br>Матеріал: Латунь<br>Колір виробу: нержавіюча сталь/сірий<br>Додаткові характеристики:<br>- Монтаж на один отвір<br>- Металевий важіль<br>- Система швидкого монтажу<br>- Гнучка проводка<br>Країна реєстрації бренду: Україна<br>Гарантія: 12 місяців офіційної гарантії від виробника.]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/24673/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/24673/2.jpeg</picture>
@@ -26533,7 +26533,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux Lazer GLLR-0203SA-BB-B01</name>
-      <stock_quantity>4</stock_quantity>
+      <stock_quantity>3</stock_quantity>
       <description><![CDATA[Змішувач для кухні Globus Lux Lazer GLLR-0203SA-BB-B01, чорний гофровилив з душовою насадкою<br><br>Країна-виробник товару: Китай<br>Вид монтажу: Врізний<br>Вид змішувача: Одноважільний<br>Габарити (ВхГ): 36,5 х 24 см<br>Тип виливу: Поворотний, 360°<br>Підключення до водопроводу<br>Матеріал: Латунь<br>Колір виробу: Чорний<br>Додаткові характеристики:<br>- Монтаж на один отвір<br>- Металевий, бічний важіль<br>- Система швидкого монтажу<br>Вага в упаковці: 1,86 кг<br>Вага: 1,3 кг<br>Габарити упаковки (ВхШхГ): 38х21х6.5 см<br><br>Комплектація:<br>- Змішувач латунний<br>- Шланг М10*1/2-2шт<br>- Кріплення для змішувача - гайка<br><br>Країна реєстрації бренду: Україна<br>Гарантія: 12 місяців офіційної гарантії від виробника.]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/27552/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/27552/2.jpeg</picture>
