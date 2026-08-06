@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-06 11:38">
+<yml_catalog date="2026-08-06 12:35">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -236,13 +236,13 @@
       <name>Душова система Globus Lux ONTARIO GLO-0005</name>
       <stock_quantity>2</stock_quantity>
     </offer>
-    <offer id="57579195" available="true">
+    <offer id="57579195" available="false">
       <vendorCode>000010148</vendorCode>
       <categoryId>2718126</categoryId>
       <price>3910</price>
       <currencyId>UAH</currencyId>
       <name>Душова система Globus Lux QUEENSLAND GLQU-0077</name>
-      <stock_quantity>6</stock_quantity>
+      <stock_quantity>0</stock_quantity>
     </offer>
     <offer id="57579234" available="true">
       <vendorCode>000018474</vendorCode>
