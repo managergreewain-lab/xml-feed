@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-06 07:33">
+<yml_catalog date="2026-08-06 10:34">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -922,7 +922,7 @@
       <price>1780</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні TOPAZ BARTS TB 07423-H36, Шланги TAQ-M1055</name>
-      <stock_quantity>9</stock_quantity>
+      <stock_quantity>8</stock_quantity>
     </offer>
     <offer id="52145567" available="true">
       <vendorCode>000018083</vendorCode>
@@ -1204,13 +1204,13 @@
       <name>Змішувач для кухні Globus Lux ALPEN SUS-203S-BG15</name>
       <stock_quantity>0</stock_quantity>
     </offer>
-    <offer id="64174104" available="false">
+    <offer id="64174104" available="true">
       <vendorCode>000024612</vendorCode>
       <categoryId>2712456</categoryId>
       <price>1000</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні Globus Lux ALPEN SBT1-203S-BEIGE</name>
-      <stock_quantity>0</stock_quantity>
+      <stock_quantity>1</stock_quantity>
     </offer>
     <offer id="64174114" available="true">
       <vendorCode>000026593</vendorCode>
