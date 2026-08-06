@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-06 09:46">
+<yml_catalog date="2026-08-06 12:46">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -2683,14 +2683,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.009000</param>
     </offer>
-    <offer id="10148" available="true">
+    <offer id="10148" available="false">
       <vendorCode>000010148</vendorCode>
       <categoryId>44</categoryId>
       <price>3910</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Душова система Globus Lux QUEENSLAND GLQU-0077</name>
-      <stock_quantity>7</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Душова система GLQU-0077  Queensland GLOBUS LUX  <br>Переваги душових систем Globus Lux:<br>латунний корпус<br>наявність верхнього душа короткого типу,<br>ефект водоспаду<br>телескопічна душова штанга (регульована по висоті)<br>всі душі оснащені системою проти вапняних відкладень,<br>душовий шланг з посиленою обмоткою<br>Комплектація душової системи:<br>верхній душ,<br>тримач для душа,<br>душова штанга,<br>кронштейн,<br>перемикаючий вентиль,<br>ручна лійка,<br>шланг душовий<br>змішувач латунний]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/10148/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/10148/2.jpeg</picture>
@@ -14732,7 +14732,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Душова лійка Globus Lux NS-880-P</name>
-      <stock_quantity>6</stock_quantity>
+      <stock_quantity>4</stock_quantity>
       <description><![CDATA[Душова лійка Globus Lux NS-880-P<br>Матеріал - Пластик<br>Колір - хром/чорний<br>Кількість типів струї - 1<br>Діаметр ручної лійки - 7.5<br>Вага - 0.11 кг<br>Країна виробник - Китай]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/20782/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/20782/2.jpeg</picture>
@@ -19353,7 +19353,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Душова лійка Globus Lux SH101-P</name>
-      <stock_quantity>9</stock_quantity>
+      <stock_quantity>7</stock_quantity>
       <description><![CDATA[Душова лійка Globus Lux SH101-P<br>Матеріал - Пластик<br>Колір - Хром/сірий<br>Кількість типів струї - 1<br>Діаметр ручної лійки - 7 см<br>Вага - 0.1 кг<br>Країна виробник - Китай]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/21976/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/21976/2.jpeg</picture>
@@ -32431,7 +32431,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Душова система Globus Lux PIANO GLPN-0099</name>
-      <stock_quantity>4</stock_quantity>
+      <stock_quantity>3</stock_quantity>
       <description><![CDATA[Душова система Globus Lux PIANO GLPN-0099 поворотній вилив , клавішнийі,штанга круг1400мм,латунь<br>Комплектація:<br>Штанга (висота 115-145см)<br>Змішувач з поворотним виливом та клавішами-перемикачами<br>Верхня лійка тропік 250х250 мм<br>Ручна лійка NF-2201-00 Пластикова, 3-позиційна<br>Шланг<br><br>Переваги змішувачів Globus Lux:<br>1 Довговічність і безвідмовність в експлуатації<br>2 Елегантність форм, міцність і надійність<br>3 Висока функціональність<br>4 Використання якісних екологічно чистих матеріалів<br>5 Інноваційні технології виробництва<br>6 Корпуси виготовлені з латуні з вмістом міді не менше 70%<br><br>Компанія займається виробництвом: якісних змішувачів, душових систем і шлангів для душа а також різноманітних товарів для кухні і ванної кімнати.<br>Продукція ТМ «Globus Lux» вважається однією з найбезпечніших, надійних і простих в обслуговуванні і поставляється в багато країн світу.<br>Сучасне високоточне обладнання, ретельний контроль якості, використання європейських комплектуючих, якісних матеріалів (латунь, нержавіюча сталь SUS 304), а також помірна ціна - все це разом дозволило компанії завоювати себе одне з провідних місць на світовому ринку.<br>У Деяких моделях змішувачів ТМ «Globus Lux» використовуються ексклюзивні картриджі торгівельної марки ″Sedal″ (Іспанія), які витримують гідравлічний тиск до 4 МРА, а працездатність зберігається при 1 млн. Циклов включення і виключення навіть при змінних тиску води.<br>Змішувачі виробництва ТМ «Globus Lux» вигідно відрізняються від своїх конкурентів низку незаперечних переваг: використання якісної латуні або нержавіючої сталі, якісне хромоване напилення, посилені гайки і ручки.<br>Кожен може знайти в ТМ «Globus Lux» для себе той дизайн і комплектацію, яка потрібна саме йому і саме сьогодні.<br>Купуючи товари ТМ «Globus Lux» ви можете довгий час НЕ замислюватися над сантехнікою в будинку, так як навіть через роки змішувачі та душові стійки «Globus Lux» будуть виглядати сучасно і якісно.]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/32221/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/32221/2.jpeg</picture>
