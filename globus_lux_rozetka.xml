@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-07 02:46">
+<yml_catalog date="2026-08-07 05:46">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -2238,7 +2238,7 @@
     <offer id="9439" available="true">
       <vendorCode>000009439</vendorCode>
       <categoryId>44</categoryId>
-      <price>5665</price>
+      <price>5465</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Душова система Globus Lux DS0026-Milano (Лійка Тропік300*300мм НЕРЖ) з виливом латунь Штанга 115см</name>
@@ -2529,7 +2529,7 @@
     <offer id="10117" available="true">
       <vendorCode>000010117</vendorCode>
       <categoryId>44</categoryId>
-      <price>4645</price>
+      <price>4320</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Душова система вбудована Globus Lux QUEENSLAND GLQU-0205S</name>
@@ -7435,7 +7435,7 @@
     <offer id="16714" available="true">
       <vendorCode>000016714</vendorCode>
       <categoryId>44</categoryId>
-      <price>7275</price>
+      <price>7085</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Душова система TOPAZ ODISS TO 18102-H52 з виливом, комплект, кругла штанга Н-130см</name>
@@ -13355,7 +13355,7 @@
     <offer id="19566" available="true">
       <vendorCode>000019566</vendorCode>
       <categoryId>44</categoryId>
-      <price>7275</price>
+      <price>6760</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Душова система TOPAZ CORSICA TC 16102 H48-S</name>
@@ -14025,7 +14025,7 @@
     <offer id="20174" available="true">
       <vendorCode>000020174</vendorCode>
       <categoryId>44</categoryId>
-      <price>7070</price>
+      <price>6760</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Душова система TOPAZ BARTS-TB 07102-H36-S</name>
@@ -14567,7 +14567,7 @@
     <offer id="20415" available="true">
       <vendorCode>000020415</vendorCode>
       <categoryId>44</categoryId>
-      <price>1895</price>
+      <price>1805</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Душова система Globus Lux ALPEN S-SH-005</name>
@@ -18788,7 +18788,7 @@
     <offer id="21906" available="true">
       <vendorCode>000021906</vendorCode>
       <categoryId>44</categoryId>
-      <price>3600</price>
+      <price>3525</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Душова система Globus Lux ALPEN SBT1-SQ-05-304</name>
@@ -21103,6 +21103,7 @@
       <picture>https://b2b-sklad.com/storage/img/products/22552/5.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/22552/6.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/22552/7.jpeg</picture>
+      <picture>https://b2b-sklad.com/storage/img/products/22552/8.jpeg</picture>
       <param name="Країна походження">Китай</param>
       <param name="Країна реєстрації бренду">Україна</param>
       <param name="Серія">LAGUNA</param>
@@ -21745,7 +21746,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для умивальника Globus Lux Sorento SQ-101HR</name>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>4</stock_quantity>
       <description><![CDATA[Змішувач для умивальника Globus Lux Sorento SQ-101HR, SUS304<br><br>Переваги моделей змішувачів Globus Lux з нержавійки:<br>1. Корпус моделей виготовлений з харчової нержавіючої сталі SUS304<br>2. Довговічність і безвідмовність в експлуатації<br>3. Елегантність форм, міцність і надійність<br>4. Висока функціональність<br>5. Використання якісних екологічно чистих матеріалів<br>6. Інноваційні технології виробництва<br><br>Комплектація:<br>Змішувач з нержавійки<br>Шланги для змішувача Globus Lux  М10х1/2″ 0,5м. АНТИКОРОЗІЯ (  ПАРА)<br>Кріплення для змішувача - гайка з нержавійки]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/22613/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/22613/2.jpeg</picture>
@@ -23507,14 +23508,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.007000</param>
     </offer>
-    <offer id="24606" available="false">
+    <offer id="24606" available="true">
       <vendorCode>000024606</vendorCode>
       <categoryId>59</categoryId>
       <price>217</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Душова лійка Globus Lux NS-0025-P</name>
-      <stock_quantity>0</stock_quantity>
+      <stock_quantity>3</stock_quantity>
       <description><![CDATA[Душова лійка Globus Lux NS-0025-P<br>Матеріал - Пластик<br>Колір - хром<br>Кількість типів струї - 1<br><br>Країна виробник - Китай]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/24606/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/24606/2.jpeg</picture>
@@ -31717,7 +31718,7 @@
     <offer id="31787" available="true">
       <vendorCode>000031787</vendorCode>
       <categoryId>44</categoryId>
-      <price>4315</price>
+      <price>4110</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Душова система Globus Lux BETTA  GLBE-2002</name>
@@ -31781,7 +31782,7 @@
     <offer id="31790" available="true">
       <vendorCode>000031790</vendorCode>
       <categoryId>44</categoryId>
-      <price>4780</price>
+      <price>4650</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Душова система Globus Lux TURIN  GLTU-0550</name>
@@ -32137,6 +32138,11 @@
       <description><![CDATA[Змішувач для раковини Globus Lux Laguna GLA-0401N<br><br>Переваги змішувачів Globus Lux:<br>1 Довговічність і безвідмовність в експлуатації<br>2 Елегантність форм, міцність і надійність<br>3 Висока функціональність<br>4 Використання якісних екологічно чистих матеріалів<br>5 Інноваційні технології виробництва<br>6 Корпус виготовлений з латуні з вмістом міді не менше 70%<br><br>Комплектація:<br>Змішувач латунний<br>Шланг М10 * 1 / 2″-2шт<br>Кріплення для змішувача - гайка]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/32039/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/32039/2.jpeg</picture>
+      <picture>https://b2b-sklad.com/storage/img/products/32039/3.jpeg</picture>
+      <picture>https://b2b-sklad.com/storage/img/products/32039/4.jpeg</picture>
+      <picture>https://b2b-sklad.com/storage/img/products/32039/5.jpeg</picture>
+      <picture>https://b2b-sklad.com/storage/img/products/32039/6.jpeg</picture>
+      <picture>https://b2b-sklad.com/storage/img/products/32039/7.jpeg</picture>
       <param name="Країна походження">Китай</param>
       <param name="Країна реєстрації бренду">Україна</param>
       <param name="Серія">LAGUNA</param>
@@ -32241,6 +32247,10 @@
       <description><![CDATA[Змішувач для ванної Globus Lux Laguna GLA-0208N  латунь L350мм,EURO<br><br>Переваги змішувачів Globus Lux:<br>1 Довговічність і безвідмовність в експлуатації<br>2 Елегантність форм, міцність і надійність<br>3 Висока функціональність<br>4 Використання якісних екологічно чистих матеріалів<br>5 Інноваційні технології виробництва<br>6 Корпус виготовлений з латуні з вмістом міді не менше 70%<br><br>Комплектація:<br>Змішувач латунний<br>Тримач для душу,<br>Ручна лійка,<br>шланг душовий<br>Ексцентрики для змішувачів настінного монтажу<br>декоративні чаші]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/32043/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/32043/2.jpeg</picture>
+      <picture>https://b2b-sklad.com/storage/img/products/32043/3.jpeg</picture>
+      <picture>https://b2b-sklad.com/storage/img/products/32043/4.jpeg</picture>
+      <picture>https://b2b-sklad.com/storage/img/products/32043/5.jpeg</picture>
+      <picture>https://b2b-sklad.com/storage/img/products/32043/6.jpeg</picture>
       <param name="Країна походження">Китай</param>
       <param name="Країна реєстрації бренду">Україна</param>
       <param name="Серія">LAGUNA</param>
