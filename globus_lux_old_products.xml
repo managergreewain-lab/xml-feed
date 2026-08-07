@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-07 03:34">
+<yml_catalog date="2026-08-07 04:37">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -471,7 +471,7 @@
     <offer id="78740315" available="true">
       <vendorCode>000020415</vendorCode>
       <categoryId>2718126</categoryId>
-      <price>1895</price>
+      <price>1805</price>
       <currencyId>UAH</currencyId>
       <name>Душова система Globus Lux ALPEN S-SH-005</name>
       <stock_quantity>5</stock_quantity>
@@ -495,7 +495,7 @@
     <offer id="78902302" available="true">
       <vendorCode>000021906</vendorCode>
       <categoryId>2718126</categoryId>
-      <price>3600</price>
+      <price>3525</price>
       <currencyId>UAH</currencyId>
       <name>Душова система Globus Lux ALPEN SBT1-SQ-05-304</name>
       <stock_quantity>4</stock_quantity>
@@ -559,7 +559,7 @@
     <offer id="78981936" available="true">
       <vendorCode>000009439</vendorCode>
       <categoryId>2718126</categoryId>
-      <price>5665</price>
+      <price>5465</price>
       <currencyId>UAH</currencyId>
       <name>Душова система Globus Lux DS0026-Milano (Лійка Тропік300*300мм НЕРЖ) з виливом латунь Штанга 115см</name>
       <stock_quantity>3</stock_quantity>
