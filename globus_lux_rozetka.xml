@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-07 11:46">
+<yml_catalog date="2026-08-07 13:46">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -3483,7 +3483,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Душова колона Globus Lux LAZER GL-BAR-0101</name>
-      <stock_quantity>7</stock_quantity>
+      <stock_quantity>6</stock_quantity>
       <description><![CDATA[Душова колона GL-BAR-0101 GLOBUS LUX<br>Переваги душових систем Globus Lux:<br>латунний кульовий перемикач<br>наявність верхнього душа короткого типу,<br>ефект водоспаду<br>телескопічна душова штанга (регульована по висоті)<br>всі душі оснащені системою проти вапняних відкладень,<br>душовий шланг з посиленою обмоткою<br>Комплектація душової системи:<br>верхній душ,<br>тримач для душа,<br>душова штанга,<br>кронштейн,<br>перемикаючий вентиль,<br>ручна лійка<br>шланг душовий - 2 шт]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/12440/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/12440/2.jpeg</picture>
