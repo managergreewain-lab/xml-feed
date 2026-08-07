@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-07 14:46">
+<yml_catalog date="2026-08-07 15:46">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -25409,14 +25409,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.007000</param>
     </offer>
-    <offer id="26594" available="true">
+    <offer id="26594" available="false">
       <vendorCode>000026594</vendorCode>
       <categoryId>11</categoryId>
       <price>950</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux ALPEN SBT1-203L-GP</name>
-      <stock_quantity>10</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Змішувач для кухні Globus Lux ALPEN SBT1-203L-GP Графіт боковий Нержавійка_на гайці<br>Вид монтажу: Врізний<br>Вид змішувача: Одноважільний<br>Тип виливу: Поворотний<br>Підключення до водопроводу<br>Матеріал: Нержавіюча сталь<br>Колір виробу: Графіт<br>Додаткові характеристики:<br>- Монтаж на один отвір<br>- Металевий, бічний важіль<br>- Система швидкого монтажу<br>Комплектація:<br>- Змішувач<br>- Шланги для змішувача Globus Lux  М10х1/2″ 0,5м. АНТИКОРОЗІЯ (  ПАРА)<br>- Кріплення для змішувача - гайка <br>Країна-виробник товару: Китай<br>Гарантія: 12 місяців офіційної гарантії від виробника.]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/26594/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/26594/2.jpeg</picture>
@@ -26246,7 +26246,7 @@
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Душова система вбудована TOPAZ CAPRI TCA-15205-H43</name>
-      <stock_quantity>7</stock_quantity>
+      <stock_quantity>10</stock_quantity>
       <description><![CDATA[Душова система вбудована TOPAZ CAPRI TCA-15205-H43, вбудований, душовий комплект<br>Серія змішувачів TOPAZ дивує своєю вишуканістю форм, надійністю в експлуатації, витонченим дизайном.<br>У комплектацію входить:<br>Змішувач з латуні вбудований<br>Душова штанга для верхньої лійки, монтаж зі стіни<br>Душова лійка верхня<br>Душова лійка ручна<br>Кріплення для ручної лійки з виходом під шланг<br>Шланг для душу<br>Картридж-TC-35-Картридж керамічний короткий D35-TOPAZ<br>Якісна продукція TOPAZ прослужить Вам довгі роки]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/27414/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/27414/2.jpeg</picture>
