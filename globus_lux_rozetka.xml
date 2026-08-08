@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-08 07:46">
+<yml_catalog date="2026-08-08 08:46">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -2242,7 +2242,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Душова система Globus Lux DS0026-Milano (Лійка Тропік300*300мм НЕРЖ) з виливом латунь Штанга 115см</name>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>7</stock_quantity>
       <description><![CDATA[Душова система DS0026 Globus Lux з гусаком (STYLE)<br>Переваги душових систем Globus Lux:<br>латунний корпус<br>наявність верхнього душа короткого типу,<br>ефект водоспаду<br>телескопічна душова штанга (регульована по висоті)<br>всі душі оснащені системою проти вапняних відкладень,<br>душовий шланг з посиленою обмоткою<br>Комплектація душової системи:<br>верхній душ, нерж. 300*300мм<br>тримач для душа,<br>душова штанга,<br>кронштейн,<br>перемикаючий вентиль,<br>ручна лійка,<br>шланг душовий]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/9439/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/9439/2.jpeg</picture>
@@ -8917,14 +8917,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.008000</param>
     </offer>
-    <offer id="18106" available="false">
+    <offer id="18106" available="true">
       <vendorCode>000018106</vendorCode>
       <categoryId>11</categoryId>
       <price>885</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux ALPEN SUS-203S-BB</name>
-      <stock_quantity>0</stock_quantity>
+      <stock_quantity>3</stock_quantity>
       <description><![CDATA[Змішувач для кухні Globus Lux ALPEN SUS-203S-BB SUS304 Чорний матовий<br>Вид монтажу: Врізний<br>Вид змішувача: Одноважільний<br>Габарити (ВхГ): 37 х 22.5 см<br>Тип виливу: Поворотний<br>Довжина виливу: 20 см<br>Висота виливу: 25.5 см<br>Підключення до водопроводу<br>Матеріал: Нержавіюча сталь<br>Колір виробу: Чорний<br>Додаткові характеристики:<br>- Монтаж на один отвір<br>- Металевий, бічний важіль<br>- Система швидкого монтажу<br>Габарити упаковки (ВхШхГ): 43х24х6 см<br>Вага в упаковці: 1.61 кг<br>Вага: 1,12 кг<br>Комплектація:<br>- Змішувач<br>- Шланги для змішувача Globus Lux  М10х1/2″ 0,5м. АНТИКОРОЗІЯ (  ПАРА)<br>- Кріплення для змішувача - гайка з нержавійки<br>Країна-виробник товару: Китай<br>Гарантія: 12 місяців офіційної гарантії від виробника.]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/18106/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/18106/2.jpeg</picture>
