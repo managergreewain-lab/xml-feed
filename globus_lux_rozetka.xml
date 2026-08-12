@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-12 08:46">
+<yml_catalog date="2026-08-12 09:46">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -24468,7 +24468,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Дозатор рідкого мила SS8445</name>
-      <stock_quantity>9</stock_quantity>
+      <stock_quantity>8</stock_quantity>
       <description><![CDATA[Дозатор рідкого мила SS8444<br>Країна виробник товару - Китай<br>Кріплення - Різьба<br>Тип установки - врізний<br>Матеріал виробу:<br>нержавіюча сталь (SUS 304)<br>Колір виробу: нержавіюча сталь]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/25133/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/25133/2.jpeg</picture>
@@ -24941,7 +24941,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux Alpen SBT1-203SA-K15</name>
-      <stock_quantity>10</stock_quantity>
+      <stock_quantity>8</stock_quantity>
       <description><![CDATA[Змішувач для кухні Globus Lux ALPEN SBT1-203SA-K15 бічний беж. гофровилив, Нержавіюча сталь, на гайці<br><br>Переваги моделей змішувачів Globus Lux з нержавіючої сталі:<br>1. Корпус моделей виготовлений із харчової нержавіючої сталі SUS304<br>2. Довговічність та безвідмовність в експлуатації<br>3. Елегантність форм, міцність та надійність<br>4. Висока функціональність<br>5. Використання якісних екологічно чистих матеріалів<br>6. Інноваційні технології виробництва<br>7,Вилив легко згинається в потрібному напрямку,Силіконова оболонка виливу стійка до високої та низької температури, не втрачає своєї пластичності при всіх режимах користування змішувачем.<br>8, легко можна регулювати висоту водяного струменя.<br>9, дворежимний аератор<br><br><br>Комплектація:<br>Змішувач з нержавіючої сталі SUS304<br>Шланги для змішувача Globus Lux  М10х1/2″ 0,5м. АНТИКОРОЗІЯ (  ПАРА)<br>Кріплення для змішувача - гайка з нержавіючої сталі SUS304<br><br>Країна реєстрації бренду: Україна<br>Гарантія: 12 місяців офіційної гарантії від виробника.]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/25228/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/25228/2.jpeg</picture>
@@ -26473,7 +26473,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Кран для зворотнього осмосу Globus Lux Lazer GLLR-76A-00</name>
-      <stock_quantity>10</stock_quantity>
+      <stock_quantity>9</stock_quantity>
       <description><![CDATA[Кран для зворотнього осмосу Globus Lux Lazer GLLR-76A-00<br>Додатковий важіль на мінералізатор<br>Вид монтажу: Врізний<br>Вид змішувача: Двоважільний<br>Тип виливу: Поворотний<br>Підключення до осмосу<br>Матеріал: латунь<br>Колір виробу: хром<br>Додаткові характеристики:<br>- Монтаж на один отвір<br>- Металевий, 2 бічних важілі<br>- Система швидкого монтажу<br>Комплектація:<br>- Змішувач<br>- Квик-фітінг -2 шт<br>- Кріплення для змішувача - 2 гайки з металу<br>Країна-виробник товару: Китай]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/27524/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/27524/2.jpeg</picture>
@@ -27744,14 +27744,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.008000</param>
     </offer>
-    <offer id="28502" available="true">
+    <offer id="28502" available="false">
       <vendorCode>000028502</vendorCode>
       <categoryId>11</categoryId>
       <price>1815</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для душу Globus Lux BONN GLB-0105N</name>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Змішувач для душу Globus Lux BONN GLB-0105N, душовий комплект<br><br>Переваги змішувачів Globus Lux:<br>1. Довговічність і безвідмовність в експлуатації<br>2. Елегантність форм, міцність і надійність<br>3. Висока функціональність<br>4. Використання якісних екологічно чистих матеріалів<br>5. Інноваційні технології виробництва<br>6. Корпус виготовлений з латуні з вмістом міді не менше 70%<br><br>Комплектація:<br>-змішувач латуний<br>-Тримач для душа,<br>-Ручна лійка,<br>-шланги душовий<br>-Ексцентрики для змішувачів настінного монтажу<br>-Декоративні чаші]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/28502/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/28502/2.jpeg</picture>
