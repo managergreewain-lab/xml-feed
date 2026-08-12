@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-12 15:47">
+<yml_catalog date="2026-08-12 16:46">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -8336,7 +8336,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Душова система Globus Lux WIEN SBT2-SH-02</name>
-      <stock_quantity>10</stock_quantity>
+      <stock_quantity>8</stock_quantity>
       <description><![CDATA[Душова система WIEN SBT2-SH-02 GLOBUS LUX SUS304 з гусаком<br>Переваги душових систем Globus Lux:<br>Матеріал: харчова нержавіюча сталь SUS 304<br>наявність верхнього душа короткого типу,<br>«Ефект водоспаду»,<br>телескопічна душова штанга (регульована по висоті)<br>всі душі оснащені системою проти вапняних відкладень,<br>душовий шланг з посиленою обмоткою<br>Комплектація душової системи:<br>змішувач з нержавіючої сталі,<br>верхній душ<br>тримач для душа,<br>душова штанга,<br>кронштейн,<br>перемикаючий вентиль,<br>ручна лійка,<br>шланг душовий]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/17549/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/17549/2.jpeg</picture>
