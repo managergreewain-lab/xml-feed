@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-13 14:46">
+<yml_catalog date="2026-08-13 15:46">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -1016,7 +1016,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Шланг душовий Globus Lux PVC-PIPES NH-10-200</name>
-      <stock_quantity>5</stock_quantity>
+      <stock_quantity>4</stock_quantity>
       <description><![CDATA[Шланг душовий Globus Lux NH-10-200 PVC-PIPES<br>Довжина - 200 см<br>Підключення - 1/2″ x 1/2″<br>Особливості:<br>- Антибактеріальне покриття<br>- З&apos;єднання Double LOck<br>- серцевина латунь<br>Матеріал - силікон<br>Колір - сірий / хром<br>Вага - 0.335 кг<br>Виробник - Китай]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/7823/1.jpeg</picture>
       <param name="Країна походження">Китай</param>
@@ -24728,7 +24728,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Шланг душовий Globus Lux NH-10-BB-160 PVC-Pipes</name>
-      <stock_quantity>6</stock_quantity>
+      <stock_quantity>5</stock_quantity>
       <description><![CDATA[ланг душовий Globus Lux NH-10-BB-160 PVC-Pipes <br>Довжина - 160 см<br>Підключення - 1/2″ x 1/2″<br>Особливості:<br>- Антибактеріальне покриття<br>- З&apos;єднання Double LOck<br>- серцевина латунь<br>Матеріал - силікон<br>Колір - чорний<br>Вага - 0.335 кг<br>Виробник - Китай]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/25177/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/25177/2.jpeg</picture>
