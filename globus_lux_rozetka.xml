@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-13 03:46">
+<yml_catalog date="2026-08-13 04:46">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -8518,7 +8518,7 @@
     <offer id="17645" available="false">
       <vendorCode>000017645</vendorCode>
       <categoryId>11</categoryId>
-      <price>674</price>
+      <price>640</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux Solly GLSO-0203S-Big-ONIX</name>
