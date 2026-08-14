@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-14 20:01">
+<yml_catalog date="2026-08-14 20:19">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -95,7 +95,7 @@
     <offer id="55149333" available="false">
       <vendorCode>000022953</vendorCode>
       <categoryId>2718126</categoryId>
-      <price>2000</price>
+      <price>1905</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач гігієнічний Globus Lux ALPEN SBT-6BB-106MIX</name>
       <stock_quantity>0</stock_quantity>
@@ -383,7 +383,7 @@
     <offer id="64318058" available="true">
       <vendorCode>000020237</vendorCode>
       <categoryId>2718126</categoryId>
-      <price>10000</price>
+      <price>9910</price>
       <currencyId>UAH</currencyId>
       <name>Душова система вбудована TOPAZ LEXI TLG 21205-H57-BL</name>
       <stock_quantity>2</stock_quantity>
@@ -471,7 +471,7 @@
     <offer id="78740315" available="true">
       <vendorCode>000020415</vendorCode>
       <categoryId>2718126</categoryId>
-      <price>2000</price>
+      <price>1910</price>
       <currencyId>UAH</currencyId>
       <name>Душова система Globus Lux ALPEN S-SH-005</name>
       <stock_quantity>100</stock_quantity>
@@ -615,7 +615,7 @@
     <offer id="79041326" available="true">
       <vendorCode>000023325</vendorCode>
       <categoryId>2718126</categoryId>
-      <price>7000</price>
+      <price>6960</price>
       <currencyId>UAH</currencyId>
       <name>Душова система Globus Lux SMART GLM-305L</name>
       <stock_quantity>2</stock_quantity>
@@ -1367,7 +1367,7 @@
     <offer id="64308638" available="true">
       <vendorCode>000021852</vendorCode>
       <categoryId>2712456</categoryId>
-      <price>2000</price>
+      <price>1935</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні Globus Lux Milano GLM-203LR-10-BB</name>
       <stock_quantity>1</stock_quantity>
@@ -2215,7 +2215,7 @@
     <offer id="56063131" available="true">
       <vendorCode>000022967</vendorCode>
       <categoryId>2726373</categoryId>
-      <price>2000</price>
+      <price>1930</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для ванни Globus Lux DUKAT SD4-108</name>
       <stock_quantity>2</stock_quantity>
