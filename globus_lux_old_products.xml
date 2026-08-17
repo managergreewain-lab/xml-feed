@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-17 14:38">
+<yml_catalog date="2026-08-17 15:34">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -1000,14 +1000,14 @@
       <name>Змішувач для кухні Globus Lux ALPEN SUS-203SG</name>
       <stock_quantity>1</stock_quantity>
     </offer>
-    <offer id="52102795" available="false">
+    <offer id="52102795" available="true">
       <id>52102795</id>
       <vendorCode>000020056</vendorCode>
       <categoryId>2712456</categoryId>
       <price>1090</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні Globus Lux ALPEN SUS-203SBR</name>
-      <stock_quantity>0</stock_quantity>
+      <stock_quantity>10</stock_quantity>
     </offer>
     <offer id="52102900" available="true">
       <id>52102900</id>
