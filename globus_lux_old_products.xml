@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-17 11:37">
+<yml_catalog date="2026-08-17 13:39">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -352,14 +352,14 @@
       <name>Душова система Globus Lux SICILIA VAN-SBQ-SH-04-BB</name>
       <stock_quantity>7</stock_quantity>
     </offer>
-    <offer id="64316516" available="true">
+    <offer id="64316516" available="false">
       <id>64316516</id>
       <vendorCode>000021188</vendorCode>
       <categoryId>2718126</categoryId>
       <price>5435</price>
       <currencyId>UAH</currencyId>
       <name>Душова система Globus Lux SICILIA SBQ-SH-125-BB</name>
-      <stock_quantity>1</stock_quantity>
+      <stock_quantity>0</stock_quantity>
     </offer>
     <offer id="64317099" available="false">
       <id>64317099</id>
@@ -971,7 +971,7 @@
       <price>1060</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні Globus Lux ALPEN SUS-G203S</name>
-      <stock_quantity>9</stock_quantity>
+      <stock_quantity>4</stock_quantity>
     </offer>
     <offer id="52102587" available="true">
       <id>52102587</id>
@@ -998,7 +998,7 @@
       <price>1090</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні Globus Lux ALPEN SUS-203SG</name>
-      <stock_quantity>2</stock_quantity>
+      <stock_quantity>1</stock_quantity>
     </offer>
     <offer id="52102795" available="false">
       <id>52102795</id>
@@ -1268,7 +1268,7 @@
       <price>1090</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні Globus Lux ALPEN SUS-203S-BEIGE</name>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>1</stock_quantity>
     </offer>
     <offer id="57818334" available="true">
       <id>57818334</id>
@@ -2969,7 +2969,7 @@
       <price>1245</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для умивальника Globus Lux SICILIA SBQ-201-BB</name>
-      <stock_quantity>5</stock_quantity>
+      <stock_quantity>3</stock_quantity>
     </offer>
     <offer id="59493872" available="true">
       <id>59493872</id>
@@ -3035,7 +3035,7 @@
       <categoryId>3376953</categoryId>
       <price>7150</price>
       <currencyId>UAH</currencyId>
-      <stock_quantity>5</stock_quantity>
+      <stock_quantity>3</stock_quantity>
     </offer>
     <offer id="69693097" available="true">
       <id>69693097</id>
