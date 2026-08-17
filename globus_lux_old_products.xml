@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-17 08:35">
+<yml_catalog date="2026-08-17 10:34">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -1691,7 +1691,7 @@
       <price>665</price>
       <currencyId>UAH</currencyId>
       <name>Поличка кутова Globus Lux SS 8499</name>
-      <stock_quantity>6</stock_quantity>
+      <stock_quantity>4</stock_quantity>
     </offer>
     <offer id="63062557" available="true">
       <id>63062557</id>
@@ -2737,14 +2737,14 @@
       <name>Змішувач для ванни Globus Lux DUKAT SD4-208</name>
       <stock_quantity>2</stock_quantity>
     </offer>
-    <offer id="64311959" available="true">
+    <offer id="64311959" available="false">
       <id>64311959</id>
       <vendorCode>000024960</vendorCode>
       <categoryId>2726373</categoryId>
       <price>2220</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для ванни Globus Lux DUKAT SD4-102N</name>
-      <stock_quantity>2</stock_quantity>
+      <stock_quantity>0</stock_quantity>
     </offer>
     <offer id="64312097" available="false">
       <id>64312097</id>
