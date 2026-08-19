@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-19 10:33">
+<yml_catalog date="2026-08-19 12:34">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -251,7 +251,7 @@
       <price>3360</price>
       <currencyId>UAH</currencyId>
       <name>Душова система Globus Lux ALPEN SBT1-SH-05</name>
-      <stock_quantity>2</stock_quantity>
+      <stock_quantity>7</stock_quantity>
     </offer>
     <offer id="57579064" available="true">
       <id>57579064</id>
@@ -674,7 +674,7 @@
       <price>6585</price>
       <currencyId>UAH</currencyId>
       <name>Душова система Globus Lux GLM-205-SMART</name>
-      <stock_quantity>4</stock_quantity>
+      <stock_quantity>9</stock_quantity>
     </offer>
     <offer id="79025255" available="true">
       <id>79025255</id>
@@ -683,7 +683,7 @@
       <price>6785</price>
       <currencyId>UAH</currencyId>
       <name>Душова система Globus Lux GLM-205-BB-SMART</name>
-      <stock_quantity>1</stock_quantity>
+      <stock_quantity>3</stock_quantity>
     </offer>
     <offer id="79041326" available="true">
       <id>79041326</id>
@@ -773,7 +773,7 @@
       <price>414</price>
       <currencyId>UAH</currencyId>
       <name>Тримач для туалетного паперу Globus Lux BS8410 чорний матовий SUS304</name>
-      <stock_quantity>4</stock_quantity>
+      <stock_quantity>9</stock_quantity>
     </offer>
     <offer id="60300737" available="true">
       <id>60300737</id>
@@ -1061,7 +1061,7 @@
       <price>1665</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні під осмос Globus Lux ALPEN SUS-0333-BB</name>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>5</stock_quantity>
     </offer>
     <offer id="57588598" available="false">
       <id>57588598</id>
@@ -1243,14 +1243,14 @@
       <name>Змішувач для кухні під осмос Globus Lux LAZER GLLR-0444-8-STSTEEL</name>
       <stock_quantity>2</stock_quantity>
     </offer>
-    <offer id="57720673" available="false">
+    <offer id="57720673" available="true">
       <id>57720673</id>
       <vendorCode>000016707</vendorCode>
       <categoryId>2712456</categoryId>
       <price>1885</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні TOPAZ CORSICA TC 8809-H48</name>
-      <stock_quantity>0</stock_quantity>
+      <stock_quantity>4</stock_quantity>
     </offer>
     <offer id="57735927" available="true">
       <id>57735927</id>
@@ -1315,14 +1315,14 @@
       <name>Змішувач для кухні Globus Lux ALPEN SBT1-203S-BB</name>
       <stock_quantity>4</stock_quantity>
     </offer>
-    <offer id="59514897" available="false">
+    <offer id="59514897" available="true">
       <id>59514897</id>
       <vendorCode>000018463</vendorCode>
       <categoryId>2712456</categoryId>
       <price>2000</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні Globus Lux LAZER GLLR-0203SG</name>
-      <stock_quantity>0</stock_quantity>
+      <stock_quantity>2</stock_quantity>
     </offer>
     <offer id="59515263" available="true">
       <id>59515263</id>
@@ -1387,14 +1387,14 @@
       <name>Змішувач для кухні Globus Lux ALPEN SBT1-203SB</name>
       <stock_quantity>4</stock_quantity>
     </offer>
-    <offer id="64174163" available="true">
+    <offer id="64174163" available="false">
       <id>64174163</id>
       <vendorCode>000023175</vendorCode>
       <categoryId>2712456</categoryId>
       <price>1060</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні Globus Lux ALPEN SBT1-203SG</name>
-      <stock_quantity>2</stock_quantity>
+      <stock_quantity>0</stock_quantity>
     </offer>
     <offer id="64174210" available="true">
       <id>64174210</id>
@@ -1495,14 +1495,14 @@
       <name>Змішувач для кухні Globus Lux WIEN SUS2-203SBR</name>
       <stock_quantity>0</stock_quantity>
     </offer>
-    <offer id="64288985" available="false">
+    <offer id="64288985" available="true">
       <id>64288985</id>
       <vendorCode>000020057</vendorCode>
       <categoryId>2712456</categoryId>
       <price>1100</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні Globus Lux WIEN SUS2-203SB</name>
-      <stock_quantity>0</stock_quantity>
+      <stock_quantity>10</stock_quantity>
     </offer>
     <offer id="64292017" available="false">
       <id>64292017</id>
@@ -1531,14 +1531,14 @@
       <name>Змішувач для кухні Globus Lux Milano GLM-203LR-2-ARENA</name>
       <stock_quantity>0</stock_quantity>
     </offer>
-    <offer id="64308638" available="true">
+    <offer id="64308638" available="false">
       <id>64308638</id>
       <vendorCode>000021852</vendorCode>
       <categoryId>2712456</categoryId>
       <price>1935</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні Globus Lux Milano GLM-203LR-10-BB</name>
-      <stock_quantity>1</stock_quantity>
+      <stock_quantity>0</stock_quantity>
     </offer>
     <offer id="64308691" available="false">
       <id>64308691</id>
@@ -1691,7 +1691,7 @@
       <price>665</price>
       <currencyId>UAH</currencyId>
       <name>Поличка кутова Globus Lux SS 8499</name>
-      <stock_quantity>4</stock_quantity>
+      <stock_quantity>9</stock_quantity>
     </offer>
     <offer id="63062557" available="true">
       <id>63062557</id>
@@ -2663,7 +2663,7 @@
       <price>2660</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для ванни TOPAZ LEXI TL 21101-H57-BL</name>
-      <stock_quantity>2</stock_quantity>
+      <stock_quantity>5</stock_quantity>
     </offer>
     <offer id="57127517" available="true">
       <id>57127517</id>
