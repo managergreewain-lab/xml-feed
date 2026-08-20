@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-20 14:35">
+<yml_catalog date="2026-08-20 15:34">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -980,7 +980,7 @@
       <price>1100</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні Globus Lux WIEN SUS2-203SG</name>
-      <stock_quantity>8</stock_quantity>
+      <stock_quantity>7</stock_quantity>
     </offer>
     <offer id="52102778" available="true">
       <id>52102778</id>
@@ -1664,7 +1664,7 @@
       <price>1440</price>
       <currencyId>UAH</currencyId>
       <name>Полка подвійна кутова Globus Lux SQ9422</name>
-      <stock_quantity>5</stock_quantity>
+      <stock_quantity>4</stock_quantity>
     </offer>
     <offer id="60297226" available="false">
       <id>60297226</id>
