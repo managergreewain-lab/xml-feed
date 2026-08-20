@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-20 12:34">
+<yml_catalog date="2026-08-20 13:34">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -1387,14 +1387,14 @@
       <name>Змішувач для кухні Globus Lux ALPEN SBT1-203SB</name>
       <stock_quantity>1</stock_quantity>
     </offer>
-    <offer id="64174163" available="false">
+    <offer id="64174163" available="true">
       <id>64174163</id>
       <vendorCode>000023175</vendorCode>
       <categoryId>2712456</categoryId>
       <price>1060</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні Globus Lux ALPEN SBT1-203SG</name>
-      <stock_quantity>0</stock_quantity>
+      <stock_quantity>50</stock_quantity>
     </offer>
     <offer id="64174210" available="true">
       <id>64174210</id>
