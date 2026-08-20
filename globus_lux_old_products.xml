@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-20 13:34">
+<yml_catalog date="2026-08-20 14:35">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -764,7 +764,7 @@
       <price>495</price>
       <currencyId>UAH</currencyId>
       <name>Тримач туалетного паперу Globus Lux SQ 9410 SUS304</name>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>2</stock_quantity>
     </offer>
     <offer id="60300536" available="true">
       <id>60300536</id>
@@ -1484,7 +1484,7 @@
       <price>1100</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні Globus Lux WIEN SUS2-203SW</name>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>2</stock_quantity>
     </offer>
     <offer id="64288974" available="false">
       <id>64288974</id>
@@ -1763,7 +1763,7 @@
       <price>641</price>
       <currencyId>UAH</currencyId>
       <name>Мильниця Globus Lux SQ 9424 SUS304</name>
-      <stock_quantity>5</stock_quantity>
+      <stock_quantity>4</stock_quantity>
     </offer>
     <offer id="60298157" available="false">
       <id>60298157</id>
@@ -2708,7 +2708,7 @@
       <price>2020</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для ванни Globus Lux WIEN SBT2-208</name>
-      <stock_quantity>9</stock_quantity>
+      <stock_quantity>8</stock_quantity>
     </offer>
     <offer id="57648437" available="true">
       <id>57648437</id>
