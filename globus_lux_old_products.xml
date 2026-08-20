@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-20 08:33">
+<yml_catalog date="2026-08-20 09:35">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -629,7 +629,7 @@
       <price>6050</price>
       <currencyId>UAH</currencyId>
       <name>Душова система Globus Lux DS0026-Milano (Лійка Тропік300*300мм НЕРЖ) з виливом латунь Штанга 115см</name>
-      <stock_quantity>7</stock_quantity>
+      <stock_quantity>6</stock_quantity>
     </offer>
     <offer id="78982174" available="true">
       <id>78982174</id>
