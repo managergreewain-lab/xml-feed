@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-21 11:33">
+<yml_catalog date="2026-08-21 12:34">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -226,14 +226,14 @@
       <name>Змішувач гігієнічний TOPAZ SARDINIA TS 087106-H20</name>
       <stock_quantity>10</stock_quantity>
     </offer>
-    <offer id="57572065" available="true">
+    <offer id="57572065" available="false">
       <id>57572065</id>
       <vendorCode>000017549</vendorCode>
       <categoryId>2718126</categoryId>
       <price>3975</price>
       <currencyId>UAH</currencyId>
       <name>Душова система Globus Lux WIEN SBT2-SH-02</name>
-      <stock_quantity>6</stock_quantity>
+      <stock_quantity>0</stock_quantity>
     </offer>
     <offer id="57578230" available="true">
       <id>57578230</id>
