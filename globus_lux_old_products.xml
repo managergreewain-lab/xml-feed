@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-21 07:39">
+<yml_catalog date="2026-08-21 08:34">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -476,7 +476,7 @@
       <price>7840</price>
       <currencyId>UAH</currencyId>
       <name>Душова система Globus Lux MILANO VAN-GLM-0026-10-BB</name>
-      <stock_quantity>2</stock_quantity>
+      <stock_quantity>4</stock_quantity>
     </offer>
     <offer id="67495998" available="false">
       <id>67495998</id>
@@ -901,14 +901,14 @@
       <name>Змішувач для кухні під осмос Globus Lux LAZER GLLR-0100</name>
       <stock_quantity>0</stock_quantity>
     </offer>
-    <offer id="52101437" available="false">
+    <offer id="52101437" available="true">
       <id>52101437</id>
       <vendorCode>000006143</vendorCode>
       <categoryId>2712456</categoryId>
       <price>1235</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні Globus Lux GB-SHARM-0300-00</name>
-      <stock_quantity>0</stock_quantity>
+      <stock_quantity>1</stock_quantity>
     </offer>
     <offer id="52101448" available="false">
       <id>52101448</id>
@@ -991,14 +991,14 @@
       <name>Змішувач для кухні Globus Lux ALPEN SUS-203SB боковий ЧОРНИЙ Гофровилив НЕРЖ._на гайці</name>
       <stock_quantity>3</stock_quantity>
     </offer>
-    <offer id="52102789" available="false">
+    <offer id="52102789" available="true">
       <id>52102789</id>
       <vendorCode>000019181</vendorCode>
       <categoryId>2712456</categoryId>
       <price>1090</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні Globus Lux ALPEN SUS-203SG</name>
-      <stock_quantity>0</stock_quantity>
+      <stock_quantity>10</stock_quantity>
     </offer>
     <offer id="52102795" available="true">
       <id>52102795</id>
@@ -1196,7 +1196,7 @@
       <price>1665</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні під осмос Globus Lux LAZER GLLR-0333-1-ONIX</name>
-      <stock_quantity>2</stock_quantity>
+      <stock_quantity>4</stock_quantity>
     </offer>
     <offer id="57604361" available="true">
       <id>57604361</id>
@@ -1205,7 +1205,7 @@
       <price>1630</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні Globus Lux SICILIA SBQ-203S-BB</name>
-      <stock_quantity>1</stock_quantity>
+      <stock_quantity>4</stock_quantity>
     </offer>
     <offer id="57604399" available="true">
       <id>57604399</id>
@@ -1214,7 +1214,7 @@
       <price>940</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні Globus Lux ALPEN SUS-203S-BB</name>
-      <stock_quantity>2</stock_quantity>
+      <stock_quantity>5</stock_quantity>
     </offer>
     <offer id="57604578" available="true">
       <id>57604578</id>
@@ -1261,14 +1261,14 @@
       <name>Змішувач для кухні TOPAZ CORSICA TC TC 8809-H48-BL</name>
       <stock_quantity>4</stock_quantity>
     </offer>
-    <offer id="57818298" available="false">
+    <offer id="57818298" available="true">
       <id>57818298</id>
       <vendorCode>000024611</vendorCode>
       <categoryId>2712456</categoryId>
       <price>1090</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні Globus Lux ALPEN SUS-203S-BEIGE</name>
-      <stock_quantity>0</stock_quantity>
+      <stock_quantity>5</stock_quantity>
     </offer>
     <offer id="57818334" available="true">
       <id>57818334</id>
@@ -1358,7 +1358,7 @@
       <price>1060</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні Globus Lux ALPEN SBT1-203S-BEIGE</name>
-      <stock_quantity>1</stock_quantity>
+      <stock_quantity>10</stock_quantity>
     </offer>
     <offer id="64174114" available="true">
       <id>64174114</id>
@@ -1421,7 +1421,7 @@
       <price>3500</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні Globus Lux DENVER Flex GDF-32-08-06</name>
-      <stock_quantity>4</stock_quantity>
+      <stock_quantity>5</stock_quantity>
     </offer>
     <offer id="64174276" available="true">
       <id>64174276</id>
@@ -1531,14 +1531,14 @@
       <name>Змішувач для кухні Globus Lux Milano GLM-203LR-2-ARENA</name>
       <stock_quantity>0</stock_quantity>
     </offer>
-    <offer id="64308638" available="false">
+    <offer id="64308638" available="true">
       <id>64308638</id>
       <vendorCode>000021852</vendorCode>
       <categoryId>2712456</categoryId>
       <price>1935</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні Globus Lux Milano GLM-203LR-10-BB</name>
-      <stock_quantity>0</stock_quantity>
+      <stock_quantity>2</stock_quantity>
     </offer>
     <offer id="64308691" available="false">
       <id>64308691</id>
@@ -3077,13 +3077,13 @@
       <currencyId>UAH</currencyId>
       <stock_quantity>2</stock_quantity>
     </offer>
-    <offer id="69694016" available="false">
+    <offer id="69694016" available="true">
       <id>69694016</id>
       <vendorCode>000022254</vendorCode>
       <categoryId>7192312</categoryId>
       <price>26595</price>
       <currencyId>UAH</currencyId>
-      <stock_quantity>0</stock_quantity>
+      <stock_quantity>2</stock_quantity>
     </offer>
     <offer id="69694062" available="true">
       <id>69694062</id>
