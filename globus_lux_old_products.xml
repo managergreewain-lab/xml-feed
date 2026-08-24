@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-24 13:34">
+<yml_catalog date="2026-08-24 15:34">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -152,7 +152,7 @@
       <price>3625</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач гігієнічний TOPAZ LEXI TL 21106-H57</name>
-      <stock_quantity>10</stock_quantity>
+      <stock_quantity>6</stock_quantity>
     </offer>
     <offer id="55152160" available="true">
       <id>55152160</id>
@@ -530,7 +530,7 @@
       <price>1910</price>
       <currencyId>UAH</currencyId>
       <name>Душова система Globus Lux ALPEN S-SH-005</name>
-      <stock_quantity>8</stock_quantity>
+      <stock_quantity>7</stock_quantity>
     </offer>
     <offer id="78740338" available="false">
       <id>78740338</id>
@@ -953,7 +953,7 @@
       <price>1065</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні Globus Lux ALPEN SUS-403</name>
-      <stock_quantity>2</stock_quantity>
+      <stock_quantity>1</stock_quantity>
     </offer>
     <offer id="52102573" available="false">
       <id>52102573</id>
