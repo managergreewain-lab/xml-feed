@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-22 08:33">
+<yml_catalog date="2026-08-24 07:36">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -1187,7 +1187,7 @@
       <price>2030</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні Globus Lux ALPEN SBT1-2033</name>
-      <stock_quantity>10</stock_quantity>
+      <stock_quantity>9</stock_quantity>
     </offer>
     <offer id="57604329" available="true">
       <id>57604329</id>
@@ -2188,14 +2188,14 @@
       <name>Змішувач для біде TOPAZ ODISS TO 18601-H52 на гайці,Хром,шланги TAQ-M1055,D35</name>
       <stock_quantity>4</stock_quantity>
     </offer>
-    <offer id="52224463" available="true">
+    <offer id="52224463" available="false">
       <id>52224463</id>
       <vendorCode>000018109</vendorCode>
       <categoryId>2726373</categoryId>
       <price>1875</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для ванни Globus Lux WIEN SBT2-102NE</name>
-      <stock_quantity>1</stock_quantity>
+      <stock_quantity>0</stock_quantity>
     </offer>
     <offer id="52225681" available="false">
       <id>52225681</id>
@@ -2987,7 +2987,7 @@
       <price>755</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для умивальника Globus Lux ALPEN SBT1-101S</name>
-      <stock_quantity>9</stock_quantity>
+      <stock_quantity>8</stock_quantity>
     </offer>
     <offer id="64318957" available="true">
       <id>64318957</id>
