@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-25 13:35">
+<yml_catalog date="2026-08-25 17:33">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -406,14 +406,14 @@
       <name>Душова система TOPAZ LEXI TL 21702-H57-00</name>
       <stock_quantity>0</stock_quantity>
     </offer>
-    <offer id="64317947" available="false">
+    <offer id="64317947" available="true">
       <id>64317947</id>
       <vendorCode>000021368</vendorCode>
       <categoryId>2718126</categoryId>
       <price>26595</price>
       <currencyId>UAH</currencyId>
       <name>Душова система вбудована TOPAZ ODISS TO 08115-H13-BL</name>
-      <stock_quantity>0</stock_quantity>
+      <stock_quantity>1</stock_quantity>
     </offer>
     <offer id="64318042" available="true">
       <id>64318042</id>
@@ -530,7 +530,7 @@
       <price>1910</price>
       <currencyId>UAH</currencyId>
       <name>Душова система Globus Lux ALPEN S-SH-005</name>
-      <stock_quantity>7</stock_quantity>
+      <stock_quantity>10</stock_quantity>
     </offer>
     <offer id="78740338" available="false">
       <id>78740338</id>
@@ -800,7 +800,7 @@
       <price>1090</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні Globus Lux ALPEN SUS-203SW</name>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>10</stock_quantity>
     </offer>
     <offer id="52073377" available="true">
       <id>52073377</id>
@@ -854,7 +854,7 @@
       <price>880</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні Globus Lux ALPEN SUS-203L</name>
-      <stock_quantity>5</stock_quantity>
+      <stock_quantity>10</stock_quantity>
     </offer>
     <offer id="52073672" available="false">
       <id>52073672</id>
@@ -1007,7 +1007,7 @@
       <price>1090</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні Globus Lux ALPEN SUS-203SBR</name>
-      <stock_quantity>9</stock_quantity>
+      <stock_quantity>10</stock_quantity>
     </offer>
     <offer id="52102900" available="true">
       <id>52102900</id>
@@ -1232,7 +1232,7 @@
       <price>880</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні Globus Lux ALPEN SUS-203S</name>
-      <stock_quantity>4</stock_quantity>
+      <stock_quantity>10</stock_quantity>
     </offer>
     <offer id="57604656" available="true">
       <id>57604656</id>
@@ -1369,14 +1369,14 @@
       <name>Змішувач для кухні Globus Lux ALPEN SBT1-203S-GP</name>
       <stock_quantity>10</stock_quantity>
     </offer>
-    <offer id="64174133" available="false">
+    <offer id="64174133" available="true">
       <id>64174133</id>
       <vendorCode>000025228</vendorCode>
       <categoryId>2712456</categoryId>
       <price>1130</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні Globus Lux Alpen SBT1-203SA-K15</name>
-      <stock_quantity>0</stock_quantity>
+      <stock_quantity>10</stock_quantity>
     </offer>
     <offer id="64174153" available="true">
       <id>64174153</id>
@@ -1385,7 +1385,7 @@
       <price>1060</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні Globus Lux ALPEN SBT1-203SB</name>
-      <stock_quantity>1</stock_quantity>
+      <stock_quantity>10</stock_quantity>
     </offer>
     <offer id="64174163" available="true">
       <id>64174163</id>
@@ -1394,7 +1394,7 @@
       <price>1060</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні Globus Lux ALPEN SBT1-203SG</name>
-      <stock_quantity>50</stock_quantity>
+      <stock_quantity>10</stock_quantity>
     </offer>
     <offer id="64174210" available="true">
       <id>64174210</id>
@@ -1421,7 +1421,7 @@
       <price>3500</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні Globus Lux DENVER Flex GDF-32-08-06</name>
-      <stock_quantity>5</stock_quantity>
+      <stock_quantity>10</stock_quantity>
     </offer>
     <offer id="64174276" available="true">
       <id>64174276</id>
