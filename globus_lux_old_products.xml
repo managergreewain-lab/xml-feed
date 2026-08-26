@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-26 12:36">
+<yml_catalog date="2026-08-26 13:34">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -773,7 +773,7 @@
       <price>414</price>
       <currencyId>UAH</currencyId>
       <name>Тримач для туалетного паперу Globus Lux BS8410 чорний матовий SUS304</name>
-      <stock_quantity>9</stock_quantity>
+      <stock_quantity>8</stock_quantity>
     </offer>
     <offer id="60300737" available="true">
       <id>60300737</id>
@@ -782,7 +782,7 @@
       <price>374</price>
       <currencyId>UAH</currencyId>
       <name>Тримач туалетного паперу Globus Lux SS 8410  SUS304</name>
-      <stock_quantity>9</stock_quantity>
+      <stock_quantity>7</stock_quantity>
     </offer>
     <offer id="60300756" available="true">
       <id>60300756</id>
@@ -1250,7 +1250,7 @@
       <price>1885</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні TOPAZ CORSICA TC 8809-H48</name>
-      <stock_quantity>2</stock_quantity>
+      <stock_quantity>1</stock_quantity>
     </offer>
     <offer id="57735927" available="true">
       <id>57735927</id>
@@ -2539,14 +2539,14 @@
       <name>Змішувач для ванни Globus Lux Ontario GLO-0208</name>
       <stock_quantity>0</stock_quantity>
     </offer>
-    <offer id="56270723" available="true">
+    <offer id="56270723" available="false">
       <id>56270723</id>
       <vendorCode>000018110</vendorCode>
       <categoryId>2726373</categoryId>
       <price>2660</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для ванни Globus Lux SICILIA SBQ-102N</name>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>0</stock_quantity>
     </offer>
     <offer id="56270773" available="true">
       <id>56270773</id>
