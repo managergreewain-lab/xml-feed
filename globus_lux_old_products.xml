@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-26 13:34">
+<yml_catalog date="2026-08-26 15:35">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -305,7 +305,7 @@
       <price>2700</price>
       <currencyId>UAH</currencyId>
       <name>Душова система Globus Lux ALPEN SUS-SH-05</name>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>2</stock_quantity>
     </offer>
     <offer id="59568972" available="true">
       <id>59568972</id>
@@ -647,7 +647,7 @@
       <price>6785</price>
       <currencyId>UAH</currencyId>
       <name>Душова система Globus Lux VAN-DS0026 Milano Лійка.Тропік30*30см нерж з виливом латунь-Штанга H=135см</name>
-      <stock_quantity>7</stock_quantity>
+      <stock_quantity>6</stock_quantity>
     </offer>
     <offer id="79013926" available="false">
       <id>79013926</id>
@@ -1502,7 +1502,7 @@
       <price>1100</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні Globus Lux WIEN SUS2-203SB</name>
-      <stock_quantity>10</stock_quantity>
+      <stock_quantity>8</stock_quantity>
     </offer>
     <offer id="64292017" available="false">
       <id>64292017</id>
