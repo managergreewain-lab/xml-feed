@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-27 07:34">
+<yml_catalog date="2026-08-27 09:37">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -152,7 +152,7 @@
       <price>3625</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач гігієнічний TOPAZ LEXI TL 21106-H57</name>
-      <stock_quantity>6</stock_quantity>
+      <stock_quantity>5</stock_quantity>
     </offer>
     <offer id="55152160" available="true">
       <id>55152160</id>
