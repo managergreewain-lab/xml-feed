@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-28 13:34">
+<yml_catalog date="2026-08-28 15:34">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -566,7 +566,7 @@
       <price>4265</price>
       <currencyId>UAH</currencyId>
       <name>Душова система Globus Lux GLK-0005 KOLN, без вилива латунь</name>
-      <stock_quantity>6</stock_quantity>
+      <stock_quantity>7</stock_quantity>
     </offer>
     <offer id="78971683" available="true">
       <id>78971683</id>
@@ -2339,7 +2339,7 @@
       <price>2290</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для ванни Globus Lux Milano GLM-0102</name>
-      <stock_quantity>10</stock_quantity>
+      <stock_quantity>9</stock_quantity>
     </offer>
     <offer id="52796831" available="true">
       <id>52796831</id>
