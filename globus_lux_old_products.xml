@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-28 11:34">
+<yml_catalog date="2026-08-28 12:34">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -1052,7 +1052,7 @@
       <price>3855</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні TOPAZ BARTS TB 8817-H18, Шланги TAQ-M0855</name>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>2</stock_quantity>
     </offer>
     <offer id="52226417" available="true">
       <id>52226417</id>
@@ -2276,7 +2276,7 @@
       <price>2110</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для ванни Globus Lux GB-SHARM-0316</name>
-      <stock_quantity>2</stock_quantity>
+      <stock_quantity>1</stock_quantity>
     </offer>
     <offer id="52773359" available="true">
       <id>52773359</id>
