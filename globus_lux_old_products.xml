@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-28 09:34">
+<yml_catalog date="2026-08-28 10:34">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -152,7 +152,7 @@
       <price>3625</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач гігієнічний TOPAZ LEXI TL 21106-H57</name>
-      <stock_quantity>5</stock_quantity>
+      <stock_quantity>4</stock_quantity>
     </offer>
     <offer id="55152160" available="true">
       <id>55152160</id>
@@ -341,7 +341,7 @@
       <price>6165</price>
       <currencyId>UAH</currencyId>
       <name>Душова система Globus Lux SICILIA VAN-SBQ-SH-02-BB</name>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>2</stock_quantity>
     </offer>
     <offer id="64315897" available="true">
       <id>64315897</id>
@@ -926,7 +926,7 @@
       <price>2795</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні під осмос Globus Lux LAZER GLLR-0111-1-ONIX</name>
-      <stock_quantity>2</stock_quantity>
+      <stock_quantity>1</stock_quantity>
     </offer>
     <offer id="52102551" available="true">
       <id>52102551</id>
@@ -998,7 +998,7 @@
       <price>1090</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні Globus Lux ALPEN SUS-203SG</name>
-      <stock_quantity>8</stock_quantity>
+      <stock_quantity>7</stock_quantity>
     </offer>
     <offer id="52102795" available="true">
       <id>52102795</id>
@@ -1700,7 +1700,7 @@
       <price>1440</price>
       <currencyId>UAH</currencyId>
       <name>Полка подвійна кутова Globus Lux SS8422</name>
-      <stock_quantity>7</stock_quantity>
+      <stock_quantity>5</stock_quantity>
     </offer>
     <offer id="60294814" available="false">
       <id>60294814</id>
@@ -2015,7 +2015,7 @@
       <price>393</price>
       <currencyId>UAH</currencyId>
       <name>Планка з гачками Globus Lux BQ9435-3 чорна матова SUS304</name>
-      <stock_quantity>4</stock_quantity>
+      <stock_quantity>2</stock_quantity>
     </offer>
     <offer id="60305689" available="true">
       <id>60305689</id>
@@ -2762,7 +2762,7 @@
       <price>1700</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для ванни Globus Lux WIEN SUS2-208</name>
-      <stock_quantity>6</stock_quantity>
+      <stock_quantity>4</stock_quantity>
     </offer>
     <offer id="78902968" available="false">
       <id>78902968</id>
@@ -3003,7 +3003,7 @@
       <categoryId>3376953</categoryId>
       <price>7365</price>
       <currencyId>UAH</currencyId>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>2</stock_quantity>
     </offer>
     <offer id="69692869" available="true">
       <id>69692869</id>
