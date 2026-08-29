@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-29 06:35">
+<yml_catalog date="2026-08-29 07:33">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -559,14 +559,14 @@
       <name>Душова система Globus Lux ALPEN SBT1-SQ-05-304</name>
       <stock_quantity>4</stock_quantity>
     </offer>
-    <offer id="78971272" available="true">
+    <offer id="78971272" available="false">
       <id>78971272</id>
       <vendorCode>000023158</vendorCode>
       <categoryId>2718126</categoryId>
       <price>4265</price>
       <currencyId>UAH</currencyId>
       <name>Душова система Globus Lux GLK-0005 KOLN, без вилива латунь</name>
-      <stock_quantity>7</stock_quantity>
+      <stock_quantity>0</stock_quantity>
     </offer>
     <offer id="78971683" available="true">
       <id>78971683</id>
