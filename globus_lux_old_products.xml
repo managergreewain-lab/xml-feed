@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-31 13:38">
+<yml_catalog date="2026-08-31 14:34">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -2395,14 +2395,14 @@
       <name>Змішувач для ванни Globus Lux RING SR-102N</name>
       <stock_quantity>0</stock_quantity>
     </offer>
-    <offer id="52811338" available="true">
+    <offer id="52811338" available="false">
       <id>52811338</id>
       <vendorCode>000020878</vendorCode>
       <categoryId>2726373</categoryId>
       <price>2115</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для ванни Globus Lux RING SR-208 EURO, вилив 350мм,НЕРЖ._Комплект</name>
-      <stock_quantity>2</stock_quantity>
+      <stock_quantity>0</stock_quantity>
     </offer>
     <offer id="52813739" available="false">
       <id>52813739</id>
@@ -2735,7 +2735,7 @@
       <price>2335</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для ванни Globus Lux DUKAT SD4-208</name>
-      <stock_quantity>50</stock_quantity>
+      <stock_quantity>1</stock_quantity>
     </offer>
     <offer id="64311959" available="false">
       <id>64311959</id>
