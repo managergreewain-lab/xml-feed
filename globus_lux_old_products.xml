@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-31 09:34">
+<yml_catalog date="2026-08-31 10:36">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -2519,7 +2519,7 @@
       <price>2225</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для ванни Globus Lux MAIN SM-102N</name>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>2</stock_quantity>
     </offer>
     <offer id="56074425" available="false">
       <id>56074425</id>
