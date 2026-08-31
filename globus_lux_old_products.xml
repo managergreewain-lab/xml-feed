@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-31 06:35">
+<yml_catalog date="2026-08-31 07:34">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -1079,7 +1079,7 @@
       <price>2445</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні під осмос Globus Lux LAZER GLLR-0111-9-BRONZE</name>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>2</stock_quantity>
     </offer>
     <offer id="57588866" available="false">
       <id>57588866</id>
