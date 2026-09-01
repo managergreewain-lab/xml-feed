@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-09-01 10:34">
+<yml_catalog date="2026-09-01 11:34">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -1385,7 +1385,7 @@
       <price>1060</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні Globus Lux ALPEN SBT1-203SB</name>
-      <stock_quantity>10</stock_quantity>
+      <stock_quantity>9</stock_quantity>
     </offer>
     <offer id="64174163" available="true">
       <id>64174163</id>
@@ -2485,14 +2485,14 @@
       <name>Змішувач для ванни Globus Lux ALPEN SUS-208</name>
       <stock_quantity>10</stock_quantity>
     </offer>
-    <offer id="56063131" available="true">
+    <offer id="56063131" available="false">
       <id>56063131</id>
       <vendorCode>000022967</vendorCode>
       <categoryId>2726373</categoryId>
       <price>1930</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для ванни Globus Lux DUKAT SD4-108</name>
-      <stock_quantity>1</stock_quantity>
+      <stock_quantity>0</stock_quantity>
     </offer>
     <offer id="56063150" available="true">
       <id>56063150</id>
