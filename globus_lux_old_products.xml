@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-09-01 03:37">
+<yml_catalog date="2026-09-01 08:37">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -251,7 +251,7 @@
       <price>3360</price>
       <currencyId>UAH</currencyId>
       <name>Душова система Globus Lux ALPEN SBT1-SH-05</name>
-      <stock_quantity>7</stock_quantity>
+      <stock_quantity>6</stock_quantity>
     </offer>
     <offer id="57579064" available="true">
       <id>57579064</id>
@@ -725,7 +725,7 @@
       <id>60294817</id>
       <vendorCode>000018162</vendorCode>
       <categoryId>3181692</categoryId>
-      <price>890</price>
+      <price>770</price>
       <currencyId>UAH</currencyId>
       <name>Йоржик підлоговий Globus Lux SS 8429B  SUS304</name>
       <stock_quantity>3</stock_quantity>
@@ -1805,7 +1805,7 @@
       <id>60306857</id>
       <vendorCode>000018156</vendorCode>
       <categoryId>3183390</categoryId>
-      <price>361</price>
+      <price>317</price>
       <currencyId>UAH</currencyId>
       <name>Мильниця Globus Lux SS 8408  SUS304</name>
       <stock_quantity>0</stock_quantity>
@@ -1868,7 +1868,7 @@
       <id>60306835</id>
       <vendorCode>000018155</vendorCode>
       <categoryId>3182932</categoryId>
-      <price>361</price>
+      <price>317</price>
       <currencyId>UAH</currencyId>
       <name>Стакан одинарний Globus Lux SS 8409  SUS304</name>
       <stock_quantity>6</stock_quantity>
@@ -2807,7 +2807,7 @@
       <price>1385</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для душу Globus Lux ALPEN SBT1-105</name>
-      <stock_quantity>5</stock_quantity>
+      <stock_quantity>4</stock_quantity>
     </offer>
     <offer id="57745146" available="true">
       <id>57745146</id>
