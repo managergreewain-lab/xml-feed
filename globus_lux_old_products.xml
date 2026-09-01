@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-09-01 09:34">
+<yml_catalog date="2026-09-01 10:34">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -773,7 +773,7 @@
       <price>414</price>
       <currencyId>UAH</currencyId>
       <name>Тримач для туалетного паперу Globus Lux BS8410 чорний матовий SUS304</name>
-      <stock_quantity>8</stock_quantity>
+      <stock_quantity>7</stock_quantity>
     </offer>
     <offer id="60300737" available="true">
       <id>60300737</id>
@@ -1288,14 +1288,14 @@
       <name>Змішувач для кухні під осмос Globus Lux ALPEN SUS-0888-BB</name>
       <stock_quantity>0</stock_quantity>
     </offer>
-    <offer id="59511072" available="true">
+    <offer id="59511072" available="false">
       <id>59511072</id>
       <vendorCode>000024953</vendorCode>
       <categoryId>2712456</categoryId>
       <price>840</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні Globus Lux ALPEN SBT1-203L-BB</name>
-      <stock_quantity>2</stock_quantity>
+      <stock_quantity>0</stock_quantity>
     </offer>
     <offer id="59514792" available="true">
       <id>59514792</id>
@@ -1313,7 +1313,7 @@
       <price>840</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні Globus Lux ALPEN SBT1-203S-BB</name>
-      <stock_quantity>4</stock_quantity>
+      <stock_quantity>2</stock_quantity>
     </offer>
     <offer id="59514897" available="true">
       <id>59514897</id>
@@ -1664,7 +1664,7 @@
       <price>1440</price>
       <currencyId>UAH</currencyId>
       <name>Полка подвійна кутова Globus Lux SQ9422</name>
-      <stock_quantity>4</stock_quantity>
+      <stock_quantity>3</stock_quantity>
     </offer>
     <offer id="60297226" available="false">
       <id>60297226</id>
