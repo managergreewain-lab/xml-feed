@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-09-01 20:34">
+<yml_catalog date="2026-09-01 21:36">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -629,7 +629,7 @@
       <price>6050</price>
       <currencyId>UAH</currencyId>
       <name>Душова система Globus Lux DS0026-Milano (Лійка Тропік300*300мм НЕРЖ) з виливом латунь Штанга 115см</name>
-      <stock_quantity>6</stock_quantity>
+      <stock_quantity>4</stock_quantity>
     </offer>
     <offer id="78982174" available="true">
       <id>78982174</id>
@@ -989,7 +989,7 @@
       <price>1090</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні Globus Lux ALPEN SUS-203SB боковий ЧОРНИЙ Гофровилив НЕРЖ._на гайці</name>
-      <stock_quantity>10</stock_quantity>
+      <stock_quantity>8</stock_quantity>
     </offer>
     <offer id="52102789" available="true">
       <id>52102789</id>
@@ -1034,7 +1034,7 @@
       <price>1885</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні TOPAZ BARTS TB 07423-H36, Шланги TAQ-M1055</name>
-      <stock_quantity>4</stock_quantity>
+      <stock_quantity>3</stock_quantity>
     </offer>
     <offer id="52145567" available="true">
       <id>52145567</id>
@@ -1385,7 +1385,7 @@
       <price>1060</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні Globus Lux ALPEN SBT1-203SB</name>
-      <stock_quantity>9</stock_quantity>
+      <stock_quantity>8</stock_quantity>
     </offer>
     <offer id="64174163" available="true">
       <id>64174163</id>
@@ -1394,7 +1394,7 @@
       <price>1060</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні Globus Lux ALPEN SBT1-203SG</name>
-      <stock_quantity>10</stock_quantity>
+      <stock_quantity>9</stock_quantity>
     </offer>
     <offer id="64174210" available="true">
       <id>64174210</id>
@@ -1448,7 +1448,7 @@
       <price>1210</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні Globus Lux Laguna GLA-0203SL-SB</name>
-      <stock_quantity>2</stock_quantity>
+      <stock_quantity>1</stock_quantity>
     </offer>
     <offer id="64288366" available="false">
       <id>64288366</id>
@@ -1682,7 +1682,7 @@
       <price>631</price>
       <currencyId>UAH</currencyId>
       <name>Полиця одинарна Globus Lux SQ9499</name>
-      <stock_quantity>5</stock_quantity>
+      <stock_quantity>3</stock_quantity>
     </offer>
     <offer id="60298055" available="true">
       <id>60298055</id>
@@ -1691,7 +1691,7 @@
       <price>665</price>
       <currencyId>UAH</currencyId>
       <name>Поличка кутова Globus Lux SS 8499</name>
-      <stock_quantity>10</stock_quantity>
+      <stock_quantity>6</stock_quantity>
     </offer>
     <offer id="63062557" available="true">
       <id>63062557</id>
@@ -1763,7 +1763,7 @@
       <price>641</price>
       <currencyId>UAH</currencyId>
       <name>Мильниця Globus Lux SQ 9424 SUS304</name>
-      <stock_quantity>4</stock_quantity>
+      <stock_quantity>3</stock_quantity>
     </offer>
     <offer id="60298157" available="true">
       <id>60298157</id>
@@ -1871,7 +1871,7 @@
       <price>317</price>
       <currencyId>UAH</currencyId>
       <name>Стакан одинарний Globus Lux SS 8409  SUS304</name>
-      <stock_quantity>6</stock_quantity>
+      <stock_quantity>4</stock_quantity>
     </offer>
     <offer id="60294798" available="false">
       <id>60294798</id>
@@ -1952,7 +1952,7 @@
       <price>631</price>
       <currencyId>UAH</currencyId>
       <name>Планка з гачками Globus Lux BS8435-4 чорна матова SUS304</name>
-      <stock_quantity>5</stock_quantity>
+      <stock_quantity>4</stock_quantity>
     </offer>
     <offer id="60297850" available="false">
       <id>60297850</id>
@@ -2008,14 +2008,14 @@
       <name>Планка з гачками Globus Lux SQ 9435-3 SUS304</name>
       <stock_quantity>10</stock_quantity>
     </offer>
-    <offer id="60305764" available="true">
+    <offer id="60305764" available="false">
       <id>60305764</id>
       <vendorCode>000022207</vendorCode>
       <categoryId>3182927</categoryId>
       <price>393</price>
       <currencyId>UAH</currencyId>
       <name>Планка з гачками Globus Lux BQ9435-3 чорна матова SUS304</name>
-      <stock_quantity>2</stock_quantity>
+      <stock_quantity>0</stock_quantity>
     </offer>
     <offer id="60305689" available="true">
       <id>60305689</id>
@@ -2042,7 +2042,7 @@
       <price>313</price>
       <currencyId>UAH</currencyId>
       <name>Гачок подвійний Globus Lux SS 8415  SUS304</name>
-      <stock_quantity>5</stock_quantity>
+      <stock_quantity>1</stock_quantity>
     </offer>
     <offer id="60307014" available="false">
       <id>60307014</id>
@@ -2062,14 +2062,14 @@
       <name>Гачок одинарний Globus Lux SQ9411</name>
       <stock_quantity>7</stock_quantity>
     </offer>
-    <offer id="60308993" available="true">
+    <offer id="60308993" available="false">
       <id>60308993</id>
       <vendorCode>000018158</vendorCode>
       <categoryId>3183459</categoryId>
       <price>233</price>
       <currencyId>UAH</currencyId>
       <name>Гачок одинарний Globus Lux SS 8411  SUS304</name>
-      <stock_quantity>2</stock_quantity>
+      <stock_quantity>0</stock_quantity>
     </offer>
     <offer id="55455864" available="true">
       <id>55455864</id>
@@ -2186,7 +2186,7 @@
       <price>2335</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для біде TOPAZ ODISS TO 18601-H52 на гайці,Хром,шланги TAQ-M1055,D35</name>
-      <stock_quantity>4</stock_quantity>
+      <stock_quantity>3</stock_quantity>
     </offer>
     <offer id="52224463" available="false">
       <id>52224463</id>
