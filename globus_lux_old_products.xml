@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-09-02 06:36">
+<yml_catalog date="2026-09-02 08:34">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -998,7 +998,7 @@
       <price>1090</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні Globus Lux ALPEN SUS-203SG</name>
-      <stock_quantity>7</stock_quantity>
+      <stock_quantity>6</stock_quantity>
     </offer>
     <offer id="52102795" available="true">
       <id>52102795</id>
@@ -1034,7 +1034,7 @@
       <price>1885</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні TOPAZ BARTS TB 07423-H36, Шланги TAQ-M1055</name>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>2</stock_quantity>
     </offer>
     <offer id="52145567" available="true">
       <id>52145567</id>
