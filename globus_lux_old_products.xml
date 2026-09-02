@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-09-02 11:34">
+<yml_catalog date="2026-09-02 13:34">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -233,7 +233,7 @@
       <price>3975</price>
       <currencyId>UAH</currencyId>
       <name>Душова система Globus Lux WIEN SBT2-SH-02</name>
-      <stock_quantity>9</stock_quantity>
+      <stock_quantity>8</stock_quantity>
     </offer>
     <offer id="57578230" available="true">
       <id>57578230</id>
@@ -395,7 +395,7 @@
       <price>10755</price>
       <currencyId>UAH</currencyId>
       <name>Душова система TOPAZ LEXI TL 21702-H57-BL</name>
-      <stock_quantity>7</stock_quantity>
+      <stock_quantity>1</stock_quantity>
     </offer>
     <offer id="64317900" available="false">
       <id>64317900</id>
@@ -1250,7 +1250,7 @@
       <price>1885</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні TOPAZ CORSICA TC 8809-H48</name>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>2</stock_quantity>
     </offer>
     <offer id="57735927" available="true">
       <id>57735927</id>
@@ -2249,7 +2249,7 @@
       <price>2005</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для ванни Globus Lux ALPEN SBT1-208</name>
-      <stock_quantity>10</stock_quantity>
+      <stock_quantity>9</stock_quantity>
     </offer>
     <offer id="52771396" available="true">
       <id>52771396</id>
@@ -2357,7 +2357,7 @@
       <price>2910</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для ванни Globus Lux Milano GLM-0208N</name>
-      <stock_quantity>10</stock_quantity>
+      <stock_quantity>8</stock_quantity>
     </offer>
     <offer id="52796901" available="true">
       <id>52796901</id>
@@ -2807,7 +2807,7 @@
       <price>1385</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для душу Globus Lux ALPEN SBT1-105</name>
-      <stock_quantity>4</stock_quantity>
+      <stock_quantity>3</stock_quantity>
     </offer>
     <offer id="57745146" available="true">
       <id>57745146</id>
