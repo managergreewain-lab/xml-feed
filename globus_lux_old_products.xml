@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-09-03 13:34">
+<yml_catalog date="2026-09-03 15:34">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -1691,7 +1691,7 @@
       <price>665</price>
       <currencyId>UAH</currencyId>
       <name>Поличка кутова Globus Lux SS 8499</name>
-      <stock_quantity>6</stock_quantity>
+      <stock_quantity>3</stock_quantity>
     </offer>
     <offer id="63062557" available="true">
       <id>63062557</id>
@@ -1700,7 +1700,7 @@
       <price>1440</price>
       <currencyId>UAH</currencyId>
       <name>Полка подвійна кутова Globus Lux SS8422</name>
-      <stock_quantity>5</stock_quantity>
+      <stock_quantity>3</stock_quantity>
     </offer>
     <offer id="60294814" available="false">
       <id>60294814</id>
