@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-09-04 09:46">
+<yml_catalog date="2026-09-04 10:46">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -14297,14 +14297,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.001000</param>
     </offer>
-    <offer id="20283" available="true">
+    <offer id="20283" available="false">
       <vendorCode>000020283</vendorCode>
       <categoryId>62</categoryId>
       <price>252</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Шланг душовий Globus Lux SS-033-170-PVS</name>
-      <stock_quantity>4</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Шланг душовий Globus Lux SS-033-170-PVS для кухонного змішувача SUS<br>Клік з&apos;єднання<br>Довжина: 170см]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/20283/1.jpeg</picture>
       <param name="Країна походження">Китай</param>
@@ -22497,14 +22497,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.009000</param>
     </offer>
-    <offer id="22996" available="true">
+    <offer id="22996" available="false">
       <vendorCode>000022996</vendorCode>
       <categoryId>11</categoryId>
       <price>3615</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні під осмос Globus Lux LAZER GLLR-0903-11-GRAPHITE</name>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Кухонний змішувач Globus Lux  GLLR-0903-11-Graphit  шланг гофра , Чорний матовий комбінований під ОСМОС на гайці<br>Країна-виробник товару: Китай<br>Вид монтажу: Врізний<br>Вид змішувача: Одноважільний<br>Тип виливу: Поворотний<br>Підключення до фільтру і водопроводу<br>Діаметр підключення шлангів 1/2 ″<br>Шланги на різьбі звичайні<br>Шланги підключення входять в комплект поставки<br>Комплектація:<br>- Шланг М10 * х1 / 2″ (3шт)<br>- Швидкознімний фітінг 1/4 ″- 1/2″ (зовнішня різьба)<br>Матеріал: Латунь<br>Колір виробу: графіт/чортний<br>Додаткові характеристики:<br>- Монтаж на один отвір<br>- Система швидкого монтажу<br>- Гнучка підводка<br>Країна реєстрації бренду: Україна<br>Гарантія: 12 місяців офіційної гарантії від виробника.<br><br>Переваги комбінованих під систему зворотного осмосу моделей змішувачів Globus Lux:<br>1. Довговічність і безвідмовність в експлуатації<br>2. Вилив обертається на 360 градусів і зручний для кухонних мийок з декількома чашами<br>3. Елегантність форм, міцність і надійність<br>4. Висока функціональність<br>5. Використання якісних екологічно чистих матеріалів<br>6. Інноваційні технології виробництва<br>7. Корпус виготовлений з латуні з вмістом міді не менше 70%<br><br>Змішувач має 3 контури для підключення води:<br>- 1 і 2 використовується для підключення холодної та гарячої води. Змішування води відбувається за допомогою стандартного картриджа з маленьким руків&apos;ям;<br>- 3 контур використовується для підключення очищеної води. Відкриття чистої води здійснюється за допомогою іншого картриджа з великим руків&apos;ям.<br><br>Водопровідна та фільтрована вода мають окремі канали (трубка в трубці) і вихідні отвори в лійці змішувача, що повністю виключає можливість змішування очищеної та брудної води.]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/22996/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/22996/2.jpeg</picture>
@@ -25506,7 +25506,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux ALPEN SBT1-2033-GP</name>
-      <stock_quantity>8</stock_quantity>
+      <stock_quantity>5</stock_quantity>
       <description><![CDATA[Змішувач для кухні Globus Lux ALPEN SBT1-2033-GP витяжний з лійкою-душ нержавійка на гайці Графіт<br><br>Переваги моделей змішувачів Globus Lux з нержавійки:<br>1. Корпус моделей виготовлений з харчової нержавіючої сталі SUS304<br>2. Довговічність і безвідмовність в експлуатації<br>3. Елегантність форм, міцність і надійність<br>4. Висока функціональність<br>5. Використання якісних екологічно чистих матеріалів<br>6. Інноваційні технології виробництва<br><br>Комплектація:<br>Змішувач з нержавійки<br>витяжний шланг<br>Лійка витяжна<br>Шланги для змішувача Globus Lux  М10х1/2″ 0,5м. АНТИКОРОЗІЯ (  ПАРА)<br>Кріплення для змішувача - гайка]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/26597/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/26597/2.jpeg</picture>
