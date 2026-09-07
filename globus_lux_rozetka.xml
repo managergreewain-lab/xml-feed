@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-09-07 06:46">
+<yml_catalog date="2026-09-07 07:46">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -12492,7 +12492,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Тримач туалетного паперу Globus Lux SQ 9410 SUS304</name>
-      <stock_quantity>4</stock_quantity>
+      <stock_quantity>3</stock_quantity>
       <description><![CDATA[Тримач для туалетного паперу Globus Lux SQ9410<br>Країна виробник товару - Китай<br>Тип товару - Аксесуари для ванної кімнати<br>Місткість тримача (рулон / листи) - 1 шт<br>Кріплення - Шурупи<br>Тип установки - Настінний (підвісний)<br>Матеріал виробу - Нержавіюча сталь (SUS 304)<br>Колір виробу - Нержавіюча сталь<br>Комплектація:<br>- Монтажні елементи<br>- Закритий тримач<br>Габарити упаковки (ВхШхГ): 15.5 х 13.5 х 7.5 см<br>Габарити (ШхВ): 14 х 14 см<br>Вага в упаковці - 0.315 кг<br>Вага - 0.265 кг<br>Гарантія - 12 місяців офіційної гарантії від виробника]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/19468/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/19468/2.jpeg</picture>
@@ -13414,14 +13414,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.000000</param>
     </offer>
-    <offer id="19764" available="true">
+    <offer id="19764" available="false">
       <vendorCode>000019764</vendorCode>
       <categoryId>30</categoryId>
       <price>131</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>МИЛЬНИЦЯ GLASS 0008 квадратна матова для TKB, SQ , BQ</name>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Мильниця квадратна матова для SQ9400]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/19764/1.jpeg</picture>
       <param name="Країна походження">Китай</param>
