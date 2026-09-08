@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-09-08 08:46">
+<yml_catalog date="2026-09-08 09:46">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -28641,7 +28641,7 @@
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Змішувач гігієнічний TOPAZ LOFT TLF 32106-H39-C</name>
-      <stock_quantity>6</stock_quantity>
+      <stock_quantity>5</stock_quantity>
       <description><![CDATA[Змішувач гігієнічний TOPAZ LOFT TLF 32106-H39-C  моноблок вбудований, стоп-лійка латунь (комплект)<br>Серія змішувачів TOPAZ дивує своєю вишуканістю форм, надійністю в експлуатації, витонченим дизайном.<br>У комплектацію входить:<br>Змішувач з латуні з кріпленням для лійки<br>Душовий шланг<br>Стоп-лійка<br>Декоративна чашка<br>Картридж M FX-35SA(MD) -Картридж керамічний для змішувача Odiss короткий D35-TOPAZ<br>Якісна продукція TOPAZ прослужить Вам довгі роки]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/28884/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/28884/10.jpeg</picture>
