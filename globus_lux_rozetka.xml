@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-09-11 05:46">
+<yml_catalog date="2026-09-11 07:46">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -21594,7 +21594,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Йоржик Globus Lux Brush 0019SS  SUS304</name>
-      <stock_quantity>4</stock_quantity>
+      <stock_quantity>3</stock_quantity>
       <description><![CDATA[Йоржик Globus Lux Brush 0019SS  SUS304<br>Країна-виробник товару - Китай<br>Тип товару - Аксесуари для ванної кімнати<br>Матеріал виробу - нержавіюча сталь (SUS 304)<br>Колір виробу - нержавіюча сталь<br>Гарантія - 12 місяців офіційної гарантії від виробника]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/22598/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/22598/2.jpeg</picture>
