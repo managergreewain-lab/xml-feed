@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-09-16 10:46">
+<yml_catalog date="2026-09-16 13:46">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -9157,14 +9157,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.002000</param>
     </offer>
-    <offer id="18157" available="true">
+    <offer id="18157" available="false">
       <vendorCode>000018157</vendorCode>
       <categoryId>30</categoryId>
       <price>374</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Тримач туалетного паперу Globus Lux SS 8410  SUS304</name>
-      <stock_quantity>5</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Тримач для туалетного паперу Globus Lux SS8410<br>Країна виробник товару - Китай<br>Тип товару - Аксесуари для ванної кімнати<br>Місткість тримача (рулон / листи) - 1 шт<br>Кріплення - Шурупи<br>Тип установки - Настінний (підвісний)<br>Матеріал виробу - Нержавіюча сталь (SUS 304)<br>Колір виробу - Нержавіюча сталь<br>Комплектація:<br>- Монтажні елементи<br>- Закритий тримач<br>Габарити упаковки (ВхШхГ): 15.5 х 13.5 х 7.5 см<br>Габарити (ШхВ): 12 х 15 см<br>Вага в упаковці - 0.35 кг<br>Вага - 0.265 кг<br>Гарантія - 12 місяців офіційної гарантії від виробника]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/18157/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/18157/2.jpeg</picture>
@@ -18548,7 +18548,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для ванної Globus Lux Dolly GLD-0208</name>
-      <stock_quantity>5</stock_quantity>
+      <stock_quantity>6</stock_quantity>
       <description><![CDATA[Змішувач для ванної Globus Lux Dolly GLD-0208 EURO латунь L350мм<br><br>Переваги змішувачів Globus Lux:<br>1 Довговічність і безвідмовність в експлуатації<br>2 Елегантність форм, міцність і надійність<br>3 Висока функціональність<br>4 Використання якісних екологічно чистих матеріалів<br>5 Інноваційні технології виробництва<br>6 Корпус виготовлений з латуні з вмістом міді не менше 70%<br><br>Комплектація:<br>Змішувач латунний<br>Тримач для душу<br>Ручна лійка<br>Шланг для  душу<br>Ексцентрики для змішувачів настінного монтажу<br>Декоративні чаші]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/21854/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/21854/2.jpeg</picture>
@@ -20064,7 +20064,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Душова система Globus Lux GLM-205-SMART</name>
-      <stock_quantity>9</stock_quantity>
+      <stock_quantity>8</stock_quantity>
       <description><![CDATA[Душова система Globus Lux GLM-205-SMART box КУБ вбудована, хром<br>Призначення: Душова система<br>Вид монтажу змішувача: вбудований, 2 виходи води<br>Матеріал: латунь<br>Колір виробу: хром<br>Комплектація:<br>- змішувач вбудований<br>- верхній душ - квадратна лійка 25 см<br>- ручна лійка, тримач для душа, шланг душовий<br>Габарити упаковки (ВхШхГ): 37х50х15 см<br>Вага в упаковці: 3,91 кг<br>Вага: 3,11 кг<br>Країна-виробник товару: Китай<br>Гарантія: 12 місяців офіційної гарантії від виробника.]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/22020/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/22020/10.jpeg</picture>
@@ -23708,7 +23708,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні під осмос Globus Lux GLLR-0700-L-08-06 гофрований  на гайці латунь, Сталь-Бежевий</name>
-      <stock_quantity>4</stock_quantity>
+      <stock_quantity>3</stock_quantity>
       <description><![CDATA[Кухонний змішувач Globus Lux LAZER GLLR-0700-L-08-06, комбінований під ОСМОС,  гофрогусак кольору слонова кістка,  колір корпусу- нержавіюча сталь<br>Комбінований змішувач вражає своєю продуманістю до використання і монтажу. <br>Переваги комбінованих під систему зворотного осмосу моделей змішувачів Globus Lux:<br>Вид монтажу: Врізний<br>Вид змішувача: Одноважільний з перемиканням під осмос<br>Тип виливу: Поворотний<br>Підключення до фільтру і водопроводу- шланг + Quick fitting<br>Діаметр підключення шлангів 1/2 ″<br>Кріплення - гайка<br><br>Матеріал: Латунь<br>Колір виробу: Нержавіюча сталь/слонова кістка<br>Додаткові характеристики:<br>- Монтаж на один отвір<br>- Металевий важіль<br>- Система швидкого монтажу<br>- Гнучка проводка<br>Країна реєстрації бренду: Україна<br>Гарантія: 12 місяців офіційної гарантії від виробника.<br><br>Вага нетто: 2,18 кг<br>Вага брутто: 2,685 кг<br>Розмір упаковки ВхШхГ: 30х50х8 см]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/24667/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/24667/2.jpeg</picture>
