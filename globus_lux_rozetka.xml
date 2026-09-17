@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-09-17 06:46">
+<yml_catalog date="2026-09-17 07:46">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -20778,7 +20778,7 @@
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Шланг для душу TOPAZ TSH-6114-SL 150см</name>
-      <stock_quantity>8</stock_quantity>
+      <stock_quantity>6</stock_quantity>
       <description><![CDATA[Шланг для душу TOPAZ TSH-6114-SL 150см<br>Довжина - 150 см<br>Підключення - 1/2″ x 1/2″<br>особливості:<br>- Тиск 0,7 Mpa<br>- Обертання 360 °<br>- Антибактеріальне покриття<br>Матеріал - силікон<br>Колір - срібний<br>Вага - 0.205 кг<br>Виробник - Польща]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/22522/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/22522/2.jpeg</picture>
