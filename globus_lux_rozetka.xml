@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-09-18 07:46">
+<yml_catalog date="2026-09-18 08:46">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -2558,7 +2558,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для душу Globus Lux Solly GLSO-0105N</name>
-      <stock_quantity>10</stock_quantity>
+      <stock_quantity>9</stock_quantity>
       <description><![CDATA[Змішувач для душа Globus Lux SOLLY GLSO-0105N, душовий комплект<br><br>Переваги змішувачів Globus Lux:<br>1 Довговічність і безвідмовність в експлуатації<br>2 Елегантність форм, міцність і надійність<br>3 Висока функціональність<br>4 Використання якісних екологічно чистих матеріалів<br>5 Інноваційні технології виробництва<br>6 Корпус виготовлений з латуні з вмістом міді не менше 70%<br><br>Комплектація:<br>Змішувач латунний<br>Тримач для душу,<br>Ручна лійка,<br>шланг душовий<br>Ексцентрики для змішувачів настінного монтажу<br>декоративні чаші]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/10124/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/10124/2.jpeg</picture>
@@ -5426,7 +5426,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для ванни Globus Lux Koln GLK-0102N</name>
-      <stock_quantity>4</stock_quantity>
+      <stock_quantity>3</stock_quantity>
       <description><![CDATA[Змішувач для ванни Globus Lux KOLN GLK-102N, душовий комплект<br><br>Нова серія змішувачів KOLN захоплює своїм вишуканим дизайном, при цьому не втрачаючи своєї надійності як,<br>Змішувач для ванни ідеально впишеться в будь-який інтер&apos;єр ванної кімнати.<br><br>Переваги змішувачів Globus Lux:<br>1 Довговічність і безвідмовність в експлуатації<br>2 Елегантність форм, міцність і надійність<br>3 Висока функціональність<br>4 Використання якісних екологічно чистих матеріалів<br>5 Інноваційні технології виробництва<br>6 Корпус виготовлений з латуні з вмістом міді не менше 70%<br><br>Комплектація:<br>Змішувач латунний<br>Тримач для душу<br>Ручна лійка<br>Шланг душовий<br>Ексцентрики для змішувачів настінного монтажу<br>Декоративні чаші]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/14953/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/14953/2.jpeg</picture>
@@ -7465,7 +7465,7 @@
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Душова система TOPAZ ODISS TO 18702-H52 комплект , кругла штанга Н-130см</name>
-      <stock_quantity>8</stock_quantity>
+      <stock_quantity>7</stock_quantity>
       <description><![CDATA[Душова система TOPAZ ODISS-TO 18702-H52<br>Серія душових систем TOPAZ дивує своєю вишуканістю форм, надійністю в експлуатації, витонченим дизайном.<br>Призначення: Душова система<br>Вид монтажу душової системи: Настінний, на 2 виходу води<br>Вид змішувача: Одноважільний<br>Тип виливу: нема<br>Матеріал: латунь<br>Колір виробу: хром<br>Комплектація:<br>душова штанга 130 см<br>Верхня лійка<br>Ручна лійка<br>Шланг для ручної лійки<br>Змішувач латунний<br>Кріплення до стіни<br>ексцентрики<br>декоративні чаші<br>Гарантія: 12 місяців офіційної гарантії від виробника.]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/16715/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/16715/2.jpeg</picture>
@@ -8663,7 +8663,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Душова лійка Globus Lux NSF-080-1-LUX Blister</name>
-      <stock_quantity>7</stock_quantity>
+      <stock_quantity>6</stock_quantity>
       <description><![CDATA[Душова лійка Globus Lux NSF-080-1-LUX упаковка Blister<br>Матеріал - Пластик<br>Колір - Хром/сірий (блакитна гума)<br>Кількість типів струї - 4<br>Діаметр ручної лійки - 10 см<br>Вага - 0.14 кг<br>Країна виробник - Китай]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/17954/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/17954/2.jpeg</picture>
@@ -8681,7 +8681,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Душова лійка Globus Lux NSF-580-1-LUX Blister</name>
-      <stock_quantity>6</stock_quantity>
+      <stock_quantity>5</stock_quantity>
       <description><![CDATA[Душова лійка Globus Lux SPIDER NSF-580-1-LUX упаковка Blister<br>Матеріал - Пластик<br>Колір - Хром/сірий<br>Кількість типів струменя - 3<br>Діаметр ручної лійки - 10 см<br>Вага - 0.165 кг<br>Країна виробник - Китай]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/17955/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/17955/2.jpeg</picture>
@@ -18407,7 +18407,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні під осмос Globus Lux LAZER GLLR-0111-10- BB</name>
-      <stock_quantity>4</stock_quantity>
+      <stock_quantity>3</stock_quantity>
       <description><![CDATA[Кухонний змішувач Globus Lux LAZER GLLR-0111-10- BB Чорний матовий комбінований під ОСМОС на гайці<br>Країна-виробник товару: Китай<br>Вид монтажу: Врізний<br>Вид змішувача: Одноважільний<br>Тип виливу: Поворотний<br>Підключення до фільтру і водопроводу<br>Діаметр підключення шлангів 1/2 ″<br>Шланги на різьбі звичайні<br>Шланги підключення входять в комплект поставки<br>Комплектація:<br>- Шланг М10 * х1 / 2 (3шт)<br>- Швидкознімний фітінг 1/4 ″- 1/2″ (зовнішня різьба)<br>Матеріал: Латунь<br>Колір виробу: Чорний<br>Додаткові характеристики:<br>- Монтаж на один отвір<br>- Система швидкого монтажу<br>- Гнучка підводка<br>Країна реєстрації бренду: Україна<br>Гарантія: 12 місяців офіційної гарантії від виробника.<br><br>Переваги комбінованих під систему зворотного осмосу моделей змішувачів Globus Lux:<br>1. Довговічність і безвідмовність в експлуатації<br>2. Вилив обертається на 360 градусів і зручний для кухонних мийок з декількома чашами<br>3. Елегантність форм, міцність і надійність<br>4. Висока функціональність<br>5. Використання якісних екологічно чистих матеріалів<br>6. Інноваційні технології виробництва<br>7. Корпус виготовлений з латуні з вмістом міді не менше 70%<br><br>Змішувач має 3 контури для підключення води:<br>- 1 і 2 використовується для підключення холодної та гарячої води. Змішування води відбувається за допомогою стандартного картриджа з маленьким руків&apos;ям;<br>- 3 контур використовується для підключення очищеної води. Відкриття чистої води здійснюється за допомогою іншого картриджа з великим руків&apos;ям.<br><br>Водопровідна та фільтрована вода мають окремі канали (трубка в трубці) і вихідні отвори в лійці змішувача, що повністю виключає можливість змішування очищеної та брудної води.<br><br><br>Розмір упаковки ВхШхГ: 7х25х49 см<br>Вага нетто: 2,04 кг<br>Вага брутто: 2,40 кг]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/21849/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/21849/2.jpeg</picture>
@@ -24686,7 +24686,7 @@
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Душова лійка Topaz NF-R2221-00</name>
-      <stock_quantity>4</stock_quantity>
+      <stock_quantity>3</stock_quantity>
       <description><![CDATA[Душова лійка Topaz NF-R2221-00<br>Матеріал - Пластик<br>Колір - Хром / Сірий<br>Кількість типів струї - 1<br>Розмір: 226*226 мм<br>Країна виробник - Китай<br><br>Душові лійки ТМ Topaz   — це довговічність, відома  якість, новітні технології та можливість створити зручну ванну кімнату.  Вони дозволять легко оновити вашу ванну кімнату і насолоджуватися душовими процедурами в новій якості.<br>Душові лійки ТМ Topaz відрізняються функціональністю та простотою застосування.  Матеріали, які використовуються для виробництва душових лійок мають  високу якість, що гарантуює надійну роботу протягом багатьох років.]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/25163/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/25163/2.jpeg</picture>
