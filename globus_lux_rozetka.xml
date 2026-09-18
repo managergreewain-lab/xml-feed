@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-09-18 03:46">
+<yml_catalog date="2026-09-18 04:46">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -3707,14 +3707,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.001000</param>
     </offer>
-    <offer id="13404" available="true">
+    <offer id="13404" available="false">
       <vendorCode>000013404</vendorCode>
       <categoryId>59</categoryId>
       <price>94</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Душова лійка Globus Lux SH-2280-White Біла , хром , пласт.</name>
-      <stock_quantity>4</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Душова лійка Globus Lux SH-2280W<br>Матеріал - Пластик<br>Колір - Хром, білий<br>Кількість типів струї - 1<br>Діаметр ручної лійки - 8<br>Вага - 0.08 кг<br>Країна виробник - Китай]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/13404/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/13404/2.jpeg</picture>
@@ -13726,7 +13726,7 @@
     <offer id="20073" available="false">
       <vendorCode>000020073</vendorCode>
       <categoryId>44</categoryId>
-      <price>8760</price>
+      <price>8640</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Душова система Globus Lux Termostatic Q VAN-GLQ-0041T</name>
@@ -13752,7 +13752,7 @@
     <offer id="20074" available="false">
       <vendorCode>000020074</vendorCode>
       <categoryId>44</categoryId>
-      <price>8350</price>
+      <price>7545</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Душова система Globus Lux Termostatic  GLQ-0040T</name>
@@ -14420,7 +14420,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Шланг душовий Globus Lux NH-039-175 Double-Lock</name>
-      <stock_quantity>9</stock_quantity>
+      <stock_quantity>6</stock_quantity>
       <description><![CDATA[Шланг душовою Globus Lux NH-039-175 Double-Lock<br>Довжина - 175 см<br>Підключення - 1/2 ″x 1/2″<br>Матеріал - Метал / EPDM<br>Колір - хром<br>Виробник - Китай]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/20405/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/20405/2.jpeg</picture>
@@ -28840,7 +28840,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux LAZER Pro GLPR-203SM-GPлатунь Графіт,гофровилив Чорний з душ.насадкою</name>
-      <stock_quantity>8</stock_quantity>
+      <stock_quantity>7</stock_quantity>
       <description><![CDATA[Змішувач для кухні Globus Lux LAZER Pro GLPR-203SM-GPлатунь Графіт,гофровилив Чорний з душ.насадкою<br><br>Країна-виробник товару: Китай<br>Вид монтажу: Врізний<br>Вид змішувача: Одноважільний<br>Тип виливу: Поворотний, 360°<br>Підключення до водопроводу<br>Матеріал: Латунь<br>Колір виробу: Чорний, графіт<br>Додаткові характеристики:<br>- Монтаж на один отвір<br>- Металевий, бічний важіль<br>- Система швидкого монтажу<br><br>Комплектація:<br>- Змішувач латунний<br>- Шланг М10*1/2-2шт<br>- Кріплення для змішувача - гайка<br><br>Країна реєстрації бренду: Україна<br>Гарантія: 12 місяців офіційної гарантії від виробника.]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/28923/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/28923/2.jpeg</picture>
