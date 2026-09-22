@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-09-22 08:46">
+<yml_catalog date="2026-09-22 09:46">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -5941,14 +5941,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.002000</param>
     </offer>
-    <offer id="15044" available="true">
+    <offer id="15044" available="false">
       <vendorCode>000015044</vendorCode>
       <categoryId>11</categoryId>
       <price>1385</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для душу Globus Lux ALPEN SBT1-105</name>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Змішувач для ванни Globus Lux ALPEN SBT1-105, SUS304<br><br>Переваги моделей змішувачів Globus Lux з нержавійки:<br>1. Корпус моделей виготовлений з харчової нержавіючої сталі SUS304<br>2. Довговічність і безвідмовність в експлуатації<br>3. Елегантність форм, міцність і надійність<br>4. Висока функціональність<br>5. Використання якісних екологічно чистих матеріалів<br>6. Інноваційні технології виробництва<br><br>Комплектація:<br>Змішувач з нержавійки<br>Шланг для душа<br>Лійка для душу<br>Кріплення для душової лійки<br>ексцентрики<br>декоративні чаші]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/15044/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/15044/2.jpeg</picture>
@@ -6549,7 +6549,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Душова стійка Globus Lux SUS-1107</name>
-      <stock_quantity>10</stock_quantity>
+      <stock_quantity>9</stock_quantity>
       <description><![CDATA[Душова стійка Globus Lux SUS-1107<br>Бренд: Globus Lux<br>Модель: SUS-1107<br>Призначення: для ванни, душової<br>Вид монтажу: Настінний<br>Комплектація: Душова стійка / Кріплення<br>Колір: нержавіюча сталь<br>Матеріал: нержавіюча сталь<br>Вага: 0.57 кг<br>Висота: 65 см<br>Країна виробник: Китай]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/15831/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/15831/2.jpeg</picture>
@@ -7439,7 +7439,7 @@
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Душова система TOPAZ ODISS TO 18102-H52 з виливом, комплект, кругла штанга Н-130см</name>
-      <stock_quantity>4</stock_quantity>
+      <stock_quantity>3</stock_quantity>
       <description><![CDATA[Душова система TOPAZ ODISS-TO 18102-H52<br>Серія душових систем TOPAZ дивує своєю вишуканістю форм, надійністю в експлуатації, витонченим дизайном.<br>Призначення: Душова система<br>Вид монтажу душової системи: Настінний, на 2 вихода<br>Вид змішувача: Одноважільний<br>Тип виливу: є<br>Матеріал: латунь<br>Колір виробу: хром<br>Комплектація:<br>душова штанга 130 см<br>Верхня лійка<br>Ручна лійка<br>Шланг для ручної лійки<br>Змішувач латунний<br>Кріплення до стіни<br>ексцентрики<br>декоративні чаші<br>-КартриджTC-35L-Картридж керамічний високий з ніжками D35-TOPAZ<br>-Картридж перемикач-FX-22(MD)B<br>Гарантія: 12 місяців офіційної гарантії від виробника.]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/16714/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/16714/2.jpeg</picture>
@@ -23649,7 +23649,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux DENVER Flex GDF-32-08-06</name>
-      <stock_quantity>6</stock_quantity>
+      <stock_quantity>5</stock_quantity>
       <description><![CDATA[Змішувач для кухні Globus Lux DENVER Flex GDF-32-08-06 Сталь-Слонова кістка Гофровилив, латунь<br>функціональний та стильний змішувач для кухні з професійним виливом;<br>Гнучкий вилив розширює зону використання змішувача, гарантує легкий догляд за миттям та наповнення ємностей будь-якої висоти.<br>Вилив виготовлений із термостійкого силікону чорного кольору. Силікон є абсолютно безпечним при контакті з водою, т.к. у складі силікону відсутні шкідливі здоров&apos;ю токсичні компоненти.<br>Гладкий силіконовий вилив зносостійкий та стійкий до перегинів.<br><br>Країна-виробник товару: Китай<br>Вид монтажу: Врізний<br>Вид змішувача: Одноважільний<br>Тип виливу: Поворотний<br>Підключення до фільтру та водопроводу<br>Діаметр підключення шлангів 1/2″<br>Шланги на різьбленні звичайні<br>Шланги підключення входять до комплекту поставки<br>Картридж-NCV-32-D35C-GDF-32-Картридж D35 Короткий, Сірий,регулювання температури 90° вліво<br><br>Матеріал: Латунь<br>Колір виробу: Слонова кістка/сталь<br><br>Додаткові характеристики:<br>- Монтаж на один отвір, гайка<br>- Гнучка підводка<br>Країна реєстрації бренду: Україна<br>Гарантія: 12 місяців офіційної гарантії від виробника.<br><br>Переваги змішувачів Globus Lux:<br>1. Довговічність та безвідмовність в експлуатації, дизайн<br>2. Вилив обертається на 360 градусів і зручний для кухонних мийок з кількома чашами.<br>3. Елегантність форм, міцність та надійність<br>4. Висока функціональність<br>5. Використання якісних екологічно чистих матеріалів<br>6. Інноваційні технології виробництва<br>7. Корпуси виготовлені з латуні із вмістом міді не менше 70%]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/24665/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/24665/2.jpeg</picture>
