@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-09-23 07:46">
+<yml_catalog date="2026-09-23 08:46">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -23346,14 +23346,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.030000</param>
     </offer>
-    <offer id="23330" available="true">
+    <offer id="23330" available="false">
       <vendorCode>000023330</vendorCode>
       <categoryId>44</categoryId>
       <price>7855</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Душова система Globus Lux MILANO VAN-GLM-0026-10-BB</name>
-      <stock_quantity>4</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Душова система VAN-GLM-0026-10-BB (Milano) Globus Lux з гусаком та подовженою штангою 135 см(STYLE) Чорний Мат.<br>Переваги душових систем Globus Lux:<br>латунний корпус<br>наявність верхнього душа короткого типу,<br>ефект водоспаду<br>телескопічна душова штанга (регульована по висоті)<br>всі душі оснащені системою проти вапняних відкладень,<br>душовий шланг з посиленою обмоткою<br>Комплектація душової системи:<br>верхній душ,<br>тримач для душа,<br>душова штанга,<br>кронштейн,<br>перемикаючий вентиль,<br>ручна лійка,<br>шланг душовий]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/23330/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/23330/2.jpeg</picture>
@@ -28021,14 +28021,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.004000</param>
     </offer>
-    <offer id="28567" available="true">
+    <offer id="28567" available="false">
       <vendorCode>000028567</vendorCode>
       <categoryId>11</categoryId>
       <price>2665</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач гігієнічний Globus Lux Milano GLM-0-106MIX-BB</name>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Змішувач гігієнічний Globus Lux Milano GLM-0-106MIX-BB- вбудований Моноблок, Чорний мат.<br>Країна-виробник товару: Китай<br>Вид монтажу: Настінний<br>Вид змішувача: Одноважільний<br>Тип виливу: без виливу<br>Довжина шлангу: 100 см<br>Кількість типів виливу: 1<br>Матеріал: Латунь<br>Колір виробу: Чорний матовий<br><br>Гарантія: 24 місяці офіційної гарантії від виробника.]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/28567/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/28567/2.jpeg</picture>
