@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-09-28 08:46">
+<yml_catalog date="2026-09-28 09:46">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -19715,7 +19715,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для ванни Globus Lux MAIN SM-102N</name>
-      <stock_quantity>5</stock_quantity>
+      <stock_quantity>3</stock_quantity>
       <description><![CDATA[Змішувач для ванни Globus Lux SM-102N-EURO SUS304<br>Вид монтажу: настінний<br>Вид змішувача: Одноважільний<br>Тип виливу: стаціонарний<br>Матеріал: нержавіюча сталь<br>Колір виробу: нержавіюча сталь<br>Комплектація:<br>- змішувач,<br>- кругла ручна лійка ø10 см,<br>- тримач для душа,<br>- шланг душовий<br>- ексцентрики для змішувачів настінного монтажу,<br>- декоративні чаші.<br>Країна-виробник товару: Китай<br><br>Габарити упаковки:<br>ВхШхГ: 14х24х18 см<br>Вага нетто: 1,72 кг<br>Вага брутто: 1,9 кг]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/22003/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/22003/2.jpeg</picture>
@@ -25449,7 +25449,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux ALPEN SBT1-203SA-GP-B01</name>
-      <stock_quantity>50</stock_quantity>
+      <stock_quantity>10</stock_quantity>
       <description><![CDATA[Змішувач для кухні Globus Lux ALPEN SBT1-203SB бічний чорний гофровилив, Нержавіюча сталь, на гайці<br><br>Переваги моделей змішувачів Globus Lux з нержавіючої сталі:<br>1. Корпус моделей виготовлений із харчової нержавіючої сталі SUS304<br>2. Довговічність та безвідмовність в експлуатації<br>3. Елегантність форм, міцність та надійність<br>4. Висока функціональність<br>5. Використання якісних екологічно чистих матеріалів<br>6. Інноваційні технології виробництва<br><br>Комплектація:<br>Змішувач з нержавіючої сталі<br>Шланги для змішувача Globus Lux  М10х1/2″ 0,5м. АНТИКОРОЗІЯ (  ПАРА)<br>Кріплення для змішувача - гайка з нержавіючої сталі]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/26595/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/26595/2.jpeg</picture>
@@ -25857,7 +25857,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для біде Globus Lux SICILIA SBQ-106</name>
-      <stock_quantity>5</stock_quantity>
+      <stock_quantity>3</stock_quantity>
       <description><![CDATA[Змішувач для біде Globus Lux SICILIA SBQ-106, SUS304<br><br>Переваги моделей змішувачів Globus Lux з нержавійки:<br>1. Корпус моделей виготовлений з харчової нержавіючої сталі SUS304<br>2. Довговічність і безвідмовність в експлуатації<br>3. Елегантність форм, міцність і надійність<br>4. Висока функціональність<br>5. Використання якісних екологічно чистих матеріалів<br>6. Інноваційні технології виробництва<br><br>Комплектація:<br>Змішувач з нержавійки<br>Шланги для змішувача Globus Lux  М10х1/2″ 0,5м. АНТИКОРОЗІЯ (  ПАРА)<br>Кріплення для змішувача - гайка з нержавійки]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/27318/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/27318/2.jpeg</picture>
@@ -26469,14 +26469,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.004000</param>
     </offer>
-    <offer id="27524" available="true">
+    <offer id="27524" available="false">
       <vendorCode>000027524</vendorCode>
       <categoryId>11</categoryId>
       <price>683</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Кран для зворотнього осмосу Globus Lux Lazer GLLR-76A-00</name>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Кран для зворотнього осмосу Globus Lux Lazer GLLR-76A-00<br>Додатковий важіль на мінералізатор<br>Вид монтажу: Врізний<br>Вид змішувача: Двоважільний<br>Тип виливу: Поворотний<br>Підключення до осмосу<br>Матеріал: латунь<br>Колір виробу: хром<br>Додаткові характеристики:<br>- Монтаж на один отвір<br>- Металевий, 2 бічних важілі<br>- Система швидкого монтажу<br>Комплектація:<br>- Змішувач<br>- Квик-фітінг -2 шт<br>- Кріплення для змішувача - 2 гайки з металу<br>Країна-виробник товару: Китай]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/27524/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/27524/2.jpeg</picture>
