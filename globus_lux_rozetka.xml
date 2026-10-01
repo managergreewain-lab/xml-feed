@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-01 06:46">
+<yml_catalog date="2026-10-01 08:46">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -17102,7 +17102,7 @@
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Йоржик настінний TOPAZ TКВ 9929A</name>
-      <stock_quantity>6</stock_quantity>
+      <stock_quantity>4</stock_quantity>
       <description><![CDATA[Йоржик настінний TOPAZ TКВ 9929A<br>Тип - Йоржики<br>Тип установки - Настінний (підвісний)<br>Матеріал виробу:<br>- Колба: скло<br>- Фурнітура і ручка: латунь<br>Колір виробу - Матове скло / Хром<br>Габарити упаковки ВхГхШ: 41х13.5х13.5 см<br>Вага нетто: 960р<br>Вага брутто: 1140г<br>Габарити (ШхВхГ): 92 х 350 х 120 мм<br>Гарантія - 12 місяців офіційної гарантії від виробника]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/21239/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/21239/2.jpeg</picture>
