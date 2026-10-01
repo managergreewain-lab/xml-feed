@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-01 03:46">
+<yml_catalog date="2026-10-01 05:46">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -13025,7 +13025,7 @@
     <offer id="19551" available="true">
       <vendorCode>000019551</vendorCode>
       <categoryId>11</categoryId>
-      <price>2670</price>
+      <price>2815</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Змішувач для ванни TOPAZ LEXI TL 21101-H57-BL</name>
@@ -13137,7 +13137,7 @@
     <offer id="19556" available="true">
       <vendorCode>000019556</vendorCode>
       <categoryId>11</categoryId>
-      <price>2450</price>
+      <price>2610</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Змішувач для душа TOPAZ LEXI TL 21701-H57-BL</name>
@@ -18265,7 +18265,7 @@
     <offer id="21538" available="true">
       <vendorCode>000021538</vendorCode>
       <categoryId>11</categoryId>
-      <price>2670</price>
+      <price>2815</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Змішувач для душа TOPAZ SARDINIA TS 08718-H19-BB</name>
@@ -32426,6 +32426,90 @@
       <param name="Матеріал">Нержавіюча сталь</param>
       <param name="Вага брутто (кг.)">0.200000</param>
       <param name="Об&apos;єм (м³)">0.000662</param>
+    </offer>
+    <offer id="32166" available="true">
+      <vendorCode>000032166</vendorCode>
+      <categoryId>44</categoryId>
+      <price>7570</price>
+      <currencyId>UAH</currencyId>
+      <vendor>Globus Lux</vendor>
+      <name>Душова система Globus Lux Termostatic GLQ-0040TE</name>
+      <stock_quantity>5</stock_quantity>
+      <description><![CDATA[Душова система Globus Lux GLQ-0040TE Куб Termostatic Штанга Куб 1400мм  без вилива (Vernet cartr)<br>Призначення: Душова система<br>Вид монтажу змішувача: Настінний, на 2 виходи<br>Вид змішувача: Термостатик<br>Тип виливу: без<br>Матеріал: латунь<br>Колір виробу: хром<br>Комплектація:<br>- змішувач, декоративні чаші, ексцентрики для змішувачів настінного монтажу<br>- верхній душ - квадратна лійка 23 см, стійка (80-120 см)<br>- ручна лійка, тримач для душа, шланг душовий<br>Габарити упаковки (ВхШхГ): 70х30х13 см<br>Вага в упаковці: 5 кг<br>Вага: 3.9 кг<br>Країна-виробник товару: Китай<br>Гарантія: 12 місяців офіційної гарантії від виробника.]]></description>
+      <param name="Країна походження">Китай</param>
+      <param name="Країна реєстрації бренду">Україна</param>
+      <param name="Серія">Termostatic</param>
+      <param name="Призначення">Для душу</param>
+      <param name="Вид монтажу">Настінний</param>
+      <param name="Керування">Одноважільний</param>
+      <param name="Матеріал">Латунь</param>
+      <param name="Колір">Хром</param>
+      <param name="Термостат">Є</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.000000</param>
+    </offer>
+    <offer id="32167" available="true">
+      <vendorCode>000032167</vendorCode>
+      <categoryId>44</categoryId>
+      <price>8780</price>
+      <currencyId>UAH</currencyId>
+      <vendor>Globus Lux</vendor>
+      <name>Душова система Globus Lux Termostatic GLQ-0041TE</name>
+      <stock_quantity>5</stock_quantity>
+      <description><![CDATA[Душова система Globus Lux GLQ-0041TE Termostatic Штанга Куб 1400мм з виливом (Vernet cartr)<br>Призначення: Душова система<br>Вид монтажу змішувача: Настінний, на 2 виходи<br>Вид змішувача: Термостатик<br>Тип виливу: поворотний (довжина виливу 18 см)<br>Штанга висота 1400мм<br>Матеріал: латунь<br>Колір виробу: хром<br>Комплектація:<br>- змішувач, декоративні чаші, ексцентрики для змішувачів настінного монтажу<br>- верхній душ - квадратна лійка 23 см, стійка (85-140 см)<br>- ручна лійка, тримач для душа, шланг душовий<br>Габарити упаковки (ВхШхГ): 70х30х13 см<br>Вага в упаковці: 5 кг<br>Вага: 3.9 кг<br>Країна-виробник товару: Китай<br>Гарантія: 12 місяців офіційної гарантії від виробника.]]></description>
+      <param name="Країна походження">Китай</param>
+      <param name="Країна реєстрації бренду">Україна</param>
+      <param name="Серія">Termostatic</param>
+      <param name="Призначення">Для ванни</param>
+      <param name="Вид монтажу">Настінний</param>
+      <param name="Керування">Одноважільний</param>
+      <param name="Матеріал">Латунь</param>
+      <param name="Колір">Хром</param>
+      <param name="Термостат">Є</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.000000</param>
+    </offer>
+    <offer id="32168" available="true">
+      <vendorCode>000032168</vendorCode>
+      <categoryId>44</categoryId>
+      <price>6980</price>
+      <currencyId>UAH</currencyId>
+      <vendor>Globus Lux</vendor>
+      <name>Душова система Globus Lux Termostatic GLM-0040TE</name>
+      <stock_quantity>5</stock_quantity>
+      <description><![CDATA[Душова система Globus Lux GLM-0040TE  Termostatic Штанга кругла 1200мм  без вилива (Vernet cartr)<br>Призначення: Душова система<br>Вид монтажу змішувача: Настінний, на 2 виходи<br>Вид змішувача: Термостатик<br>Тип виливу: без<br>Матеріал: латунь<br>Колір виробу: хром<br>Комплектація:<br>- змішувач, декоративні чаші, ексцентрики для змішувачів настінного монтажу<br>- верхній душ - квадратна лійка 23 см, стійка (80-120 см)<br>- ручна лійка, тримач для душа, шланг душовий<br>Габарити упаковки (ВхШхГ): 70х30х13 см<br>Вага в упаковці: 5 кг<br>Вага: 3.9 кг<br>Країна-виробник товару: Китай<br>Гарантія: 12 місяців офіційної гарантії від виробника.]]></description>
+      <param name="Країна походження">Китай</param>
+      <param name="Країна реєстрації бренду">Україна</param>
+      <param name="Серія">Termostatic</param>
+      <param name="Призначення">Для душу</param>
+      <param name="Вид монтажу">Настінний</param>
+      <param name="Керування">Одноважільний</param>
+      <param name="Матеріал">Латунь</param>
+      <param name="Колір">Хром</param>
+      <param name="Термостат">Є</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.000000</param>
+    </offer>
+    <offer id="32169" available="true">
+      <vendorCode>000032169</vendorCode>
+      <categoryId>44</categoryId>
+      <price>8290</price>
+      <currencyId>UAH</currencyId>
+      <vendor>Globus Lux</vendor>
+      <name>Душова система Globus Lux Termostatic GLM-0041TE</name>
+      <stock_quantity>5</stock_quantity>
+      <description><![CDATA[Душова система Globus Lux GLM-0041TE  Termostatic Штанга кругла 1400мм з виливом (Vernet cartr)<br>Призначення: Душова система<br>Вид монтажу змішувача: Настінний, на 2 виходи<br>Вид змішувача: Термостатик<br>Тип виливу: поворотній<br>Матеріал: латунь<br>Колір виробу: хром<br>Штанга висота 1400мм<br>Комплектація:<br>- змішувач, декоративні чаші, ексцентрики для змішувачів настінного монтажу<br>- верхній душ - квадратна лійка 23 см, стійка (80-120 см)<br>- ручна лійка, тримач для душа, шланг душовий<br>Габарити упаковки (ВхШхГ): 70х30х13 см<br>Вага в упаковці: 5 кг<br>Вага: 3.9 кг<br>Країна-виробник товару: Китай<br>Гарантія: 12 місяців офіційної гарантії від виробника.]]></description>
+      <param name="Країна походження">Китай</param>
+      <param name="Країна реєстрації бренду">Україна</param>
+      <param name="Серія">Termostatic</param>
+      <param name="Призначення">Для ванни</param>
+      <param name="Вид монтажу">Настінний</param>
+      <param name="Керування">Одноважільний</param>
+      <param name="Матеріал">Латунь</param>
+      <param name="Колір">Хром</param>
+      <param name="Термостат">Є</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.000000</param>
     </offer>
     <offer id="32170" available="true">
       <vendorCode>000032170</vendorCode>
