@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-01 13:46">
+<yml_catalog date="2026-10-01 14:46">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -4836,7 +4836,7 @@
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Змішувач для ванни TOPAZ SARDINIA TS 08111-H19</name>
-      <stock_quantity>4</stock_quantity>
+      <stock_quantity>3</stock_quantity>
       <description><![CDATA[Змішувач для ванни TOPAZ SARDINIA-TS 08111-H19, вбудований<br><br>Серія змішувачів TOPAZ дивує своєю вишуканістю форм, надійністю в експлуатації, витонченим дизайном.<br>У комплектацію входить:<br>Змішувач з латуні<br>Вилив з перемикачем<br>Душова лійка<br>Декоративні чаші<br>TC-35-Картридж керамічний короткий D35-TOPAZ<br>Колір: хром<br><br><br>Якісна продукція TOPAZ прослужить Вам довгі роки]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/14765/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/14765/2.jpeg</picture>
