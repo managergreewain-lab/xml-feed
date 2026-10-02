@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-02 06:46">
+<yml_catalog date="2026-10-02 07:46">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -903,14 +903,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.004000</param>
     </offer>
-    <offer id="6151" available="true">
+    <offer id="6151" available="false">
       <vendorCode>000006151</vendorCode>
       <categoryId>11</categoryId>
       <price>2115</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для ванни Globus Lux GB-SHARM-0316</name>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Змішувач для ванни вентильний Globus Lux GB-SHARM-0316, литий вилив L-350, душовий комплект<br><br>Переваги змішувачів Globus Lux:<br>1 Довговічність і безвідмовність в експлуатації<br>2 Елегантність форм, міцність і надійність<br>3 Висока функціональність<br>4 Використання якісних екологічно чистих матеріалів<br>5 Інноваційні технології виробництва<br>6 Корпус виготовлений з латуні з вмістом міді не менше 70%<br><br>Комплектація:<br>Змішувач латунний<br>Вилив - 350 мм<br>Тримач для душу,<br>Ручна лійка,<br>шланг душовий<br>Ексцентрики для змішувачів настінного монтажу<br>декоративні чаші]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/6151/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/6151/2.jpeg</picture>
@@ -3323,7 +3323,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні під осмос Globus Lux LAZER GLLR-0333-8-StSTEEL</name>
-      <stock_quantity>4</stock_quantity>
+      <stock_quantity>3</stock_quantity>
       <description><![CDATA[Змішувач GLLR-0333-8_StSTEEL  LAZER,  колір нержавіюча сталь, Globus Lux комбінований під ОСМОС на гайці<br>Комбінований змішувач вражає своєю продуманістю до використання і монтажу. <br>Колір наржавіючої сталі задовольнить найвибагливіших покупців. <br><br>Переваги комбінованих під систему зворотного осмосу моделей змішувачів Globus Lux:<br>1 Довговічність і безвідмовність в експлуатації<br>2. Вилив обертається на 360 градусів і зручний для кухонних мийок з декількома чашами<br>3. Елегантність форм, міцність і надійність<br>4. Висока функціональність<br>5. Використання якісних екологічно чистих матеріалів<br>6. Інноваційні технології виробництва<br>7. Корпус виготовлений з латуні з вмістом міді не менше 70%<br><br>Комплектація:<br>Змішувач латунний<br>Шланг М10 * 1 / 2″-3шт<br>Quick fitting 1/4 ″-1/2″ (зовнішня різьба)<br>Кріплення для змішувача - гайка<br><br>Змішувач має 3 контури для підключення води:<br>- 1 і 2 використовується для підключення холодної та гарячої води. Змішування води відбувається за допомогою стандартного картриджа з відкриванням великої  рукоятки;<br>- 3-й контур використовується для підключення очищеної води. Відкриття чистої води здійснюється за допомогою іншого картриджа з відкриванням маленької рукоятки.<br>Водопровідна та фільтрована вода мають окремі канали (трубка в трубці) і вихідні отвори в лійці змішувача, що повністю виключає можливість змішування очищеної та брудної води.<br>Змішувач виготовлений з нержавіючої сталі. Хромове покриття рівномірне і гладке. У конструкції застосовуються стандартні змінні картриджі, гнучкі шланги і різьбові підключення. Все це робить змішувач повністю ремонтопригодним. Установчий отвір в мийці такий самий, як і для звичайних кухонних змішувачів.]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/12239/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/12239/2.jpeg</picture>
@@ -10550,7 +10550,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux MAIN SM-203S</name>
-      <stock_quantity>10</stock_quantity>
+      <stock_quantity>9</stock_quantity>
       <description><![CDATA[Змішувач для кухні Globus Lux MAIN SM-203S, SUS304<br><br>Переваги моделей змішувачів Globus Lux з нержавійки:<br>1. Корпус моделей виготовлений з харчової нержавіючої сталі SUS304<br>2. Довговічність і безвідмовність в експлуатації<br>3. Елегантність форм, міцність і надійність<br>4. Висока функціональність<br>5. Використання якісних екологічно чистих матеріалів<br>6. Інноваційні технології виробництва<br><br>Комплектація:<br>Змішувач з нержавійки<br>Шланги для змішувача Globus Lux  М10х1/2″ 0,5м. АНТИКОРОЗІЯ (  ПАРА)<br>Кріплення для змішувача - гайка з нержавійки<br><br>Розмір упаковки ШхГхВ: 32х19х6 см<br>Вага нетто: 0,74 кг<br>Вага брутто: 1,08 кг]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/19186/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/19186/2.jpeg</picture>
@@ -20245,7 +20245,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux LAZER GLLR-0203SB-10-BB</name>
-      <stock_quantity>4</stock_quantity>
+      <stock_quantity>3</stock_quantity>
       <description><![CDATA[Змішувач для кухні Globus Lux LAZER GLLR-0203SB-10-BB<br><br>Країна-виробник товару: Китай<br>Вид монтажу: Врізний<br>Вид змішувача: Одноважільний<br>Габарити (ВхГ): 36,5 х 24 см<br>Тип виливу: Поворотний, 360°<br>Довжина виливу: 20 см<br>Підключення до водопроводу<br>Матеріал: Латунь<br>Колір виробу: Чорний <br>Додаткові характеристики:<br>- Монтаж на один отвір<br>- Металевий, бічний важіль<br>- Система швидкого монтажу<br>Вага в упаковці: 1,86 кг<br>Вага: 1,3 кг<br>Габарити упаковки (ВхШхГ): 38х21х6.5 см<br><br>Комплектація:<br>- Змішувач латунний<br>- Шланг М10*1/2″-2шт<br>- Кріплення для змішувача - гайка<br><br>Країна реєстрації бренду: Україна<br>Гарантія: 12 місяців офіційної гарантії від виробника.]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/22145/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/22145/2.jpeg</picture>
@@ -31337,14 +31337,14 @@
       <param name="Вага брутто (кг.)">3.250000</param>
       <param name="Об&apos;єм (м³)">0.014000</param>
     </offer>
-    <offer id="31652" available="true">
+    <offer id="31652" available="false">
       <vendorCode>000031652</vendorCode>
       <categoryId>11</categoryId>
       <price>2305</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux Lazer GLLR-0203SA-8-G03</name>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Змішувач для кухні Globus Lux Lazer GLLR-0203SA-8-G03 Сталь.з гофр.Сірою з душ.насадкою,Латунь,гайка<br><br>Країна-виробник товару: Китай<br>Вид монтажу: Врізний<br>Вид змішувача: Одноважільний<br>Габарити (ВхГ): 36,5 х 24 см<br>Тип виливу: Поворотний, 360°<br>Підключення до водопроводу<br>Матеріал: Латунь<br><br>Колір виробу: Сталевий<br>Колір виливу : Сірий<br>Додаткові характеристики:<br>- Монтаж на один отвір<br>- Металевий, бічний важіль<br>- Система швидкого монтажу<br>Вага в упаковці: 1,86 кг<br>Вага: 1,3 кг<br>Габарити упаковки (ВхШхГ): 38х21х6.5 см<br><br>Комплектація:<br>- Змішувач латунний<br>- Шланг М10*1/2-2шт<br>- Кріплення для змішувача - гайка<br><br>Країна реєстрації бренду: Україна<br>Гарантія: 12 місяців офіційної гарантії від виробника.]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/31652/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/31652/2.jpeg</picture>
