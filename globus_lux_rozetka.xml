@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-02 03:46">
+<yml_catalog date="2026-10-02 05:46">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -29842,7 +29842,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для душу Globus Lux Dolly GLD-0105N</name>
-      <stock_quantity>7</stock_quantity>
+      <stock_quantity>10</stock_quantity>
       <description><![CDATA[Змішувач для душу Globus Lux Dolly GLSO-0105N латунь]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/30721/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/30721/2.jpeg</picture>
