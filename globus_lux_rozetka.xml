@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-04 02:46">
+<yml_catalog date="2026-10-04 03:46">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -29767,6 +29767,7 @@
       <picture>https://b2b-sklad.com/storage/img/products/30587/4.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/30587/5.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/30587/6.jpeg</picture>
+      <picture>https://b2b-sklad.com/storage/img/products/30587/7.jpeg</picture>
       <param name="Країна походження">Китай</param>
       <param name="Країна реєстрації бренду">Україна</param>
       <param name="Серія">ALPEN</param>
