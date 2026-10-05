@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-05 11:46">
+<yml_catalog date="2026-10-05 12:46">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -10418,7 +10418,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux ALPEN SUS-203SG</name>
-      <stock_quantity>6</stock_quantity>
+      <stock_quantity>5</stock_quantity>
       <description><![CDATA[Змішувач для кухні Globus Lux ALPEN SUS-203SG, SUS304 сірий гофрогусак<br><br>Переваги моделей змішувачів Globus Lux з нержавійки:<br>1. Корпус моделей виготовлений з харчової нержавіючої сталі SUS304<br>2. Довговічність і безвідмовність в експлуатації<br>3. Елегантність форм, міцність і надійність<br>4. Висока функціональність<br>5. Використання якісних екологічно чистих матеріалів<br>6. Інноваційні технології виробництва<br><br>Комплектація:<br>Змішувач з нержавійки<br>Шланги для змішувача Globus Lux  М10х1/2″ 0,5м. АНТИКОРОЗІЯ (  ПАРА)<br>Кріплення для змішувача - гайка з нержавійки]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/19181/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/19181/2.jpeg</picture>
@@ -18351,7 +18351,7 @@
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Змішувач для кухні TOPAZ CORSICA TC 8853-04-GR, Шланги TAQ-M1055</name>
-      <stock_quantity>7</stock_quantity>
+      <stock_quantity>6</stock_quantity>
       <description><![CDATA[Змішувач для кухні TOPAZ CORSICA-TC 8853-04-GR<br><br>Серія змішувачів TOPAZ дивує своєю вишуканістю форм, надійністю в експлуатації, витонченим дизайном.<br>У комплектацію входить:<br>Змішувач з латуні<br>Шланги для підключення води - 2 шт.-(TuCai) TAQ-M1055 M10×1-F1/2-55CM<br>Високий поворотний сірий гофрогусак<br>TC-35-Картридж керамічний короткий D35-TOPAZ<br>Якісна продукція TOPAZ прослужить Вам довгі роки<br><br>Габарити упаковки ВхГхШ: 45 х 24.5 х 6 см<br>Вага нетто: 1160 г<br>Вага брутто: 1360 г<br>Габарити (ШхВхГ): 50 х 340 х 240 мм]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/21542/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/21542/2.jpeg</picture>
@@ -25200,7 +25200,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux ALPEN SBT1-203SA-BB-B01</name>
-      <stock_quantity>6</stock_quantity>
+      <stock_quantity>5</stock_quantity>
       <description><![CDATA[Змішувач для кухні Globus Lux ALPEN SBT1-203SA-BB-B01 чорний матовий з гнучким чорним гофровиливом, Нержавіюча сталь, на гайці<br><br>Переваги моделей змішувачів Globus Lux з нержавіючої сталі:<br>1. Корпус моделей виготовлений із харчової нержавіючої сталі SUS304<br>2. Довговічність та безвідмовність в експлуатації<br>3. Елегантність форм, міцність та надійність<br>4. Висока функціональність<br>5. Використання якісних екологічно чистих матеріалів<br>6. Інноваційні технології виробництва<br>7,Вилив легко згинається в потрібному напрямку,Силіконова оболонка виливу стійка до високої та низької температури, не втрачає своєї пластичності при всіх режимах користування змішувачем.<br>8, легко можна регулювати висоту водяного струменя.<br>9, дворежимний аератор<br><br><br>Комплектація:<br>Змішувач з нержавіючої сталі<br>Шланги для змішувача Globus Lux  М10х1/2″ 0,5м. АНТИКОРОЗІЯ (  ПАРА)<br>Кріплення для змішувача - гайка з нержавіючої сталі]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/25988/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/25988/2.jpeg</picture>
@@ -28115,14 +28115,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.014000</param>
     </offer>
-    <offer id="28609" available="true">
+    <offer id="28609" available="false">
       <vendorCode>000028609</vendorCode>
       <categoryId>44</categoryId>
       <price>11225</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Душова система TOPAZ ODISS TO 18202-H66</name>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Душова система TOPAZ ODISS TO 18202-H66 з виливом, комплект Н-155см, Хром<br>Серія душових систем TOPAZ дивує своєю вишуканістю форм, надійністю в експлуатації, витонченим дизайном.<br>Призначення: Душова система<br>Вид монтажу душової системи: Настінний, на 2 виходу води<br>Вид змішувача: Одноважільний<br>Тип виливу: є<br>Матеріал: латунь<br>Колір виробу: хром<br>Комплектація:<br>душова штанга 155 см<br>Верхня лійка<br>Ручна лійка<br>Шланг для ручної лійки<br>Змішувач латунний<br>Кріплення до стіни<br>ексцентрики<br>декоративні чаші<br>Картридж-TC-35-Картридж керамічний короткий D35-TOPAZ<br>Картридж перемикач-FX-22(MD)D<br><br>Гарантія: 12 місяців офіційної гарантії від виробника.<br><br>Габарити упаковки ВхГхШ: 105 х 47 х 12 см<br>Вага нетто: 5420г<br>Вага брутто: 5910г]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/28609/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/28609/2.jpeg</picture>
@@ -29435,14 +29435,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.008000</param>
     </offer>
-    <offer id="29875" available="true">
+    <offer id="29875" available="false">
       <vendorCode>000029875</vendorCode>
       <categoryId>11</categoryId>
       <price>1770</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux Niagara GLN-0203SM-BB</name>
-      <stock_quantity>4</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Змішувач для кухні Globus Lux Niagara GLN-0203SM-BB<br>Нова серія змішувачів Globus Lux NIAGARA дивує своєю тонкістю ліній і граней. Нове рішення в дизайні.<br>Країна-виробник товару: Китай<br>Вид монтажу: Врізний<br>Вид змішувача: Одноважільний<br>Тип виливу: Поворотний, 360°<br>Матеріал: Латунь, силікон<br>Колір виробу: чорний матовий<br>Додаткові характеристики:<br>- Монтаж на один отвір<br>- Металевий, бічний важіль<br>- Система швидкого монтажу<br><br>Комплектація:<br>- Змішувач латунний<br>- Шланг М10*1/2″-2шт<br>- Кріплення для змішувача - гайка<br>Країна реєстрації бренду: Україна<br>Гарантія: 12 місяців офіційної гарантії від виробника.]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/29875/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/29875/2.jpeg</picture>
@@ -30688,7 +30688,7 @@
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Душова система TOPAZ LEXI TL 21105-H57</name>
-      <stock_quantity>5</stock_quantity>
+      <stock_quantity>4</stock_quantity>
       <description><![CDATA[Душова система TOPAZ LEXI TL 21705-H57-00 без вилива, комплект Н-130см, Хром<br><br>Серія душових систем TOPAZ дивує своєю вишуканістю форм, надійністю в експлуатації, витонченим дизайном.<br>Призначення: Душова система<br>Вид монтажу душової системи: Настінний, на 2 виходу води<br>Вид змішувача: Одноважільний<br>Тип виливу: немає<br>Матеріал: латунь<br>Колір виробу: хром<br>Комплектація:<br>душова штанга 130 см<br>Верхня лійка-нержавіюча сталь SUS304, 250*250мм<br>Ручна лійка квадратна латунна<br>Шланг для ручної лійки<br>Змішувач латунний<br>Кріплення до стіни<br>ексцентрики<br>декоративні чаші<br>Картридж-TC-35-Картридж керамічний короткий D35-TOPAZ<br>Картридж перемикач-SL20T90F<br>Гарантія: 12 місяців офіційної гарантії від виробника.<br><br>Габарити упаковки ВхГхШ: 105 х 47 х 12 см<br>Вага нетто: 5125г<br>Вага брутто: 5535г]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/31397/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/31397/2.jpeg</picture>
