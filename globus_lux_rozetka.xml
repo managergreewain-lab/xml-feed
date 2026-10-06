@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-06 11:46">
+<yml_catalog date="2026-10-06 12:46">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -96,14 +96,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.002000</param>
     </offer>
-    <offer id="1141" available="true">
+    <offer id="1141" available="false">
       <vendorCode>000001141</vendorCode>
       <categoryId>30</categoryId>
       <price>254</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Стакан одинарний Globus Lux RM 1101</name>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[RM 1101 Стакан одинарний скляний  матовий (Globus Lux)<br>Кріплення - Шурупи<br>Тип установки - Настінний (підвісний)<br>Матеріал вироби:<br>- Стакан: скло<br>- Фурнітура: латунь<br>Колір виробу - Матове скло / Хром<br>Комплектація:<br>- Монтажні елементи<br>- Склянка<br>Габарити (ШхВ): 7 х 9.5 см<br>Вага - 0.295 кг<br>Гарантія - 12 місяців офіційної гарантії від виробника]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/1141/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/1141/2.jpeg</picture>
@@ -3725,14 +3725,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.001000</param>
     </offer>
-    <offer id="13407" available="true">
+    <offer id="13407" available="false">
       <vendorCode>000013407</vendorCode>
       <categoryId>59</categoryId>
       <price>195</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Душова лійка Globus Lux NSD-104-1-LUX  Blister</name>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Душова лійка Globus Lux NSD-104-1-LUX  упаковка Blister<br>Матеріал - Пластик<br>Колір - Хром/сірий<br>Кількість типів струменя - 3<br>Діаметр ручної лійки - 9<br>Вага - 0.24 кг<br>Країна виробник - Китай]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/13407/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/13407/2.jpeg</picture>
@@ -7079,7 +7079,7 @@
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Змішувач гігієнічний TOPAZ BARTS TB 077106-H36</name>
-      <stock_quantity>10</stock_quantity>
+      <stock_quantity>9</stock_quantity>
       <description><![CDATA[Змішувач гігієнічний TOPAZ BARTS-TB 077106-H36, моноблок, вбудований<br>Серія змішувачів TOPAZ дивує своєю вишуканістю форм, надійністю в експлуатації, витонченим дизайном.<br>У комплектацію входить:<br>Змішувач з латуні з кріпленням для лійки<br>Душовий шланг<br>Стоп-лійка<br>Декоративна чашка<br>Картридж TOPAZ-M FX-25S(JT)-Картридж керамічний для змішувача ум-к  короткий D25<br><br><br>Якісна продукція TOPAZ прослужить Вам довгі роки]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/16129/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/16129/2.jpeg</picture>
@@ -8684,7 +8684,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Душова лійка Globus Lux NSF-580-1-LUX Blister</name>
-      <stock_quantity>4</stock_quantity>
+      <stock_quantity>3</stock_quantity>
       <description><![CDATA[Душова лійка Globus Lux SPIDER NSF-580-1-LUX упаковка Blister<br>Матеріал - Пластик<br>Колір - Хром/сірий<br>Кількість типів струменя - 3<br>Діаметр ручної лійки - 10 см<br>Вага - 0.165 кг<br>Країна виробник - Китай]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/17955/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/17955/2.jpeg</picture>
@@ -14849,7 +14849,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Душова лійка Globus Lux NS-080-P</name>
-      <stock_quantity>8</stock_quantity>
+      <stock_quantity>7</stock_quantity>
       <description><![CDATA[Душова лійка Globus Lux NSF-080-P<br>Матеріал - Пластик<br>Колір - Хром /блакитний<br>Кількість типів струї - 3 з функцією СТОП<br>Діаметр ручної лійки - 10 см<br>Вага - 0.14 кг<br>Країна виробник - Китай]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/20788/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/20788/2.jpeg</picture>
@@ -23882,14 +23882,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.012000</param>
     </offer>
-    <offer id="24676" available="true">
+    <offer id="24676" available="false">
       <vendorCode>000024676</vendorCode>
       <categoryId>11</categoryId>
       <price>5295</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні під осмос Globus Lux LAZER GLLR-0900-10-01</name>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Кухонний змішувач Globus Lux LAZER GLLR-0900-10-01, комбінований під ОСМОС, чорний гофрогусак,  колір корпусу- чорний<br>Комбінований змішувач вражає своєю продуманістю до використання і монтажу. Класичний колір покриття-чорний.<br>Переваги комбінованих під систему зворотного осмосу моделей змішувачів Globus Lux:<br>Вид монтажу: Врізний<br>Вид змішувача: Одноважільний з перемиканням під осмос<br>Тип виливу: Поворотний<br>Підключення до фільтру і водопроводу- шпилька, яка виконує функцію шланга (осмос)<br>Діаметр підключення шлангів 1/2 ″<br><br><br>Матеріал: Латунь<br>Колір виробу: чорний/чорний<br>Додаткові характеристики:<br>- Монтаж на один отвір<br>- Металевий важіль<br>- Система швидкого монтажу<br>- Гнучка проводка<br>Країна реєстрації бренду: Україна<br>Гарантія: 12 місяців офіційної гарантії від виробника.<br><br>Вага нетто: 2,18 кг<br>Вага брутто: 2,685 кг<br>Розмір упаковки ВхШхГ: 30х50х8 см]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/24676/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/24676/2.jpeg</picture>
@@ -28001,7 +28001,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач гігієнічний Globus Lux Milano GLM-0-106MIX-CR</name>
-      <stock_quantity>9</stock_quantity>
+      <stock_quantity>8</stock_quantity>
       <description><![CDATA[Змішувач гігієнічний Globus Lux Milano GLM-0-106MIX-CR- вбудований Моноблок ,Хром<br>Країна-виробник товару: Китай<br>Вид монтажу: Настінний<br>Вид змішувача: Одноважільний<br>Тип виливу: без виливу<br>Довжина шлангу: 100 см<br>Кількість типів виливу: 1<br>Матеріал: Латунь<br>Колір виробу:  хром.<br><br>Гарантія: 24 місяці офіційної гарантії від виробника.]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/28561/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/28561/2.jpeg</picture>
@@ -29412,7 +29412,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux Niagara GLN-0203SM-GP</name>
-      <stock_quantity>8</stock_quantity>
+      <stock_quantity>7</stock_quantity>
       <description><![CDATA[Змішувач для кухні Globus Lux Niagara GLN-203SM-GP<br>Нова серія змішувачів Globus Lux NIAGARA дивує своєю тонкістю ліній і граней. Нове рішення в дизайні.<br>Країна-виробник товару: Китай<br>Вид монтажу: Врізний<br>Вид змішувача: Одноважільний<br>Тип виливу: Поворотний, 360°<br>Підключення до водопроводу<br>Матеріал: Латунь, силікон<br>Колір виробу: графіт, чорний<br>Додаткові характеристики:<br>- Монтаж на один отвір<br>- Металевий, бічний важіль<br>- Система швидкого монтажу<br><br>Комплектація:<br>- Змішувач латунний<br>- Шланг М10*1/2″-2шт<br>- Кріплення для змішувача - гайка<br>Країна реєстрації бренду: Україна<br>Гарантія: 12 місяців офіційної гарантії від виробника.]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/29874/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/29874/2.jpeg</picture>
