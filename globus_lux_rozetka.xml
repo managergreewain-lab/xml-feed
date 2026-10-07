@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-07 02:46">
+<yml_catalog date="2026-10-07 04:46">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -17504,7 +17504,7 @@
     <offer id="21264" available="false">
       <vendorCode>000021264</vendorCode>
       <categoryId>30</categoryId>
-      <price>3520</price>
+      <price>3470</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Поличка пряма подвійна TOPAZ 4102</name>
@@ -17525,7 +17525,7 @@
     <offer id="21265" available="false">
       <vendorCode>000021265</vendorCode>
       <categoryId>30</categoryId>
-      <price>4620</price>
+      <price>4410</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Поличка пряма потрійна TOPAZ 4103</name>
@@ -17707,7 +17707,7 @@
     <offer id="21349" available="false">
       <vendorCode>000021349</vendorCode>
       <categoryId>30</categoryId>
-      <price>3070</price>
+      <price>2955</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Полка подвійна кутова TOPAZ TKB-4115-2-BL</name>
