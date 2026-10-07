@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-07 05:46">
+<yml_catalog date="2026-10-07 07:46">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -14849,7 +14849,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Душова лійка Globus Lux NS-080-P</name>
-      <stock_quantity>7</stock_quantity>
+      <stock_quantity>6</stock_quantity>
       <description><![CDATA[Душова лійка Globus Lux NSF-080-P<br>Матеріал - Пластик<br>Колір - Хром /блакитний<br>Кількість типів струї - 3 з функцією СТОП<br>Діаметр ручної лійки - 10 см<br>Вага - 0.14 кг<br>Країна виробник - Китай]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/20788/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/20788/2.jpeg</picture>
