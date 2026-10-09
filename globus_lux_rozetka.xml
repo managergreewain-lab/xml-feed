@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-09 06:46">
+<yml_catalog date="2026-10-09 07:46">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -6542,14 +6542,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.001000</param>
     </offer>
-    <offer id="15831" available="true">
+    <offer id="15831" available="false">
       <vendorCode>000015831</vendorCode>
       <categoryId>61</categoryId>
       <price>678</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Душова стійка Globus Lux SUS-1107</name>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Душова стійка Globus Lux SUS-1107<br>Бренд: Globus Lux<br>Модель: SUS-1107<br>Призначення: для ванни, душової<br>Вид монтажу: Настінний<br>Комплектація: Душова стійка / Кріплення<br>Колір: нержавіюча сталь<br>Матеріал: нержавіюча сталь<br>Вага: 0.57 кг<br>Висота: 65 см<br>Країна виробник: Китай]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/15831/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/15831/2.jpeg</picture>
