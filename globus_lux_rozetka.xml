@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-12 02:46">
+<yml_catalog date="2026-10-12 05:46">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -4242,7 +4242,7 @@
     <offer id="14159" available="true">
       <vendorCode>000014159</vendorCode>
       <categoryId>11</categoryId>
-      <price>880</price>
+      <price>925</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux ALPEN SUS-203S</name>
@@ -5944,7 +5944,7 @@
     <offer id="15044" available="true">
       <vendorCode>000015044</vendorCode>
       <categoryId>11</categoryId>
-      <price>1385</price>
+      <price>1450</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для душу Globus Lux ALPEN SBT1-105</name>
@@ -5971,7 +5971,7 @@
     <offer id="15045" available="true">
       <vendorCode>000015045</vendorCode>
       <categoryId>11</categoryId>
-      <price>705</price>
+      <price>719</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для умивальника Globus Lux ALPEN SBT1-101</name>
@@ -5998,7 +5998,7 @@
     <offer id="15046" available="false">
       <vendorCode>000015046</vendorCode>
       <categoryId>11</categoryId>
-      <price>875</price>
+      <price>915</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для умивальника Globus Lux ALPEN SUS-101S</name>
@@ -6077,7 +6077,7 @@
     <offer id="15051" available="true">
       <vendorCode>000015051</vendorCode>
       <categoryId>11</categoryId>
-      <price>895</price>
+      <price>940</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для умивальника Globus Lux SICILIA SBQ-101</name>
@@ -6156,7 +6156,7 @@
     <offer id="15054" available="true">
       <vendorCode>000015054</vendorCode>
       <categoryId>11</categoryId>
-      <price>428</price>
+      <price>438</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Монокран Globus Lux ALPEN SUS-002M</name>
@@ -6720,7 +6720,7 @@
     <offer id="16091" available="false">
       <vendorCode>000016091</vendorCode>
       <categoryId>11</categoryId>
-      <price>1065</price>
+      <price>1125</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux ALPEN SUS-403</name>
@@ -6796,7 +6796,7 @@
     <offer id="16094" available="true">
       <vendorCode>000016094</vendorCode>
       <categoryId>11</categoryId>
-      <price>2010</price>
+      <price>2100</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для ванни Globus Lux ALPEN SBT1-208</name>
@@ -6823,7 +6823,7 @@
     <offer id="16095" available="true">
       <vendorCode>000016095</vendorCode>
       <categoryId>11</categoryId>
-      <price>865</price>
+      <price>915</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для умивальника Globus Lux MAIN SM-101</name>
@@ -6876,7 +6876,7 @@
     <offer id="16100" available="true">
       <vendorCode>000016100</vendorCode>
       <categoryId>44</categoryId>
-      <price>3985</price>
+      <price>4215</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Душова система Globus Lux ALPEN SBT1-SH-02</name>
@@ -7634,7 +7634,7 @@
     <offer id="17520" available="false">
       <vendorCode>000017520</vendorCode>
       <categoryId>11</categoryId>
-      <price>637</price>
+      <price>646</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Монокран Globus Lux ALPEN SUS-004SN</name>
@@ -7770,7 +7770,7 @@
     <offer id="17525" available="true">
       <vendorCode>000017525</vendorCode>
       <categoryId>11</categoryId>
-      <price>1095</price>
+      <price>1155</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux ALPEN SUS-203SB боковий ЧОРНИЙ Гофровилив НЕРЖ._на гайці</name>
@@ -7904,7 +7904,7 @@
     <offer id="17530" available="false">
       <vendorCode>000017530</vendorCode>
       <categoryId>11</categoryId>
-      <price>1425</price>
+      <price>1500</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux ALPEN SBT1-104</name>
@@ -7957,7 +7957,7 @@
     <offer id="17532" available="true">
       <vendorCode>000017532</vendorCode>
       <categoryId>11</categoryId>
-      <price>890</price>
+      <price>940</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux WIEN SUS2-203S</name>
@@ -7983,7 +7983,7 @@
     <offer id="17533" available="false">
       <vendorCode>000017533</vendorCode>
       <categoryId>11</categoryId>
-      <price>915</price>
+      <price>955</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux WIEN SUS2-203SN</name>
@@ -8036,7 +8036,7 @@
     <offer id="17535" available="false">
       <vendorCode>000017535</vendorCode>
       <categoryId>11</categoryId>
-      <price>1100</price>
+      <price>1155</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux WIEN SUS2-203SG</name>
@@ -8089,7 +8089,7 @@
     <offer id="17538" available="true">
       <vendorCode>000017538</vendorCode>
       <categoryId>11</categoryId>
-      <price>716</price>
+      <price>750</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для умивальника Globus Lux WIEN SBT2-101</name>
@@ -8116,7 +8116,7 @@
     <offer id="17539" available="false">
       <vendorCode>000017539</vendorCode>
       <categoryId>11</categoryId>
-      <price>2085</price>
+      <price>2185</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для ванни Globus Lux WIEN SBT2-102N</name>
@@ -8145,7 +8145,7 @@
     <offer id="17540" available="false">
       <vendorCode>000017540</vendorCode>
       <categoryId>11</categoryId>
-      <price>1445</price>
+      <price>1470</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для душу Globus Lux WIEN SBT2-105</name>
@@ -8173,7 +8173,7 @@
     <offer id="17541" available="false">
       <vendorCode>000017541</vendorCode>
       <categoryId>11</categoryId>
-      <price>2025</price>
+      <price>2120</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для ванни Globus Lux WIEN SBT2-208</name>
@@ -8361,7 +8361,7 @@
     <offer id="17550" available="false">
       <vendorCode>000017550</vendorCode>
       <categoryId>44</categoryId>
-      <price>2430</price>
+      <price>2525</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Душова система Globus Lux ALPEN S-SH-105</name>
@@ -8950,7 +8950,7 @@
     <offer id="18107" available="true">
       <vendorCode>000018107</vendorCode>
       <categoryId>11</categoryId>
-      <price>1875</price>
+      <price>1985</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для ванни Globus Lux ALPEN SBT1-102NE</name>
@@ -8978,7 +8978,7 @@
     <offer id="18109" available="false">
       <vendorCode>000018109</vendorCode>
       <categoryId>11</categoryId>
-      <price>1875</price>
+      <price>2000</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для ванни Globus Lux WIEN SBT2-102NE</name>
@@ -9006,7 +9006,7 @@
     <offer id="18110" available="false">
       <vendorCode>000018110</vendorCode>
       <categoryId>11</categoryId>
-      <price>2670</price>
+      <price>2740</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для ванни Globus Lux SICILIA SBQ-102N</name>
@@ -9034,7 +9034,7 @@
     <offer id="18111" available="false">
       <vendorCode>000018111</vendorCode>
       <categoryId>11</categoryId>
-      <price>2435</price>
+      <price>2555</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для ванни Globus Lux MAIN SM-208</name>
@@ -9303,7 +9303,7 @@
     <offer id="18164" available="true">
       <vendorCode>000018164</vendorCode>
       <categoryId>30</categoryId>
-      <price>1645</price>
+      <price>1570</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Поличка в душову SS8488-кутова Подвійна НЕРЖ-SUS304-(200*200*425мм)-(Globus Lux)</name>
@@ -9323,7 +9323,7 @@
     <offer id="18165" available="false">
       <vendorCode>000018165</vendorCode>
       <categoryId>30</categoryId>
-      <price>667</price>
+      <price>645</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Поличка кутова Globus Lux SS 8499</name>
@@ -9343,7 +9343,7 @@
     <offer id="18166" available="false">
       <vendorCode>000018166</vendorCode>
       <categoryId>30</categoryId>
-      <price>2550</price>
+      <price>2440</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Поличка в душову SS8477-кутова Потрійна НЕРЖ-SUS304-(200*200*600мм)-(Globus Lux)</name>
@@ -10362,7 +10362,7 @@
     <offer id="19179" available="false">
       <vendorCode>000019179</vendorCode>
       <categoryId>11</categoryId>
-      <price>895</price>
+      <price>940</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux ALPEN SUS-203SN</name>
@@ -10414,7 +10414,7 @@
     <offer id="19181" available="true">
       <vendorCode>000019181</vendorCode>
       <categoryId>11</categoryId>
-      <price>1095</price>
+      <price>1155</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux ALPEN SUS-203SG</name>
@@ -10440,7 +10440,7 @@
     <offer id="19182" available="true">
       <vendorCode>000019182</vendorCode>
       <categoryId>11</categoryId>
-      <price>760</price>
+      <price>790</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для умивальника Globus Lux ALPEN SBT1-101S</name>
@@ -13523,7 +13523,7 @@
     <offer id="20057" available="true">
       <vendorCode>000020057</vendorCode>
       <categoryId>11</categoryId>
-      <price>1100</price>
+      <price>1155</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux WIEN SUS2-203SB</name>
@@ -13549,7 +13549,7 @@
     <offer id="20058" available="false">
       <vendorCode>000020058</vendorCode>
       <categoryId>11</categoryId>
-      <price>1100</price>
+      <price>1155</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux WIEN SUS2-203SW</name>
@@ -13574,7 +13574,7 @@
     <offer id="20059" available="false">
       <vendorCode>000020059</vendorCode>
       <categoryId>11</categoryId>
-      <price>1100</price>
+      <price>1155</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux WIEN SUS2-203SBR</name>
@@ -14544,7 +14544,7 @@
     <offer id="20414" available="true">
       <vendorCode>000020414</vendorCode>
       <categoryId>11</categoryId>
-      <price>1690</price>
+      <price>1745</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для ванни Globus Lux ALPEN SUS-208</name>
@@ -15409,7 +15409,7 @@
     <offer id="20878" available="false">
       <vendorCode>000020878</vendorCode>
       <categoryId>11</categoryId>
-      <price>2120</price>
+      <price>2230</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для ванни Globus Lux RING SR-208 EURO, вилив 350мм,НЕРЖ._Комплект</name>
@@ -16103,7 +16103,7 @@
     <offer id="21170" available="true">
       <vendorCode>000021170</vendorCode>
       <categoryId>11</categoryId>
-      <price>1250</price>
+      <price>1415</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для умивальника Globus Lux SICILIA SBQ-201-BB</name>
@@ -16286,7 +16286,7 @@
     <offer id="21187" available="true">
       <vendorCode>000021187</vendorCode>
       <categoryId>44</categoryId>
-      <price>5960</price>
+      <price>6275</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Душова система Globus Lux SICILIA VAN-SBQ-SH-04-BB</name>
@@ -16313,7 +16313,7 @@
     <offer id="21188" available="false">
       <vendorCode>000021188</vendorCode>
       <categoryId>44</categoryId>
-      <price>5445</price>
+      <price>5595</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Душова система Globus Lux SICILIA SBQ-SH-125-BB</name>
@@ -20238,14 +20238,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.006000</param>
     </offer>
-    <offer id="22145" available="false">
+    <offer id="22145" available="true">
       <vendorCode>000022145</vendorCode>
       <categoryId>11</categoryId>
       <price>2050</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux LAZER GLLR-0203SB-10-BB</name>
-      <stock_quantity>0</stock_quantity>
+      <stock_quantity>3</stock_quantity>
       <description><![CDATA[Змішувач для кухні Globus Lux LAZER GLLR-0203SB-10-BB<br><br>Країна-виробник товару: Китай<br>Вид монтажу: Врізний<br>Вид змішувача: Одноважільний<br>Габарити (ВхГ): 36,5 х 24 см<br>Тип виливу: Поворотний, 360°<br>Довжина виливу: 20 см<br>Підключення до водопроводу<br>Матеріал: Латунь<br>Колір виробу: Чорний <br>Додаткові характеристики:<br>- Монтаж на один отвір<br>- Металевий, бічний важіль<br>- Система швидкого монтажу<br>Вага в упаковці: 1,86 кг<br>Вага: 1,3 кг<br>Габарити упаковки (ВхШхГ): 38х21х6.5 см<br><br>Комплектація:<br>- Змішувач латунний<br>- Шланг М10*1/2″-2шт<br>- Кріплення для змішувача - гайка<br><br>Країна реєстрації бренду: Україна<br>Гарантія: 12 місяців офіційної гарантії від виробника.]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/22145/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/22145/2.jpeg</picture>
@@ -20269,7 +20269,7 @@
     <offer id="22204" available="false">
       <vendorCode>000022204</vendorCode>
       <categoryId>30</categoryId>
-      <price>633</price>
+      <price>606</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Полиця одинарна Globus Lux SQ9499</name>
@@ -21660,7 +21660,7 @@
     <offer id="22607" available="true">
       <vendorCode>000022607</vendorCode>
       <categoryId>11</categoryId>
-      <price>2375</price>
+      <price>2520</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для ванни Globus Lux Sorento SQ-208HR-Лійка SUS304. Квадро,L- 350мм, Нержавійка, Комплект</name>
@@ -21745,7 +21745,7 @@
     <offer id="22613" available="true">
       <vendorCode>000022613</vendorCode>
       <categoryId>11</categoryId>
-      <price>1355</price>
+      <price>1430</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для умивальника Globus Lux Sorento SQ-101HR</name>
@@ -22872,7 +22872,7 @@
     <offer id="23174" available="true">
       <vendorCode>000023174</vendorCode>
       <categoryId>11</categoryId>
-      <price>1060</price>
+      <price>1085</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux ALPEN SBT1-203SB</name>
@@ -22899,7 +22899,7 @@
     <offer id="23175" available="true">
       <vendorCode>000023175</vendorCode>
       <categoryId>11</categoryId>
-      <price>1060</price>
+      <price>1085</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux ALPEN SBT1-203SG</name>
@@ -23591,7 +23591,7 @@
     <offer id="24612" available="true">
       <vendorCode>000024612</vendorCode>
       <categoryId>11</categoryId>
-      <price>1060</price>
+      <price>1085</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux ALPEN SBT1-203S-BEIGE</name>
@@ -23934,7 +23934,7 @@
     <offer id="24834" available="false">
       <vendorCode>000024834</vendorCode>
       <categoryId>11</categoryId>
-      <price>1705</price>
+      <price>1760</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для ванни Globus Lux WIEN SUS2-208</name>
@@ -24031,7 +24031,7 @@
     <offer id="24952" available="false">
       <vendorCode>000024952</vendorCode>
       <categoryId>44</categoryId>
-      <price>6395</price>
+      <price>6905</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Душова система Globus Lux SICILIA PLUS-SBQ-SH-02-BB</name>
@@ -24856,7 +24856,7 @@
     <offer id="25225" available="true">
       <vendorCode>000025225</vendorCode>
       <categoryId>11</categoryId>
-      <price>1135</price>
+      <price>1175</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux Alpen SBT1-203SA-B01</name>
@@ -24884,7 +24884,7 @@
     <offer id="25226" available="true">
       <vendorCode>000025226</vendorCode>
       <categoryId>11</categoryId>
-      <price>1135</price>
+      <price>1175</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux Alpen SBT1-203SA-G03</name>
@@ -24940,7 +24940,7 @@
     <offer id="25228" available="true">
       <vendorCode>000025228</vendorCode>
       <categoryId>11</categoryId>
-      <price>1135</price>
+      <price>1175</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux Alpen SBT1-203SA-K15</name>
@@ -24990,7 +24990,7 @@
     <offer id="25314" available="false">
       <vendorCode>000025314</vendorCode>
       <categoryId>11</categoryId>
-      <price>1095</price>
+      <price>1155</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux ALPEN SUS-203S-BG15</name>
@@ -25196,7 +25196,7 @@
     <offer id="25988" available="true">
       <vendorCode>000025988</vendorCode>
       <categoryId>11</categoryId>
-      <price>1245</price>
+      <price>1330</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux ALPEN SBT1-203SA-BB-B01</name>
@@ -25445,7 +25445,7 @@
     <offer id="26595" available="true">
       <vendorCode>000026595</vendorCode>
       <categoryId>11</categoryId>
-      <price>1340</price>
+      <price>1400</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux ALPEN SBT1-203SA-GP-B01</name>
@@ -25882,7 +25882,7 @@
     <offer id="27319" available="true">
       <vendorCode>000027319</vendorCode>
       <categoryId>11</categoryId>
-      <price>1330</price>
+      <price>1415</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для умивальника Globus Lux SICILIA SBQ-201HL</name>
@@ -26979,7 +26979,7 @@
     <offer id="27905" available="false">
       <vendorCode>000027905</vendorCode>
       <categoryId>11</categoryId>
-      <price>1060</price>
+      <price>1085</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux ALPEN SBT1-203S-BG15</name>
@@ -27223,7 +27223,7 @@
     <offer id="28461" available="true">
       <vendorCode>000028461</vendorCode>
       <categoryId>11</categoryId>
-      <price>1145</price>
+      <price>1190</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux WIEN SBT2-203SA-B01</name>
@@ -27252,7 +27252,7 @@
     <offer id="28463" available="true">
       <vendorCode>000028463</vendorCode>
       <categoryId>11</categoryId>
-      <price>1145</price>
+      <price>1190</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux WIEN SBT2-203SA-G03</name>
@@ -29009,7 +29009,7 @@
     <offer id="28930" available="false">
       <vendorCode>000028930</vendorCode>
       <categoryId>30</categoryId>
-      <price>394</price>
+      <price>378</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Поличка в душову Globus Lux SS1199</name>
@@ -29553,7 +29553,7 @@
     <offer id="29884" available="false">
       <vendorCode>000029884</vendorCode>
       <categoryId>44</categoryId>
-      <price>2570</price>
+      <price>2615</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Душова система Globus Lux ALPEN SBT1-0002</name>
@@ -29667,7 +29667,7 @@
     <offer id="30461" available="false">
       <vendorCode>000030461</vendorCode>
       <categoryId>11</categoryId>
-      <price>765</price>
+      <price>800</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux ALPEN SBT2-203S</name>
@@ -29696,7 +29696,7 @@
     <offer id="30462" available="false">
       <vendorCode>000030462</vendorCode>
       <categoryId>11</categoryId>
-      <price>765</price>
+      <price>800</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux ALPEN SBT2-203L</name>
