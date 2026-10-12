@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-12 07:46">
+<yml_catalog date="2026-10-12 08:46">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -18351,7 +18351,7 @@
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Змішувач для кухні TOPAZ CORSICA TC 8853-04-GR, Шланги TAQ-M1055</name>
-      <stock_quantity>5</stock_quantity>
+      <stock_quantity>3</stock_quantity>
       <description><![CDATA[Змішувач для кухні TOPAZ CORSICA-TC 8853-04-GR<br><br>Серія змішувачів TOPAZ дивує своєю вишуканістю форм, надійністю в експлуатації, витонченим дизайном.<br>У комплектацію входить:<br>Змішувач з латуні<br>Шланги для підключення води - 2 шт.-(TuCai) TAQ-M1055 M10×1-F1/2-55CM<br>Високий поворотний сірий гофрогусак<br>TC-35-Картридж керамічний короткий D35-TOPAZ<br>Якісна продукція TOPAZ прослужить Вам довгі роки<br><br>Габарити упаковки ВхГхШ: 45 х 24.5 х 6 см<br>Вага нетто: 1160 г<br>Вага брутто: 1360 г<br>Габарити (ШхВхГ): 50 х 340 х 240 мм]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/21542/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/21542/2.jpeg</picture>
@@ -18788,14 +18788,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.004000</param>
     </offer>
-    <offer id="21906" available="true">
+    <offer id="21906" available="false">
       <vendorCode>000021906</vendorCode>
       <categoryId>44</categoryId>
       <price>3910</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Душова система Globus Lux ALPEN SBT1-SQ-05-304</name>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Душова система ALPEN SBT1-SQ-05-304 GLOBUS LUX SUS304<br>Переваги душових систем Globus Lux:<br>Матеріал: харчова нержавіюча сталь SUS 304<br>наявність верхнього душа короткого типу,<br>«Ефект водоспаду»,<br>телескопічна душова штанга (регульована по висоті)<br>всі душі оснащені системою проти вапняних відкладень,<br>душовий шланг з посиленою обмоткою<br>Комплектація душової системи:<br>змішувач з нержавіючої сталі,<br>верхній душ <br>тримач для душа,<br>душова штанга,<br>кронштейн,<br>перемикаючий вентиль,<br>ручна лійка,<br>шланг душовий]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/21906/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/21906/2.jpeg</picture>
