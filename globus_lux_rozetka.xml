@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-13 14:46">
+<yml_catalog date="2026-10-13 15:46">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -170,7 +170,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Мильниця Globus Lux RM 1201</name>
-      <stock_quantity>5</stock_quantity>
+      <stock_quantity>6</stock_quantity>
       <description><![CDATA[RM 1201 Мильниця скляна матова Globus Lux<br>Кріплення - Шурупи<br>Тип установки - Настінний (підвісний)<br>Комплектація:<br>- Монтажні елементи<br>- Мильниця<br>Габарити (ШхВ): 11.5 х 13.5 см<br>Вага - 0.315 кг<br>Гарантія - 12 місяців офіційної гарантії від виробника]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/1144/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/1144/2.jpeg</picture>
@@ -8451,7 +8451,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Душова лійка Globus Lux NSD-0007-1-LUX Blister</name>
-      <stock_quantity>6</stock_quantity>
+      <stock_quantity>4</stock_quantity>
       <description><![CDATA[Душова лійка Globus Lux NSD-0007-1-LUX упаковка Blister<br>Матеріал - Пластик<br>Колір - Хром/блакитний<br>Кількість типів струї - 1<br>Розмір ручної лійки (В х Ш) - 8 см х 6 см<br>Вага - 0.1 кг<br>Країна виробник - Китай]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/17579/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/17579/2.jpeg</picture>
@@ -14842,14 +14842,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.001000</param>
     </offer>
-    <offer id="20788" available="true">
+    <offer id="20788" available="false">
       <vendorCode>000020788</vendorCode>
       <categoryId>59</categoryId>
       <price>184</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Душова лійка Globus Lux NS-080-P</name>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Душова лійка Globus Lux NSF-080-P<br>Матеріал - Пластик<br>Колір - Хром /блакитний<br>Кількість типів струї - 3 з функцією СТОП<br>Діаметр ручної лійки - 10 см<br>Вага - 0.14 кг<br>Країна виробник - Китай]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/20788/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/20788/2.jpeg</picture>
