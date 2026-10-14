@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-14 06:46">
+<yml_catalog date="2026-10-14 08:46">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -793,7 +793,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Душова лійка Globus Lux HY-1227-LUX Blister</name>
-      <stock_quantity>10</stock_quantity>
+      <stock_quantity>9</stock_quantity>
       <description><![CDATA[Душова лійка Globus Lux HY1227 упаковка Blister<br>Матеріал - Пластик<br>Колір - Хром/сірий<br>Кількість типів струї - 3<br>Діаметр ручної лійки - 8<br>Вага - 0.11 кг<br>Країна виробник - Китай]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/5999/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/5999/2.jpeg</picture>
