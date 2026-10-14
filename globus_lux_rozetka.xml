@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-14 11:46">
+<yml_catalog date="2026-10-14 13:46">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -1801,7 +1801,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux Solly GLSO-0103S</name>
-      <stock_quantity>4</stock_quantity>
+      <stock_quantity>3</stock_quantity>
       <description><![CDATA[Змішувач SOLLY GLSO-0103S Globus Lux для кухні з бічною ручкою<br><br>Переваги змішувачів Globus Lux:<br>1 Довговічність і безвідмовність в експлуатації<br>2 Елегантність форм, міцність і надійність<br>3 Висока функціональність<br>4 Використання якісних екологічно чистих матеріалів<br>5 Інноваційні технології виробництва<br>6 Корпус виготовлений з латуні з вмістом міді не менше 70%<br><br>Комплектація:<br>Змішувач латунний<br>Шланг М10 * 1 / 2″-2шт<br>Кріплення для змішувача ″шпилька″]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/9287/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/9287/2.jpeg</picture>
@@ -4004,7 +4004,7 @@
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Змішувач для кухні TOPAZ BARTS TB 07423-H36, Шланги TAQ-M1055</name>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>4</stock_quantity>
       <description><![CDATA[Змішувач для кухні TOPAZ BARTS-TB 07423-H36<br><br>Серія змішувачів TOPAZ дивує своєю вишуканістю форм, надійністю в експлуатації, витонченим дизайном.<br>У комплектацію входить:<br>Змішувач з латуні<br>Шланги для підключення води - 2 шт.-(TuCai) TAQ-M1055 M10×1-F1/2-55CM<br>Високий поворотний гусак<br>Картридж-TC-35-Картридж керамічний короткий D35-TOPAZ<br>Якісна продукція TOPAZ прослужить Вам довгі роки]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/13600/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/13600/2.jpeg</picture>
@@ -4402,7 +4402,7 @@
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Шланг для душу TOPAZ TSH-6004-200 хром 200см посилений рухома гайка, Blister</name>
-      <stock_quantity>50</stock_quantity>
+      <stock_quantity>10</stock_quantity>
       <description><![CDATA[Шланг для душу TOPAZ TSH-6004-200 хром 200см посилений рухома гайка, Blister<br>Довжина - 200 см<br>Підключення - 1/2″ x 1/2″<br>Особливості:<br>- Тиск 0,7 Mpa<br>- Обертання 360 °<br>- Нержавіюча сталь<br>- Антибактеріальне покриття<br>Матеріал - нержавіюча сталь / EPDM<br>Колір - Хром<br>Вага - 0.46 кг<br>Виробник - Польща]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/14259/1.jpeg</picture>
       <param name="Країна походження"></param>
@@ -10254,14 +10254,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.005000</param>
     </offer>
-    <offer id="18560" available="true">
+    <offer id="18560" available="false">
       <vendorCode>000018560</vendorCode>
       <categoryId>59</categoryId>
       <price>533</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Душова лійка Globus Lux ST-0200-Q</name>
-      <stock_quantity>6</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Душова лійка Globus Lux ST-0200-Q SUS304<br>Верхня лійка ″тропік″ призначена для душових систем.<br>Діаметр: 200х200мм<br>Колір: нержавіюча сталь<br>Матеріал: Харчова сталь SUS304.]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/18560/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/18560/2.jpeg</picture>
@@ -18344,14 +18344,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.008000</param>
     </offer>
-    <offer id="21542" available="true">
+    <offer id="21542" available="false">
       <vendorCode>000021542</vendorCode>
       <categoryId>11</categoryId>
       <price>2490</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Змішувач для кухні TOPAZ CORSICA TC 8853-04-GR, Шланги TAQ-M1055</name>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Змішувач для кухні TOPAZ CORSICA-TC 8853-04-GR<br><br>Серія змішувачів TOPAZ дивує своєю вишуканістю форм, надійністю в експлуатації, витонченим дизайном.<br>У комплектацію входить:<br>Змішувач з латуні<br>Шланги для підключення води - 2 шт.-(TuCai) TAQ-M1055 M10×1-F1/2-55CM<br>Високий поворотний сірий гофрогусак<br>TC-35-Картридж керамічний короткий D35-TOPAZ<br>Якісна продукція TOPAZ прослужить Вам довгі роки<br><br>Габарити упаковки ВхГхШ: 45 х 24.5 х 6 см<br>Вага нетто: 1160 г<br>Вага брутто: 1360 г<br>Габарити (ШхВхГ): 50 х 340 х 240 мм]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/21542/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/21542/2.jpeg</picture>
