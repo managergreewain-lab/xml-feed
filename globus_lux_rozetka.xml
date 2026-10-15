@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-15 11:46">
+<yml_catalog date="2026-10-15 13:46">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -3148,7 +3148,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Душова лійка Globus Lux STQ-0200 ТРОПИК St/ STEEL Polish</name>
-      <stock_quantity>10</stock_quantity>
+      <stock_quantity>7</stock_quantity>
       <description><![CDATA[Лійка душова ТРОПИК Globus Lux STQ-0200<br>Форма - Квадратна 20 х 20 см<br>Верхній душ з кульовим шарніром, кут повороту ± 20 °<br>Матеріал - нержавіюча сталь SUS304 Полірована<br>Колір - Нержавіюча сталь полірована<br>Вага - 0.885 кг<br>Країна виробник - Китай<br>Гарантія виробника - 12 місяців]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/11822/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/11822/2.jpeg</picture>
@@ -7135,7 +7135,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Душова гігієнічна стоп-лійка Globus Lux S-177</name>
-      <stock_quantity>9</stock_quantity>
+      <stock_quantity>8</stock_quantity>
       <description><![CDATA[Гігієнічна стоп-лійка Globus Lux S 177 SUS<br>Матеріал - латунь<br>Колір - Хром<br>Кількість режимів - 1<br>Країна виробник - Китай<br>Вага лейкі- 0.2 кг<br>Вага в упаковці - 0.22 кг<br>Габарити упаковки (ВхШхГ) - 15 х 7 х 3.5 см]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/16263/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/16263/2.jpeg</picture>
@@ -15604,7 +15604,7 @@
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Змішувач гігієнічний TOPAZ LEXI TL 21106-H57</name>
-      <stock_quantity>8</stock_quantity>
+      <stock_quantity>7</stock_quantity>
       <description><![CDATA[Змішувач гігієнічний TOPAZ LEXI TL 21106-H57 , моноблок, вбудований<br>Серія змішувачів TOPAZ дивує своєю вишуканістю форм, надійністю в експлуатації, витонченим дизайном.<br>У комплектацію входить:<br>Змішувач з латуні з кріпленням для лійки<br>Душовий шланг<br>Стоп-лійка<br>Картридж-TC-25-Картридж керамічний короткий D25-TOPAZ<br>Якісна продукція TOPAZ прослужить Вам довгі роки]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/20989/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/20989/2.jpeg</picture>
