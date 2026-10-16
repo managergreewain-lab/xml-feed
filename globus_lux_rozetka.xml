@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-16 07:46">
+<yml_catalog date="2026-10-16 09:46">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -4386,7 +4386,7 @@
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Шланг для душу TOPAZ TSH-6004-175 хром 175см посилений рухома гайка, Blister</name>
-      <stock_quantity>50</stock_quantity>
+      <stock_quantity>10</stock_quantity>
       <description><![CDATA[Шланг душовий Topaz TSH-6004-1.75 м<br>Довжина - 175 см<br>Підключення - 1/2″ x 1/2″<br>особливості:<br>- Тиск 0,7 Mpa<br>- Обертання 360 °<br>- Нержавіюча сталь<br>- Антибактеріальне покриття<br>Матеріал - нержавіюча сталь / EPDM<br>Колір - Хром<br>Вага - 0.405 кг<br>Виробник - Польща]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/14258/1.jpeg</picture>
       <param name="Країна походження"></param>
@@ -7135,7 +7135,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Душова гігієнічна стоп-лійка Globus Lux S-177</name>
-      <stock_quantity>8</stock_quantity>
+      <stock_quantity>6</stock_quantity>
       <description><![CDATA[Гігієнічна стоп-лійка Globus Lux S 177 SUS<br>Матеріал - латунь<br>Колір - Хром<br>Кількість режимів - 1<br>Країна виробник - Китай<br>Вага лейкі- 0.2 кг<br>Вага в упаковці - 0.22 кг<br>Габарити упаковки (ВхШхГ) - 15 х 7 х 3.5 см]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/16263/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/16263/2.jpeg</picture>
@@ -14775,7 +14775,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Душова лійка Globus Lux NS-1061-P для витяжного кухонного змішувача</name>
-      <stock_quantity>9</stock_quantity>
+      <stock_quantity>6</stock_quantity>
       <description><![CDATA[Лійка для кухонного змішувача, витяжна HY-1061-P<br>Матеріал - Пластик<br>Колір - Хром / чорний (зелені пупиришки)<br>Кількість типів струї - 2<br>Діаметр ручної лійки - 4.5 см<br>Вага - 0.12 кг<br>Країна виробник - Китай]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/20784/1.jpeg</picture>
       <param name="Країна походження">Китай</param>
