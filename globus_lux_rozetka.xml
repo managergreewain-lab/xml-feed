@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-19 02:46">
+<yml_catalog date="2026-10-19 05:46">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -6940,7 +6940,7 @@
     <offer id="16103" available="true">
       <vendorCode>000016103</vendorCode>
       <categoryId>62</categoryId>
-      <price>203</price>
+      <price>200</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Шланг душовий Globus Lux SUS-002S-150- в упаковці NH</name>
@@ -14402,7 +14402,7 @@
     <offer id="20404" available="true">
       <vendorCode>000020404</vendorCode>
       <categoryId>62</categoryId>
-      <price>122</price>
+      <price>121</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Шланг душовий Globus Lux NH-039-150 Double-Lock</name>
@@ -14419,7 +14419,7 @@
     <offer id="20405" available="true">
       <vendorCode>000020405</vendorCode>
       <categoryId>62</categoryId>
-      <price>140</price>
+      <price>139</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Шланг душовий Globus Lux NH-039-175 Double-Lock</name>
@@ -19089,7 +19089,7 @@
     <offer id="21932" available="true">
       <vendorCode>000021932</vendorCode>
       <categoryId>62</categoryId>
-      <price>162</price>
+      <price>160</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Шланг душовий Globus Lux NH-05N-150-200</name>
@@ -19105,7 +19105,7 @@
     <offer id="21934" available="true">
       <vendorCode>000021934</vendorCode>
       <categoryId>62</categoryId>
-      <price>197</price>
+      <price>204</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Шланг душовий Globus Lux NH-04D-150-200</name>
@@ -19659,7 +19659,7 @@
     <offer id="22001" available="false">
       <vendorCode>000022001</vendorCode>
       <categoryId>11</categoryId>
-      <price>920</price>
+      <price>990</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux MAIN SM-203</name>
@@ -19685,7 +19685,7 @@
     <offer id="22002" available="true">
       <vendorCode>000022002</vendorCode>
       <categoryId>11</categoryId>
-      <price>910</price>
+      <price>975</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для умивальника Globus Lux MAIN SM-203M</name>
@@ -22220,7 +22220,7 @@
     <offer id="22963" available="true">
       <vendorCode>000022963</vendorCode>
       <categoryId>11</categoryId>
-      <price>1210</price>
+      <price>1270</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для умивальника Globus Lux DUKAT SD4-101RS</name>
@@ -22248,7 +22248,7 @@
     <offer id="22967" available="false">
       <vendorCode>000022967</vendorCode>
       <categoryId>11</categoryId>
-      <price>1950</price>
+      <price>1990</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для ванни Globus Lux DUKAT SD4-108</name>
@@ -22277,7 +22277,7 @@
     <offer id="22968" available="false">
       <vendorCode>000022968</vendorCode>
       <categoryId>11</categoryId>
-      <price>1315</price>
+      <price>1475</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для душу Globus Lux DUKAT SD4-105</name>
@@ -24140,7 +24140,7 @@
     <offer id="24961" available="false">
       <vendorCode>000024961</vendorCode>
       <categoryId>11</categoryId>
-      <price>2355</price>
+      <price>2425</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для ванни Globus Lux DUKAT SD4-208</name>
