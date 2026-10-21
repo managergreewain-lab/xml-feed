@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-21 11:46">
+<yml_catalog date="2026-10-21 13:46">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -6820,14 +6820,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.007000</param>
     </offer>
-    <offer id="16095" available="true">
+    <offer id="16095" available="false">
       <vendorCode>000016095</vendorCode>
       <categoryId>11</categoryId>
       <price>920</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для умивальника Globus Lux MAIN SM-101</name>
-      <stock_quantity>6</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Змішувач для умивальника Globus Lux SM-101 SUS304<br>Характеристики:<br>Призначення - Для умивальника<br>Вид монтажу - Врізний<br>Вид змішувача - Одноважільний<br>Довжина виливу - 10.8 см<br>Висота 10.5 см<br>Тип виливу - Стаціонарний<br>Комплектація:<br>- змішувач з харчової нержавіючої сталі<br>- Шланги для змішувача Globus Lux  М10х1/2″ 0,5м. АНТИКОРОЗІЯ (  ПАРА)<br>- кріплення для змішувача - гайка з нержавійки<br>Термостат - Ні<br>Додаткові характеристики:<br>- Керамічний картридж<br>- Металевий важіль<br>- Швидкий монтаж<br>Спосіб монтажу - на 1 отвір<br>Матеріал - нержавіюча сталь<br>Колір - Нержавіюча сталь<br>Діаметр підключення шлангів 1/2 ″<br>Вага в упаковці - 1.39 кг<br>Вага - 0.98 кг<br>Країна виробник товару - Китай<br>Гарантія - 12 місяців офіційної гарантії від виробника.]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/16095/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/16095/2.jpeg</picture>
@@ -8725,7 +8725,7 @@
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Змішувач гігієнічний TOPAZ ODISS TO 18106-H52</name>
-      <stock_quantity>8</stock_quantity>
+      <stock_quantity>7</stock_quantity>
       <description><![CDATA[Змішувач гігієнічний TOPAZ ODISS-TO 18106-H52, моноблок, вбудований<br>Серія змішувачів TOPAZ дивує своєю вишуканістю форм, надійністю в експлуатації, витонченим дизайном.<br>У комплектацію входить:<br>Змішувач з латуні з кріпленням для лійки<br>Душовий шланг<br>Стоп-лійка<br>Картридж-TC-25-Картридж керамічний короткий D25-TOPAZ<br>Якісна продукція TOPAZ прослужить Вам довгі роки<br><br>Габарити упаковки ВхГхШ: 21 х 15 х 10,5 см<br>Вага нетто: 1480г<br>Вага брутто: 1760г]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/18039/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/18039/2.jpeg</picture>
@@ -26652,14 +26652,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.014000</param>
     </offer>
-    <offer id="27559" available="true">
+    <offer id="27559" available="false">
       <vendorCode>000027559</vendorCode>
       <categoryId>11</categoryId>
       <price>845</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Кран для зворотнього осмосу Globus Lux ALPEN SBT1-76A-00</name>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Кран для зворотного осмосу Globus Lux ALPEN SBT1-76A-00 SUS304 <br>Додатковий важіль на мінералізатор<br>Вид монтажу: Врізний<br>Вид змішувача: Одноважільний<br>Тип виливу: Поворотний<br>Підключення до осмосу<br>Матеріал: Нержавіюча сталь<br>Колір виробу: Чорний<br>Додаткові характеристики:<br>- Монтаж на один отвір<br>- Металевий, бічний важіль<br>- Система швидкого монтажу<br>Комплектація:<br>- Змішувач<br>- Квик-фітінг -2 шт<br>- Кріплення для змішувача - гайка з пластика<br>Країна-виробник товару: Китай<br>Картридж SC-0055MB-  для монокрана,55M , 76A, латунь<br>Гарантія: 12 місяців офіційної гарантії від виробника.<br>Габарити упаковки:<br>ВхШхГ: 5х35х19см<br>Вага нетто: 0,45 кг<br>Вага брутто: 0,6 кг]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/27559/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/27559/2.jpeg</picture>
@@ -29927,7 +29927,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для умивальника Globus Lux Solly GLSO-0401HL</name>
-      <stock_quantity>10</stock_quantity>
+      <stock_quantity>9</stock_quantity>
       <description><![CDATA[Змішувач для умивальника Globus Lux Solly GLSO-0401HL латунь на гайці<br><br>Переваги змішувачів Globus Lux:<br>1 Довговічність і безвідмовність в експлуатації<br>2 Елегантність форм, міцність і надійність<br>3 Висока функціональність<br>4 Використання якісних екологічно чистих матеріалів<br>5 Інноваційні технології виробництва<br>6 Корпус виготовлений з латуні з вмістом міді не менше 70%<br><br>Комплектація:<br>Змішувач латунний<br>Шланг М10 * 1 / 2″-2шт<br>Кріплення для змішувача -гайка]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/30816/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/30816/2.jpeg</picture>
