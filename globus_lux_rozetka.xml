@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-22 03:46">
+<yml_catalog date="2026-10-22 04:46">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -3975,7 +3975,7 @@
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Змішувач для умивальника TOPAZ BARTS TB 07203-H36 високий H-305мм ,на гайці,шланги TAQ-M1055,D35</name>
-      <stock_quantity>7</stock_quantity>
+      <stock_quantity>8</stock_quantity>
       <description><![CDATA[Змішувач для умивальника TOPAZ BARTS TB 07203-H36 високий H-305мм ,на гайці,шланги TAQ-M1055,D35<br><br>Серія змішувачів TOPAZ дивує своєю вишуканістю форм, надійністю в експлуатації, витонченим дизайном.<br>У комплектацію входить:<br>Змішувач з латуні<br>Шланги для підключення води - 2 шт.-(TuCai) TAQ-M1055 M10×1-F1/2-55CM<br><br>Кріплення - гайка<br>Картридж M FX-35GS(JT)-S -Картридж керамічний для змішувача короткий D35-TOPAZ<br>Або аналог (АНАЛОГ--SC-SM-101/201-Cartridge for SM-101-SUS-Картридж 35 мм)<br><br>Якісна продукція TOPAZ прослужить Вам довгі роки]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/13599/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/13599/2.jpeg</picture>
@@ -4527,14 +4527,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.008000</param>
     </offer>
-    <offer id="14748" available="false">
+    <offer id="14748" available="true">
       <vendorCode>000014748</vendorCode>
       <categoryId>44</categoryId>
       <price>6865</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Душова система вбудована TOPAZ SARDINIA TSG 08205-G-H20</name>
-      <stock_quantity>0</stock_quantity>
+      <stock_quantity>3</stock_quantity>
       <description><![CDATA[Душова система вбудована TOPAZ SARDINIA-TSG 08205-G-H20, вбудований, душовий комплект<br>Серія змішувачів TOPAZ дивує своєю вишуканістю форм, надійністю в експлуатації, витонченим дизайном.<br>У комплектацію входить:<br>Змішувач з латуні вбудований<br>Душова штанга для верхньої лійки, монтаж зі стіни<br>Душова лійка верхня<br>Душова лійка ручна<br>Кріплення для ручної лійки з виходом під шланг<br>Шланг для душу<br>Картридж-TC-35-Картридж керамічний короткий D35-TOPAZ<br>Якісна продукція TOPAZ прослужить Вам довгі роки]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/14748/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/14748/2.jpeg</picture>
@@ -5065,7 +5065,7 @@
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Змішувач гігієнічний TOPAZ SARDINIA TS-G 08735-H20</name>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>4</stock_quantity>
       <description><![CDATA[Змішувач гігієнічний TOPAZ SARDINIA-TS-G 08735-H20 вбудований<br>Серія змішувачів TOPAZ дивує своєю вишуканістю форм, надійністю в експлуатації, витонченим дизайном.<br>У комплектацію входить:<br>Змішувач з латуні<br>Кріплення для лійки з виходом під шланг<br>Душовий шланг<br>Стоп-лійка<br>Картридж-TC-35-Картридж керамічний короткий D35-TOPAZ<br>Якісна продукція TOPAZ прослужить Вам довгі роки]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/14775/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/14775/2.jpeg</picture>
@@ -8725,7 +8725,7 @@
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Змішувач гігієнічний TOPAZ ODISS TO 18106-H52</name>
-      <stock_quantity>7</stock_quantity>
+      <stock_quantity>8</stock_quantity>
       <description><![CDATA[Змішувач гігієнічний TOPAZ ODISS-TO 18106-H52, моноблок, вбудований<br>Серія змішувачів TOPAZ дивує своєю вишуканістю форм, надійністю в експлуатації, витонченим дизайном.<br>У комплектацію входить:<br>Змішувач з латуні з кріпленням для лійки<br>Душовий шланг<br>Стоп-лійка<br>Картридж-TC-25-Картридж керамічний короткий D25-TOPAZ<br>Якісна продукція TOPAZ прослужить Вам довгі роки<br><br>Габарити упаковки ВхГхШ: 21 х 15 х 10,5 см<br>Вага нетто: 1480г<br>Вага брутто: 1760г]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/18039/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/18039/2.jpeg</picture>
@@ -15604,7 +15604,7 @@
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Змішувач гігієнічний TOPAZ LEXI TL 21106-H57</name>
-      <stock_quantity>7</stock_quantity>
+      <stock_quantity>8</stock_quantity>
       <description><![CDATA[Змішувач гігієнічний TOPAZ LEXI TL 21106-H57 , моноблок, вбудований<br>Серія змішувачів TOPAZ дивує своєю вишуканістю форм, надійністю в експлуатації, витонченим дизайном.<br>У комплектацію входить:<br>Змішувач з латуні з кріпленням для лійки<br>Душовий шланг<br>Стоп-лійка<br>Картридж-TC-25-Картридж керамічний короткий D25-TOPAZ<br>Якісна продукція TOPAZ прослужить Вам довгі роки]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/20989/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/20989/2.jpeg</picture>
@@ -26298,14 +26298,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.006000</param>
     </offer>
-    <offer id="27418" available="false">
+    <offer id="27418" available="true">
       <vendorCode>000027418</vendorCode>
       <categoryId>44</categoryId>
       <price>9895</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Душова система вбудована TOPAZ ODISS TO-18205-H66</name>
-      <stock_quantity>0</stock_quantity>
+      <stock_quantity>3</stock_quantity>
       <description><![CDATA[Душова система вбудована TOPAZ ODISS TO-18205-H66 ручна та верхня лійки, горизонт.ХРОМ<br><br>Серія змішувачів TOPAZ дивує своєю вишуканістю форм, надійністю в експлуатації, витонченим дизайном.<br>У комплектацію входить:<br>Змішувач з латуні вбудований<br>Душова штанга для верхньої лійки, монтаж зі стіни<br>Душова лійка верхня нерж. 250*250мм<br>Душова лійка ручна латунь.<br>Кріплення для ручної лійки з виходом під шланг<br>Шланг для душу<br>Картридж-TC-35-Картридж керамічний короткий D35-TOPAZ<br><br>Якісна продукція TOPAZ прослужить Вам довгі роки]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/27418/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/27418/2.jpeg</picture>
@@ -28612,7 +28612,7 @@
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Душова система вбудована TOPAZ LOFT TLF 32205-H39-C</name>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>4</stock_quantity>
       <description><![CDATA[Душова система вбудована TOPAZ LOFT TLF 32205-H39, лійка ручна латунь,верхня нерж, горизонт.<br><br>Серія змішувачів TOPAZ дивує своєю вишуканістю форм, надійністю в експлуатації, витонченим дизайном.<br>У комплектацію входить:<br>Змішувач з латуні вбудований<br>Душова штанга для верхньої лійки, монтаж зі стіни<br>Душова лійка верхня <br>Душова лійка ручна <br>Кріплення для ручної лійки з виходом під шланг<br>Шланг для душу<br>-Картридж-TC-35-Картридж керамічний короткий D35-TOPAZ<br>-Картридж перемикач-XF-22(CX)<br>Якісна продукція TOPAZ прослужить Вам довгі роки]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/28883/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/28883/10.jpeg</picture>
