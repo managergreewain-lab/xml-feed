@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-27 09:46">
+<yml_catalog date="2026-10-27 10:46">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -1940,7 +1940,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для умивальника Globus Lux Solly GLSO-0203М латунь на гайці поворотній 15см</name>
-      <stock_quantity>6</stock_quantity>
+      <stock_quantity>10</stock_quantity>
       <description><![CDATA[Змішувач для раковини Globus Lux SOLLY GLSO-0203М поворотний виливши 15 см на гайці<br><br>Переваги змішувачів Globus Lux:<br>1 Довговічність і безвідмовність в експлуатації<br>2 Елегантність форм, міцність і надійність<br>3 Висока функціональність<br>4 Використання якісних екологічно чистих матеріалів<br>5 Інноваційні технології виробництва<br>6 Корпус виготовлений з латуні з вмістом міді не менше 70%<br><br>Комплектація:<br>Змішувач латунний<br>Шланг М10 * 1 / 2″-2шт<br>Кріплення для змішувача - гайка]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/9293/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/9293/2.jpeg</picture>
@@ -5229,7 +5229,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для душу Globus Lux Milano GLM-0105N</name>
-      <stock_quantity>7</stock_quantity>
+      <stock_quantity>8</stock_quantity>
       <description><![CDATA[Змішувач для душа Globus Lux MILANO GLM-105, душовий комплект<br><br>Переваги змішувачів Globus Lux:<br>1. Довговічність і безвідмовність в експлуатації<br>2. Елегантність форм, міцність і надійність<br>3. Висока функціональність<br>4. Використання якісних екологічно чистих матеріалів<br>5. Інноваційні технології виробництва<br>6. Корпус виготовлений з латуні з вмістом міді не менше 70%<br><br>Комплектація:<br>-змішувач латуний<br>-Тримач для душа,<br>-Ручна лійка,<br>-шланги душовий<br>-Ексцентрики для змішувачів настінного монтажу<br>-Декоративні чаші]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/14941/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/14941/2.jpeg</picture>
@@ -14416,14 +14416,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.001000</param>
     </offer>
-    <offer id="20405" available="true">
+    <offer id="20405" available="false">
       <vendorCode>000020405</vendorCode>
       <categoryId>62</categoryId>
       <price>142</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Шланг душовий Globus Lux NH-039-175 Double-Lock</name>
-      <stock_quantity>4</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Шланг душовою Globus Lux NH-039-175 Double-Lock<br>Довжина - 175 см<br>Підключення - 1/2 ″x 1/2″<br>Матеріал - Метал / EPDM<br>Колір - хром<br>Виробник - Китай]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/20405/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/20405/2.jpeg</picture>
@@ -29843,7 +29843,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для душу Globus Lux Dolly GLD-0105N</name>
-      <stock_quantity>4</stock_quantity>
+      <stock_quantity>5</stock_quantity>
       <description><![CDATA[Змішувач для душу Globus Lux Dolly GLSO-0105N латунь]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/30721/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/30721/2.jpeg</picture>
@@ -32198,7 +32198,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для душу Globus Lux Laguna GLA-0105N</name>
-      <stock_quantity>7</stock_quantity>
+      <stock_quantity>8</stock_quantity>
       <description><![CDATA[Змішувач для душу Globus Lux Laguna GLA-0105N вертикальний  латунь <br><br>Переваги змішувачів Globus Lux:<br>1 Довговічність та безвідмовність в експлуатації<br>2 Елегантність форм, міцність та надійність<br>3 Висока функціональність<br>4 Використання якісних екологічно чистих матеріалів<br>5 Інноваційні технології виробництва<br>6 Корпус виготовлений з латуні із вмістом міді не менше 70%<br><br>Комплектація:<br>Змішувач латунний<br>Шланг для душа<br>Ручна лійка<br>Кріплення для лійки<br>Декоративні чашки<br>Ексцентрики]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/32041/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/32041/2.jpeg</picture>
