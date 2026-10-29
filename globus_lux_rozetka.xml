@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-29 03:46">
+<yml_catalog date="2026-10-29 05:46">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -6340,14 +6340,14 @@
       <param name="Вага брутто (кг.)">1.200000</param>
       <param name="Об&apos;єм (м³)">0.003629</param>
     </offer>
-    <offer id="15429" available="true">
+    <offer id="15429" available="false">
       <vendorCode>000015429</vendorCode>
       <categoryId>11</categoryId>
       <price>1715</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для ванної  Globus Lux Dolly GLD-0102N</name>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Змішувач для ванної  Globus Lux Dolly GLD-0102N EURO латунь]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/15429/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/15429/2.jpeg</picture>
@@ -18551,7 +18551,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для ванної Globus Lux Dolly GLD-0208</name>
-      <stock_quantity>9</stock_quantity>
+      <stock_quantity>10</stock_quantity>
       <description><![CDATA[Змішувач для ванної Globus Lux Dolly GLD-0208 EURO латунь L350мм<br><br>Переваги змішувачів Globus Lux:<br>1 Довговічність і безвідмовність в експлуатації<br>2 Елегантність форм, міцність і надійність<br>3 Висока функціональність<br>4 Використання якісних екологічно чистих матеріалів<br>5 Інноваційні технології виробництва<br>6 Корпус виготовлений з латуні з вмістом міді не менше 70%<br><br>Комплектація:<br>Змішувач латунний<br>Тримач для душу<br>Ручна лійка<br>Шланг для  душу<br>Ексцентрики для змішувачів настінного монтажу<br>Декоративні чаші]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/21854/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/21854/2.jpeg</picture>
@@ -29836,14 +29836,14 @@
       <param name="Вага брутто (кг.)">1.200000</param>
       <param name="Об&apos;єм (м³)">0.004400</param>
     </offer>
-    <offer id="30721" available="false">
+    <offer id="30721" available="true">
       <vendorCode>000030721</vendorCode>
       <categoryId>11</categoryId>
       <price>1300</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для душу Globus Lux Dolly GLD-0105N</name>
-      <stock_quantity>0</stock_quantity>
+      <stock_quantity>4</stock_quantity>
       <description><![CDATA[Змішувач для душу Globus Lux Dolly GLSO-0105N латунь]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/30721/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/30721/2.jpeg</picture>
