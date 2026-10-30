@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-30 04:46">
+<yml_catalog date="2026-10-30 05:46">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -337,14 +337,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.001000</param>
     </offer>
-    <offer id="1682" available="false">
+    <offer id="1682" available="true">
       <vendorCode>000001682</vendorCode>
       <categoryId>11</categoryId>
       <price>1265</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для умивальника Globus Lux CLINIC GLCA-1011</name>
-      <stock_quantity>0</stock_quantity>
+      <stock_quantity>3</stock_quantity>
       <description><![CDATA[Змішувач для умивальника GCA-1011-CLINIC ліктьовий<br>Призначений для використання в медичних установах<br><br>Переваги змішувачів Globus Lux:<br>1. Довговічність і безвідмовність в експлуатації<br>2. Елегантність форм, міцність і надійність<br>3 Висока функціональність<br>4 .Використання якісних екологічно чистих матеріалів<br>5 .Інноваційні технології виробництва<br>6. Корпус виготовлений з латуні з вмістом міді не менше 70%<br><br>Комплектація:<br>Змішувач латунний<br>Шланг М10х1/2″ - 2 шт<br>Кріплення для змішувача ″шпильки″<br><br>Розмір упаковки ВхШхГ:8х13х25<br>Вага нетто: 0,86 кг<br>Вага брутто: 1,03 кг]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/1682/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/1682/2.jpeg</picture>
