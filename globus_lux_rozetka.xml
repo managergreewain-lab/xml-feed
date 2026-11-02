@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-02 13:46">
+<yml_catalog date="2026-11-02 15:46">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -4292,14 +4292,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.007000</param>
     </offer>
-    <offer id="14191" available="true">
+    <offer id="14191" available="false">
       <vendorCode>000014191</vendorCode>
       <categoryId>62</categoryId>
       <price>401</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Шланг душовий Globus Lux NH-111-SILVER-150</name>
-      <stock_quantity>5</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Шланг душовий Globus Lux NH-111<br>Довжина - 150 см<br>Підключення - 1/2″ x 1/2″<br>антибактеріальне покриття<br>Матеріал - силікон<br>Колір - хром<br>Вага - 0.315 кг<br>Виробник - Китай]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/14191/1.jpeg</picture>
       <param name="Країна походження">Китай</param>
@@ -12684,7 +12684,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Планка з гачками Globus Lux SQ 9435-4 SUS304</name>
-      <stock_quantity>10</stock_quantity>
+      <stock_quantity>8</stock_quantity>
       <description><![CDATA[Тримач для рушників Globus Lux SQ9435-4 з чотирма  гачками<br>Країна виробник товару - Китай<br>Тип товару - Аксесуари для ванної кімнати<br>Комплектація:<br>- Монтажні елементи<br>- Тримач для рушників <br>Тип установки - Настінний (підвісний)<br>Вид - Тримач для рушників <br>Кріплення - Шурупи<br>Матеріал виробу - нержавіюча сталь (SUS 304)<br>Колір виробу - нержавіюча сталь<br>Габарити упаковки (ВхШхГ): 16 х 17 х 6.8 см<br>Габарити (ШхВ): 7.1 х 16 см<br>Вага в упаковці - 0.2 кг<br>Вага - 0.135 кг<br>Гарантія - 12 місяців офіційної гарантії від виробника<br><br>Сантехніка ТМ «Globus Lux» - це німецька якість перевірена роками і завжди великий вибір продукції.<br>Компанія займається виробництвом: якісних змішувачів, душових систем і шлангів для душа а також різноманітних товарів для кухні і ванної кімнати. Сучасне високоточне обладнання, ретельний контроль якості, використання європейських комплектуючих, якісних матеріалів (латунь, нержавіюча сталь SUS 304) а також помірна ціна - все це разом дозволило компанії завоювати собі одне з провідних місць на світовому ринку.]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/19477/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/19477/2.jpeg</picture>
@@ -12745,7 +12745,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Тримач туалетного паперу Globus Lux SQ 9416  SUS304</name>
-      <stock_quantity>5</stock_quantity>
+      <stock_quantity>3</stock_quantity>
       <description><![CDATA[Тримач для туалетного паперу Globus Lux SQ9416<br>Країна виробник товару - Китай<br>Тип товару - Аксесуари для ванної кімнати<br>Місткість тримача (рулон / листи) - 1 шт<br>Кріплення - Шурупи<br>Тип установки - Настінний (підвісний)<br>Матеріал виробу - Нержавіюча сталь (SUS 304)<br>Колір виробу - Нержавіюча сталь<br>Комплектація:<br>- Монтажні елементи<br>- Закритий тримач<br>Габарити упаковки (ВхШхГ): 15.5 х 13.5 х 7.5 см<br>Габарити (ШхВ): 12 х 11 см<br>Вага в упаковці - 0.315 кг<br>Вага - 0.265 кг<br>Гарантія - 12 місяців офіційної гарантії від виробника]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/19480/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/19480/2.jpeg</picture>
@@ -13527,7 +13527,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux WIEN SUS2-203SB</name>
-      <stock_quantity>8</stock_quantity>
+      <stock_quantity>7</stock_quantity>
       <description><![CDATA[Змішувач для кухні Globus Lux WIEN SUS2-203SB, SUS304 чорний гофрогусак<br><br>Переваги моделей змішувачів Globus Lux з нержавійки:<br>1. Корпус моделей виготовлений з харчової нержавіючої сталі SUS304<br>2. Довговічність і безвідмовність в експлуатації<br>3. Елегантність форм, міцність і надійність<br>4. Висока функціональність<br>5. Використання якісних екологічно чистих матеріалів<br>6. Інноваційні технології виробництва<br><br>Комплектація:<br>Змішувач з нержавійки<br>Шланги для змішувача Globus Lux  М10х1/2″ 0,5м. АНТИКОРОЗІЯ (  ПАРА)<br>Кріплення для змішувача - гайка з нержавійки<br><br><br>Розмір упаковки ВхШхГ:5,5х23,5х43 см<br>Вага нетто: 1,55 кг<br>Вага брутто: 1,80 кг]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/20057/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/20057/2.jpeg</picture>
@@ -13553,7 +13553,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux WIEN SUS2-203SW</name>
-      <stock_quantity>10</stock_quantity>
+      <stock_quantity>9</stock_quantity>
       <description><![CDATA[Змішувач для кухні Globus Lux SUS-203SW, SUS304 білий гофрогусак<br><br>Переваги моделей змішувачів Globus Lux з нержавійки:<br>1. Корпус моделей виготовлений з харчової нержавіючої сталі SUS304<br>2. Довговічність і безвідмовність в експлуатації<br>3. Елегантність форм, міцність і надійність<br>4. Висока функціональність<br>5. Використання якісних екологічно чистих матеріалів<br>6. Інноваційні технології виробництва<br><br>Комплектація:<br>Змішувач з нержавійки<br>Шланги для змішувача Globus Lux  М10х1/2″ 0,5м. АНТИКОРОЗІЯ (  ПАРА)<br>Кріплення для змішувача - гайка з нержавійки]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/20058/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/20058/2.jpeg</picture>
@@ -13578,7 +13578,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux WIEN SUS2-203SBR</name>
-      <stock_quantity>7</stock_quantity>
+      <stock_quantity>6</stock_quantity>
       <description><![CDATA[Змішувач для кухні Globus Lux WIEN SUS2-203SBR SUS304 чорний гофрогусак<br><br>Переваги моделей змішувачів Globus Lux з нержавійки:<br>1. Корпус моделей виготовлений з харчової нержавіючої сталі SUS304<br>2. Довговічність і безвідмовність в експлуатації<br>3. Елегантність форм, міцність і надійність<br>4. Висока функціональність<br>5. Використання якісних екологічно чистих матеріалів<br>6. Інноваційні технології виробництва<br><br>Комплектація:<br>Змішувач з нержавійки<br>Шланги для змішувача Globus Lux  М10х1/2″ 0,5м. АНТИКОРОЗІЯ (  ПАРА)<br>Кріплення для змішувача - гайка з нержавійки]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/20059/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/20059/2.jpeg</picture>
@@ -18014,7 +18014,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Полка подвійна кутова Globus Lux SS8422</name>
-      <stock_quantity>8</stock_quantity>
+      <stock_quantity>6</stock_quantity>
       <description><![CDATA[Поличка подвійна кутова Globus Lux SS8422<br>Країна виробник товару - Китай<br>Тип товару - Аксесуари для ванної кімнати<br>Комплектація:<br>- Монтажні елементи<br>- Полиця<br>Тип установки - Настінний (підвісний)<br>Кріплення - Шурупи<br>Матеріал виробу - нержавіюча сталь (SUS 304)<br>Колір виробу - нержавіюча сталь<br>Габарити упаковки (ВхШхГ): 44 х 24 х 6 см<br>Габарити (ШхВ): 30.5 х 38.5 см<br>Вага в упаковці - 1.19 кг<br>Вага - 1.1 кг<br>Гарантія - 12 місяців офіційної гарантії від виробника]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/21391/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/21391/2.jpeg</picture>
@@ -18551,7 +18551,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для ванної Globus Lux Dolly GLD-0208</name>
-      <stock_quantity>10</stock_quantity>
+      <stock_quantity>9</stock_quantity>
       <description><![CDATA[Змішувач для ванної Globus Lux Dolly GLD-0208 EURO латунь L350мм<br><br>Переваги змішувачів Globus Lux:<br>1 Довговічність і безвідмовність в експлуатації<br>2 Елегантність форм, міцність і надійність<br>3 Висока функціональність<br>4 Використання якісних екологічно чистих матеріалів<br>5 Інноваційні технології виробництва<br>6 Корпус виготовлений з латуні з вмістом міді не менше 70%<br><br>Комплектація:<br>Змішувач латунний<br>Тримач для душу<br>Ручна лійка<br>Шланг для  душу<br>Ексцентрики для змішувачів настінного монтажу<br>Декоративні чаші]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/21854/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/21854/2.jpeg</picture>
