@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-09 09:46">
+<yml_catalog date="2026-11-09 10:46">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -6213,7 +6213,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Душова система Globus Lux ALPEN SBT1-SH-05</name>
-      <stock_quantity>5</stock_quantity>
+      <stock_quantity>4</stock_quantity>
       <description><![CDATA[Душова система ALPEN SBT1-SH-05 GLOBUS LUX SUS304<br>Переваги душових систем Globus Lux:<br>Матеріал: харчова нержавіюча сталь SUS 304<br>наявність верхнього душа короткого типу,<br>«Ефект водоспаду»,<br>телескопічна душова штанга (регульована по висоті)<br>всі душі оснащені системою проти вапняних відкладень,<br>душовий шланг з посиленою обмоткою<br>Комплектація душової системи:<br>змішувач з нержавіючої сталі,<br>верхній душ <br>тримач для душа,<br>душова штанга,<br>кронштейн,<br>перемикаючий вентиль,<br>ручна лійка,<br>шланг душовий]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/15056/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/15056/2.jpeg</picture>
@@ -6827,7 +6827,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для умивальника Globus Lux MAIN SM-101</name>
-      <stock_quantity>7</stock_quantity>
+      <stock_quantity>6</stock_quantity>
       <description><![CDATA[Змішувач для умивальника Globus Lux SM-101 SUS304<br>Характеристики:<br>Призначення - Для умивальника<br>Вид монтажу - Врізний<br>Вид змішувача - Одноважільний<br>Довжина виливу - 10.8 см<br>Висота 10.5 см<br>Тип виливу - Стаціонарний<br>Комплектація:<br>- змішувач з харчової нержавіючої сталі<br>- Шланги для змішувача Globus Lux  М10х1/2″ 0,5м. АНТИКОРОЗІЯ (  ПАРА)<br>- кріплення для змішувача - гайка з нержавійки<br>Термостат - Ні<br>Додаткові характеристики:<br>- Керамічний картридж<br>- Металевий важіль<br>- Швидкий монтаж<br>Спосіб монтажу - на 1 отвір<br>Матеріал - нержавіюча сталь<br>Колір - Нержавіюча сталь<br>Діаметр підключення шлангів 1/2 ″<br>Вага в упаковці - 1.39 кг<br>Вага - 0.98 кг<br>Країна виробник товару - Китай<br>Гарантія - 12 місяців офіційної гарантії від виробника.]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/16095/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/16095/2.jpeg</picture>
@@ -24090,7 +24090,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux ALPEN SBT1-203S-BB</name>
-      <stock_quantity>5</stock_quantity>
+      <stock_quantity>4</stock_quantity>
       <description><![CDATA[Змішувач для кухні Globus Lux ALPEN SBT1-203L-BB SUS304 Чорний матовий<br>Вид монтажу: Врізний<br>Вид змішувача: Одноважільний<br>Тип виливу: Поворотний<br>Підключення до водопроводу<br>Матеріал: Нержавіюча сталь<br>Колір виробу: Чорний<br>Додаткові характеристики:<br>- Монтаж на один отвір<br>- Металевий, бічний важіль<br>- Система швидкого монтажу<br>Комплектація:<br>- Змішувач<br>- Шланги для змішувача Globus Lux  М10х1/2″ 0,5м. АНТИКОРОЗІЯ (  ПАРА)<br>- Кріплення для змішувача - гайка <br>Країна-виробник товару: Китай<br>Гарантія: 12 місяців офіційної гарантії від виробника.]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/24954/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/24954/2.jpeg</picture>
@@ -24594,14 +24594,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.001000</param>
     </offer>
-    <offer id="25159" available="true">
+    <offer id="25159" available="false">
       <vendorCode>000025159</vendorCode>
       <categoryId>59</categoryId>
       <price>231</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Душова лійка Topaz NF-2205-00-GRAY</name>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Душова лійка Topaz NF-2205-00-GRAY<br>Матеріал - Пластик<br>Колір - Хром / Сірий<br>Кількість типів струї - 3<br>Діаметр ручної лійки - 12 см<br>Вага - 0.25 кг<br>Країна виробник - Китай<br><br>Душові лійки ТМ Topaz   — це довговічність, відома  якість, новітні технології та можливість створити зручну ванну кімнату.  Вони дозволять легко оновити вашу ванну кімнату і насолоджуватися душовими процедурами в новій якості.<br>Душові лійки ТМ Topaz відрізняються функціональністю та простотою застосування.  Матеріали, які використовуються для виробництва душових лійок мають  високу якість, що гарантуює надійну роботу протягом багатьох років.]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/25159/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/25159/2.jpeg</picture>
