@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-10 12:46">
+<yml_catalog date="2026-11-10 13:46">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -170,7 +170,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Мильниця Globus Lux RM 1201</name>
-      <stock_quantity>5</stock_quantity>
+      <stock_quantity>4</stock_quantity>
       <description><![CDATA[RM 1201 Мильниця скляна матова Globus Lux<br>Кріплення - Шурупи<br>Тип установки - Настінний (підвісний)<br>Комплектація:<br>- Монтажні елементи<br>- Мильниця<br>Габарити (ШхВ): 11.5 х 13.5 см<br>Вага - 0.315 кг<br>Гарантія - 12 місяців офіційної гарантії від виробника]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/1144/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/1144/2.jpeg</picture>
@@ -12180,14 +12180,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.010000</param>
     </offer>
-    <offer id="19294" available="false">
+    <offer id="19294" available="true">
       <vendorCode>000019294</vendorCode>
       <categoryId>11</categoryId>
       <price>2305</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Змішувач для умивальника TOPAZ SARDINIA TS 08201-H30</name>
-      <stock_quantity>0</stock_quantity>
+      <stock_quantity>3</stock_quantity>
       <description><![CDATA[Змішувач для умивальника TOPAZ SARDINIA-TS 08201-H30<br><br>Серія змішувачів TOPAZ дивує своєю вишуканістю форм, надійністю в експлуатації, витонченим дизайном.<br>У комплектацію входить:<br>Змішувач з латуні<br>Шланги для підключення води 45 см М8*1/2″<br>КартриджTC-25-Картридж керамічний короткий D25-TOPAZ<br>Колір:хром<br>Кріплення для змішувача - гайка<br>Якісна продукція TOPAZ прослужить Вам довгі роки<br><br>Габарити упаковки ВхГхШ: 32 х 18,5 х 5,5 см<br>Вага нетто: 970г<br>Вага брутто: 1120г]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/19294/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/19294/2.jpeg</picture>
@@ -12662,7 +12662,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Планка з гачками Globus Lux SQ 9435-3 SUS304</name>
-      <stock_quantity>7</stock_quantity>
+      <stock_quantity>5</stock_quantity>
       <description><![CDATA[Планка для рушників  Globus Lux SQ9435-3 з трьома гачками<br>Країна виробник товару - Китай<br>Тип товару - Аксесуари для ванної кімнати<br>Комплектація:<br>- Монтажні елементи<br>- Рушникотримач<br>Тип установки - Настінний (підвісний)<br>Вид - Полотенцедержатель<br>Кріплення - Шурупи<br>Матеріал виробу - нержавіюча сталь (SUS 304)<br>Колір виробу - нержавіюча сталь<br>Габарити упаковки (ВхШхГ): 16 х 17 х 6.8 см<br>Габарити (ШхВ): 8.5 х 22 см<br>Вага в упаковці - 0.2 кг<br>Вага - 0.135 кг<br>Гарантія - 12 місяців офіційної гарантії від виробника<br>Сантехніка ТМ «Globus Lux» - це німецька якість перевірена роками і завжди великий вибір продукції.<br>Компанія займається виробництвом: якісних змішувачів, душових систем і шлангів для душа а також різноманітних товарів для кухні і ванної кімнати. Сучасне високоточне обладнання, ретельний контроль якості, використання європейських комплектуючих, якісних матеріалів (латунь, нержавіюча сталь SUS 304) а також помірна ціна - все це разом дозволило компанії завоювати собі одне з провідних місць на світовому ринку.]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/19476/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/19476/2.jpeg</picture>
@@ -12684,7 +12684,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Планка з гачками Globus Lux SQ 9435-4 SUS304</name>
-      <stock_quantity>6</stock_quantity>
+      <stock_quantity>5</stock_quantity>
       <description><![CDATA[Тримач для рушників Globus Lux SQ9435-4 з чотирма  гачками<br>Країна виробник товару - Китай<br>Тип товару - Аксесуари для ванної кімнати<br>Комплектація:<br>- Монтажні елементи<br>- Тримач для рушників <br>Тип установки - Настінний (підвісний)<br>Вид - Тримач для рушників <br>Кріплення - Шурупи<br>Матеріал виробу - нержавіюча сталь (SUS 304)<br>Колір виробу - нержавіюча сталь<br>Габарити упаковки (ВхШхГ): 16 х 17 х 6.8 см<br>Габарити (ШхВ): 7.1 х 16 см<br>Вага в упаковці - 0.2 кг<br>Вага - 0.135 кг<br>Гарантія - 12 місяців офіційної гарантії від виробника<br><br>Сантехніка ТМ «Globus Lux» - це німецька якість перевірена роками і завжди великий вибір продукції.<br>Компанія займається виробництвом: якісних змішувачів, душових систем і шлангів для душа а також різноманітних товарів для кухні і ванної кімнати. Сучасне високоточне обладнання, ретельний контроль якості, використання європейських комплектуючих, якісних матеріалів (латунь, нержавіюча сталь SUS 304) а також помірна ціна - все це разом дозволило компанії завоювати собі одне з провідних місць на світовому ринку.]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/19477/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/19477/2.jpeg</picture>
@@ -17095,14 +17095,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.005000</param>
     </offer>
-    <offer id="21239" available="false">
+    <offer id="21239" available="true">
       <vendorCode>000021239</vendorCode>
       <categoryId>30</categoryId>
       <price>1260</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Йоржик настінний TOPAZ TКВ 9929A</name>
-      <stock_quantity>0</stock_quantity>
+      <stock_quantity>10</stock_quantity>
       <description><![CDATA[Йоржик настінний TOPAZ TКВ 9929A<br>Тип - Йоржики<br>Тип установки - Настінний (підвісний)<br>Матеріал виробу:<br>- Колба: скло<br>- Фурнітура і ручка: латунь<br>Колір виробу - Матове скло / Хром<br>Габарити упаковки ВхГхШ: 41х13.5х13.5 см<br>Вага нетто: 960р<br>Вага брутто: 1140г<br>Габарити (ШхВхГ): 92 х 350 х 120 мм<br>Гарантія - 12 місяців офіційної гарантії від виробника]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/21239/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/21239/2.jpeg</picture>
@@ -20781,7 +20781,7 @@
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Шланг для душу TOPAZ TSH-6114-SL 150см</name>
-      <stock_quantity>6</stock_quantity>
+      <stock_quantity>10</stock_quantity>
       <description><![CDATA[Шланг для душу TOPAZ TSH-6114-SL 150см<br>Довжина - 150 см<br>Підключення - 1/2″ x 1/2″<br>особливості:<br>- Тиск 0,7 Mpa<br>- Обертання 360 °<br>- Антибактеріальне покриття<br>Матеріал - силікон<br>Колір - срібний<br>Вага - 0.205 кг<br>Виробник - Польща]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/22522/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/22522/2.jpeg</picture>
@@ -20835,7 +20835,7 @@
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Душова стійка TOPAZ SARDINIA TS-08107-00</name>
-      <stock_quantity>8</stock_quantity>
+      <stock_quantity>10</stock_quantity>
       <description><![CDATA[Душова стійка TOPAZ SARDINIA TS-08107-00<br>Матеріал: пластик/метал<br>Покриття: хром]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/22526/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/22526/2.jpeg</picture>
@@ -25228,7 +25228,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Душова система Globus Lux Kubus SKU-SH-200</name>
-      <stock_quantity>4</stock_quantity>
+      <stock_quantity>9</stock_quantity>
       <description><![CDATA[Душова система SICILIA SKU-SH-200 GLOBUS LUX SUS304 з гусаком<br>Переваги душових систем Globus Lux:<br>Матеріал: харчова нержавіюча сталь SUS 304<br>наявність верхнього душа короткого типу,<br>«Ефект водоспаду»,<br>телескопічна душова штанга (регульована по висоті)<br>всі душі оснащені системою проти вапняних відкладень,<br>душовий шланг з посиленою обмоткою<br>Комплектація душової системи:<br>змішувач з нержавіючоії сталі<br>верхній душ 200 * 200 мм<br>тримач для душа,<br>душова штанга,<br>кронштейн,<br>перемикаючий вентиль,<br>ручна лійка,<br>шланг душовий]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/26216/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/26216/2.jpeg</picture>
