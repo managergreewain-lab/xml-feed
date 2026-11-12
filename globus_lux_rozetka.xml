@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-12 04:46">
+<yml_catalog date="2026-11-12 05:46">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -13300,14 +13300,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.075000</param>
     </offer>
-    <offer id="19563" available="false">
+    <offer id="19563" available="true">
       <vendorCode>000019563</vendorCode>
       <categoryId>11</categoryId>
       <price>3520</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Змішувач для умивальника TOPAZ BARTS TB 07206-H36</name>
-      <stock_quantity>0</stock_quantity>
+      <stock_quantity>3</stock_quantity>
       <description><![CDATA[Змішувач для умивальника гігієнічний TOPAZ BARTS TB 07206-H36<br><br>Серія змішувачів TOPAZ дивує своєю вишуканістю форм, надійністю в експлуатації, витонченим дизайном.<br>У комплектацію входить:<br>Змішувач з латуні<br>Шланги для підключення води M8<br>Кріплення - шпильки<br>Стоп-лійка<br>Шланг для стоп-лійки<br>Кріплення для стоп-лійки<br>Картридж-TC-35-Картридж керамічний короткий D35-TOPAZ<br><br>Якісна продукція TOPAZ прослужить Вам довгі роки<br><br>Вага нетто: 1,75 кг<br>Вага брутто: 1,93 кг<br>Розмір упаковки ВхШхГ: 17х32х8 см]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/19563/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/19563/2.jpeg</picture>
@@ -32740,6 +32740,160 @@
       <param name="Термостат">Немає</param>
       <param name="Вага брутто (кг.)">5.500000</param>
       <param name="Об&apos;єм (м³)">0.063300</param>
+    </offer>
+    <offer id="32424" available="false">
+      <vendorCode>000032424</vendorCode>
+      <categoryId>30</categoryId>
+      <price>970</price>
+      <currencyId>UAH</currencyId>
+      <vendor>TOPAZ</vendor>
+      <name>Поличка пряма TOPAZ 3101-S</name>
+      <stock_quantity>0</stock_quantity>
+      <description><![CDATA[Поличка в душову TOPAZ 3101-S-пряма Одинарна SUS304-Хром <br>Кріплення - Шурупи<br>Тип установки - Настінний (підвісний)<br>Матеріал виробу - SUS304<br>Колір виробу - Хром<br>Комплектація:<br>- Монтажні елементи<br>- Полиця<br>Габарити упаковки ВхГхШ: 8.5 х 15 х 32 см<br>Вага нетто: 550 г<br>Вага брутто: 645 г<br>Габарити (ШхВхГ): 300 х 130 х 75 мм<br>Гарантія - 12 місяців офіційної гарантії від виробника]]></description>
+      <picture>https://b2b-sklad.com/storage/img/products/32424/1.jpeg</picture>
+      <param name="Країна походження"></param>
+      <param name="Країна реєстрації бренду"></param>
+      <param name="Призначення">Для ванни</param>
+      <param name="Тип">Полиця</param>
+      <param name="Матеріал">Латунь</param>
+      <param name="Колір">Хром</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.000000</param>
+    </offer>
+    <offer id="32425" available="false">
+      <vendorCode>000032425</vendorCode>
+      <categoryId>30</categoryId>
+      <price>2145</price>
+      <currencyId>UAH</currencyId>
+      <vendor>TOPAZ</vendor>
+      <name>Поличка пряма TOPAZ 3102-S</name>
+      <stock_quantity>0</stock_quantity>
+      <description><![CDATA[Поличка в душову TOPAZ 3102-S-пряма Подвійна SUS304-Хром<br>Кріплення - Шурупи<br>Тип установки - Настінний (підвісний)<br>Матеріал виробу - SUS304<br>Колір виробу - Хром<br>Комплектація:<br>- Монтажні елементи<br>- Полиця<br><br>Гарантія - 12 місяців офіційної гарантії від виробника]]></description>
+      <picture>https://b2b-sklad.com/storage/img/products/32425/1.jpeg</picture>
+      <param name="Країна походження"></param>
+      <param name="Країна реєстрації бренду"></param>
+      <param name="Призначення">Для ванни</param>
+      <param name="Тип">Полиця</param>
+      <param name="Матеріал">Нержавіюча сталь</param>
+      <param name="Колір">Хром</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.000000</param>
+    </offer>
+    <offer id="32426" available="false">
+      <vendorCode>000032426</vendorCode>
+      <categoryId>30</categoryId>
+      <price>3625</price>
+      <currencyId>UAH</currencyId>
+      <vendor>TOPAZ</vendor>
+      <name>Поличка в душову TOPAZ 3103-S-пряма Потрійна SUS304-Хром (300*130*75мм)</name>
+      <stock_quantity>0</stock_quantity>
+      <description><![CDATA[Поличка в душову TOPAZ 3103-S-пряма Подвійна SUS304-Хром<br>Кріплення - Шурупи<br>Тип установки - Настінний (підвісний)<br>Матеріал виробу - SUS304<br>Колір виробу - Хром<br>Комплектація:<br>- Монтажні елементи<br>- Полиця<br><br>Гарантія - 12 місяців офіційної гарантії від виробника]]></description>
+      <picture>https://b2b-sklad.com/storage/img/products/32426/1.jpeg</picture>
+      <param name="Країна походження"></param>
+      <param name="Країна реєстрації бренду"></param>
+      <param name="Призначення">Для ванни</param>
+      <param name="Тип">Полиця</param>
+      <param name="Матеріал">Латунь</param>
+      <param name="Колір">Хром</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.000000</param>
+    </offer>
+    <offer id="32427" available="false">
+      <vendorCode>000032427</vendorCode>
+      <categoryId>30</categoryId>
+      <price>925</price>
+      <currencyId>UAH</currencyId>
+      <vendor>TOPAZ</vendor>
+      <name>Поличка кутова TOPAZ 3115-1S</name>
+      <stock_quantity>0</stock_quantity>
+      <description><![CDATA[Поличка в душову TOPAZ 3115-1S-кутова Одинарна SUS304-Хром <br>Кріплення - Шурупи<br>Тип установки - Настінний (підвісний)<br>Матеріал виробу - SUS304<br>Колір виробу - Хром<br>Комплектація:<br>- Монтажні елементи<br>- Полиця<br><br>Гарантія - 12 місяців офіційної гарантії від виробника]]></description>
+      <picture>https://b2b-sklad.com/storage/img/products/32427/1.jpeg</picture>
+      <param name="Країна походження"></param>
+      <param name="Країна реєстрації бренду"></param>
+      <param name="Призначення">Для ванни</param>
+      <param name="Тип">Полиця</param>
+      <param name="Матеріал">Нержавіюча сталь</param>
+      <param name="Колір">Хром</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.000000</param>
+    </offer>
+    <offer id="32428" available="false">
+      <vendorCode>000032428</vendorCode>
+      <categoryId>30</categoryId>
+      <price>1925</price>
+      <currencyId>UAH</currencyId>
+      <vendor>TOPAZ</vendor>
+      <name>Поличка кутова TOPAZ 3115-2S</name>
+      <stock_quantity>0</stock_quantity>
+      <description><![CDATA[Поличка в душову TOPAZ 3115-2S-кутова Подвійна SUS304-Хром <br>Кріплення - Шурупи<br>Тип установки - Настінний (підвісний)<br>Матеріал виробу - SUS304<br>Колір виробу - Хром<br>Комплектація:<br>- Монтажні елементи<br>- Полиця<br><br>Гарантія - 12 місяців офіційної гарантії від виробника]]></description>
+      <picture>https://b2b-sklad.com/storage/img/products/32428/1.jpeg</picture>
+      <param name="Країна походження"></param>
+      <param name="Країна реєстрації бренду"></param>
+      <param name="Призначення">Для ванни</param>
+      <param name="Тип">Полиця</param>
+      <param name="Матеріал">Нержавіюча сталь</param>
+      <param name="Колір">Хром</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.000000</param>
+    </offer>
+    <offer id="32429" available="false">
+      <vendorCode>000032429</vendorCode>
+      <categoryId>30</categoryId>
+      <price>3430</price>
+      <currencyId>UAH</currencyId>
+      <vendor>TOPAZ</vendor>
+      <name>Поличка кутова TOPAZ 3115-3S</name>
+      <stock_quantity>0</stock_quantity>
+      <description><![CDATA[Поличка в душову TOPAZ 3115-3S-кутова Потрійна SUS304-Хром <br>Кріплення - Шурупи<br>Тип установки - Настінний (підвісний)<br>Матеріал виробу - SUS304<br>Колір виробу - Хром<br>Комплектація:<br>- Монтажні елементи<br>- Полиця<br><br>Гарантія - 12 місяців офіційної гарантії від виробника]]></description>
+      <picture>https://b2b-sklad.com/storage/img/products/32429/1.jpeg</picture>
+      <param name="Країна походження"></param>
+      <param name="Країна реєстрації бренду"></param>
+      <param name="Призначення">Для ванни</param>
+      <param name="Тип">Полиця</param>
+      <param name="Матеріал">Нержавіюча сталь</param>
+      <param name="Колір">Хром</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.000000</param>
+    </offer>
+    <offer id="32430" available="false">
+      <vendorCode>000032430</vendorCode>
+      <categoryId>30</categoryId>
+      <price>1925</price>
+      <currencyId>UAH</currencyId>
+      <vendor>TOPAZ</vendor>
+      <name>Поличка кутова TOPAZ 3124-2S</name>
+      <stock_quantity>0</stock_quantity>
+      <description><![CDATA[Поличка в душову TOPAZ 3124-2S-кутова Подвійна SUS304-Хром <br>Кріплення - Шурупи<br>Тип установки - Настінний (підвісний)<br>Матеріал виробу - SUS304<br>Колір виробу - Хром<br>Комплектація:<br>- Монтажні елементи<br>- Полиця<br><br>Гарантія - 12 місяців офіційної гарантії від виробника]]></description>
+      <picture>https://b2b-sklad.com/storage/img/products/32430/1.jpeg</picture>
+      <picture>https://b2b-sklad.com/storage/img/products/32430/2.jpeg</picture>
+      <param name="Країна походження"></param>
+      <param name="Країна реєстрації бренду"></param>
+      <param name="Призначення">Для ванни</param>
+      <param name="Тип">Полиця</param>
+      <param name="Матеріал">Нержавіюча сталь</param>
+      <param name="Колір">Хром</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.000000</param>
+    </offer>
+    <offer id="32431" available="false">
+      <vendorCode>000032431</vendorCode>
+      <categoryId>30</categoryId>
+      <price>2905</price>
+      <currencyId>UAH</currencyId>
+      <vendor>TOPAZ</vendor>
+      <name>Поличка в душову TOPAZ 3134-3S-кутова Потрійна SUS304-Хром</name>
+      <stock_quantity>0</stock_quantity>
+      <description><![CDATA[Поличка в душову TOPAZ 3134-3S-кутова Потрійна SUS304-Хром <br>Кріплення - Шурупи<br>Тип установки - Настінний (підвісний)<br>Матеріал виробу - SUS304<br>Колір виробу - Хром<br>Комплектація:<br>- Монтажні елементи<br>- Полиця<br><br>Гарантія - 12 місяців офіційної гарантії від виробника]]></description>
+      <picture>https://b2b-sklad.com/storage/img/products/32431/1.jpeg</picture>
+      <picture>https://b2b-sklad.com/storage/img/products/32431/2.jpeg</picture>
+      <param name="Країна походження"></param>
+      <param name="Країна реєстрації бренду"></param>
+      <param name="Призначення">Для ванни</param>
+      <param name="Тип">Полиця</param>
+      <param name="Матеріал">Нержавіюча сталь</param>
+      <param name="Колір">Хром</param>
+      <param name="Вага брутто (кг.)">0.000000</param>
+      <param name="Об&apos;єм (м³)">0.000000</param>
     </offer>
     <offer id="32493" available="false">
       <vendorCode>000032493</vendorCode>
