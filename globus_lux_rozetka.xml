@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-13 12:46">
+<yml_catalog date="2026-11-13 14:46">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -12488,14 +12488,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.002000</param>
     </offer>
-    <offer id="19468" available="true">
+    <offer id="19468" available="false">
       <vendorCode>000019468</vendorCode>
       <categoryId>30</categoryId>
       <price>508</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Тримач туалетного паперу Globus Lux SQ 9410 SUS304</name>
-      <stock_quantity>7</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Тримач для туалетного паперу Globus Lux SQ9410<br>Країна виробник товару - Китай<br>Тип товару - Аксесуари для ванної кімнати<br>Місткість тримача (рулон / листи) - 1 шт<br>Кріплення - Шурупи<br>Тип установки - Настінний (підвісний)<br>Матеріал виробу - Нержавіюча сталь (SUS 304)<br>Колір виробу - Нержавіюча сталь<br>Комплектація:<br>- Монтажні елементи<br>- Закритий тримач<br>Габарити упаковки (ВхШхГ): 15.5 х 13.5 х 7.5 см<br>Габарити (ШхВ): 14 х 14 см<br>Вага в упаковці - 0.315 кг<br>Вага - 0.265 кг<br>Гарантія - 12 місяців офіційної гарантії від виробника]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/19468/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/19468/2.jpeg</picture>
@@ -12509,14 +12509,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.002000</param>
     </offer>
-    <offer id="19469" available="true">
+    <offer id="19469" available="false">
       <vendorCode>000019469</vendorCode>
       <categoryId>30</categoryId>
       <price>285</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Гачок одинарний Globus Lux SQ9411</name>
-      <stock_quantity>6</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Гачок одинарний Globus Lux SQ9411<br>Країна виробник товару - Китай<br>Тип товару - Аксесуари для ванної кімнати<br>Кріплення - Шурупи<br>Тип установки - Настінний (підвісний)<br>Матеріал виробу - нержавіюча сталь (SUS 304)<br>Колір виробу - нержавіюча сталь<br>Комплектація:<br>- Монтажні елементи<br>- Гачок<br>Габарити упаковки (ВхШхГ): 10 х 7.5 х 7 см<br>Габарити (ШхВ): 4.8 х 5 см<br>Вага в упаковці - 0.165 кг<br>Вага - 0.135 кг<br>Гарантія - 12 місяців офіційної гарантії від виробника]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/19469/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/19469/2.jpeg</picture>
@@ -12655,14 +12655,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.002000</param>
     </offer>
-    <offer id="19476" available="true">
+    <offer id="19476" available="false">
       <vendorCode>000019476</vendorCode>
       <categoryId>30</categoryId>
       <price>434</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Планка з гачками Globus Lux SQ 9435-3 SUS304</name>
-      <stock_quantity>5</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Планка для рушників  Globus Lux SQ9435-3 з трьома гачками<br>Країна виробник товару - Китай<br>Тип товару - Аксесуари для ванної кімнати<br>Комплектація:<br>- Монтажні елементи<br>- Рушникотримач<br>Тип установки - Настінний (підвісний)<br>Вид - Полотенцедержатель<br>Кріплення - Шурупи<br>Матеріал виробу - нержавіюча сталь (SUS 304)<br>Колір виробу - нержавіюча сталь<br>Габарити упаковки (ВхШхГ): 16 х 17 х 6.8 см<br>Габарити (ШхВ): 8.5 х 22 см<br>Вага в упаковці - 0.2 кг<br>Вага - 0.135 кг<br>Гарантія - 12 місяців офіційної гарантії від виробника<br>Сантехніка ТМ «Globus Lux» - це німецька якість перевірена роками і завжди великий вибір продукції.<br>Компанія займається виробництвом: якісних змішувачів, душових систем і шлангів для душа а також різноманітних товарів для кухні і ванної кімнати. Сучасне високоточне обладнання, ретельний контроль якості, використання європейських комплектуючих, якісних матеріалів (латунь, нержавіюча сталь SUS 304) а також помірна ціна - все це разом дозволило компанії завоювати собі одне з провідних місць на світовому ринку.]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/19476/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/19476/2.jpeg</picture>
