@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-16 14:34">
+<yml_catalog date="2026-11-16 15:33">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -269,7 +269,7 @@
       <price>4535</price>
       <currencyId>UAH</currencyId>
       <name>Душова система Globus Lux QUEENSLAND GLQU-0077</name>
-      <stock_quantity>4</stock_quantity>
+      <stock_quantity>3</stock_quantity>
     </offer>
     <offer id="57579234" available="true">
       <id>57579234</id>
@@ -1396,14 +1396,14 @@
       <name>Змішувач для кухні Globus Lux ALPEN SBT1-203SG</name>
       <stock_quantity>10</stock_quantity>
     </offer>
-    <offer id="64174210" available="true">
+    <offer id="64174210" available="false">
       <id>64174210</id>
       <vendorCode>000024664</vendorCode>
       <categoryId>2712456</categoryId>
       <price>3580</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні Globus Lux DENVER Flex GDF-32-00-06</name>
-      <stock_quantity>1</stock_quantity>
+      <stock_quantity>0</stock_quantity>
     </offer>
     <offer id="64174240" available="true">
       <id>64174240</id>
@@ -2573,7 +2573,7 @@
       <price>2480</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для ванни Globus Lux SICILIA SBQ-208L</name>
-      <stock_quantity>10</stock_quantity>
+      <stock_quantity>8</stock_quantity>
     </offer>
     <offer id="56270818" available="true">
       <id>56270818</id>
@@ -2951,7 +2951,7 @@
       <price>1110</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для умивальника Globus Lux SICILIA SBQ-101-BB</name>
-      <stock_quantity>7</stock_quantity>
+      <stock_quantity>4</stock_quantity>
     </offer>
     <offer id="59450342" available="true">
       <id>59450342</id>
