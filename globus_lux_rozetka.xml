@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-16 06:02">
+<yml_catalog date="2026-11-16 08:02">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -903,14 +903,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.004000</param>
     </offer>
-    <offer id="6151" available="true">
+    <offer id="6151" available="false">
       <vendorCode>000006151</vendorCode>
       <categoryId>11</categoryId>
       <price>2215</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для ванни Globus Lux GB-SHARM-0316</name>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Змішувач для ванни вентильний Globus Lux GB-SHARM-0316, литий вилив L-350, душовий комплект<br><br>Переваги змішувачів Globus Lux:<br>1 Довговічність і безвідмовність в експлуатації<br>2 Елегантність форм, міцність і надійність<br>3 Висока функціональність<br>4 Використання якісних екологічно чистих матеріалів<br>5 Інноваційні технології виробництва<br>6 Корпус виготовлений з латуні з вмістом міді не менше 70%<br><br>Комплектація:<br>Змішувач латунний<br>Вилив - 350 мм<br>Тримач для душу,<br>Ручна лійка,<br>шланг душовий<br>Ексцентрики для змішувачів настінного монтажу<br>декоративні чаші]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/6151/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/6151/2.jpeg</picture>
@@ -1536,14 +1536,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.000000</param>
     </offer>
-    <offer id="9115" available="true">
+    <offer id="9115" available="false">
       <vendorCode>000009115</vendorCode>
       <categoryId>59</categoryId>
       <price>313</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Душова лійка Globus Lux HY-2051-70</name>
-      <stock_quantity>6</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Душова лійка Globus Lux HY2051-70<br>Верхня лійка ″тропік″ призначена для душових систем.<br>Діаметр: 70 мм<br>Колір: хром<br>Матеріал: латунь]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/9115/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/9115/2.jpeg</picture>
@@ -10577,7 +10577,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Монокран Globus Lux ALPEN SUS-008M</name>
-      <stock_quantity>10</stock_quantity>
+      <stock_quantity>9</stock_quantity>
       <description><![CDATA[Монокран для умивальника Globus Lux SUS-008M SUS304<br>Вид монтажу: Врізний<br>Вид змішувача: Одноважільний<br>Підключення до водопроводу<br>Матеріал: Нержавіюча сталь<br>Колір виробу: Нержавіюча сталь<br>Додаткові характеристики:<br>- Монтаж на один отвір<br>- Металевий, бічний важіль<br>- Система швидкого монтажу<br><br>Комплектація:<br>- монокран<br>- Кріплення для змішувача - гайка<br>Країна-виробник товару: Китай<br>Гарантія: 12 місяців офіційної гарантії від виробника.]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/19187/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/19187/2.jpeg</picture>
