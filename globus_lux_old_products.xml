@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-16 09:33">
+<yml_catalog date="2026-11-16 10:33">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -251,7 +251,7 @@
       <price>3460</price>
       <currencyId>UAH</currencyId>
       <name>Душова система Globus Lux ALPEN SBT1-SH-05</name>
-      <stock_quantity>4</stock_quantity>
+      <stock_quantity>3</stock_quantity>
     </offer>
     <offer id="57579064" available="false">
       <id>57579064</id>
@@ -1727,7 +1727,7 @@
       <price>461</price>
       <currencyId>UAH</currencyId>
       <name>Дозатор рідкого мила Globus Lux SS8433  SUS304</name>
-      <stock_quantity>2</stock_quantity>
+      <stock_quantity>1</stock_quantity>
     </offer>
     <offer id="60300727" available="false">
       <id>60300727</id>
@@ -2249,7 +2249,7 @@
       <price>2130</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для ванни Globus Lux ALPEN SBT1-208</name>
-      <stock_quantity>4</stock_quantity>
+      <stock_quantity>3</stock_quantity>
     </offer>
     <offer id="52771396" available="false">
       <id>52771396</id>
