@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-16 15:33">
+<yml_catalog date="2026-11-16 16:33">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -2231,7 +2231,7 @@
       <price>2035</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для ванни Globus Lux ALPEN SBT1-102NE</name>
-      <stock_quantity>8</stock_quantity>
+      <stock_quantity>7</stock_quantity>
     </offer>
     <offer id="52763894" available="false">
       <id>52763894</id>
