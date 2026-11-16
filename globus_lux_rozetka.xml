@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-16 11:02">
+<yml_catalog date="2026-11-16 15:02">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -1093,7 +1093,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Шланг душовий Globus Lux FH-803-200</name>
-      <stock_quantity>8</stock_quantity>
+      <stock_quantity>5</stock_quantity>
       <description><![CDATA[Шланг душовий Globus Lux FH-803-200<br>Довжина - 200 см<br>Підключення - 1/2″ x 1/2″<br>Витримує 50кг навантаження<br>Матеріал - Метал / EPDM<br>Колір - хром<br>Вага - 0.32 кг<br>Виробник - Китай]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/8493/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/8493/2.jpeg</picture>
@@ -2690,7 +2690,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Душова система Globus Lux QUEENSLAND GLQU-0077</name>
-      <stock_quantity>4</stock_quantity>
+      <stock_quantity>3</stock_quantity>
       <description><![CDATA[Душова система GLQU-0077  Queensland GLOBUS LUX  <br>Переваги душових систем Globus Lux:<br>латунний корпус<br>наявність верхнього душа короткого типу,<br>ефект водоспаду<br>телескопічна душова штанга (регульована по висоті)<br>всі душі оснащені системою проти вапняних відкладень,<br>душовий шланг з посиленою обмоткою<br>Комплектація душової системи:<br>верхній душ,<br>тримач для душа,<br>душова штанга,<br>кронштейн,<br>перемикаючий вентиль,<br>ручна лійка,<br>шланг душовий<br>змішувач латунний]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/10148/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/10148/2.jpeg</picture>
@@ -6906,7 +6906,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Душова лійка Globus Lux SUS-001H</name>
-      <stock_quantity>6</stock_quantity>
+      <stock_quantity>5</stock_quantity>
       <description><![CDATA[Душова лійка Globus Lux SUS-001H<br>Матеріал: нержавіюча сталь SUS304<br>Колір: нержавіюча сталь]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/16101/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/16101/2.jpeg</picture>
@@ -8383,14 +8383,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.047000</param>
     </offer>
-    <offer id="17551" available="true">
+    <offer id="17551" available="false">
       <vendorCode>000017551</vendorCode>
       <categoryId>61</categoryId>
       <price>855</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Душова стійка Globus Lux SUS-1108</name>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Душова стійка Globus Lux SUS-1108<br>Бренд: Globus Lux<br>Модель: SUS-1108<br>Призначення: для ванни, душової<br>Вид монтажу: Настінний<br>Комплектація: Душова стійка / Кріплення<br>Колір: нержавіюча сталь<br>Матеріал: нержавіюча сталь<br>Вага: 1 кг<br>Висота: 65 см<br>Країна виробник: Китай]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/17551/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/17551/2.jpeg</picture>
@@ -8564,14 +8564,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.009000</param>
     </offer>
-    <offer id="17647" available="true">
+    <offer id="17647" available="false">
       <vendorCode>000017647</vendorCode>
       <categoryId>11</categoryId>
       <price>1045</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для умивальника Globus Lux Koln GLK-0203M</name>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Змішувач KOLN GLK-203М Globus Lux  для кухні або умавальника з бічною ручкою  на гайці<br><br>Нова серія змішувачів KOLN захоплює своїм вишуканим дизайном, при цьому не втрачаючи своєї надійності в якості, <br>Кухонний змішувач ідеально впишеться в будь-який інтер&apos;єр кухні з самим химерним рішенням.<br><br>Переваги змішувачів Globus Lux:<br>1 Довговічність і безвідмовність в експлуатації<br>2 Елегантність форм, міцність і надійність<br>3 Висока функціональність<br>4 Використання якісних екологічно чистих матеріалів<br>5 Інноваційні технології виробництва<br>6 Корпус виготовлений з латуні з вмістом міді не менше 70%<br><br>Комплектація:<br>Змішувач латунний<br>Шланг М10 * 1 / 2″-2шт<br>Кріплення для змішувача - гайка]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/17647/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/17647/2.jpeg</picture>
@@ -10498,7 +10498,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для ванни Globus Lux SICILIA SBQ-208L</name>
-      <stock_quantity>10</stock_quantity>
+      <stock_quantity>8</stock_quantity>
       <description><![CDATA[Змішувач для ванни Globus Lux SICILIA SBQ-208L, SUS304<br><br>Переваги моделей змішувачів Globus Lux з нержавійки:<br>1. Корпус моделей виготовлений з харчової нержавіючої сталі SUS304<br>2. Довговічність і безвідмовність в експлуатації<br>3. Елегантність форм, міцність і надійність<br>4. Висока функціональність<br>5. Використання якісних екологічно чистих матеріалів<br>6. Інноваційні технології виробництва<br><br>Комплектація:<br>Змішувач з нержавійки<br>Шланг для душа<br>Лійка для душу<br>Кріплення для душової лійки<br>Євро-перемикач<br>Довжина гусака-350мм<br>Ексцентрики<br>декоративні чаші]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/19184/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/19184/2.jpeg</picture>
@@ -14225,14 +14225,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.062000</param>
     </offer>
-    <offer id="20280" available="true">
+    <offer id="20280" available="false">
       <vendorCode>000020280</vendorCode>
       <categoryId>11</categoryId>
       <price>1690</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux ALPEN SBT1-2031</name>
-      <stock_quantity>4</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Змішувач для кухні Globus Lux ALPEN SBT1-2031, SUS304 витяжний гусак<br><br>Переваги моделей змішувачів Globus Lux з нержавійки:<br>1. Корпус моделей виготовлений з харчової нержавіючої сталі SUS304<br>2. Довговічність і безвідмовність в експлуатації<br>3. Елегантність форм, міцність і надійність<br>4. Висока функціональність<br>5. Використання якісних екологічно чистих матеріалів<br>6. Інноваційні технології виробництва<br><br>Комплектація:<br>Змішувач з нержавійки<br>Шланги для змішувача Globus Lux  М10х1/2″ 0,5м. АНТИКОРОЗІЯ (  ПАРА)<br>Кріплення для змішувача - гайка з нержавійки]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/20280/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/20280/2.jpeg</picture>
@@ -14440,7 +14440,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Душова лійка Globus Lux NS-505-P  , 3-позиційна , в упаковці</name>
-      <stock_quantity>10</stock_quantity>
+      <stock_quantity>6</stock_quantity>
       <description><![CDATA[Душова лійка Globus Lux NS-505-P<br>Матеріал - Пластик<br>Колір - Хром/блакитний<br>Кількість типів струї - 3<br>Діаметр ручної лійки - 7.5<br>Вага - 0.11 кг<br>Країна виробник - Китай]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/20406/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/20406/2.jpeg</picture>
@@ -14494,7 +14494,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Душова лійка Globus Lux NS-2280W-P Біла , в упаковці</name>
-      <stock_quantity>10</stock_quantity>
+      <stock_quantity>7</stock_quantity>
       <description><![CDATA[Душова лійка Globus Lux NS-2280W-P<br>Матеріал - Пластик<br>Колір - хром/білий<br>Кількість типів струї - 1<br>Діаметр ручної лійки - 7.5<br>Вага - 0.11 кг<br>Країна виробник - Китай]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/20409/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/20409/2.jpeg</picture>
@@ -14885,7 +14885,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Душова лійка Globus Lux SPIDER NS-580-P</name>
-      <stock_quantity>100</stock_quantity>
+      <stock_quantity>50</stock_quantity>
       <description><![CDATA[Душова лійка Globus Lux SPIDER NSF-580-P<br>Матеріал - Пластик<br>Колір - Хром/сірий<br>Кількість типів струї - 3<br>Діаметр ручної лійки - 10 см<br>Вага - 0.16 кг<br>Країна виробник - Китай]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/20790/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/20790/2.jpeg</picture>
@@ -16134,7 +16134,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для умивальника Globus Lux SICILIA SBQ-101-BB</name>
-      <stock_quantity>7</stock_quantity>
+      <stock_quantity>4</stock_quantity>
       <description><![CDATA[Змішувач для умивальника Globus Lux SICILIA SBQ-101-BB, SUS304<br><br>Переваги моделей змішувачів Globus Lux з нержавійки:<br>1. Корпус моделей виготовлений з харчової нержавіючої сталі SUS304<br>2. Довговічність і безвідмовність в експлуатації<br>3. Елегантність форм, міцність і надійність<br>4. Висока функціональність<br>5. Використання якісних екологічно чистих матеріалів<br>6. Інноваційні технології виробництва<br><br>Комплектація:<br>Змішувач з нержавійки<br>Шланги для змішувача Globus Lux  М10х1/2″ 0,5м. АНТИКОРОЗІЯ (  ПАРА)<br>Кріплення для змішувача - гайка з нержавійки<br><br>Габарити упаковки (ВхШхГ): 6 х 26 х 19.5 см<br>Вага нетто: 1000 гр<br>Вага брутто: 795 гр]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/21171/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/21171/2.jpeg</picture>
@@ -19118,14 +19118,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.002000</param>
     </offer>
-    <offer id="21935" available="true">
+    <offer id="21935" available="false">
       <vendorCode>000021935</vendorCode>
       <categoryId>62</categoryId>
       <price>163</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Шланг душовий Globus Lux NH-01D-100-130</name>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Шланг душовий Globus Lux NH-01D-100-130<br>Довжина - 100-130 см<br>Підключення - 1/2″ x 1/2″<br>особливості:<br>- серцевина латунь<br>- Розтяжний<br>- Нержавіюча сталь<br>- З&apos;єднання Double Lоck<br>Матеріал - Метал / EPDM<br>Колір - Хром<br>Вага - 0.26 кг<br>Виробник - Китай]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/21935/1.jpeg</picture>
       <param name="Країна походження">Китай</param>
@@ -32808,7 +32808,7 @@
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Поличка кутова TOPAZ 3115-1S</name>
-      <stock_quantity>9</stock_quantity>
+      <stock_quantity>6</stock_quantity>
       <description><![CDATA[Поличка в душову TOPAZ 3115-1S-кутова Одинарна SUS304-Хром <br>Кріплення - Шурупи<br>Тип установки - Настінний (підвісний)<br>Матеріал виробу - SUS304<br>Колір виробу - Хром<br>Комплектація:<br>- Монтажні елементи<br>- Полиця<br><br>Гарантія - 12 місяців офіційної гарантії від виробника]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/32427/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/32427/2.jpeg</picture>
