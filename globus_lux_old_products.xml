@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-16 12:36">
+<yml_catalog date="2026-11-16 13:34">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -2213,7 +2213,7 @@
       <price>2095</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для ванни Globus Lux Caprice GLCA-0208</name>
-      <stock_quantity>2</stock_quantity>
+      <stock_quantity>1</stock_quantity>
     </offer>
     <offer id="52760445" available="true">
       <id>52760445</id>
