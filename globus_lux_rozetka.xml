@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-17 06:02">
+<yml_catalog date="2026-11-17 08:02">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -72,14 +72,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.002000</param>
     </offer>
-    <offer id="1140" available="true">
+    <offer id="1140" available="false">
       <vendorCode>000001140</vendorCode>
       <categoryId>30</categoryId>
       <price>290</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>RM 1601 Тримач туалетного паперу, металевий  (Globus Lux)</name>
-      <stock_quantity>8</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[RM 1601 Тримач туалетного паперу з кришкою, металевий  (Globus Lux)<br>Місткість власника (рулон / листи) - 1 шт<br>Кріплення - Шурупи<br>Тип установки - Настінний (підвісний)<br>Матеріал вироби - Латунь<br>Колір вироби - Хром<br>Комплектація:<br>- Монтажні елементи<br>- Закритий держатель<br>Габарити (ШхВ): 15.5 х 14.5 см<br>Вага - 0.31 кг<br>Гарантія - 12 місяців офіційної гарантії від виробника]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/1140/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/1140/2.jpeg</picture>
@@ -14252,14 +14252,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.012000</param>
     </offer>
-    <offer id="20281" available="true">
+    <offer id="20281" available="false">
       <vendorCode>000020281</vendorCode>
       <categoryId>11</categoryId>
       <price>2085</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux ALPEN SBT1-2033</name>
-      <stock_quantity>5</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Змішувач для кухні Globus Lux ALPEN SBT1-2033, SUS304  з витяжною лійкою<br><br>Переваги моделей змішувачів Globus Lux з нержавійки:<br>1. Корпус моделей виготовлений з харчової нержавіючої сталі SUS304<br>2. Довговічність і безвідмовність в експлуатації<br>3. Елегантність форм, міцність і надійність<br>4. Висока функціональність<br>5. Використання якісних екологічно чистих матеріалів<br>6. Інноваційні технології виробництва<br><br>Комплектація:<br>Змішувач з нержавійки<br>Шланги для змішувача Globus Lux  М10х1/2″ 0,5м. АНТИКОРОЗІЯ (  ПАРА)<br>Кріплення для змішувача - гайка з нержавійки]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/20281/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/20281/2.jpeg</picture>
