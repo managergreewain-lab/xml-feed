@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-17 15:36">
+<yml_catalog date="2026-11-17 16:36">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -1076,7 +1076,7 @@
       <id>57588694</id>
       <vendorCode>000019252</vendorCode>
       <categoryId>2712456</categoryId>
-      <price>2515</price>
+      <price>2645</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні під осмос Globus Lux LAZER GLLR-0111-9-BRONZE</name>
       <stock_quantity>2</stock_quantity>
@@ -1130,7 +1130,7 @@
       <id>57593680</id>
       <vendorCode>000014967</vendorCode>
       <categoryId>2712456</categoryId>
-      <price>2875</price>
+      <price>3025</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні під осмос Globus Lux LAZER GLLR-0111-8-STSTEEL</name>
       <stock_quantity>0</stock_quantity>
@@ -1358,7 +1358,7 @@
       <price>1110</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні Globus Lux ALPEN SBT1-203S-BEIGE</name>
-      <stock_quantity>2</stock_quantity>
+      <stock_quantity>4</stock_quantity>
     </offer>
     <offer id="64174114" available="true">
       <id>64174114</id>
@@ -1535,7 +1535,7 @@
       <id>64308638</id>
       <vendorCode>000021852</vendorCode>
       <categoryId>2712456</categoryId>
-      <price>1990</price>
+      <price>2090</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні Globus Lux Milano GLM-203LR-10-BB</name>
       <stock_quantity>2</stock_quantity>
@@ -2669,7 +2669,7 @@
       <id>57127517</id>
       <vendorCode>000020676</vendorCode>
       <categoryId>2726373</categoryId>
-      <price>4635</price>
+      <price>4875</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для ванни TOPAZ LEXI TL 21101A-H57-CW</name>
       <stock_quantity>2</stock_quantity>
@@ -2723,7 +2723,7 @@
       <id>57736070</id>
       <vendorCode>000019561</vendorCode>
       <categoryId>2726373</categoryId>
-      <price>13030</price>
+      <price>13715</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для ванни TOPAZ BARTS TB 07113-H36</name>
       <stock_quantity>1</stock_quantity>
@@ -2786,7 +2786,7 @@
       <id>57736150</id>
       <vendorCode>000019557</vendorCode>
       <categoryId>3018199</categoryId>
-      <price>3185</price>
+      <price>3350</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для душа TOPAZ LEXI TL 21701-H57-W</name>
       <stock_quantity>0</stock_quantity>
