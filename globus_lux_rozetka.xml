@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-17 05:02">
+<yml_catalog date="2026-11-17 06:02">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -4109,7 +4109,7 @@
     <offer id="14051" available="true">
       <vendorCode>000014051</vendorCode>
       <categoryId>44</categoryId>
-      <price>7315</price>
+      <price>7160</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Душова система Globus Lux VAN-DS0026 Milano Лійка.Тропік30*30см нерж з виливом латунь-Штанга H=135см</name>
@@ -7581,7 +7581,7 @@
     <offer id="17069" available="false">
       <vendorCode>000017069</vendorCode>
       <categoryId>44</categoryId>
-      <price>9445</price>
+      <price>9295</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Душова система Globus Lux VAN-GLM-0007 MILANO Лійка Тропік300*300мм з виливом латунь H=150см</name>
@@ -25618,7 +25618,7 @@
     <offer id="26998" available="true">
       <vendorCode>000026998</vendorCode>
       <categoryId>11</categoryId>
-      <price>2095</price>
+      <price>1915</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux ALPEN SBT1-2044</name>
@@ -25652,7 +25652,7 @@
     <offer id="26999" available="true">
       <vendorCode>000026999</vendorCode>
       <categoryId>11</categoryId>
-      <price>2065</price>
+      <price>1990</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux ALPEN SBT1-2044-BB</name>
@@ -25686,7 +25686,7 @@
     <offer id="27000" available="true">
       <vendorCode>000027000</vendorCode>
       <categoryId>11</categoryId>
-      <price>2470</price>
+      <price>2175</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux ALPEN SBT1-2044-GP</name>
