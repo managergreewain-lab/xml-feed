@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-17 09:36">
+<yml_catalog date="2026-11-17 10:33">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -1439,7 +1439,7 @@
       <price>3870</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні Globus Lux DENVER Flex GDF-32-11-01</name>
-      <stock_quantity>9</stock_quantity>
+      <stock_quantity>7</stock_quantity>
     </offer>
     <offer id="64285920" available="false">
       <id>64285920</id>
@@ -2861,7 +2861,7 @@
       <price>3030</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для умивальника Globus Lux Niagara GLN-0201</name>
-      <stock_quantity>9</stock_quantity>
+      <stock_quantity>8</stock_quantity>
     </offer>
     <offer id="52689571" available="false">
       <id>52689571</id>
