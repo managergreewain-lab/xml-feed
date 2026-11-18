@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-18 08:02">
+<yml_catalog date="2026-11-18 09:02">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -9587,14 +9587,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.009000</param>
     </offer>
-    <offer id="18447" available="true">
+    <offer id="18447" available="false">
       <vendorCode>000018447</vendorCode>
       <categoryId>11</categoryId>
       <price>1915</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для умивальника Globus Lux Niagara GLN-0101</name>
-      <stock_quantity>5</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Змішувач для умивальника  Globus Lux NIAGARA GLN-0101, колір хром<br><br>Нова серія змішувачів Globus Lux NIAGARA дивує своєю тонкістю ліній і граней. Нове рішення в дизайні<br>Країна-виробник товару: Китай<br>Вид монтажу: Врізний<br>Вид змішувача: Одноважільний<br>Габарити (ВхГ): 15.2 х 16.5 см<br>Тип виливу: стаціонарний<br>Довжина виливу: 12.5 см<br>Підключення до водопроводу<br>Комплектація:<br>- Змішувач латунний<br>- Шланг М10 * 1 / 2″-2шт<br>- Кріплення для змішувача - гайка<br>Матеріал: Латунь<br>Колір виробу: Хром<br>Додаткові характеристики:<br>- Гнучка підводка<br>- Монтаж на один отвір<br>- Металевий важіль<br>- Хромована поверхня<br>Країна реєстрації бренду: Україна<br>Гарантія: 36 місяців офіційної гарантії від виробника.<br><br>Переваги змішувачів Globus Lux:<br>1. Довговічність і безвідмовність в експлуатації<br>2. Елегантність форм, міцність і надійність<br>3. Висока функціональність<br>4. Використання якісних екологічно чистих матеріалів<br>5. Інноваційні технології виробництва<br>6. Корпус виготовлений з латуні з вмістом міді не менше 70%]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/18447/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/18447/2.jpeg</picture>
@@ -14567,14 +14567,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.007000</param>
     </offer>
-    <offer id="20415" available="true">
+    <offer id="20415" available="false">
       <vendorCode>000020415</vendorCode>
       <categoryId>44</categoryId>
       <price>1965</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Душова система Globus Lux ALPEN S-SH-005</name>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Душова система Globus Lux -ALPEN S-SH-005 SUS304<br>Призначення: Душова система<br>Вид монтажу змішувача: Настінний, на 2 виходи<br>Вид змішувача: Одноважільний<br>Матеріал: харчова нержавіюча сталь SUS 304<br>Колір виробу: нержавіюча сталь<br>Комплектація:<br>- змішувач<br>- верхній душ - кругла лійка ø20 см, стійка (80-110 см)<br>Вага в упаковці: 2.9 кг<br>750*320*110мм<br>Вага: 1.75 кг<br>Країна-виробник товару: Китай<br>Гарантія: 12 місяців офіційної гарантії від виробника.<br><br>Переваги моделей змішувачів Globus Lux з нержавющей стали:<br>1. Корпуси моделей виготовлені з якісної нержавіючої сталі<br>2. Довговічність і безвідмовність в експлуатації<br>3. Елегантність форм, міцність і надійність<br>4. Висока функціональність<br>5. Використання якісних екологічно чистих матеріалів]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/20415/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/20415/2.jpeg</picture>
@@ -19518,14 +19518,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.004000</param>
     </offer>
-    <offer id="21994" available="true">
+    <offer id="21994" available="false">
       <vendorCode>000021994</vendorCode>
       <categoryId>11</categoryId>
       <price>1705</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для умивальника Globus Lux ALPEN SBT1-106B</name>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Змішувач для умивальника/біде Globus Lux ALPEN SBT1-106В <br>Вид монтажу: Врізний<br>Вид змішувача: Одноважільний<br>Габарити (ВхГ): 17 х 14.5 см<br>Тип виливу: стаціонарний<br>Матеріал: Нержавіюча сталь<br>Колір виробу: Нержавіюча сталь<br>Підключення до водопроводу<br>Вага в упаковці: 1 кг<br>Вага: 0.85 кг<br>Комплектація:<br>- Змішувач з нержавійки<br>- Шланг М10 * 1 / 2″-2шт,<br>- Кріплення для змішувача - гайка з нержавійки<br>- Шланг для душу 150 см<br>- Стоп-лійка гігієнічна<br>- Кріплення на стіну для лійки<br>Країна-виробник товару: Китай<br>Гарантія: 12 місяців офіційної гарантії від виробника.<br><br><br>Розмір упаковки ШхГхВ: 26,5х19,5х6 см<br>Вага нетто: 1,35 кг<br>Вага брутто: 1,71 кг]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/21994/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/21994/2.jpeg</picture>
@@ -19901,7 +19901,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач гігієнічний Globus Lux  Niagara GLN-5-106MIX</name>
-      <stock_quantity>7</stock_quantity>
+      <stock_quantity>6</stock_quantity>
       <description><![CDATA[Змішувач для біде Globus Lux GLN-5-106MIX Cold/Hot зі стіни<br>Країна-виробник товару: Китай<br>Вид монтажу: Настінний<br>Вид змішувача: Одноважільний<br>Тип виливу: без виливу<br>Довжина шланга: 120 см<br>Кількість типів струї: 1<br>Матеріал: Латунь<br>Колір виробу: Хром<br>Габарити упаковки (ВхШхГ): 14,5х20,5х23,5 см<br>Вага в упаковці: 2,05 кг<br>Вага: 1,75  кг<br>Гарантія: 24 місяці офіційної гарантії від виробника.<br><br>Переваги змішувачів Globus Lux:<br>1. Довговічність і безвідмовність в експлуатації<br>2. Елегантність форм, міцність і надійність<br>3. Висока функціональність<br>4. Використання якісних екологічно чистих матеріалів<br>5. Інноваційні технології виробництва<br>6. Корпуси виготовлені з латуні з вмістом міді не менше 70%]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/22013/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/22013/2.jpeg</picture>
@@ -25383,14 +25383,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.001000</param>
     </offer>
-    <offer id="26593" available="true">
+    <offer id="26593" available="false">
       <vendorCode>000026593</vendorCode>
       <categoryId>11</categoryId>
       <price>1035</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux ALPEN SBT1-203S-GP</name>
-      <stock_quantity>9</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Змішувач для кухні Globus Lux ALPEN SBT1-203S-GP Графіт боковий Нержавійка_на гайці<br>Вид монтажу: Врізний<br>Вид змішувача: Одноважільний<br>Тип виливу: Поворотний<br>Підключення до водопроводу<br>Матеріал: Нержавіюча сталь<br>Колір виробу: Графіт<br>Додаткові характеристики:<br>- Монтаж на один отвір<br>- Металевий, бічний важіль<br>- Система швидкого монтажу<br>Комплектація:<br>- Змішувач<br>- Шланги для змішувача Globus Lux  М10х1/2″ 0,5м. АНТИКОРОЗІЯ (  ПАРА)<br>- Кріплення для змішувача - гайка <br>Країна-виробник товару: Китай<br>Гарантія: 12 місяців офіційної гарантії від виробника.]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/26593/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/26593/2.jpeg</picture>
