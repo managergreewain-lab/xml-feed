@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-18 06:34">
+<yml_catalog date="2026-11-18 07:34">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -1459,14 +1459,14 @@
       <name>Змішувач для кухні Globus Lux Koln GLK-0203L-10-BB</name>
       <stock_quantity>0</stock_quantity>
     </offer>
-    <offer id="64288827" available="false">
+    <offer id="64288827" available="true">
       <id>64288827</id>
       <vendorCode>000014956</vendorCode>
       <categoryId>2712456</categoryId>
       <price>1690</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні Globus Lux Koln GLK-0203L</name>
-      <stock_quantity>0</stock_quantity>
+      <stock_quantity>100</stock_quantity>
     </offer>
     <offer id="64288854" available="false">
       <id>64288854</id>
@@ -1675,14 +1675,14 @@
       <name>Поличка кутова Globus Lux BS 8499</name>
       <stock_quantity>0</stock_quantity>
     </offer>
-    <offer id="60297879" available="false">
+    <offer id="60297879" available="true">
       <id>60297879</id>
       <vendorCode>000022204</vendorCode>
       <categoryId>3181398</categoryId>
       <price>622</price>
       <currencyId>UAH</currencyId>
       <name>Полиця одинарна Globus Lux SQ9499</name>
-      <stock_quantity>0</stock_quantity>
+      <stock_quantity>100</stock_quantity>
     </offer>
     <offer id="60298055" available="true">
       <id>60298055</id>
