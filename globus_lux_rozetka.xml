@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-18 06:02">
+<yml_catalog date="2026-11-18 08:02">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -5691,7 +5691,7 @@
     <offer id="14963" available="false">
       <vendorCode>000014963</vendorCode>
       <categoryId>11</categoryId>
-      <price>2140</price>
+      <price>2035</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні під осмос Globus Lux LAZER GLLR-0777</name>
@@ -5745,7 +5745,7 @@
     <offer id="14965" available="false">
       <vendorCode>000014965</vendorCode>
       <categoryId>11</categoryId>
-      <price>2335</price>
+      <price>2220</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні під осмос Globus Lux LAZER GLLR-0100-8-STSTEEL</name>
@@ -11778,7 +11778,7 @@
     <offer id="19251" available="false">
       <vendorCode>000019251</vendorCode>
       <categoryId>11</categoryId>
-      <price>2140</price>
+      <price>2035</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні під осмос Globus Lux LAZER GLLR-0100-6-MARONE</name>
@@ -12129,7 +12129,7 @@
     <offer id="19265" available="true">
       <vendorCode>000019265</vendorCode>
       <categoryId>11</categoryId>
-      <price>2250</price>
+      <price>2140</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні під осмос Globus Lux LAZER GLLR-1000-8-STSTEEL</name>
@@ -28541,14 +28541,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.009000</param>
     </offer>
-    <offer id="28881" available="true">
+    <offer id="28881" available="false">
       <vendorCode>000028881</vendorCode>
       <categoryId>11</categoryId>
       <price>4600</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Змішувач для умивальника TOPAZ LOFT TLF 32235-H39-C</name>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Змішувач для умивальника TOPAZ LOFT TLF 32235-H39-C  вбудований у стіну, Хром <br>TC-35-Картридж керамічний короткий D35-TOPAZ<br><br>Серія змішувачів TOPAZ дивує своєю вишуканістю форм, надійністю в експлуатації, витонченим дизайном.<br>У комплектацію входить:<br>Змішувач з латуні<br><br>Якісна продукція TOPAZ прослужить Вам довгі роки]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/28881/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/28881/2.jpeg</picture>
