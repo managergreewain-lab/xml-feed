@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-18 11:02">
+<yml_catalog date="2026-11-18 12:02">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -2287,14 +2287,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.004000</param>
     </offer>
-    <offer id="9831" available="true">
+    <offer id="9831" available="false">
       <vendorCode>000009831</vendorCode>
       <categoryId>62</categoryId>
       <price>286</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Шланг душовий Globus Lux NH-02D-175</name>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Шланг душовий Globus Lux NH-02D-175<br>Довжина - 175 см<br>Підключення - 1/2″ x 1/2″<br>серцевина латунь<br>антибактеріальне покриття<br>З&apos;єднання Double Lock<br>Матеріал - нержавіюча сталь AISI 304<br>Колір - хром<br>Вага - 0.285 кг<br>Виробник - Китай]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/9831/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/9831/2.jpeg</picture>
@@ -3127,7 +3127,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Душова лійка Globus Lux STS-0250 ТРОПИК St/ STEEL Polish</name>
-      <stock_quantity>6</stock_quantity>
+      <stock_quantity>5</stock_quantity>
       <description><![CDATA[Лійка душова ТРОПИК Globus Lux STS-0250<br>Форма - Кругла ø 25 см<br>Верхній душ з кульовим шарніром, кут повороту ± 20 °<br>Матеріал - нержавіюча сталь SUS304 Полірована<br>Колір - Нержавіюча сталь полірована<br>Вага - 0.725 кг<br>Країна виробник - Китай<br>Гарантія виробника - 12 місяців]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/11821/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/11821/2.jpeg</picture>
@@ -7694,7 +7694,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні під осмос Globus Lux ALPEN SUS-0110-1</name>
-      <stock_quantity>8</stock_quantity>
+      <stock_quantity>7</stock_quantity>
       <description><![CDATA[Кухонний змішувач Globus Lux SUS-0110-1 SUS304 комбінований під ОСМОС<br>Вид монтажу: Врізний<br>Вид змішувача: Одноважільний<br>Габарити (ВхГ): 35.5 х 28.5 см<br>Тип виливу: Поворотний<br>Висота виливу: 32 см<br>Довжина виливу: 24.5 см<br>Підключення до фільтру і водопроводу<br>Матеріал: Нержавіюча сталь<br>Колір виробу: Нержавіюча сталь<br>Додаткові характеристики:<br>- Монтаж на один отвір<br>- Система швидкого монтажу<br>- Гнучка проводка<br>Вага в упаковці: 2.4 кг<br>Вага: 2.175 кг<br>Країна-виробник товару: Китай<br>Гарантія: 12 місяців офіційної гарантії від виробника.<br><br>Комплектація:<br>Змішувач з нержавійки<br>Шланг М10 * 1 / 2″-3шт<br>Quick fitting 1/4 ″-1/2″ (зовнішня різьба)<br>Кріплення для змішувача - гайка з нержавійки<br><br>Змішувач має 3 контури для підключення води:<br>- 1 і 2 використовується для підключення холодної та гарячої води. Змішування води відбувається за допомогою стандартного картриджа з маленьким ричагом;<br>- 3 контур використовується для підключення очищеної води. Відкриття чистої води здійснюється за допомогою іншого картриджа з великим ричагом .<br>Водопровідна та фільтрована вода мають окремі канали (трубка в трубці) і вихідні отвори в лійці змішувача, що повністю виключає можливість змішування очищеної та брудної води.]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/17522/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/17522/2.jpeg</picture>
@@ -13243,14 +13243,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.009000</param>
     </offer>
-    <offer id="19560" available="true">
+    <offer id="19560" available="false">
       <vendorCode>000019560</vendorCode>
       <categoryId>11</categoryId>
       <price>3480</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Змішувач для кухні під осмос TOPAZ CORSICA TC-8802-H48</name>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Кухонний змішувач TOPAZ CORSICA TC-8802-H48 під осмос<br><br>Комплектація:<br>- змішувач латунний<br>- шланг М10 * 1 / 2-2шт<br>- кріплення для змішувача - гайка<br>- колір-сталь/чорний декор<br>КартриджTC-35L-Картридж керамічний високий з ніжками D35-TOPAZ<br><br>Для виготовлення продукції ТМ TOPAZ використовуються матеріали відповідні суворим міжнародним гігієнічним стандартам та екологічним нормам.<br>Всі етапи створення продукції ретельно контролюються, що дозволяє компанії гарантувати бездоганну якість кожного виробу, яку оцінили тисячі споживачів в світі в цілому, і в Україні зокрема.<br>Також ТМ TOPAZ схвалена вітчизняними професіоналами.<br>З кожним роком компанія удосконалює свої технології, розробляючи все нові моделі, виходячи на новий рівень якості виробництва.<br>Доступні ціни ТМ TOPAZ дозволяють придбати зручну, красиву і якісну продукцію.<br>Гарантія на всі  змішувачі марки TOPAZ становить 5 років<br>Виробництво сертифіковане по системі якості ISO 9001: 2000<br><br>Габарити (ВхШхГ): 650 х 350 х 60 мм<br>Вага в упаковці: 3.3 кг<br>Вага: 3.05 кг]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/19560/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/19560/2.jpeg</picture>
@@ -14423,7 +14423,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Шланг душовий Globus Lux NH-039-175 Double-Lock</name>
-      <stock_quantity>5</stock_quantity>
+      <stock_quantity>3</stock_quantity>
       <description><![CDATA[Шланг душовою Globus Lux NH-039-175 Double-Lock<br>Довжина - 175 см<br>Підключення - 1/2 ″x 1/2″<br>Матеріал - Метал / EPDM<br>Колір - хром<br>Виробник - Китай]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/20405/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/20405/2.jpeg</picture>
@@ -24972,7 +24972,7 @@
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Душова лійка Topaz NF-2288-00-LOTUS</name>
-      <stock_quantity>8</stock_quantity>
+      <stock_quantity>5</stock_quantity>
       <description><![CDATA[Душова лійка Topaz NF-2288-00-LOTUS<br>Матеріал - Пластик<br>Колір - Хром / Сірий<br>Кількість типів струї - 5<br>Діаметр ручної лійки - 12 см<br>Вага - 0.25 кг<br>Країна виробник - Китай<br><br>Душові лійки ТМ Topaz   — це довговічність, відома  якість, новітні технології та можливість створити зручну ванну кімнату.  Вони дозволять легко оновити вашу ванну кімнату і насолоджуватися душовими процедурами в новій якості.<br>Душові лійки ТМ Topaz відрізняються функціональністю та простотою застосування.  Матеріали, які використовуються для виробництва душових лійок мають  високу якість, що гарантуює надійну роботу протягом багатьох років.]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/25266/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/25266/2.jpeg</picture>
@@ -28843,7 +28843,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux LAZER Pro GLPR-203SM-GPлатунь Графіт,гофровилив Чорний з душ.насадкою</name>
-      <stock_quantity>6</stock_quantity>
+      <stock_quantity>5</stock_quantity>
       <description><![CDATA[Змішувач для кухні Globus Lux LAZER Pro GLPR-203SM-GPлатунь Графіт,гофровилив Чорний з душ.насадкою<br><br>Країна-виробник товару: Китай<br>Вид монтажу: Врізний<br>Вид змішувача: Одноважільний<br>Тип виливу: Поворотний, 360°<br>Підключення до водопроводу<br>Матеріал: Латунь<br>Колір виробу: Чорний, графіт<br>Додаткові характеристики:<br>- Монтаж на один отвір<br>- Металевий, бічний важіль<br>- Система швидкого монтажу<br><br>Комплектація:<br>- Змішувач латунний<br>- Шланг М10*1/2-2шт<br>- Кріплення для змішувача - гайка<br><br>Країна реєстрації бренду: Україна<br>Гарантія: 12 місяців офіційної гарантії від виробника.]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/28923/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/28923/2.jpeg</picture>
