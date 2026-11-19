@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-19 07:02">
+<yml_catalog date="2026-11-19 09:02">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -462,7 +462,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Мильниця Globus Lux RM1301</name>
-      <stock_quantity>10</stock_quantity>
+      <stock_quantity>3</stock_quantity>
       <description><![CDATA[RM 1301 Мильниця металева Globus Lux<br>Кріплення - Шурупи<br>Тип установки - Настінний (підвісний)<br>Комплектація:<br>- Монтажні елементи<br>- Мильниця<br>Габарити (ШхВ): 14 х 6 см<br>Вага - 0.28 кг<br>Гарантія - 12 місяців офіційної гарантії від виробника]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/1963/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/1963/2.jpeg</picture>
