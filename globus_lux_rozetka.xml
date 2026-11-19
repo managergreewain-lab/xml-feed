@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-19 10:02">
+<yml_catalog date="2026-11-19 11:02">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -462,7 +462,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Мильниця Globus Lux RM1301</name>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>10</stock_quantity>
       <description><![CDATA[RM 1301 Мильниця металева Globus Lux<br>Кріплення - Шурупи<br>Тип установки - Настінний (підвісний)<br>Комплектація:<br>- Монтажні елементи<br>- Мильниця<br>Габарити (ШхВ): 14 х 6 см<br>Вага - 0.28 кг<br>Гарантія - 12 місяців офіційної гарантії від виробника]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/1963/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/1963/2.jpeg</picture>
@@ -15180,14 +15180,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.001000</param>
     </offer>
-    <offer id="20839" available="true">
+    <offer id="20839" available="false">
       <vendorCode>000020839</vendorCode>
       <categoryId>11</categoryId>
       <price>2550</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Змішувач для умивальника TOPAZ ODISS TO 18221-H52-BL</name>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Змішувач для умивальника TOPAZ ODISS TO 18221-H52-BL<br>Комплектація:<br>Змішувач латунний<br>Шланги для підключення води - 2 шт.<br>Кріплення: гайка<br>Картридж M FX-35SA(MD) -Картридж керамічний для змішувача Odiss короткий D35-TOPAZ<br>Колір: чорний матовий<br><br>Для виготовлення продукції ТМ TOPAZ використовуються матеріали відповідні суворим міжнародним гігієнічним стандартам та екологічним нормам.<br>Всі етапи створення продукції ретельно контролюються, що дозволяє компанії гарантувати бездоганну якість кожного виробу, яку оцінили тисячі споживачів в світі в цілому, і в Україні зокрема.<br><br>Також ТМ TOPAZ схвалена вітчизняними професіоналами.<br>З кожним роком компанія удосконалює свої технології, розробляючи все нові моделі, виходячи на новий рівень якості виробництва.<br>Доступні ціни ТМ TOPAZ дозволяють придбати зручну, красиву і якісну продукцію.<br>Гарантія на всі змішувачі марки TOPAZ становить 5 років<br>Виробництво сертифіковане по системі якості ISO 9001: 2000<br><br>Габарити упаковки ВхГхШ: 32 х 19 х 6 см<br>Вага нетто: 1150 р<br>Вага брутто 1310 г<br>Габарити (ШхВхГ): 50 х 153 х 142 мм]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/20839/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/20839/2.jpeg</picture>
@@ -21664,7 +21664,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для ванни Globus Lux Sorento SQ-208HR-Лійка SUS304. Квадро,L- 350мм, Нержавійка, Комплект</name>
-      <stock_quantity>6</stock_quantity>
+      <stock_quantity>5</stock_quantity>
       <description><![CDATA[Змішувач для ванни Globus Lux SICILIA SQ-208HR, SUS304<br><br>Переваги моделей змішувачів Globus Lux з нержавійки:<br>1. Корпус моделей виготовлений з харчової нержавіючої сталі SUS304<br>2. Довговічність і безвідмовність в експлуатації<br>3. Елегантність форм, міцність і надійність<br>4. Висока функціональність<br>5. Використання якісних екологічно чистих матеріалів<br>6. Інноваційні технології виробництва<br><br>Комплектація:<br>Змішувач з нержавійки<br>Шланг для душа<br>Лійка для душу<br>Кріплення для душової лійки<br>Євро-перемикач<br>Довжина гусака-350мм<br>ексцентрики<br>декоративні чаші]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/22607/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/22607/2.jpeg</picture>
@@ -30953,7 +30953,7 @@
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Змішувач гігієнічний TOPAZ MODERNO TMD-33106-H78A</name>
-      <stock_quantity>9</stock_quantity>
+      <stock_quantity>7</stock_quantity>
       <description><![CDATA[Змішувач гігієнічний TOPAZ MODERNO TMD-33106-H78A  моноблок вбудований, стоп-лійка D35<br>Код 000031411<br>Серія змішувачів TOPAZ дивує своєю вишуканістю форм, надійністю в експлуатації, витонченим дизайном.<br>У комплектацію входить:<br>Змішувач з латуні з кріпленням для лійки<br>Душовий шланг силіконовий 1,5м<br>Стоп-лійка<br>Декоративна чашка<br>Картридж M FX-35SA(MD) -Картридж керамічний для змішувача Odiss короткий D35-TOPAZ<br>Якісна продукція TOPAZ прослужить Вам довгі роки]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/31411/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/31411/2.jpeg</picture>
