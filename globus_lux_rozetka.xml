@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-19 09:02">
+<yml_catalog date="2026-11-19 10:02">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -32801,14 +32801,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.000000</param>
     </offer>
-    <offer id="32427" available="true">
+    <offer id="32427" available="false">
       <vendorCode>000032427</vendorCode>
       <categoryId>30</categoryId>
       <price>920</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Поличка кутова TOPAZ 3115-1S</name>
-      <stock_quantity>6</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Поличка в душову TOPAZ 3115-1S-кутова Одинарна SUS304-Хром <br>Кріплення - Шурупи<br>Тип установки - Настінний (підвісний)<br>Матеріал виробу - SUS304<br>Колір виробу - Хром<br>Комплектація:<br>- Монтажні елементи<br>- Полиця<br><br>Гарантія - 12 місяців офіційної гарантії від виробника]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/32427/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/32427/2.jpeg</picture>
