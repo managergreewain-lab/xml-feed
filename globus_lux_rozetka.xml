@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-20 10:02">
+<yml_catalog date="2026-11-20 12:02">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -8666,7 +8666,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Душова лійка Globus Lux NSF-080-1-LUX Blister</name>
-      <stock_quantity>50</stock_quantity>
+      <stock_quantity>10</stock_quantity>
       <description><![CDATA[Душова лійка Globus Lux NSF-080-1-LUX упаковка Blister<br>Матеріал - Пластик<br>Колір - Хром/сірий (блакитна гума)<br>Кількість типів струї - 4<br>Діаметр ручної лійки - 10 см<br>Вага - 0.14 кг<br>Країна виробник - Китай]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/17954/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/17954/2.jpeg</picture>
@@ -19689,7 +19689,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для умивальника Globus Lux MAIN SM-203M</name>
-      <stock_quantity>9</stock_quantity>
+      <stock_quantity>7</stock_quantity>
       <description><![CDATA[Змішувач для кухні Globus Lux MAIN SM-203M, SUS304<br><br>Переваги моделей змішувачів Globus Lux з нержавійки:<br>1. Корпус моделей виготовлений з харчової нержавіючої сталі SUS304<br>2. Довговічність і безвідмовність в експлуатації<br>3. Елегантність форм, міцність і надійність<br>4. Висока функціональність<br>5. Використання якісних екологічно чистих матеріалів<br>6. Інноваційні технології виробництва<br><br>Комплектація:<br>Змішувач з нержавійки<br>Шланги для змішувача Globus Lux  М10х1/2″ 0,5м. АНТИКОРОЗІЯ (  ПАРА)<br>Кріплення для змішувача - гайка з нержавійки<br><br>Розмір упаковки ШхГхВ: 24х14х6 см<br>Вага нетто: 0,60 кг<br>Вага брутто: 0,91 кг]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/22002/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/22002/2.jpeg</picture>
@@ -20273,7 +20273,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Полиця одинарна Globus Lux SQ9499</name>
-      <stock_quantity>6</stock_quantity>
+      <stock_quantity>5</stock_quantity>
       <description><![CDATA[Полиця одинарна кутова Globus Lux SQ9499<br>Країна виробник товару - Китай<br>Тип товару - Аксесуари для ванної кімнати<br>Кріплення - Шурупи<br>Тип установки - Настінний (підвісний)<br>Матеріал виробу - нержавіюча сталь (SUS 304)<br>Колір виробу - нержавіюча сталь<br>Комплектація:<br>- Монтажні елементи<br>- Полиця<br>Габарити упаковки (ВхШхГ): 21 х 21 х 7 см<br>Габарити (ШхВ): 26.1 х 6 см<br>Вага в упаковці - 0.46 кг<br>Вага - 0.385 кг<br>Гарантія - 12 місяців офіційної гарантії від виробника]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/22204/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/22204/2.jpeg</picture>
@@ -27605,7 +27605,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux BONN GLB-0203S боковий латунь на гайці</name>
-      <stock_quantity>4</stock_quantity>
+      <stock_quantity>6</stock_quantity>
       <description><![CDATA[Змішувач для кухні Globus Lux BONN GLB-0203S боковий латунь на гайці<br><br>Переваги змішувачів Globus Lux:<br>1 Довговічність і безвідмовність в експлуатації<br>2 Елегантність форм, міцність і надійність<br>3 Висока функціональність<br>4 Використання якісних екологічно чистих матеріалів<br>5 Інноваційні технології виробництва<br>6 Корпус виготовлений з латуні з вмістом міді не менше 70%<br><br>Комплектація:<br>Змішувач латунний<br>Шланг М10 * 1 / 2″-2шт<br>Кріплення для змішувача - гайка]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/28496/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/28496/2.jpeg</picture>
@@ -29920,14 +29920,14 @@
       <param name="Вага брутто (кг.)">4.000000</param>
       <param name="Об&apos;єм (м³)">0.047021</param>
     </offer>
-    <offer id="30816" available="true">
+    <offer id="30816" available="false">
       <vendorCode>000030816</vendorCode>
       <categoryId>11</categoryId>
       <price>1245</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для умивальника Globus Lux Solly GLSO-0401HL</name>
-      <stock_quantity>4</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Змішувач для умивальника Globus Lux Solly GLSO-0401HL латунь на гайці<br><br>Переваги змішувачів Globus Lux:<br>1 Довговічність і безвідмовність в експлуатації<br>2 Елегантність форм, міцність і надійність<br>3 Висока функціональність<br>4 Використання якісних екологічно чистих матеріалів<br>5 Інноваційні технології виробництва<br>6 Корпус виготовлений з латуні з вмістом міді не менше 70%<br><br>Комплектація:<br>Змішувач латунний<br>Шланг М10 * 1 / 2″-2шт<br>Кріплення для змішувача -гайка]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/30816/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/30816/2.jpeg</picture>
