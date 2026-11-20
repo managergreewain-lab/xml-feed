@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-20 12:34">
+<yml_catalog date="2026-11-20 13:35">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -2024,7 +2024,7 @@
       <price>322</price>
       <currencyId>UAH</currencyId>
       <name>Гачок подвійний Globus Lux BQ9412 чорний матовий SUS304</name>
-      <stock_quantity>4</stock_quantity>
+      <stock_quantity>7</stock_quantity>
     </offer>
     <offer id="60306954" available="false">
       <id>60306954</id>
@@ -2053,14 +2053,14 @@
       <name>Гачок подвійний Globus Lux SQ 9412</name>
       <stock_quantity>0</stock_quantity>
     </offer>
-    <offer id="60307050" available="false">
+    <offer id="60307050" available="true">
       <id>60307050</id>
       <vendorCode>000019469</vendorCode>
       <categoryId>3183459</categoryId>
       <price>282</price>
       <currencyId>UAH</currencyId>
       <name>Гачок одинарний Globus Lux SQ9411</name>
-      <stock_quantity>0</stock_quantity>
+      <stock_quantity>3</stock_quantity>
     </offer>
     <offer id="60308993" available="false">
       <id>60308993</id>
