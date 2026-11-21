@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-21 10:02">
+<yml_catalog date="2026-11-21 13:02">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -9933,7 +9933,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux LAZER GLLR-0203SB</name>
-      <stock_quantity>10</stock_quantity>
+      <stock_quantity>4</stock_quantity>
       <description><![CDATA[Змішувач Globus Lux LAZER GLLR-0203 SB BLACK<br><br>Країна-виробник товару: Китай<br>Вид монтажу: Врізний<br>Вид змішувача: Одноважільний<br>Габарити (ВхГ): 36,5 х 24 см<br>Тип виливу: Поворотний, 360°<br>Довжина виливу: 20 см<br>Підключення до водопроводу<br>Матеріал: Латунь<br>Колір виробу: Чорний, хром<br>Додаткові характеристики:<br>- Монтаж на один отвір<br>- Металевий, бічний важіль<br>- Система швидкого монтажу<br>Вага в упаковці: 1,86 кг<br>Вага: 1,3 кг<br>Габарити упаковки (ВхШхГ): 38х21х6.5 см<br><br>Комплектація:<br>- Змішувач латунний<br>- Шланг М10*1/2″-2шт<br>- Кріплення для змішувача - гайка<br><br>Країна реєстрації бренду: Україна<br>Гарантія: 12 місяців офіційної гарантії від виробника.]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/18461/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/18461/2.jpeg</picture>
@@ -10712,7 +10712,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для умивальника Globus Lux Laguna GLA-0401</name>
-      <stock_quantity>10</stock_quantity>
+      <stock_quantity>5</stock_quantity>
       <description><![CDATA[Змішувач для раковини Globus Lux Laguna GLA-0401<br><br>Переваги змішувачів Globus Lux:<br>1 Довговічність і безвідмовність в експлуатації<br>2 Елегантність форм, міцність і надійність<br>3 Висока функціональність<br>4 Використання якісних екологічно чистих матеріалів<br>5 Інноваційні технології виробництва<br>6 Корпус виготовлений з латуні з вмістом міді не менше 70%<br><br>Комплектація:<br>Змішувач латунний<br>Шланг М10 * 1 / 2″-2шт<br>Кріплення для змішувача - гайка]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/19194/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/19194/2.jpeg</picture>
@@ -11062,14 +11062,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.005000</param>
     </offer>
-    <offer id="19209" available="true">
+    <offer id="19209" available="false">
       <vendorCode>000019209</vendorCode>
       <categoryId>11</categoryId>
       <price>780</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux Solly GLSO-0203S-6-MARONE</name>
-      <stock_quantity>4</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Змішувач SOLLY GLSO-0203S-6-MARONE Globus Lux з бічною ручкою на гайці, шоколад<br><br>Переваги змішувачів Globus Lux:<br>1 Довговічність і безвідмовність в експлуатації<br>2 Елегантність форм, міцність і надійність<br>3 Висока функціональність<br>4 Використання якісних екологічно чистих матеріалів<br>5 Інноваційні технології виробництва<br>6 Корпус виготовлений з латуні з вмістом міді не менше 70%<br><br>Комплектація:<br>Змішувач латунний<br>Шланг М10 * 1 / 2″-2шт<br>Кріплення для змішувача - гайка]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/19209/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/19209/2.jpeg</picture>
@@ -12231,14 +12231,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.004000</param>
     </offer>
-    <offer id="19326" available="true">
+    <offer id="19326" available="false">
       <vendorCode>000019326</vendorCode>
       <categoryId>11</categoryId>
       <price>5690</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для ванни Globus Lux Milano GLM-0109</name>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Змішувач для ванни Globus Lux MILANO GLM-0109, вбудований, душовий комплект<br><br>Переваги змішувачів Globus Lux:<br>1. Довговічність і безвідмовність в експлуатації<br>2. Елегантність форм, міцність і надійність<br>3. Висока функціональність<br>4. Використання якісних екологічно чистих матеріалів<br>5. Інноваційні технології виробництва<br>6. Корпус виготовлений з латуні з вмістом міді не менше 70%<br><br>Комплектація:<br>-змішувач латуний<br>-Лійка ручна<br>-шланг душовий<br>-Вилив]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/19326/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/19326/2.jpeg</picture>
@@ -18631,14 +18631,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.007000</param>
     </offer>
-    <offer id="21857" available="true">
+    <offer id="21857" available="false">
       <vendorCode>000021857</vendorCode>
       <categoryId>11</categoryId>
       <price>1450</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для ванни Globus Lux Laguna GLA-0208-10-BB</name>
-      <stock_quantity>7</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Змішувач для ванни Globus Lux Laguna GLA-020810-BB EURO, чорний матовий, душовий комплект<br><br>Переваги змішувачів Globus Lux:<br>1 Довговічність і безвідмовність в експлуатації<br>2 Елегантність форм, міцність і надійність<br>3 Висока функціональність<br>4 Використання якісних екологічно чистих матеріалів<br>5 Інноваційні технології виробництва<br>6 Корпус виготовлений з латуні з вмістом міді не менше 70%<br><br>Комплектація:<br>Змішувач латунний<br>Тримач для душу<br>Ручна лійка,<br>Шланг душовий<br>Ексцентрики для змішувачів настінного монтажу<br>декоративні чаші<br><br><br>Розмір упаковки ВхШхГ: 10х16х37 см<br>Вага нетто: 1,55 кг<br>Вага брутто: 1,84 кг]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/21857/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/21857/2.jpeg</picture>
@@ -31941,7 +31941,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для умивальника Globus Lux TURIN  GLTU-0401</name>
-      <stock_quantity>8</stock_quantity>
+      <stock_quantity>3</stock_quantity>
       <description><![CDATA[Змішувач для умивальника Globus Lux  TURIN  GLTU-0401 латунь на гайці<br><br>Переваги змішувачів Globus Lux:<br>1. Довговічність і безвідмовність в експлуатації<br>2. Елегантність форм, міцність і надійність<br>3. Висока функціональність<br>4. Використання якісних екологічно чистих матеріалів<br>5. Інноваційні технології виробництва<br>6. Корпус виготовлений з латуні з вмістом міді не менше 70%<br><br>Комплектація:<br>-змішувач латунний<br>-Шланги М10*1/2″-2шт<br>-Кріплення для змішувача - гайка]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/31798/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/31798/2.jpeg</picture>
