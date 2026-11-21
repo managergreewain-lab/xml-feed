@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-21 05:02">
+<yml_catalog date="2026-11-21 07:02">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -13420,7 +13420,7 @@
     <offer id="19764" available="false">
       <vendorCode>000019764</vendorCode>
       <categoryId>30</categoryId>
-      <price>133</price>
+      <price>149</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>МИЛЬНИЦЯ GLASS 0008 квадратна матова для TKB, SQ , BQ</name>
@@ -13437,7 +13437,7 @@
     <offer id="19766" available="false">
       <vendorCode>000019766</vendorCode>
       <categoryId>30</categoryId>
-      <price>134</price>
+      <price>149</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Мильниця  GLASS 0015 кругла матова для серій SP,SS,BS</name>
