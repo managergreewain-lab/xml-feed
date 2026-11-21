@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-21 09:36">
+<yml_catalog date="2026-11-21 11:33">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -271,14 +271,14 @@
       <name>Душова система Globus Lux QUEENSLAND GLQU-0077</name>
       <stock_quantity>3</stock_quantity>
     </offer>
-    <offer id="57579234" available="true">
+    <offer id="57579234" available="false">
       <id>57579234</id>
       <vendorCode>000018474</vendorCode>
       <categoryId>2718126</categoryId>
       <price>7425</price>
       <currencyId>UAH</currencyId>
       <name>Душова система Globus Lux Termostatic Q GLM-0041T</name>
-      <stock_quantity>1</stock_quantity>
+      <stock_quantity>0</stock_quantity>
     </offer>
     <offer id="57648861" available="false">
       <id>57648861</id>
@@ -1592,7 +1592,7 @@
       <price>2095</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні Globus Lux LAZER GLLR-0203SB</name>
-      <stock_quantity>10</stock_quantity>
+      <stock_quantity>4</stock_quantity>
     </offer>
     <offer id="64309135" available="false">
       <id>64309135</id>
@@ -2321,7 +2321,7 @@
       <price>1450</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для ванни Globus Lux Laguna GLA-0208-10-BB</name>
-      <stock_quantity>7</stock_quantity>
+      <stock_quantity>1</stock_quantity>
     </offer>
     <offer id="52778908" available="true">
       <id>52778908</id>
@@ -2447,7 +2447,7 @@
       <price>5690</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для ванни Globus Lux Milano GLM-0109</name>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>1</stock_quantity>
     </offer>
     <offer id="56062137" available="true">
       <id>56062137</id>
