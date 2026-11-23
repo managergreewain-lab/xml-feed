@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-23 15:34">
+<yml_catalog date="2026-11-23 16:33">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -469,14 +469,14 @@
       <name>Душова система Globus Lux LAGUNA GLA-0005N-10-BB</name>
       <stock_quantity>0</stock_quantity>
     </offer>
-    <offer id="67339016" available="true">
+    <offer id="67339016" available="false">
       <id>67339016</id>
       <vendorCode>000023330</vendorCode>
       <categoryId>2718126</categoryId>
       <price>7960</price>
       <currencyId>UAH</currencyId>
       <name>Душова система Globus Lux MILANO VAN-GLM-0026-10-BB</name>
-      <stock_quantity>1</stock_quantity>
+      <stock_quantity>0</stock_quantity>
     </offer>
     <offer id="67495998" available="false">
       <id>67495998</id>
@@ -2116,14 +2116,14 @@
       <name>Змішувач для біде Globus Lux Solly GLSO-0106</name>
       <stock_quantity>10</stock_quantity>
     </offer>
-    <offer id="55492883" available="true">
+    <offer id="55492883" available="false">
       <id>55492883</id>
       <vendorCode>000021534</vendorCode>
       <categoryId>2902452</categoryId>
       <price>2325</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для біде TOPAZ ODISS TO 18601-H52-BL</name>
-      <stock_quantity>1</stock_quantity>
+      <stock_quantity>0</stock_quantity>
     </offer>
     <offer id="55492939" available="true">
       <id>55492939</id>
