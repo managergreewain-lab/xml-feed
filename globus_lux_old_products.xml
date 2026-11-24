@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-24 12:37">
+<yml_catalog date="2026-11-24 13:34">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -1349,7 +1349,7 @@
       <price>1165</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні Globus Lux ALPEN SUS-203S-BG15</name>
-      <stock_quantity>9</stock_quantity>
+      <stock_quantity>8</stock_quantity>
     </offer>
     <offer id="64174104" available="true">
       <id>64174104</id>
@@ -1358,7 +1358,7 @@
       <price>1095</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні Globus Lux ALPEN SBT1-203S-BEIGE</name>
-      <stock_quantity>4</stock_quantity>
+      <stock_quantity>3</stock_quantity>
     </offer>
     <offer id="64174114" available="true">
       <id>64174114</id>
@@ -1979,7 +1979,7 @@
       <price>540</price>
       <currencyId>UAH</currencyId>
       <name>Планка з гачками Globus Lux SQ 9435-4 SUS304</name>
-      <stock_quantity>6</stock_quantity>
+      <stock_quantity>4</stock_quantity>
     </offer>
     <offer id="60298313" available="false">
       <id>60298313</id>
@@ -2242,14 +2242,14 @@
       <name>Змішувач для ванни Globus Lux ALPEN SBT1-102NE-BB</name>
       <stock_quantity>0</stock_quantity>
     </offer>
-    <offer id="52771372" available="true">
+    <offer id="52771372" available="false">
       <id>52771372</id>
       <vendorCode>000016094</vendorCode>
       <categoryId>2726373</categoryId>
       <price>2105</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для ванни Globus Lux ALPEN SBT1-208</name>
-      <stock_quantity>10</stock_quantity>
+      <stock_quantity>0</stock_quantity>
     </offer>
     <offer id="52771396" available="false">
       <id>52771396</id>
@@ -2629,14 +2629,14 @@
       <name>Змішувач для ванни TOPAZ BARTS TB 07101-H36</name>
       <stock_quantity>3</stock_quantity>
     </offer>
-    <offer id="57127412" available="true">
+    <offer id="57127412" available="false">
       <id>57127412</id>
       <vendorCode>000015810</vendorCode>
       <categoryId>2726373</categoryId>
       <price>4160</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для ванни TOPAZ BARTS TB 07116-H36</name>
-      <stock_quantity>1</stock_quantity>
+      <stock_quantity>0</stock_quantity>
     </offer>
     <offer id="57127469" available="true">
       <id>57127469</id>
