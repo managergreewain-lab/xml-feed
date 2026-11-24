@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-24 08:34">
+<yml_catalog date="2026-11-24 09:34">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -44,7 +44,7 @@
       <price>990</price>
       <currencyId>UAH</currencyId>
       <name>Душова гігієнічна стоп-лійка TOPAZ SH77-BL</name>
-      <stock_quantity>2</stock_quantity>
+      <stock_quantity>1</stock_quantity>
     </offer>
     <offer id="52149829" available="true">
       <id>52149829</id>
@@ -937,14 +937,14 @@
       <name>Змішувач для кухні Globus Lux ALPEN SBT1-203L</name>
       <stock_quantity>10</stock_quantity>
     </offer>
-    <offer id="52102555" available="true">
+    <offer id="52102555" available="false">
       <id>52102555</id>
       <vendorCode>000019183</vendorCode>
       <categoryId>2712456</categoryId>
       <price>775</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні Globus Lux ALPEN SBT1-203S</name>
-      <stock_quantity>10</stock_quantity>
+      <stock_quantity>0</stock_quantity>
     </offer>
     <offer id="52102567" available="true">
       <id>52102567</id>
@@ -1232,7 +1232,7 @@
       <price>940</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні Globus Lux ALPEN SUS-203S</name>
-      <stock_quantity>10</stock_quantity>
+      <stock_quantity>9</stock_quantity>
     </offer>
     <offer id="57604656" available="true">
       <id>57604656</id>
@@ -1322,7 +1322,7 @@
       <price>2095</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні Globus Lux LAZER GLLR-0203SG</name>
-      <stock_quantity>2</stock_quantity>
+      <stock_quantity>1</stock_quantity>
     </offer>
     <offer id="59515263" available="true">
       <id>59515263</id>
@@ -1592,7 +1592,7 @@
       <price>2095</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні Globus Lux LAZER GLLR-0203SB</name>
-      <stock_quantity>4</stock_quantity>
+      <stock_quantity>3</stock_quantity>
     </offer>
     <offer id="64309135" available="false">
       <id>64309135</id>
