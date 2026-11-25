@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-25 02:02">
+<yml_catalog date="2026-11-25 08:02">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -24528,14 +24528,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.001000</param>
     </offer>
-    <offer id="25156" available="true">
+    <offer id="25156" available="false">
       <vendorCode>000025156</vendorCode>
       <categoryId>59</categoryId>
       <price>301</price>
       <currencyId>UAH</currencyId>
       <vendor>TOPAZ</vendor>
       <name>Душова лійка Topaz NF-2202-00-WHITE</name>
-      <stock_quantity>8</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Душова лійка Topaz NF-2202-00-WHITE <br>Матеріал - Пластик<br>Колір - Хром / Білий<br>Кількість типів струї - 3<br>Діаметр ручної лійки - 12 см<br>Вага - 0.25 кг<br>Країна виробник - Китай<br><br>Душові лійки ТМ Topaz   — це довговічність, відома  якість, новітні технології та можливість створити зручну ванну кімнату.  Вони дозволять легко оновити вашу ванну кімнату і насолоджуватися душовими процедурами в новій якості.<br>Душові лійки ТМ Topaz відрізняються функціональністю та простотою застосування.  Матеріали, які використовуються для виробництва душових лійок мають  високу якість, що гарантуює надійну роботу протягом багатьох років.]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/25156/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/25156/2.jpeg</picture>
