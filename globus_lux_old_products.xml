@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-25 12:33">
+<yml_catalog date="2026-11-25 13:36">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -406,14 +406,14 @@
       <name>Душова система TOPAZ LEXI TL 21702-H57-00</name>
       <stock_quantity>0</stock_quantity>
     </offer>
-    <offer id="64317947" available="true">
+    <offer id="64317947" available="false">
       <id>64317947</id>
       <vendorCode>000021368</vendorCode>
       <categoryId>2718126</categoryId>
       <price>27800</price>
       <currencyId>UAH</currencyId>
       <name>Душова система вбудована TOPAZ ODISS TO 08115-H13-BL</name>
-      <stock_quantity>1</stock_quantity>
+      <stock_quantity>0</stock_quantity>
     </offer>
     <offer id="64318042" available="true">
       <id>64318042</id>
@@ -424,14 +424,14 @@
       <name>Душова система вбудована TOPAZ ODISS TO 08115-H13</name>
       <stock_quantity>1</stock_quantity>
     </offer>
-    <offer id="64318058" available="true">
+    <offer id="64318058" available="false">
       <id>64318058</id>
       <vendorCode>000020237</vendorCode>
       <categoryId>2718126</categoryId>
       <price>11700</price>
       <currencyId>UAH</currencyId>
       <name>Душова система вбудована TOPAZ LEXI TLG 21205-H57-BL</name>
-      <stock_quantity>1</stock_quantity>
+      <stock_quantity>0</stock_quantity>
     </offer>
     <offer id="64318151" available="true">
       <id>64318151</id>
@@ -683,7 +683,7 @@
       <price>6890</price>
       <currencyId>UAH</currencyId>
       <name>Душова система Globus Lux GLM-205-BB-SMART</name>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>2</stock_quantity>
     </offer>
     <offer id="79041326" available="true">
       <id>79041326</id>
@@ -2879,7 +2879,7 @@
       <price>2850</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для умивальника Globus Lux Milano GLM-204-BB-SMART</name>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>2</stock_quantity>
     </offer>
     <offer id="52691236" available="true">
       <id>52691236</id>
@@ -2924,7 +2924,7 @@
       <price>4170</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для умивальника TOPAZ LEXI TL 21235-H57A-BL</name>
-      <stock_quantity>4</stock_quantity>
+      <stock_quantity>3</stock_quantity>
     </offer>
     <offer id="52810366" available="true">
       <id>52810366</id>
@@ -3075,7 +3075,7 @@
       <categoryId>7192312</categoryId>
       <price>27800</price>
       <currencyId>UAH</currencyId>
-      <stock_quantity>2</stock_quantity>
+      <stock_quantity>1</stock_quantity>
     </offer>
     <offer id="69694016" available="true">
       <id>69694016</id>
@@ -3099,7 +3099,7 @@
       <categoryId>3376953</categoryId>
       <price>9810</price>
       <currencyId>UAH</currencyId>
-      <stock_quantity>2</stock_quantity>
+      <stock_quantity>1</stock_quantity>
     </offer>
     <offer id="69694083" available="true">
       <id>69694083</id>
@@ -3107,7 +3107,7 @@
       <categoryId>3376953</categoryId>
       <price>9810</price>
       <currencyId>UAH</currencyId>
-      <stock_quantity>2</stock_quantity>
+      <stock_quantity>1</stock_quantity>
     </offer>
     <offer id="69694105" available="false">
       <id>69694105</id>
