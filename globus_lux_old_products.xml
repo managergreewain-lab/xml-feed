@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-25 07:33">
+<yml_catalog date="2026-11-25 08:35">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -395,7 +395,7 @@
       <price>11510</price>
       <currencyId>UAH</currencyId>
       <name>Душова система TOPAZ LEXI TL 21702-H57-BL</name>
-      <stock_quantity>2</stock_quantity>
+      <stock_quantity>1</stock_quantity>
     </offer>
     <offer id="64317900" available="false">
       <id>64317900</id>
