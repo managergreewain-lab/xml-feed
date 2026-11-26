@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-26 07:02">
+<yml_catalog date="2026-11-26 08:02">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -1830,7 +1830,7 @@
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Змішувач для кухні Globus Lux Solly GLSO-0104</name>
-      <stock_quantity>10</stock_quantity>
+      <stock_quantity>9</stock_quantity>
       <description><![CDATA[Змішувач SOLLY GLSO-0104 Globus Lux для кухні зі стіни L-250мм<br><br>Переваги змішувачів Globus Lux:<br>1 Довговічність і безвідмовність в експлуатації<br>2 Елегантність форм, міцність і надійність<br>3 Висока функціональність<br>4 Використання якісних екологічно чистих матеріалів<br>5 Інноваційні технології виробництва<br>6.Корпус виготовлений з латуні з вмістом міді не менше 70%<br><br>Комплектація:<br>Змішувач латунний<br>вилив 250мм<br>Ексцентрики для змішувачів настінного монтажу<br>декоративні чаші]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/9288/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/9288/2.jpeg</picture>
@@ -14279,14 +14279,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.012000</param>
     </offer>
-    <offer id="20282" available="true">
+    <offer id="20282" available="false">
       <vendorCode>000020282</vendorCode>
       <categoryId>30</categoryId>
       <price>278</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Дозатор рідкого мила вірізний Globus Lux SS8444  SUS304</name>
-      <stock_quantity>5</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Дозатор рідкого мила Globus Lux SS8444<br>Країна виробник товару - Китай<br>Кріплення - Різьба<br>Тип установки - врізний<br>Матеріал виробу:<br>нержавіюча сталь (SUS 304)<br>Колір виробу: нержавіюча сталь]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/20282/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/20282/2.jpeg</picture>
@@ -16558,14 +16558,14 @@
       <param name="Вага брутто (кг.)">0.000000</param>
       <param name="Об&apos;єм (м³)">0.003000</param>
     </offer>
-    <offer id="21203" available="true">
+    <offer id="21203" available="false">
       <vendorCode>000021203</vendorCode>
       <categoryId>30</categoryId>
       <price>301</price>
       <currencyId>UAH</currencyId>
       <vendor>Globus Lux</vendor>
       <name>Дозатор рідкого мила вірізний Globus Lux BS8444</name>
-      <stock_quantity>7</stock_quantity>
+      <stock_quantity>0</stock_quantity>
       <description><![CDATA[Дозатор рідкого мила Globus Lux ВS8444<br>Країна виробник товару - Китай<br>Кріплення - Шурупи<br>Тип установки - врізний<br>Матеріал виробу:<br>нержавіюча сталь (SUS 304)<br>Колір виробу: чорний матовий]]></description>
       <picture>https://b2b-sklad.com/storage/img/products/21203/1.jpeg</picture>
       <picture>https://b2b-sklad.com/storage/img/products/21203/2.jpeg</picture>
