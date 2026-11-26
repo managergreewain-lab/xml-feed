@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-26 13:33">
+<yml_catalog date="2026-11-26 15:34">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -530,7 +530,7 @@
       <price>2040</price>
       <currencyId>UAH</currencyId>
       <name>Душова система Globus Lux ALPEN S-SH-005</name>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>10</stock_quantity>
     </offer>
     <offer id="78740338" available="false">
       <id>78740338</id>
@@ -1151,7 +1151,7 @@
       <price>3295</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні під осмос Globus Lux LAZER GLLR-0333-8-StSTEEL</name>
-      <stock_quantity>3</stock_quantity>
+      <stock_quantity>2</stock_quantity>
     </offer>
     <offer id="57601207" available="true">
       <id>57601207</id>
@@ -1340,7 +1340,7 @@
       <price>1185</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні Globus Lux Solly GLSO-0203</name>
-      <stock_quantity>6</stock_quantity>
+      <stock_quantity>5</stock_quantity>
     </offer>
     <offer id="60452926" available="true">
       <id>60452926</id>
