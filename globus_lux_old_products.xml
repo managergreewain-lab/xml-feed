@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-27 08:33">
+<yml_catalog date="2026-11-27 09:37">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -721,14 +721,14 @@
       <name>Йоржик настінний Globus Lux BQ9429A без кришки чорний матовий SUS304</name>
       <stock_quantity>0</stock_quantity>
     </offer>
-    <offer id="60294817" available="true">
+    <offer id="60294817" available="false">
       <id>60294817</id>
       <vendorCode>000018162</vendorCode>
       <categoryId>3181692</categoryId>
       <price>820</price>
       <currencyId>UAH</currencyId>
       <name>Йоржик підлоговий Globus Lux SS 8429B  SUS304</name>
-      <stock_quantity>10</stock_quantity>
+      <stock_quantity>0</stock_quantity>
     </offer>
     <offer id="60294818" available="false">
       <id>60294818</id>
