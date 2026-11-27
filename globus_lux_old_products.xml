@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-27 11:35">
+<yml_catalog date="2026-11-27 12:33">
 <shop>
   <currencies>
     <currency id="UAH" rate="1"/>
@@ -350,25 +350,25 @@
       <price>6675</price>
       <currencyId>UAH</currencyId>
       <name>Душова система Globus Lux SICILIA VAN-SBQ-SH-04-BB</name>
-      <stock_quantity>1</stock_quantity>
+      <stock_quantity>6</stock_quantity>
     </offer>
-    <offer id="64316516" available="false">
+    <offer id="64316516" available="true">
       <id>64316516</id>
       <vendorCode>000021188</vendorCode>
       <categoryId>2718126</categoryId>
       <price>5950</price>
       <currencyId>UAH</currencyId>
       <name>Душова система Globus Lux SICILIA SBQ-SH-125-BB</name>
-      <stock_quantity>0</stock_quantity>
+      <stock_quantity>5</stock_quantity>
     </offer>
-    <offer id="64317099" available="false">
+    <offer id="64317099" available="true">
       <id>64317099</id>
       <vendorCode>000024952</vendorCode>
       <categoryId>2718126</categoryId>
       <price>7350</price>
       <currencyId>UAH</currencyId>
       <name>Душова система Globus Lux SICILIA PLUS-SBQ-SH-02-BB</name>
-      <stock_quantity>0</stock_quantity>
+      <stock_quantity>5</stock_quantity>
     </offer>
     <offer id="64317156" available="true">
       <id>64317156</id>
@@ -532,14 +532,14 @@
       <name>Душова система Globus Lux ALPEN S-SH-005</name>
       <stock_quantity>3</stock_quantity>
     </offer>
-    <offer id="78740338" available="false">
+    <offer id="78740338" available="true">
       <id>78740338</id>
       <vendorCode>000017550</vendorCode>
       <categoryId>2718126</categoryId>
       <price>2645</price>
       <currencyId>UAH</currencyId>
       <name>Душова система Globus Lux ALPEN S-SH-105</name>
-      <stock_quantity>0</stock_quantity>
+      <stock_quantity>4</stock_quantity>
     </offer>
     <offer id="78812309" available="false">
       <id>78812309</id>
@@ -638,7 +638,7 @@
       <price>4980</price>
       <currencyId>UAH</currencyId>
       <name>Душова система Globus Lux GLM-0005 MILANO, комплект Латунь</name>
-      <stock_quantity>5</stock_quantity>
+      <stock_quantity>10</stock_quantity>
     </offer>
     <offer id="78982358" available="true">
       <id>78982358</id>
@@ -991,14 +991,14 @@
       <name>Змішувач для кухні Globus Lux ALPEN SUS-203SB боковий ЧОРНИЙ Гофровилив НЕРЖ._на гайці</name>
       <stock_quantity>10</stock_quantity>
     </offer>
-    <offer id="52102789" available="false">
+    <offer id="52102789" available="true">
       <id>52102789</id>
       <vendorCode>000019181</vendorCode>
       <categoryId>2712456</categoryId>
       <price>1225</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні Globus Lux ALPEN SUS-203SG</name>
-      <stock_quantity>0</stock_quantity>
+      <stock_quantity>50</stock_quantity>
     </offer>
     <offer id="52102795" available="true">
       <id>52102795</id>
@@ -1016,7 +1016,7 @@
       <price>1015</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для кухні Globus Lux WIEN SUS2-203SN</name>
-      <stock_quantity>2</stock_quantity>
+      <stock_quantity>10</stock_quantity>
     </offer>
     <offer id="52102905" available="false">
       <id>52102905</id>
@@ -1945,14 +1945,14 @@
       <name>Тримач рушників Globus Lux BS8407 чорний матовий SUS304</name>
       <stock_quantity>0</stock_quantity>
     </offer>
-    <offer id="60297134" available="false">
+    <offer id="60297134" available="true">
       <id>60297134</id>
       <vendorCode>000022214</vendorCode>
       <categoryId>3182927</categoryId>
       <price>672</price>
       <currencyId>UAH</currencyId>
       <name>Планка з гачками Globus Lux BS8435-4 чорна матова SUS304</name>
-      <stock_quantity>0</stock_quantity>
+      <stock_quantity>2</stock_quantity>
     </offer>
     <offer id="60297850" available="false">
       <id>60297850</id>
@@ -1979,7 +1979,7 @@
       <price>566</price>
       <currencyId>UAH</currencyId>
       <name>Планка з гачками Globus Lux SQ 9435-4 SUS304</name>
-      <stock_quantity>4</stock_quantity>
+      <stock_quantity>10</stock_quantity>
     </offer>
     <offer id="60298313" available="false">
       <id>60298313</id>
@@ -1999,14 +1999,14 @@
       <name>Планка з гачками Globus Lux SS8435-3  -SUS304</name>
       <stock_quantity>0</stock_quantity>
     </offer>
-    <offer id="60305670" available="false">
+    <offer id="60305670" available="true">
       <id>60305670</id>
       <vendorCode>000019476</vendorCode>
       <categoryId>3182927</categoryId>
       <price>401</price>
       <currencyId>UAH</currencyId>
       <name>Планка з гачками Globus Lux SQ 9435-3 SUS304</name>
-      <stock_quantity>0</stock_quantity>
+      <stock_quantity>10</stock_quantity>
     </offer>
     <offer id="60305764" available="true">
       <id>60305764</id>
@@ -2071,14 +2071,14 @@
       <name>Гачок одинарний Globus Lux SS 8411  SUS304</name>
       <stock_quantity>0</stock_quantity>
     </offer>
-    <offer id="55455864" available="false">
+    <offer id="55455864" available="true">
       <id>55455864</id>
       <vendorCode>000014938</vendorCode>
       <categoryId>2902452</categoryId>
       <price>1595</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для біде Globus Lux Milano GLM-0106</name>
-      <stock_quantity>0</stock_quantity>
+      <stock_quantity>10</stock_quantity>
     </offer>
     <offer id="55473224" available="false">
       <id>55473224</id>
@@ -2188,14 +2188,14 @@
       <name>Змішувач для біде TOPAZ ODISS TO 18601-H52 на гайці,Хром,шланги TAQ-M1055,D35</name>
       <stock_quantity>1</stock_quantity>
     </offer>
-    <offer id="52224463" available="false">
+    <offer id="52224463" available="true">
       <id>52224463</id>
       <vendorCode>000018109</vendorCode>
       <categoryId>2726373</categoryId>
       <price>2125</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для ванни Globus Lux WIEN SBT2-102NE</name>
-      <stock_quantity>0</stock_quantity>
+      <stock_quantity>10</stock_quantity>
     </offer>
     <offer id="52225681" available="false">
       <id>52225681</id>
@@ -2330,7 +2330,7 @@
       <price>2720</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для ванни Globus Lux MAIN SM-208</name>
-      <stock_quantity>2</stock_quantity>
+      <stock_quantity>4</stock_quantity>
     </offer>
     <offer id="52796782" available="true">
       <id>52796782</id>
@@ -2395,14 +2395,14 @@
       <name>Змішувач для ванни Globus Lux RING SR-102N</name>
       <stock_quantity>0</stock_quantity>
     </offer>
-    <offer id="52811338" available="false">
+    <offer id="52811338" available="true">
       <id>52811338</id>
       <vendorCode>000020878</vendorCode>
       <categoryId>2726373</categoryId>
       <price>2370</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для ванни Globus Lux RING SR-208 EURO, вилив 350мм,НЕРЖ._Комплект</name>
-      <stock_quantity>0</stock_quantity>
+      <stock_quantity>10</stock_quantity>
     </offer>
     <offer id="52813739" available="false">
       <id>52813739</id>
@@ -2476,14 +2476,14 @@
       <name>Змішувач для ванни Globus Lux ALPEN SBT4-102NE-BB</name>
       <stock_quantity>0</stock_quantity>
     </offer>
-    <offer id="56063021" available="false">
+    <offer id="56063021" available="true">
       <id>56063021</id>
       <vendorCode>000020414</vendorCode>
       <categoryId>2726373</categoryId>
       <price>1855</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для ванни Globus Lux ALPEN SUS-208</name>
-      <stock_quantity>0</stock_quantity>
+      <stock_quantity>10</stock_quantity>
     </offer>
     <offer id="56063131" available="true">
       <id>56063131</id>
@@ -2501,7 +2501,7 @@
       <price>2415</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для ванни Globus Lux Koln GLK-0102N</name>
-      <stock_quantity>9</stock_quantity>
+      <stock_quantity>10</stock_quantity>
     </offer>
     <offer id="56063169" available="true">
       <id>56063169</id>
@@ -2546,7 +2546,7 @@
       <price>2915</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для ванни Globus Lux SICILIA SBQ-102N</name>
-      <stock_quantity>1</stock_quantity>
+      <stock_quantity>10</stock_quantity>
     </offer>
     <offer id="56270773" available="false">
       <id>56270773</id>
@@ -2582,7 +2582,7 @@
       <price>2680</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для ванни Globus Lux Sorento SQ-208HR-Лійка SUS304. Квадро,L- 350мм, Нержавійка, Комплект</name>
-      <stock_quantity>5</stock_quantity>
+      <stock_quantity>10</stock_quantity>
     </offer>
     <offer id="56270838" available="false">
       <id>56270838</id>
@@ -2611,14 +2611,14 @@
       <name>Змішувач для ванни Globus Lux Sorento SQ-102NHR</name>
       <stock_quantity>0</stock_quantity>
     </offer>
-    <offer id="56271326" available="false">
+    <offer id="56271326" available="true">
       <id>56271326</id>
       <vendorCode>000017539</vendorCode>
       <categoryId>2726373</categoryId>
       <price>2325</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для ванни Globus Lux WIEN SBT2-102N</name>
-      <stock_quantity>0</stock_quantity>
+      <stock_quantity>10</stock_quantity>
     </offer>
     <offer id="57127029" available="true">
       <id>57127029</id>
@@ -2701,23 +2701,23 @@
       <name>Змішувач для ванни TOPAZ LEXI TL21208A-H57-BL</name>
       <stock_quantity>4</stock_quantity>
     </offer>
-    <offer id="57623132" available="false">
+    <offer id="57623132" available="true">
       <id>57623132</id>
       <vendorCode>000017541</vendorCode>
       <categoryId>2726373</categoryId>
       <price>2255</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для ванни Globus Lux WIEN SBT2-208</name>
-      <stock_quantity>0</stock_quantity>
+      <stock_quantity>10</stock_quantity>
     </offer>
-    <offer id="57648437" available="false">
+    <offer id="57648437" available="true">
       <id>57648437</id>
       <vendorCode>000008763</vendorCode>
       <categoryId>2726373</categoryId>
       <price>3035</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для ванної Globus Lux QUEENSLAND GLQU-0208 EURO латунь L350мм(картридж Sedal)</name>
-      <stock_quantity>0</stock_quantity>
+      <stock_quantity>10</stock_quantity>
     </offer>
     <offer id="57736070" available="true">
       <id>57736070</id>
@@ -2755,14 +2755,14 @@
       <name>Змішувач для ванни Globus Lux DUKAT-8 SD8-208</name>
       <stock_quantity>0</stock_quantity>
     </offer>
-    <offer id="64312343" available="false">
+    <offer id="64312343" available="true">
       <id>64312343</id>
       <vendorCode>000024834</vendorCode>
       <categoryId>2726373</categoryId>
       <price>1870</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для ванни Globus Lux WIEN SUS2-208</name>
-      <stock_quantity>0</stock_quantity>
+      <stock_quantity>10</stock_quantity>
     </offer>
     <offer id="78902968" available="false">
       <id>78902968</id>
@@ -2843,7 +2843,7 @@
       <price>970</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для умивальника Globus Lux ALPEN SUS-101S</name>
-      <stock_quantity>50</stock_quantity>
+      <stock_quantity>2</stock_quantity>
     </offer>
     <offer id="52688814" available="false">
       <id>52688814</id>
@@ -2969,7 +2969,7 @@
       <price>1500</price>
       <currencyId>UAH</currencyId>
       <name>Змішувач для умивальника Globus Lux SICILIA SBQ-201-BB</name>
-      <stock_quantity>1</stock_quantity>
+      <stock_quantity>3</stock_quantity>
     </offer>
     <offer id="59493872" available="false">
       <id>59493872</id>
@@ -3003,7 +3003,7 @@
       <categoryId>3376953</categoryId>
       <price>8030</price>
       <currencyId>UAH</currencyId>
-      <stock_quantity>1</stock_quantity>
+      <stock_quantity>2</stock_quantity>
     </offer>
     <offer id="69692869" available="true">
       <id>69692869</id>
@@ -3013,13 +3013,13 @@
       <currencyId>UAH</currencyId>
       <stock_quantity>2</stock_quantity>
     </offer>
-    <offer id="69692986" available="false">
+    <offer id="69692986" available="true">
       <id>69692986</id>
       <vendorCode>000024952+000021170</vendorCode>
       <categoryId>3376953</categoryId>
       <price>8810</price>
       <currencyId>UAH</currencyId>
-      <stock_quantity>0</stock_quantity>
+      <stock_quantity>3</stock_quantity>
     </offer>
     <offer id="69693034" available="true">
       <id>69693034</id>
@@ -3035,7 +3035,7 @@
       <categoryId>3376953</categoryId>
       <price>8130</price>
       <currencyId>UAH</currencyId>
-      <stock_quantity>1</stock_quantity>
+      <stock_quantity>3</stock_quantity>
     </offer>
     <offer id="69693097" available="true">
       <id>69693097</id>
